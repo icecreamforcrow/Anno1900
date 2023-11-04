@@ -1,0 +1,1694 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+WIEN, 2. Decemlber 1900.
+XVIIL Jahrgang.
+*o»onH Die Anzahl der lorTAutor,mint'glmüZ^hUn^lparatabd^äckfZllcT nach™ der ^dactionsordnung festgesetzten Tarif«
+Manuscripte bekanntgegeben werden. P drucke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Rundschau
+lieber die Entwicklung der Gasindustrie. Von Etienne de F o d o r
+(Schluss.)
+INHALT:
+585
+586
+592
+Scheinwerfer der Firma „Öesterreichische Schuckertwerke“ 592
+Eine Methode zur Bestimmung' des' mechanischen Äequi
+valentes der Wärme .... 1
+Die Elektricität auf der Weltausstellung in pkris. Die
+Rundschau.
+t A nem Leitartikel vom 3. October discutiert der
+„D o n d. Electrician“ das System von Cr eb ore und
+Squier. Die von den letztgenannten abgeleiteten
+Formeln zur Berechnung der Impedance der ver­
+schiedenen Theile des Stromkreises können von Nutzen
+sein und sollten namentlich zu Verbesserungen der
+Apparate, die m der Kabeltelegraphie verwendet werden,
+uhren. ihs ist nämlich höchst wahrscheinlich, dass die
+Zeichen dann am schärfsten erlangt werden, wenn die
+am Empfangsende befindlichen Condensatoren, Wider­
+stände und Instrumente abgestimmt sind auf die
+reriodenzahl der ankommenden elektrischen Wellen, und
+die von Cr eh ore und Squier entwickelten Formeln
+ermöglichen eben die Bestimmung der Impedance am Em­
+pfangsende für diese Bedingung. Die einzig richtige Me­
+thode, die Geschwindigkeiten, mit der die telegraphischen
+Zeichen m Kabeln von verschiedener Construction oder
+verschiedener Länge übertragen werden, zu vergleichen,
+hegt m der Ermittlung der Periodenzahlen der durch
+die Kabel fortgepflanzten Sinuswellen, die sich am ent­
+fernten Ende mit gleichbleibenden Amplituden repro-
+ducieren; für die Ausführung dieser Messungen sind
+aber Instrumente erforderlich, welche ein geringes
+räglieitsinoment besitzen und keine Dämpfung auf­
+weisen. Dies war aber bei den Versuchen von Cr eh ore
+und Sq uier nicht der Fall und die von ihnen gewählte
+Anordnung vielmehr geeignet, die Abhängigkeit der In­
+strumente von Amplitude und Periodenzahl zu finden, als zu
+einer Prüfung, ob die Kabel eine Uebertragung der Zeichen
+bei der angenommenen Geschwindigkeit gestatten: mit
+anderen Worten: die bei sieben completen Wellen pro
+Secunde, gleichgiltig bei welcher Spannung, von ihnen
+beobachteten undeutlichen Signale sind eher dem man-
+gelnden Synchronismus, zuzuschreiben, wie dem Energie-
+Verluste längs der Kabel. In England ist man auf
+Grund von Versuchen wohl zu ähnlichen Ergebnissen
+wie Crehore und Squier gekommen und hat auch
+gefunden, dass die Zeichenübertragung verbessert
+werden kann, wenn man die Wellenform des Stromes
+ändert und die Spannung erhöbt; ebenso war die Zu­
+sammensetzung der Zeichen nicht ohne Einfluss auf die
+Uebertragungsgeschwindigkeit. Bei den in England
+durchgeführten Versuchen fand man aber auch, dass die
+Amplitude der übertragenen Zeichen erheblich grösser
+wurde, wenn man bei Benützung eines Condensators
+Verschiedenes
+Kleine Mittheilungen.
+593
+Ausgeführte und projectierte Anlagen 594
+Patentnachrichten 5,^
+Geschäftliche und finanzielle Nachrichten 599
+Vereinsnachrichten
+dei Batterie einen Widerstand vorschaltete und gleich­
+zeitig durch Vermehrung der Elementenzahl die Span­
+nung erhöhte. Nach den in England gewonnenen Resul­
+taten scheint^ also die von Crehore und Squier
+angegebene Kabeltelegraphie mittelst Sinuswellen nicht
+dieses Problem so vollständig zu lösen, wie es behauptet
+wurde; die „abgestimmte Condensator-Methode“ gestattet
+nämlich eine bessere Anpassung an die in der End­
+station durch das Kabel und die Empfangsapparate
+gegebenen Verhältnisse.
+L Bowil jun. beschreibt in dem Hefte 17,
+Bd. XXXVI des „Electrical World and Engineer“
+einen neuen Indicator für den Leistungsfactor. Der
+Leistungsfactor ist bekanntlich das Verhältnis der wahren
+mit dem Wattmeter gemessenen Watt zu den schein­
+baren aus der angewandten Spannung und der erzeugten
+Stromstärke durch Multiplication erhaltenen. Um also
+diesen Factor correct zu bestimmen, muss man drei
+Messungen, eine Multiplication und Division machen;
+es ist jedoch möglich, ein Instrument zu construieren'
+das diesen Factor direct abzulesen gestattet, zunächst
+freilich nur für Ströme, die dem Sinusgesetze folgen.
+Sei J der Strom, E{ E 2 zwei Spannungen gegeben, es
+soll der Winkel ß gefunden werden, um den der Strom
+hinter einem Vector X, dessen Phase gegeben ist,
+zurückbleibt. Schickt man den Strom durch die dicke
+Wickelung eines Wattmeters und legt die Spannung Lj
+an die Spannungsspule, dann ergibt sich die Ablesung
+ll’i == J Aj cos (a -(- ß), wenn a der Winkel ist, um den
+die Spannung E l dem Vector V voraneilt; wird aber die
+Spannung E 2, die um den Winkel y dem Vector X
+voraus ist, an die Spannungsspule gelegt, dann ergibt
+sich eine Ablesung W 2 --
+Ist das Verhältnis
+ein gegebenes und
+dann ergibt sich aus
+h
+w
+cos
+: J E 2 cos (ß+ 7).
+der beiden Spannungen
+sind
+die Winkel a
+E x cos (a
+und
+f ß)
+3
+bekannt,
+W.
+W,
+2 3 c° s (ß ~f~ y) 5
+wenn man
+ff1 h
+A,—.=/( setzt, tgß=-
+ß-
+7? cos y-
+7? sin'
+-K c’osa
+- r. .— und daraus
+- A sin a
+Aus dieser Rechnung ergibt sich sonach, dass
+aus dem Verhältnisse zweier Wattmesserablesungen der
+Leistungsfactor bestimmt werden kann; es ist jedoch
+nicht nothwendig, zwei Wattmeterablesungen zu machen;
+
+Seite 586.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 49.
+es kann vielmehr ein Instrument construiert werden,
+das bei bekanntem K\ a und y unmittelbar an einer
+Scala den Leistungsfactor abzulesen gestattet. Dreht
+sieb frei eine an die Spannung angescbaltete
+Spule zwischen der vom Nutzstrome durchflossenen,
+welcher um den Winkel <p gegen die Spannung zurück­
+bleibt, dann ist, wenn die Spannungsspule den Winkel <5
+mit den Stromspulen einscbliesst, das auf die erstere
+wirkende Drehungsmoment J E cos <p sin 6. Nimmt
+man nun an, es seien zwei derartige Wattmeter verti-
+cal übereinander angeordnet und die beweglichen
+Spulen auf derselben Achse sitzend, jedoch so, dass
+ihre Wickelungsebenen einen Winkel s miteinander
+bilden, schaltet man weiter die Stromspulen hinter­
+einander und schickt den Strom J durch sie, während
+man die Spannungen E 1 E 2 an die beweglichen Spulen
+legt, so wird die Achse dann in Ruhe sein, wenn
+IT 7! sin Üj= W 2 sin o 2. Nun ist aber —S 2= £, daher
+T'F
+R— -A=— cos e -f- sin e cot §!; B ist also nur von
+JV2
+§! abhängig, daher ist auch tg jb, wie aus der hiefür
+aufgestellten Gleichung folgt, ebenfalls nur von ab­
+hängig, wenn a, y und K bekannt sind, was voraus­
+gesetzt wurde; die Lage der Spule bestimmt sonach
+eindeutig den Leistungsfactor.
+Im Hefte Nr. 15, Bd. XXXVI des „El. World
+and Engineer.“ beschreibt W. Hand Browne jr. eine
+Methode zur Bestimmung der Schlüpfung von Induc-
+tionsmotoren.
+Die älteste Methode zur Ermittlung der vorge­
+nannten Grössen besteht darin, dass man die Geschwin­
+digkeit des Generators und Motors mittelst eines
+Tourenzählers erhebt, die Geschwindigkeit des Gene­
+rators auf einen Generator reduziert, der dieselbe
+Polzahl wie der Motor hat, und aus der Differenz
+der letzteren und der beobachteten des Motors
+die Schlüpfung rechnet. Siemens& Halske verbesserten
+diese Methode insofern, als sie eine Einrichtung an den
+Zählwerken trafen, die gestattete, beide Tourenzähler
+gleichzeitig ein- und abzuschalten und dadurch eine
+Fehlerquelle zu beseitigen.
+Hoor, Eosenberg, Benischke schlugen
+dann stroboskopische Methoden vor. Zu dieser Gattung
+zählt auch die von Browne vorgeschlagene Methode
+mit Benützung von Schallwirkungen. Zwei Contact-
+scheiben mit einem an der Peripherie angeordneten Con-
+tactstreifen sind auf der Motor- bezw. Generatorachse
+aufgesetzt, oder falls die Polzahl des Generators eine
+andere ist, wie die des Motors, auf einem Synchron­
+motor, der vom Generator angetrieben wird und dieselbe
+Polzahl hat, wie der Motor. Die beiden Contactscheiben
+sind nun so mit einer Signalglocke und einer Batterie
+verbunden, dass nur dann in die Signalglocke Strom
+geschickt wird, wenn die Schleiffedern die leitenden
+Contactstreifen beider Contactscheiben gleichzeitig be­
+rühren; die Zahl der Signale pro Secunde gibt die
+Schlüpfung.
+Die neue Fabrik der Kellogg Switchboard
+& Supply Company in Chicago, die in dem
+Hefte 17, Bd. XXXVI „El. World and Engineering“
+eingehend beschrieben wird, weist manche Einrichtungen
+auf, die nicht ohne Interesse sein dürften; so erhitzt
+sie ihre Löthkolben nur auf elektrischem Wege, für
+Telephonfabriken, wo so viele Lötharbeiten, die zudem
+mit grosser Sorgfalt ausgeführt werden müssen, eigent­
+lich die einzige brauchbare Methode; jede andere be­
+dingt einen grösseren Zeitverlust, erhöhte Feuersgefahr
+und einen grösseren verfügbaren Baum; für jeden
+Kolben ist ein Strom von 9—10 A bei 110 V noth-
+wendig.
+lieber die Entwicklung der Gasindustrie.
+Von Etienne (le Fodor.
+(Schluss.)
+Man greift natürlich auch zu einfacheren Mitteln,
+indem man in der Laterne beständig ein Zündtiämmchen
+brennen lässt, das den Glühstrumpf vorwärmt und
+während der Brennzeit der Hauptflamme gelöscht ist,
+oder indem man die Zündung von aussen mittelst einer
+sogenannten Kletterflamme vornimmt, doch ist der
+Erfinderwuth auf diesem Gebiete nicht einzuhalten.
+Ersparnis der Laternenwärterlühne, Ersparnis an Glüh­
+körpern und Cylindern, Gasersparnis durch gleich­
+zeitiges Zünden und Löschen, alles das spricht für
+eine centrale Anlage, für ein Problem, das man
+hundertemale schon als gelöst ankündigte, und dessen
+Lösung dennoch immer von neuem versucht wird.
+Die Sucht, eine elektrische Anlage und deren
+Ausschalter zu imitieren, spielt hiebei eine nicht un­
+bedeutende Rolle. Charakteristisch für diese Bestre­
+bungen, sind die Versuche mit dem sogenannten
+„Lucaslicht“ zur Beleuchtung der Friedrichstrasse in
+Berlin. Die Glühkörper werden behufs besserer Imita­
+tion in runde Bogenlichtglocken eingebaut und an
+Masten mit Bischofsstäben in 6'5 m Höhe über der
+Strasse aufgehangen. Die Lampen sollen 500— 600 HK
+(bei einem Verbrauch von ca. 1- 1 l pro HK) in der
+Stunde entwickeln, und es fehlt somit nichts, um das
+äusserlich nachgeahmte Bogenlicht auch in seiner Wirt­
+schaftlichkeit zu ersetzen.
+Eine weitere Imitation des elektrischen Lichtes
+ist in dem Kugellichte gegeben, das einer der wirk­
+samsten Concurrenten der Bogenlampe werden soll.
+Das Kugellicht soll ein Gasglühlicht sein, das bei hoher
+Leuchtkraft und verhältnismässig geringem Gasver­
+brauch eine gelbliche Färbung und eine gleichmässig
+nach allen Richtungen gehende Strahlung besitzt. Zu
+diesem Behufe wird einem besonders kräftigen, eng­
+maschigen Glühkörper, der mittelst lockerer Fäden an
+dem Brenner befestigt ist, Gas unter einem Ueberdruck
+von mindestens einer Atmosphäre zugeführt; der Glüh­
+körper wird beim Brennen ballenartig aufgeblasen und
+gelangt auf seiner ganzen Fläche gleichmässig zum
+Erglühen. Bei Anwendung der gebräuchlichen Glüh­
+körper aus imprägnirtem Gewebe werden mehrere
+solche Glühkörper vor ihrer Veraschung über einander
+geschichtet, so dass die Maschen des einen von den
+Gewebefäden des anderen überdeckt werden und auf
+diese Weise enge Durchtrittsöffnungen entstehen, oder
+man fertigt sehr engmaschige Gewebe zur Herstellung
+der Glühkörper an.
+Dieses Kugellicht wurde bereits an mehreren
+Orten vorgeführt und lässt sich nicht bestreiten, dass
+die angenehm gelbliche Farbe des neuen Lichtes wirk­
+sam vom Violett schlecht regulierter Bogenlampen und
+grünlich leuchtender Auerbrenner absticht. Die Licht­
+stärke normaler Kugellichttypen variirt zwischen 500
+und 1200 Kerzen; der Gasverbrauch soll 0-85 l pro
+Kerze betragen. Die Zündung der Lampe geschieht
+mittels eines Zündflämmchens, der Brenner ist von
+keinem Cylinder umgeben. Das Kugellicht wird wie
+
+Nr. 49.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 587.
+eine Bogenlampe auf hohen Candelabern mittels eines
+Drahtseiles aufgehangen; die Gaszuführung geschieht
+mittels Duritschläuchen.
+Bis hieher ist die Sache sehr annehmbar und das
+elektrische Bogenlicht müsste vor dieser seiner Con-
+currentin in derStrassenbeleuchtung die Flagge streichen,
+wenn es nicht auch noch andere Umstände anzuführen
+gäbe. Vor allem wird das Kugellicht mit sogenanntem
+Pressgas betrieben. Bekanntlich heisst es bei den Gas­
+fachleuten: „Hoher Druck, viel Licht!“ und es ist
+erwiesen, dass bei steigendem Druck eine percentuelle
+Verminderung des Gasverbrauches pro Kerze eintritt.
+Es wurde daher schon zu verschiedenen Malen versucht,
+durch Erhöhung des Gasdrucks eine vermehrte Licht­
+intensität bei relativ geringem Gasverbrauch zu erzielen,
+und zwar mit günstigem Erfolg. Nun bedingt aber die
+Herstellung von Pressgas eine eigene motorische An­
+lage, und falls höherer Druck in Anwendung kommen
+soll, eine eigene Rohrleitung. Bei längeren Rohrleitungen
+müssen eben mehrere Compressionsanlagen eingeschaltet
+werden, oder aber ein hoher Anfangsdruck zur An­
+wendung kommen, was wieder Energieverluste bedingt.
+Dass die Rohrleitungen besonders gut verlegt und
+besonders dicht sein müssen, ist selbstverständlich.
+Alles in Allem eine Complication, welche die Vorzüge
+des Pressgases sehr herunterminderte. Ausserdem ent­
+wickeln die Pressgasflammen ein eigenes Geräusch,
+das sich umso unangenehmer bemerkbar macht, je
+höher die Lichtintensität der Flamme ist. Wie man
+sieht, hat das Kugellicht keinem dringenden Bedürfnis
+abgeholfen, denn, mit solchen Nachtheilen behaftet,
+wird es wohl wenigen Bogenlampen das Leben ver­
+kürzen. Ebenso wie früher das Seblagwort: „Alles
+durch Elektricität“ zu vielen unnützen Versuchen und
+Erfindungen geführt hat, ebenso scheint auch die
+Parole: „Alles durch den Glühstrumpf!“ eine sonst
+ganz gesunde Bewegung in falsche Bahnen lenken zu
+wollen.
+Als charakteristischer Umstand für die Wirksam­
+keit der Gasgliikliehtconcurrenz mag angeführt werden,
+dass in Berlin, wo die elektrische Strassenbeleuchtung
+sehr frühzeitig eingeführt wurde, im Jahre 1899 in den
+Strassen über 27.000 Gasgliihlichter brannten, während
+für die öffentliche Beleuchtung blos 235 Bogenlampen
+in Function waren. Sehr sonderbar aber steht die Sache
+in Strassburg i. E. Es handelte sich daselbst um Be­
+leuchtung des bereits elektrisch beleuchteten Bahnhof­
+platzes, der zwei Bogenlampen mehr, und anstatt der
+bisherigen 9 Amp.-Bogenlampen solche von 16 Amp.
+bekommen sollte. Das dortige Elektricitätswerk wollte
+die Beleuchtung um 2900 Mk. jährlich übernehmen,
+das Gaswex'k aber proponirte Gasgllihlicht bei einer
+jährlichen Ausgabe von 2700 Mk. jährlich, und erhielt
+trotz der geringen Differenz von 200 Mk. die Be­
+leuchtung zugestanden!
+' An diesem kleinen Beispiele mag ersehen werden,
+dass die Gasglühlichtindustrie nicht nur ein gutes
+Licht herzustellen, sondern auch eine Agitation zu ent­
+wickeln weiss, der gegenüber die Anwälte des elektrischen
+Lichtes nicht immer Recht behalten. Ausgenommen
+einige Städte wie München, Mailand u. s. w., haben
+zumeist in früherer Zeit recht verunglückte Versuche
+mit Bogenlichtbeleuchtung stattgefunden, welche der
+elektrischen Sache eher schadeten, als nützten. Ange­
+fangen von der Beleuchtung der Avenue de l’Opöra in
+Paris mit Jablochkoff’schen Kerzen und des Holborn-
+Viaduct in London mit Edison’schen Glühlampen an­
+fangs der Achtziger Jahre, bis in die neuesten Zeiten
+hinein, sehen wir, dass die Versuche zur elektrischen
+Beleuchtung von Strassen und Plätzen den Gasfach­
+männern sehr viel Stoff zu Vergleichen liefern, welche
+allemale zu Ungunsten des elektrischen Lichtes aus-
+fallen. Hohe Strompreise, schlechte Kohlenstifte, mangel­
+hafte, nachlässige Bedienung, schadhafte Leitungen,
+alles das zusammen hat so mancher elektrischen
+Strassenbeleuchtung ein vorzeitiges Ende bereitet.
+Das Bestreben, das elektrische Strassenlicht in
+Schatten zu stellen, hat besonders in der Pariser Welt­
+ausstellung Ausdruck gefunden. Am Champ de Mars
+und am Trocadero sah man Candelaber, auf welchen
+bis zu zehn Brennern angebracht waren. Dieselben ver­
+breiteten ein sehr auffälliges, hervorstechendes Licht,
+neben welchem die äusserst schlecht vertheilten, an
+richtiger Spannung leidenden, schlecht einregulirten
+Bogenlampen keinen besonderen Eindruck hervorriefen.
+Dass aber bei diesen Brennern ein sechsfach so hoher
+Druck, wie der gewöhnliche Gasdruck angewendet
+war, und dass zum Betriebe dieser Brenner eine eigene
+Compressionsanlage errichtet wurde, davon wusste des
+Publicum nichts.
+Natürlich hat die Einführung des Gasgltildichtes
+in der Strassenbeleuchtung einen bedeutenden Entfall
+in der Gasproduction hervorgerufen. Als Beispiel wollen
+wir Magdeburg anführen, wo im Jahre 1899 der Gas­
+verbrauch für öffentliche Beleuchtung um 7500 m 3
+gegen die Vorjahre zurückgegangen ist, nachdem im
+abgelaufenen Jahre die Umänderung der gesammten
+öffentlichen Beleuchtung in eine solche mit Gasgltihlicht
+durchgeführt wurde. Wie wesentlich die Einführung des
+Gasglühlichtes auf die Gaserzeugung eingewirkt hat,
+geht daraus hervor, dass im Jahre 1894/95 bei 3409
+Laternen der Gasverbrauch für die öffentliche Beleuch­
+tung 1,773.000 m 8 beanspruchte, während 1897/98 auf
+4087 Laternen 1,341.000 m A entfallen. Mit Vergnügen
+constatiert der Bericht des genannten Gaswerkes, dass
+gerade in den am meisten belasteten Wintermonaten
+der Minderverbrauch für die Strassenbeleuchtung an­
+genehm empfunden werde. Beispielsweise betrug im
+December 1894 der Verbrauch für die öffentliche Be­
+leuchtung 235.300 m 3 und im December 1898 nur
+178.500 m 3 trotz der Vermehrung um fast 700 Laternen.
+Die Glühlichtbeleuchtung für die Strassen habe sich
+auch insofern bewährt, als es gelungen sei, die mit
+dem Anzünden der Laternen und der Zerbrechlichkeit
+der Strümpfe und Cylinder verknüpften Mängel zu
+beseitigen und seien auch dementsprechend die jähr­
+lichen Kosten für Unterhaltung der Brenner von 1 5 Mk.
+bereits auf 5 Mk. gesunken.
+Trotz dieses Ausfalles in der Gasproduction helfen
+alle Gasanstalten energisch mit, die Gasglühlicht-
+Strassenbeleuchtung zur allein herrschenden zu machen.
+Es hat sich somit die Gasbeleuchtung auf einem Terrain
+stabilisiert, von welchem sie anfangs verdrängt zu
+werden fürchtete. Und in der That ist hier für die
+Anwendung elektrischen Lichtes ein neues Hindernis
+geschaffen worden. Solange von einer Concurrenz mit
+dem flackernden, röthlich brennenden Schnittbrenner
+die Rede war, konnte das elektrische Bogenlicht als
+das Strassenlicht der Zukunft gelten; jetzt aber, wo
+es sich darum handeln wird, eine seither bedeutend
+besser und bedeutend billiger gewordene Beleuchtung
+
+Seite 588.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 49.
+zu ersetzen, sind die Chancen für das elektrische Licht
+minder günstig geworden.
+Aber nicht nur allein in der Strassenbeleuchtung
+sehen wir den Auer-Brenner alle anderen Arten Gas­
+flammen verdrängen, sondern auch in der Privat­
+beleuchtung. Diese Thatsache wird ja übrigens auch
+von den Elektricitätswerken unangenehm bemerkt und
+es ist wirklich hohe Zeit, wenn wir uns mit unserem
+Glühlicht-Nachbar in eingehendster Weise beschäftigen.
+Bei dem Auer’schen Gasglühlieht spielt die Rein­
+heit der Materialien eine sehr wichtige Rolle, da selbst
+die geringsten fremden Beimischungen eine Aenderung
+der Leuchtkraft bewirken. Auch das Gewebe des mit
+Edelerden getränkten Strumpfes hat seine grosse Be­
+deutung, umsomehr, als jeder Versuch, dieses Gewebe
+fester und widerstandsfähiger zu gestalten, auf Kosten
+der Leuchtkraft, geht. Die Formbeständigkeit des
+Strumpfes steht ebenfalls im innigsten Zusammenhänge
+mit der Leuchtkraft, welche übrigens noch durch ver­
+schiedene andere Einflüsse herabgemindert wird. Im
+Vergleiche zum Auerstrumpf ist die elektrische Glüh­
+lampe ein robustes Ding, das, was Empfindlichkeit und
+mechanische Haltbarkeit anbelangt, seinem Concurrenten
+weit überlegen ist.
+Wenn wir jedoch auf den Energieverbrauch über­
+gehen, zeigt sich sofort die Ueberlegenheit des Auer-
+lichtes. Auf Anregung des Deutschen Vereines von
+Gas- und Wasserfachmännern haben unter Mitwirkung
+der deutschen physikalisch-technischen Reichsanstalt
+systematische Versuche über die Leistung des Gasgltih-
+lichtes stattgefunden, welche mit Glühkörpern ver­
+schiedener Provenienz an verschiedenen Orten statt­
+fanden. Es wurden fünf Sorten geprüft, welche wir
+mit A, R, G, n und E bezeichnen wollen. Hiebei wurden
+folgende Ergebnisse gefunden:
+Sorte
+Absolute Lichtstärko in
+HK nach
+24
+100 300
+Brennstunden
+Stündlicher Gasverbrauch
+auf 1 HIi in Litern nach
+24
+100
+300
+Brennstunden
+A
+B
+C
+D
+E
+92
+85
+86
+83
+74
+84
+78
+85
+80
+74
+70
+66
+79
+72
+68
+60
+61
+76
+64
+60
+1-3
+1-4
+1-4
+1-4
+1-6
+1-4
+1'5
+1-4
+1-5
+1-6
+1-7
+1-8
+1'5
+1-6
+1-7
+1-9
+1-9
+1-6
+1-8
+1-9
+Vor allem müssen wir die Sorte 0 als eine ex-
+ceptionelle Marke ausscheiden, um uns mit den übrigen
+vier zu beschäftigen, welche die gleichen charakteristi­
+schen Merkmale aufweisen. Wir ersehen aus dem Ge­
+haben dieser vier Sorten, dass sie anfänglich eine hohe,
+von 74—92 HK variierende Lichtstärke besitzen, welche
+jedoch bei zwei Sorten schon nach 24 Brennstunden
+um 8% sinkt. Nach 100 Brennstunden weisen drei
+Sorten schon einen Lichtrückgang von 20% aus, während
+nach 300 Brennstunden die Abnahme der Lichtstärke
+35, 28, 23% beträgt. Nach 300 Brennstunden bleibt
+die Lichtstärke annähernd constant. Wir ersehen daher,
+dass das Gasglühlicht mit dem elektrischen Glühlicht
+den Uebelstand gemein hat, dass die anfängliche Licht­
+stärke stark heruntergeht, bis sie einen gewissen Be­
+harrungszustand erreicht hat.
+Man kann ruhig annehmen, dass die Lichtstärke
+eines Auer-Glühkörpers bester Sorte nach 300 Brenn­
+stunden 64 NK betrage, während der Gasverbrauch
+ungefähr 1'8/ pro Normalkerze ausmacht. Es würde
+also ein derartiger Glühkörper ca. 115—120/ Gas pro
+Stunde consumiren, was bei einem Gaspreis von 20 h
+pro Cubikmeter eine stündliche Ausgabe von 2’4 h
+ergäbe. Wenn wir dieses Ergebnis mit jenem vergleichen
+wollen, das wir bei Anwendung von zwei Stück
+32kerzigen elektrischen Glühlampen erzielen würden,
+so finden wir bei Annahme eines Stromverbrauches von
+3 W pro Normalkerze einen Gesammtverbrauch von
+P92 HW pro Stunde, was bei einem Strompreis von 8 h
+eine stündliche Ausgabe von 15 h ausmachen würde.
+Um daher mit dem Gasglühlicht concurrieren zu können,
+müsste das Elektricitätswerk die Hektowattstunde zu­
+mindest um 1% h abgeben.
+Uebertroffen sollen die Leistungen der Glühlicht-
+brenner durch ein neues System werden, über welches
+in der 40. Jahresversammlung der Gasfachleute be­
+richtet wurde. Das Gasgemisch wird nicht erst im
+Brenner, sondern in einem dem Gasmesser ähnlichen
+Apparat erzeugt und von da durch die Leitung den
+Glühlichtbrennern zugeführt, die in ihrer Construction
+den Argand-Brennern ähnlich sind. Es wird dem Gas
+nur so viel Luft beigemischt, dass noch keine explosive
+Mischung entsteht. Der neue Brenner soll nun für die
+gleiche Helligkeit nur etwa ein Drittel bis die Hälfte
+an Gas verbrauchen wie die bisherigen Gasglühlicht-
+brenner. Wenn dem so wäre, müsste eine 70kerzige
+Gasflamme eigentlich blos 60/ Gas pro Stunde consu-
+mieren und man sollte es unter sothanen Umständen
+am liebsten unterlassen, den Preis zu berechnen, zu
+welchem ein Elektricitätswerk die Hektowattstunde ab­
+geben müsste, um mit diesem neuesten Brenner con­
+currieren zu können.
+Glücklicherweise stehen die Elektricitätswerke
+noch nicht vor der Nothwendigkeit, die elektrische
+Energie zu so billigem Tarife abgeben zu müssen.
+Wäre blos der Preis des Lichtes und nichts anderes
+als der Preis bei Beurtheilung einer Lichtgattung
+maassgebend, dann freilich müsste die Prophezeiung
+jener Fanatiker eintreten, die da meinen, dass binnen
+einem Jahrzehnt das Auerlicht das allein herrschende
+sein werde. Nachdem aber bei Einführung des Lichtes
+in unser Heim ganz andere Gesichtspunkte maassgebend
+sind als der Breis allein, braucht uns vorläufig vor
+Erfüllung dieser Prophezeiung nicht zu bangen.
+Dennoch aber muss sie stets wie ein Menetekel vor
+uns stehen, sonst werden wir thatsächlich aus einer
+Position nach der anderen herausgedrängt.
+Man mag ja dem Auerlicbte viel vor werfen:
+Empfindlichkeit gegen Erschütterungen, Nothwendigkeit
+eines schützenden Cylinders, Umständlichkeit der Hand­
+habung, geringe Haltbarkeit u. s. w., aber alle diese
+Umstände dürfen uns nicht zu einer Geringschätzung
+unseres Concurrenten veranlassen. Seit einigen Jahren
+geht ein frischer Zug durch die Gasindustrie, die fort­
+während neue Verbesserungen schafft und der es gewiss
+gelingen wird, die meisten Mängel des Gasglüh lichtes
+zu beseitigen. Wir sehen das Auerlicht in die Wohn-
+räume eindringen, wir bemerken, dass es in Caffis,
+Restaurants, Bureaux u. s. w. das elektrische Licht zu
+verdrängen beginnt, wir nehmen wahr, dass es sich
+auch in Geschäftsläden, ja sogar in Schaufenster­
+beleuchtungen einbürgert; es hält nun auch seinen Ein­
+zug in Werkstätten und anderen Orten, wo es wegen
+der Gebrechlichkeit des Strumpfes bisher nicht zur An­
+wendung kommen konnte. Man verkleinert die Brenner,
+um nun auch der kleinkalibrigen elektrischen Glüh­
+lampe Concurrenz zu bieten. Diese Concurrenz ist nicht
+
+Nr. 49.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 589.
+minder gefährlich, wenn man bedenkt, dass ein Juwel­
+oder Liliput-Auerbrenner blos 60 l Gas in der Stunde
+verzehrt und 50—40 HK Licht gibt. Wollten wir hier
+wieder Vergleiche ziehen, müssten wir zum Einge­
+ständnis kommen, dass, was Billigkeit allein anbelangt,
+die Concurrenz mit der Gasglühlampe beinahe un­
+möglich wird.
+Wir sehen die Gasindustrie von dem Bestreben
+erfüllt, alle die dem Gasgllihlicht nachgesagten Uebei-
+stiinde als nicht existierend darzustelleu. Es werden uns
+Gutachten wissenschaftlicher Autoritäten vorgelegt, nach
+welchen das Gasglühlicht dem Auge ebensowenig
+schädlich sei, wie das elektrische Glühlicht; was die
+von einem neueren Auerlicht ausgehende Erwärmung
+anbelange, sei dieselbe nur halb so gross, als die von
+einer elektrischen Glühlampe ausgestrahlte.*) Bleibt
+noch die Verunreinigung der Luft durch Verbrennen
+des Sauerstoffes und Entwicklung giftiger Verbrennungs­
+gase, aber auch in diesem Capitel gibt es wissen­
+schaftliche Mitstreiter des Gasgliiklichtes, welche das
+vom verbrennenden Gas entwickelte Kohlenoxyd als
+eine geringfügige Menge bezeichnen.
+Man hat der Gaslampe vorgeworfen, dass sie für
+decorative Zwecke wenig tauge. Es werden nun Künstler
+mobilisiert, welche das Gasgltihlicht in reizenden Lustern,
+Guirlanden, Wandarmen u. s. w. unterbringen werden;
+es sollen Wettbewerbe zur „Förderung der ästhetischen
+Seite der Gasbeleuchtung“ ausgeschrieben werden. Bald
+werden wir auch. im Zeichen der Secession stehende
+Gasluster erblicken mit wunderlich geformten Tulpen
+und Schirmen; ja man verspricht sich sogar, dass man
+mit dem Gasglühlichte stimmungsvollere Effecte werde
+erzielen können als mit der „elektrischen Birne“. Die
+Gebrechen der Zündung sollen mittelst sogenannter
+h ernzünder behoben werden, so dass man gewisse
+Lampengruppen mittelst eines Ausschalter auf leuchten
+lassen Avird können.
+Es ist unleugbar, dass die Glühstrumpffabrication
+in verhältnismässig kurzer Zeit werthvolle Erfolge er­
+rungen hat, Avelchen wahrscheinlich noch andere nach-
+folgen werden. Wenn wir selbe mit jenen Fortschritten
+vergleichen, Avelche die Fabrication 'elektrischer Glüh­
+lampen in letzter Zeit gemacht hat, so kommen wir
+beinahe zur Annahme, dass die elektrische Glühlampen­
+industrie an Altersschwäche zu leiden beginne. Wohl
+lesen wir alle Tage, dass diese oder jene Fabrik ihre
+Leistungsfähigkeit auf so und so viel Tausend Lampen
+pro Tag gebracht habe, aber die auf den Markt ge­
+worfene Ware Avird von Tag zu Tag schlechter. Von
+Garantie wollen die Glühlampenfabrikanten heute nichts
+mehr wissen, und nachdem sich eine Unzahl von Klein­
+händlern ZAvischen das Elektricitätswerk und seine
+Consumenten gedrängt hat, ist der Consument auch
+den Zufälligkeiten der Fabrication schutzlos über­
+antwortet. Wie diesem Uebel abzuhelfen ist, gehört auf
+ein anderes Blatt, dass aber bald etAvas geschehen muss,
+um diesen Krebsschaden der elektrischen Beleuchtung
+auszumerzen, davon überzeugen uns eben die rapiden
+Fortschritte des Gasglühlichtes.
+Wenn Avir mit dem Gasgliihlicht nähere Be­
+kanntschaft schliessen, ermessen wir erst, Avelch’ drin­
+gendem Bedürfnis die Nernst-Lampe abzuhelfen be­
+rufen wäre. Leider sind Uber den Verbleib derselben
+keine bestimmten Nachrichten zu erhalten. Wir haben
+die Lampe in dem Nernst-Pavillon der A. E. G. in der
+Pariser Weltausstellung zu sehen bekommen, und haben
+uns thatsächlich davon überzeugt, dass ihr Energie­
+verbrauch ein sehr geringer ist. Weniger erfreut hat
+uns die Wahrnehmung, dass die praktischeste Nernst-
+Lampe Avohl jene sei, Avelcke mittelst Spiritusflamme
+vorgewärmt Averden muss. Es geht hiebei einer der
+werthvollsten Vortheile des elektrischen Lichtes, die
+sofortige Zündung und Löschung mittelst eines Hand­
+griffes, d. i. mittelst eines Umschalters, verloren.
+Es gibt wohl zahlreiche Patente, Avelche die Vor-
+Avärmung des Nernst’schen Glühkörpers auf auto­
+matischem Wege anstreben. Bei den in Paris gezeigten
+Lampen wird die Voi’Avärmung mittelst einer Platin­
+spirale bewirkt, welche durch einen im Lampensockel
+enthaltenen Elektromagneten ein- und ausgeschaltet
+wird. Nun wissen Avir Alle, wie lange ein Elektromagnet
+von winzigen Dimensionen, ausgerüstet mit einer
+federnden Armatur, betriebsfähig bleiben kann. Wir
+wissen ferner auch, dass einer ausserordentlich feinen
+Platindrahtspirale kein langes Leben beschieden sein
+kann, und birgt somit die automatisch wirkende Nernst-
+Lampe zAA r ei Elemente in sich, Avelche sie eines anderen
+Vortheiles der geAvühnlichen Glühlampe, der extremen
+Einfachheit, berauben. Auch von der Haltbarkeit des
+Glühstäbchens hören wir keine guten Nachrichten.
+Man spricht von einer 300-stiindigen Lebensdauer, Avas
+ZAvar nicht Adel besage, da das Glühstäbchen beinahe
+gar nichts koste. Aber ausgewechselt muss es doch
+werden, und je öfter dieser Wechsel stattfinden muss,
+desto mehr langweilt sieh das Publicum dabei.
+Es ist ein merkwürdiges Zusammentreffen, dass
+die beiden Glühlampen der Zukunft, die Auer’sche und
+Nernst’sche, beide mit Glühkörpern aus seltenen Erden
+ausgestattet, ein und dieselbe Vorrichtung zu ihrer
+Vervollkommnung bedürfen. Beide haben eine Heiz­
+vorrichtung notlrwendig, mit Hilfe Avelcher die Licht-
+gebung erfolgen soll. Zur automatischen Entzündung
+des Auerlichtes werden schon die verschiedensten elek­
+trischen Vorrichtungen proponirt, unter anderem auch
+dieselbe Platinspirale, Avelche an anderen Orten den
+Nernst’schen Gliihstab vorwärmen soll. Es wäre gar
+nichts Sonderbares daran, Avenn man umgekehrt das
+Gas zur Vorwärmung der Nernst’schen Lampe benutzte.
+Merkwürdig ist auch, dass das von beiden Lam­
+pengattungen zu lösende Problem ein und dasselbe ist.
+Es gilt, einen Glühkörper auf sehr hohe Temperaturen
+zu bringen, und hiebei die Intensität der Wärme so
+viel Avie möglich blos auf den Glühkörper zu concen-
+trieren. Die Elektricität erfüllt diese Ansprüche besser
+Avie die Bunsenflamme im Auerbrenner, leider aber
+verlangt sie vom Glühkörper auch elektrische Leitungs­
+fähigkeit. Und da muss nun die Elektricität, dieser
+ideale Energievertheiler, gerade jene Flamme zu Hilfe
+nehmen, die sie eigentlich verdrängen will.
+Ich habe schon vorhin erwähnt, dass trotz der
+Umwandlung der Strassenbeleuchtung auf Gasglühlicht
+und trotz des, durch allgemeine Einführung des Auer-
+brenners bewirkten Entfalles die Gesammtproduction
+der Gasanstalten in bedeutender Weise zugenommen
+hat. Die Gasabgabe für Licht ist infolge des durch
+das Gasgliihlicht hervorgerufenen Entfalles an diesem
+Zuwachs mit nur Avenig Procenten betheiligt, auch die
+für motorische Kraft abgegebene Gasmenge ist nicht
+erheblich gewachsen, ja sogar an manchen Orten zu­
+rückgegangen, dafür aber constatieren die Jahresberichte
+*) Gutachten der Augenklinik der Universität Heidelberg.
+
+Seite 590.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 49.
+der meisten Gasanstalten, dass die Abgabe für Koch-
+und Heizzwecke einen ausserordentlichen, überraschen­
+den Zuwachs ergeben habe.
+Die Agitation für Verwendung des Leuchtgases
+zu Koch- und Heizzwecken war in den letzten Jahren
+eine sehr intensive gewesen. In Vorlesungen, Broschüren
+und öffentlichen Demonstrationen wurde die Wirth-
+schaftlichkeit des Kochens und Heizens mittelst Gas
+nachgewiesen, und das Publicum liess sich leicht und
+gerne davon überzeugen. Ein Curiosum aus dieser Pro­
+paganda bildet ein 1400 Seiten starker Band, betitelt:
+„Koche mit Gas! Kochbuch für die gesunde, schmack­
+hafte, bürgerliche Küche mit Anleitung zum sparsamen
+Gebrauch aller Gasapparate für jedes Gericht.“ Der
+deutsche Verein von Gas- und Wasserfachmännern gab
+unter dem Titel: „Kein Haus ohne Gas!“ eine Bro­
+schüre heraus, welche bereits in mehr als 100.000 Exem­
+plaren gratis unter das bisher kein Gas verbrauchende
+Publicum vertheilt wurde. Dieser Bewegung stand eine
+thatkräftige, schaffensfreudige Industrie zur Seite,
+welche ihrerseits mit Anpreisungen von Kochherden,
+Vorwärmern, Brat- und Siedevorrichtungen, Badeöfen,
+Kaminen, Oefen, Plätteapparaten u. s. w. vorgieng. Dass
+während dieser Zeit die' elektrische Industrie auf die­
+sem Gebiete wenig oder gar Nichts leistete, ist bekannt,
+und so kam es denn, dass auch hier ein Terrain ver­
+loren gieng, das nur schwer wieder zu erobern sein wird.
+Nach einer von Franz Schäfer im „Journal
+für Gasbeleuchtung und Wasserversorgung“ veröffent­
+lichten Statistik betrüge das im Jahre 1899 in Deutsch­
+land abgegebene Koch-, Heiz- und Kraftgas 31• 69°/ 0
+der gesummten Privatabgabe, und unterliege es kaum
+einem Zweifel, dass in etwa vier bis fünf Jahren der
+Antheil des sogenannten Tagesgases durchschnittlich
+50% des Privatverbrauehes betragen werde. Von diesem
+Tagesgas kommt ungefähr eiii Drittel auf den Motoren­
+betrieb, die anderen zwei Drittel werden zum Kochen,
+Heizen, Lötlien u. s. w. verwendet. In manchen grösseren
+deutschen Städten, wie z. B. Bremen, Düsseldorf, Han­
+nover, Barmen, Krefeld, Mannheim beträgt das Tages­
+gas zwischen 43 und 49% der Privatabgabe, mittel­
+grosse Städte wie Neumünster, Aue, Celle, Flensburg,
+Hameln, Itzehoe, Kaiserslautern, Langensalza u. s. w.
+haben sogar zwischen 50 und 60% der Privatabgabe
+an Tagesgas aufzuweisen.
+So willkommen die rapide Zunahme des Gasver­
+brauches für Koch- und Heizzwecke auch erschien, so
+zeigten sich doch auch zu gleicher Zeit verschiedene
+Unannehmlichkeiten. Unter den zuwachsenden Consu-
+sumenten gab es Viele, welche nebst ihrer Kochgasanlage
+auch ein oder zwei Gasflammen brannten. Es mussten
+also zwei Gasmesser aufgestellt werden, von welchen
+jener für Licht sich natürlich sehr schlecht rentierte. Es
+mussten zwei getrennte Gasleitungen installirt werden,
+was jedoch nicht verhinderte, dass aus Versehen oder
+in fraudulöser Absicht von der Heizgasleitung auch
+Leuchtflammen abgezweigt wurden. Ausserdem beein­
+flusste das Anwachsen des sogenannten Tagesgases die
+Rentabilität der Gaswerke in bemerkenswerther Weise,
+indem, wie bereits nachgewiesen, in manchen Städten
+mehr als die Hälfte der Gesammtproduction aus billigem
+Tagesgas bestand.
+Man begann daher die Agitation für einen soge­
+nannten „Einheitspreis“. Die Berliner Gaspreise waren
+] 6 Pf. für Leuchtgas und 10 Pf. für Heiz- und Kraft­
+gas. Anstatt dieser beiden Preise soll nun ein Einheits­
+preis für 12 Pf. eingeführt werden, und der Unterschied
+zwischen Leuchtgas und gewerblichem Gas aufhören.
+Es findet also eine Herabsetzung des Preises für Liclit-
+consumenten statt, während Motoren und Gasherde mehr
+bezahlen sollen. Man hält es für wünschenswerth, Licht-
+consumenten anzulocken und nimmt gleichzeitig an,
+dass die Kraftgas-Consumenten auch bei höherem Gas­
+preise stetig zunehmen werden. Diese Argumentation
+ist natürlich nicht auf alle Verhältnisse anwendbar,
+und kleinere Gaswerke, welche ebenso für den „Ein­
+heitspreis“ agitieren, wie die grossen, wollen trotzdem
+einen Unterschied machen, indem sie den Motorengas­
+preis beibehalten und nur das Koch- und Heizgas mit
+dem Leuchtgas in eine Tarifklasse bringen.
+Im allgemeinen bricht sich die Ueberzeugung
+Bahn, dass der Zuwachs an gewerblichem Gase bei
+weitem nicht so wünschenswerth ist, als derselbe an­
+fänglich geschienen hat. Der bedeutende Zuwachs
+wurde hervorgerufen durch das Bestreben, einen Tages-
+consum zu schaffen, so wie ihn jetzt die Elektricitäts-
+werke in der Abgabe von Motorenstrom suchen. Man
+gewährte für Koch- und Heizgas billige Preise, und
+die Folge davon war, dass der Consum in dieser Tarif­
+klasse zu überwuchern begann, während die relativ
+hohe Preise bezahlenden Lichtconsumenten sich ver­
+hältnismässig spärlich einstellten. Es stellte sich der
+auch bei Elektricitätswerken constatirte Umstand heraus,
+dass der „Tagesconsum“ eigentlich kein blos bei Tage
+stattfindender, sondern im Gegentheile sich am Abende
+sehr breit machender Consum sei, der sich besonders
+bei Koch- und Heizanlagen sehr unangenehm fühlbar
+machte. Man sah sich daher vor die Notliwendigkeit
+gestellt, den Zufluss an Heizgas zwar nicht einzudämmen,
+jedoch rentabler zu gestalten, indem man den Preis
+hiefür erhöhte. Ob dies ein richtiges Vorgehen ist,
+wird die Zukunft lehren.
+Die Zurücknahme bereits gewährter Begünsti­
+gungen oder die nachträgliche Erhöhung eines bereits
+zugestandenen Vorzugspreises hat immer etwas Odioses
+an sich, und es wäre gar nicht zu wundern, wenn die
+elektrischelndustrie von dieser künstlichen Beschränkung
+des Tagesgases profitieren würde. Bedenklicher erscheint
+aber für uns Elektriker die proponierte Herabsetzung
+des Lichtgaspreises, weil sie die ohnedies gefährliche
+Concurrenz des Leuchtgases noch bedrohlicher für uns
+gestaltet.
+Von grosser Wichtigkeit ist auch die Revolution,
+die sich jetzt in der Gaserzeugung vorbereitet,
+und welche die Productionsbedingnisse derselben we­
+sentlich günstiger gestalten wird. Nachdem nun das
+Gasglühlicht sämmtliche andere Gasbrenner verdrängt,
+ist es nicht mehr nötliig, ein Gas von hoher Leucht­
+kraft zu erzeugen, sondern dasselbe muss vorzugsweise
+eine grosse Heizkraft besitzen. Man wird es daher
+nicht mehr nothwendig haben, sich an bestimmte theure
+Kohlensorten, sogenannte „Gaskohlen“ zu binden, son­
+dern man wird billigere Sorten heranziehen können,
+und zwar solche, welche einen nur halbwegs brauch­
+baren Coke liefern.
+Beim Auerbrenner übt das Gas ausschliesslich
+eine Heizwirkung aus, und zwar in dem Sinne, dass
+ein Körper, nämlich das mit Thor und Cer getränkte
+Aschenskelett eines Gewebes auf die möglichst höchste
+Temperatur gebracht wird. Das gegenwärtige Stein­
+kohlengas hat einen grossen Heizwerth, der hauptsäch­
+lich von dem im Gase befindlichen Methan CH i: in
+
+Nr. 49.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 5ÖI.
+zweiter Linie aber von dem Wasserstoff il 2 herrtihrt.
+Nun kommen aber, wie Dr. H. Bunte nachweist, für
+die Erzeugung einer hohen Temperatur, wie sie für die
+Leuchtkraft im Auerbrenner nothwendig ist, neben der
+Verbrennungswärme noch besondere Eigenschaften der
+Gase ins Spiel. Es handelt sich hiebei um eine inten­
+sive Wärmeentwickelung, um die Concentration der
+Wärmewirkung auf den kleinsten Raum und in so
+kurzer Zeit, dass ein in die Flamme gebrachter fester
+Körper auf die höchste Temperatur erhitzt wird. Diesen
+Ansprüchen kommt der Wasserstoff am allerersten ent­
+gegen. Wenn wir Leuchtgas mit 20% Wasserstoff
+mischen, geht die Leuchtkraft des Gemisches erheblich
+zurück, der Heizwerth desselben wird aber grösser.
+Ein mit diesem Gemische gespeister Schnittbrenner
+entwickelt anstatt 15 blos 7 HK. gelangt dieses Gemische
+aber in einen Auerbrenner, erhalten wir daselbst anstatt
+70 schon 100 IIK. Eine Mischung des Leuchtgases mit
+Methan bewirkt nicht nur einen Herabgang der Leucht­
+kraft im Schnittbrenner, sondern auch im Auerbrenner.
+Wird das Leuchtgas mit Wassergas gemischt, so sinkt
+die Leuchtkraft des 15 kerzigen Schnittbrenners bis auf
+3 Kerzen herunter,— leiten wir das Gemische aber
+in einen Auerbrenner, gewinnen wir in selbem anstatt
+70 eine Leuchtkraft von 105 HK.
+Das Gas der Zukunft wird aus einer Mischung
+von Steinkohlengas mit carburiertem Wassergas bestehen,
+zu dessen Herstellung weniger Kohle, wohl aber Coke
+verwendet wird. Der bis jetzt übliche Destillations-
+process der Kohle wird vereinfacht, indem man anstatt
+vieler kleiner Retorten grössere an wenden und viel an
+Arbeit und Arbeitslöhnen ersparen wird. Mit einem Worte,
+die Production des Gases wird leichter und billiger
+werden.
+In manchen Gaswerken gibt es zur Aushilfe
+Wassergasanlagen, und wird das mit Benzol carburierte
+Wassergas dem Steinkohlengas beigemischt. Es gibt
+aber, nachdem dergleichen in England und Amerika
+schon lange bestanden, nun auch in Europa Gaswerke,
+welche ausschliesslich reines Wassergas erzeugen und
+mit demselben Gasgliihlicht speisen. Ein Beispiel ist
+das uns bekannte Wassergaswerk in Pettau. Im ersten
+Halbjahr 1900 waren daselbst 168 Consumenten mit
+1179 Flammen angeschlossen. Zur Vergasung kamen
+verschiedene Kohlen, zum weitaus überwiegenden Theile
+Braunkohlen mit 15% Coke gemischt. Die Betriebs­
+kosten ohne Verzinsung und Amortisation betrugen
+(v78 h pro Kubikmeter in das Rohrnetz abgegebenen
+Gases.
+Während wir die günstigen Resultate, welche sich
+aus einer Tarifherabsetzung und aus einer Verwohl-
+feilung der Gasproduction ergeben werden, der Zukunft
+überlassen müssen, können wir schon jetzt von den
+Massnahmen reden, welche ausser den bereits erwähnten
+Ursachen eineZunahme der Gasproduction hervorgerufen
+haben. Unter diesen spielt die kostenfreie Zuleitung
+bis in den Keller zur Uhr eine grosse Rolle. Ihr zu­
+nächst folgt die kostenfreie Herstellung der wagrechten
+und senkrechten Steigeleitung, welche entweder in
+Miethe gegeben oder aber dem Hausbesitzer ein für
+allemal überlassen wird. Die Miethe für Gasmesser
+wurde an vielen Orten aufgehoben; ausserdem werden
+Koch- und Heizapparate in Miethe gegeben. Ausser­
+ordentlich viel wurde zur Entwickelung des Motoren­
+geschäftes gethan: die Zuleitungen wirnlen gratis her­
+gestellt, der Motor der Gasanstalt zu Selbstkosten ver­
+kauft oder von derselben vermiethet. Nur mit der
+Herabsetzung des Motorengaspreises wollte es nicht
+recht gehen, was an manchen Orten vom Elektricitäts-
+werk benutzt wurde, um oft mehr als die Hälfte der
+Gasmotoren durch Elektromotoren kalt zu stellen.*)
+Soviel sich aus den Berichten verschiedener Gas­
+anstalten ergibt, ist es besonders der kleine Elektro­
+motor, welchem vor dem Gasmotor der Vorzug; gegeben
+wird, während grössere Gasmotoren noch immer auf
+Absatz rechnen können. Es wird behauptet, dass die
+jährliche Benützungsdauer der Elektromotoren geringer
+sei, als jene der Gasmotoren, was wohl darin seine
+Erklärung findet, dass viele Elektromotoren zum Betriebe
+von Lifts, also zu intermittierendem Betriebe dienen.
+Nun ist es aber Thatsache, das der Gasmotor auch bei
+continuierlichen Betrieben vielfach vom Elektromotor
+verdrängt wird. Hiezu kommt noch der von Elektrici-
+tätswerken gewährte ausserordentlich niedrige Motoi’en-
+preis, während bei den Gasanstalten die Tendenz vor­
+liegt, eher den Motorengaspreis zu erhöhen, als den­
+selben herabzusetzen.
+Ein weiteres Mittel zur Hebung des'Consums
+bilden die Gasautomaten, welche entwteder blos
+für Koch- und Heizgas oder auch für alle Zwecke
+aufgestellt werden. Hiebei wird vorausgesetzt, dass die
+betreffende Consumstelle sich nahe zu einer Gasleitung
+befindet. Durch Einwurf eines Geldstückes bewirkt
+man die Lieferung einer bestimmten Gasmenge (6—700 /),
+in deren Preis zu gleicher Zeit auch die Miethe für
+den Apparat eingerechnet wird. Bei grösserem Bedarf
+wirft man mehrere Geldstücke hintereinander in den
+Apparat.
+Diese Automaten sind ausser in England nun
+auch schon in verschiedenen Städten Deutschlands aus­
+geführt und gewinnen eine rasche Verbreitung. So
+werden z. B. in Frankfurt a. Main in einem einzigen
+Jahre nahe an 1500 Automaten aufgestellt, deren
+durchschnittlicher Jahresverbrauch ungefähr 200 m 3
+Gas betrug. Es gibt Städte, in welchen dieser Jahres­
+verbrauch bis auf 300 m A hinaufgeht (in Weimar und
+Königsberg sogar bis auf 500 resp. 600 m 3 ), es gibt
+hingegen wieder andere Städte, in welchen der jährliche
+Verbrauch eines Automaten blos 120 m s beträgt. An
+manchen Stellen hat der ursprüngliche Enthusiasmus,
+der jede neue Einführung begleitet, nachgelassen, und
+die Gewährung eines Automaten wird an verschiedene
+Bedingungen, wie z. B. Garantie eines täglichen oder
+jährlichen Minimalverbrauches, Theilnahme an den
+Installationskosten, Erlag einer Kaution u. s. w. geknüpft,
+an Bedingungen also, welche weit davon entfernt sind,
+für die Sache Propaganda zu machen. Trotz alledem
+wird die Einführung der Gasautomaten als eine der
+besten Einrichtungen zur Verbreitung des Gasconsums
+bezeichnet. Die Deutsche Continental-Gasgesellschaft
+hatte Ende vorigen Jahres 8092 Automaten im Betriebe,
+welche einen Jahresverbrauch von 1,855.000 m 3 auf­
+wiesen, und betrug die Zunahme des durch Automaten
+*) Ein charakteristisches Beispiel liefert der 1899-er Ver­
+waltungsbericht der Gasanstalt Plauen. Es gab daselbst Gas­
+motoren:
+.,. Loistung Jährliche
+Anza i j n pg Motorenabgabe
+Vor Eröffnung des Eloktricitlits-
+werkes (April 1897). ... 169 629 920.222-0 m3
+Im Jahre 1899 55 229 345.924-2„
+Abnahme 144 400 574.^97*8
+= 67"4°/o= 63-6«/o= 64-4o/ 0
+
+Seite 592.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 49.
+gemessenen Gases bereits 29% der Gesammtzunahme
+der genannten Gesellschaft. Der durchschnittliche Con-
+sum pro Automat steigert sich allmählich, während
+sich die Anlagekosten der Leitungen verringern.
+Natürlich ist bei der Gaszunahme auch nicht
+alles in rosigstem Lichte anzusehen. Charakteristisch
+ist folgender im 1899-er Jahresbericht des Gaswerkes
+Basel enthaltener Passus: „Die Steigerung des Gasver­
+brauches hält allerdings mit der Zunahme der Abon­
+nentenzahl nicht vollständig Schritt, da unter den neu
+angeschlossenen Gasconsumenten sehr viele sind, welche
+einen verhältnismässig geringen Gasverbrauch haben.
+Nachdem das Elektricitätswerk nun eröffnet ist, wird
+sich das noch in erhöhtem Maasse geltend machen, da
+manche Abonnenten sich vollständig der elektrischen
+Beleuchtung zuwenden, ihre Gaslampen entfernen und
+nur noch die Koch- und Heizeinrichtungen an der vor­
+handenen Gasleitung speisen. Mit der Zunahme der
+Gasküchen in den kleinen Miethwohnungen wird auch
+die Arbeit' des Einzuges der Gasrechnungen nicht nur
+umfangreicher, sondern auch mühsamer, da viele von
+den kleinen Abonnenten bei der ersten Vorweisung der
+Rechnung das Geld zur Bezahlung derselben nicht
+bereit haben, so dass die Incassanten oft jeden Monat
+mehrmals vorsprechen müssen, um die Bezahlung des
+Gasconsums für den vorhergegangenen Monat zu er­
+halten.“
+Dieser Stossseufzer eines besorgten Gasmannes
+kann übrigens auch von so manchem Elektricitätswerke
+ausgestossen werden. Das ist ja eben das Charakte­
+ristische im heutigen Stadium der Beleuchtungsent­
+wickelung, dass die Zeiten der Grossconsumenten
+vorüber sind, und nun die kleinen Consumenten an die
+Reihe kommen. Die Kosten der Kabel- oder Rohrlegung
+werden per angeschlossene Lampe höher, die Gas- und
+Elektricitätsmesser belasten den Conto der Werke
+immer mehr, die Verwaltungskosten pro Lampeneinheit
+werden grösser. Es lässt sich voraussehen, dass die
+guten und grossen Consumenten viel umstritten sein
+werden, besonders wenn die Gasglühlicht-Industrie, die
+nach Ausspruch eines der hervorragendsten Gasfach­
+männer erst in den Kinderschuhen stecken soll, fort­
+fahren wird, energisch und rührig zu sein. Es ist
+vorauszusehen, dass in dem Status der beiden Energie-
+lieferungs-Concurrenten mancher Besitzwechsel statt­
+finden wird, und es wäre nur zu wünschen, dass der­
+selbe nicht zum Nachtheil der Elektricität ausfallen
+möge. Es wird wohl Viele geben, die mir widersprechen
+werden, wenn ich sage: Es ist Gefahr im Verzüge.
+Aber lieber will ich schon jetzt den Achtungsruf er­
+heben, als von den Ereignissen überrascht werden.
+Behalten wir die Fortschritte der Gasindustrie sorg­
+fältig im Auge, denn sie geben uns viel Stoff' zum Nach­
+denken und zum Lernen.
+Eine Methode zur Bestimmung des mechanischen Äqui­
+valentes der Wärme.
+Dr. Turner Barnes hat nach einer von Prof.
+Car hart vorgeschlagenen Methode Versuche zur
+Bestimmung des mechanischen Wärmeäquivalentes und
+zur Ermittelung der genauen Werthe für die speci-
+fische Wärme, des Wassers zwischen 0° und 100° C.
+angestellt und über das Ergebnis derselben der Royal
+Institution berichtet. (Lond. Elec. 19. Oct. 1900.) Der
+verwendete Apparat besteht aus einem dünnen Glas­
+röhrchen, das zwei grössere Röhren miteinander ver­
+bindet. Durch dieses Rohrsystem strömt beständig
+Wasser hindurch. In das dünne Rohr ist ein Draht
+eingezogen, durch den ein elektrischer Strom von ge­
+nau gemessener Intensität fliesst, und an zwei in den
+grösseren Gefässen angebrachten Thermometern wird
+die Temperatur-Differenz des dem Apparate zu- und
+abströmenden Wassers gemessen.
+Um die Verluste, welche sich durch Wärme­
+strahlung ergeben, zu reducieren, wurde die Messröhre
+von einem Kupferrohr umgeben, durch das beständig
+Wasser, von der Temperatur des zufliessenden
+hindurchströmt. Andere bei der Messung in Berück­
+sichtigung zu ziehende Umstände, wie z. B. die Ver­
+luste durch Wärmeleitung, durch die Wirbelbewegung
+im Wasser, werden genau in Rechnung gezogen. Die
+wichtigsten der vorzunehmenden Messungen sind die
+elektrischen; sie beruhen auf die genaue Bestimmung
+des Widerstandes und der E. M. K. des Clark-Elementes.
+Barnes hat die Resultate seiner, ein Jahr
+hindurch angestellten Versuche in 55 Tabellen nieder­
+gelegt; aus diesen hat er eine Tabelle für die specifische
+Wärme des Wassers zwischen 0° und 100° C., in Inter­
+vallen von 5 zu 5° aufgestellt. Setzt man die specifische
+Wärme des Wassers bei 16 n C. gleich der Einheit, so
+ist nach den Angaben Barnes’ die spec. Wärme
+bei 5°= 1*00530
+„ 40°= 0-99735
+„ 95°= 1-00370.
+Das Minimum liegt bei 37'5° C., was so ziemlich
+mit den Versuchen von Veite n*) stimmt, welcher
+die niedrigste specifische Wärme mit 0-9734 bei
+43-5° findet.
+Das mechanische Wärmeäquivalent bestimmt Dr.
+Barnes bei 16° C. mit 4'18876 Joule, welcher Werth
+mit dem neuesten, von R o w 1 a n d gefundenen Werth
+von 4 1887337 fast genau übereinstimmt. G.
+Die Elektricität auf der Weltausstellung in Paris.
+Die grossen Scheinwerfer der Firma „Oesterreichische
+Schuckertwerke“.
+(Eigenbericht.)
+Die Herstellung von Scheinwerfern für Heer und
+Flotte war bis vor 15 Jahren das Monopol von fran­
+zösischen Firmen, bis es S. Schuckert in Nürnberg,
+dem Gründer der heutigen Elektricitäts-Ac.tiengesell-
+schaft, vormals Schuckert& Co., im Verein mit Prof.
+M u n k e r gelang, Glasspiegel von parabolischer Form
+zu schleifen.
+Dieser theoretisch richtigste, aber schwer herzu­
+stellende Reflector eroberte sich denn auch sehr bald
+den Weltmarkt. Ein solcher parabolischer Glasspiegel,
+und zwar von P5 m Durchmesser, bildet auch den
+hauptsächlichsten Bestandtheil des auf dem Tlnirm der
+Schifffahrtsausstellung leuchtenden Apparates. Die ge­
+wölbte Rückseite des Spiegels ist mit reinem Silber
+belegt und im Brennpunkt der Parabel glüht der
+Krater einer Bogenlampe von 150 A.
+Durch den Spiegel wird die Wirkung der Lampe
+derart erhöht, dass der Lichtstrahl eine Intensität von
+ca. 180 Mill. NK besitzt.
+*) Wied. Annalen 21.
+
+Nr. 49.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 693.
+Schon im Jahre 1891 war die Firma in der
+Lage, auf der elektrotechnischen Ausstellung in Frank­
+furt a. M. einen P5 m Spiegel im Betrieb zu zeigen.
+Noch bekannter dürfte der auf der Weltausstellung
+in Chicago vorgeführte, gegenwärtig auf dem Leucht­
+thurm von Sandy Hook aufgestellte Apparat gleicher
+Grösse geworden sein, dessen Strahl, von der gleichen
+Intensität wie der des Scheinwerfers in Paris, noch in
+einer Entfernung von 70 Meilen wahrgenommen wird.
+Dieser Riesenapparat wird aber von dem in Paris
+ausgestellten noch übertroffen.
+Fig. 1.
+Der Spiegel des Scheinwerfers hat einen Durch­
+messer von 2 m und 869 mm Brennweite.
+Die elektrische Lampe ist für 200 A Gleichstrom
+construirt und der Spiegel entsendet bei dieser Strom­
+stärke seinen Strahl in einer Intensität von über
+300 Mill. NK. Die Kohlen messen 49 bezw. 35 mrn
+im Durchmesser. Das Gewicht des Apparates beträgt
+5000 kg- um solche Massen leicht bewegen zu können,
+wurden zu den Lagerungen überall Stahlkugeln ver­
+wendet.
+Ausserdem besitzt der Scheinwerfer eine Ver- I
+dunkelungsvorrichtung, welche nach Art der an photo-|
+graphischen Apparaten üblichen Irisblenden construirt I
+ist und einen vollkommen lichtdichten Abschluss des!
+brennenden Scheinwerfers gestattet. Diese Einrichtung
+wird mittels eines Motors bewegt und kann aus der
+Ferne bedient werden. Ein Handrad gestattet die Be-
+thätigung des Mechanismus von Hand aus.
+Dieser Scheinwerfer ist augenblicklich der grösste
+der Welt und zeigt ausserdem eine solche Genauigkeit
+des Schliffes, dass alle Strahlen eines parallel zur
+Spiegelachse einfallenden Strahlenbündels im Brenn­
+punkt innerhalb eines kugelförmigen Raumes von nicht
+ganz 2 nun Durchmesser vereinigt werden.
+KLEINE MITTHEILUNGEN.
+Verschiedenes.
+Schlitz Vorkehrungen gegen die Gefahren der Oberleitung
+hei der Wiener elektrischen Strassenhahn. Im Eisenbahn-
+ministerium bat am 13. d. M. unter dem Vorsitze des Eisenbahn­
+ministers Dr. Ritter v. W i 11 e k eine Befathung stattgefunden,
+an der sich auch Vertreter des Handelsministeriums, der General-
+Inspection der österreichischen Eisenbahnen und des Wiener
+Magistrats betheiligten und welche den Zweck hätte, die Vor­
+sorgen zu erörtern, welche anlässlich der in letzter Zeit auf den
+Wiener elektrischen Strassenbahnen infolge der Berührung von
+allgerissenen Telegraphendrähten mit der Starkstrom-Oberleitung
+vorgekommenen bedauerlichen Unfälle im Interesse der Sicherheit
+der Passanten als notlnvendig erachtet werden.
+Nachdem von einer Beseitigung der Oberleitung angesichts
+des enormen Mehraufwandes— derselbe wird auf etwa 26 Mill.
+Kronen geschätzt— im Voraus abgesehen werden musste, bildeten
+folgende Maassnahmen den Gegenstand der Erörterung:
+1. Die Telephon- und Telegraphenleitungen, welche der­
+malen die Starkstromleitung der elektrischen Strassenbahn au
+sehr zahlreichen Stellen übersetzen, sollen sobald als möglich
+derart umgelegt werden, dass sie die Strassenbahn grundsätzlich
+nur unterirdisch (in Kabeln) kreuzen. Oberirdische Kreuzungen
+sollen nur ausnahmsweise und unter Anwendung ganz besonderer
+Sicherheitsvorkehrungen belassen werden.
+2. Bis zur Durchführung der erwähnten Umlegung der
+Schwachstromleitung, welche immerhin längere Zeit erfordern
+dürfte, ist, und zwar sofort, in allen jenen Strecken der elek­
+trischen Strassenbahn, in welchen sich ober der Starkstromleitung
+Schwachstromleitungen befinden, ungefähr 40 cm über der Stark­
+stromleitung ein mit der Erde verbundener Draht zu spanne:
+Gerissene Schwachstromleitungen fallen dann auf diesen Dfah
+was selbst dann ungefährlich ist, wenn die gerissenen Leitunge
+zugleich auch die Starkstromleitung berühren, da in diesem Fall
+Stromleitung ein mit der Erde verbundener Draht zu spannen.
+Gerissene Schwachstromleitungen fallen dann auf diesen Draht,
+?en
+'alle
+ein Kurzschluss entsteht, durch welchen die gerissenen Schwach­
+stromdrähte sofort, abschinclzen, worauf die abgetrennten Theile
+der Drähte stromlos zur Erde fallen.
+3. Ueber das beim Eintritt von Drahtbrüchen längs der
+elektrischen Strassenbahn zu beobachtende Verhalten soll das
+Publicum durch zahlreiche Kundmachungen unterrichtet und die
+Jugend in den Schulen belehrt werden.
+4. Es wird als wünschenswert!! erachtet, dass die Sichor-
+heitswachleute Isolirzangen stets bei sich tragen, mit welcher
+jeder gerissene Draht gefahrlos abgezwickt und dadurch jede
+weitere Gefahr beseitigt werden kann. Auch die Feuerwehr und
+die Rettungsgesellschaft sind mit Isolirzangen auszurüsten.
+6. Jene Strassen, in welchen Starkstromleitungen gespannt
+sind, sollen zur Nachtzeit thunlichst gut beleuchtet sein, damit
+gerissene Drähte leichter wahrgenommen werden können.
+6. Die vereinzelt vorkommenden, nur mit Iiilfe einer Stange
+zu erreichenden Streckenausschalter sind durch Ausschalter zu
+ersetzen, welche mit den Händen leicht erreicht werden können.
+7. Das Handelsministerium wird sofort alle die elektrischen
+Linien der Wiener Strassenbahn übersetzenden Schwachstrom­
+leitungen in Bezug auf ihre Festigkeit einer gründlichen Revision
+unterziehen und vorkommende Mängel beheben lassen.
+Ueber die Zweckmässigkeit der angeführten Maassnahmen
+wurde bei der Berathung volle Uebereinstiinmung erzielt und
+ihre Durchführung wird zweifellos die möglichste Sicherheit des
+Publicums gegenüber den mit dom elektrischen Betriebe der
+Wienor städtischen Strassenbahn verbundenen Gefahren verbürgen.
+Analoge Verfügungen sind s o i t e n s des
+Eisenbahnministeriums auch rücksichtlich
+aller anderen elektrischen Strassenbahnen
+Oesterreichs in Aussicht genommen.
+Aus den Entscheidungen des Obersten Gerichtshofes.
+Ein Verschulden durch Unterlassung der nöthigen Aufsicht über
+ein Kind seitens der hiezu verpflichteten Personen ist keine
+„unabwendbare Handlung einer dritten Person' 1 im Sinno des§ 2
+des Gesetzes vom 6. März 1869, R. G. Bl. Nr. 27, und begründet
+auch nicht ein Verschulden des Kindes selbst. Ein solches Ver­
+schulden befreit sonach die Eisenbahnunternehmung nicht von
+der ihr gemäss des citirten Gesetzes obliegenden Haftung für die
+durch eine Ereignung auf der Eisenbahn herbeigefiihrto körper­
+liche Verletzung oder Tödtung des Kindes. (Entscheidung vom
+28. November 1899, Z. 13.339.)
+Die Vermiethung von Arbeiterwohnungen in den dem Unter­
+nehmer gehörigen Arbeiterhäusern an Arbeiter gegen einen
+monatlichen Abzug vom Lohne involviert, auch wenn beim, Be
+
+Seite 594.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 49,
+ziehen der Wohnung nichts verabredet wurde, einen_ Miothver­
+trag. Die Höhe dos Miethzinses ist irrelevant. (Entscheidung vom
+9. Mai 1900, Z. 5986.)
+• Aus (len Erkenntnissen des k. k. Verwaltungsgericlits-
+lioi'es. 1. Wonn durch die bedingungslose Beitragserklärung eines
+Interessenten ein besonderer Rechtstitel bezüglich der Herstellung
+und Erhaltung eines Weges begründet ist, bleibt ein nachträg­
+licher einseitiger Widerruf der Beitragserklärung unwirksam.
+2. Die Gemeinschaft eines Brückenobjectes zwischen zwei
+oder mehreren Gemeinden kann entweder zufällig durch die Lage
+des Objectes in verschiedenen Gemeindegebieten gegeben sein
+oder durch ein freiwilliges Uebereinkommon oder endlich durch
+einen Ausspruch der competenten Behörde begründet werden,
+welcher die gemeinschaftliche Errichtung anordnet. (Erkenntnis vom
+10. Juni 1898, Z. 3088, Budw. Nr. 11.810.)
+Ausgeführte und projectirte Anlagen.
+Oesterreich-Ungarn.
+a) Oesterreich.
+Gross-Opato>vitz. (Vornahme technischer Vor­
+arbeiten für eine elektrische Kleinbahn von
+Gros s-0 patowitz nach S k a 1 i t z-B oskow.it z.) Das k. k.
+Eisenbahnministerium hat dem Grossgrundbesitzer Ludwig Grafen
+v. II erb er stein in Gross-Opatowitz im Vereine mit dem
+Grossgrundbesitzer Hermann Freiherrn v. Königs wart er in
+Schobetau die Bewilligung zur Vornahme technischer Vorarbeiten
+für eine normalspurig.e Kleinbahn mit elektrischem
+Betriebe von der Station Gros s-0 patowitz der Mährischen
+Westbahn zur Station Skalitz-Boskowitz derpriv. Oesterr.-
+ungar. Staatseisenbahn-Gesellschaft ertheilt.
+p ra g. (Uebertragung und t h e i 1 w ei s e Ab•
+ander ung der Concession fü.r eine mit elek-
+trischer Kraft zu betreibende Kleinbahn von
+Prag (Smichow) nach Kosir an die Gemeinde der
+k gl. Hauptstadt Prag.) Nachdem die Gemeinde der kgl.
+Hauptstadt Prag die auf Grund der Kundmachung des k. k.
+Eisenbahnministeriums vom 14. September 1896, R.-G.-Bl. Nr. 187,
+erbaute und in Betrieb gesetzte Kleinbahn von Prag (Smichow)
+nach Kosir käuflich erworben hat, werden im Einvernehmen mit
+den betheiligten k. k. Ministerien und dem k. und k. Reichs-
+Kriegsministerium die dem ursprünglichen Concessionär Matthäus
+II1 a v a 6 e k betreffs der erwähnten Kleinbahn erwachsenen con-
+cessionsmässigen Rechte und Pflichten auf die Gemeinde Prag
+mit der Massgabe übertragen, dass auf diese Kleinbahn fortan
+die Bestimmungen der vorbezogenen Concession mit. einigen Er­
+gänzungen und Abänderungen, deren wichtigste wir hier an­
+führen, Anwendung zu finden haben:
+J. Die Dauer der Concession mit dem im§ 9, lit. b, des
+Eisenbahn-Concessionsgesetzes ausgesprochenen Schutze gegen
+die Errichtung neuer Bahnen wird auf neunzig (90) Jahre, vom
+14. September 1896 an gerechnet, festgesetzt, und erlischt nach
+Ablauf dieser Frist.
+2. Die Concessionärin wird von der Verpflichtung ent­
+hoben, die bisher noch unausgebaute ca. 1 km lange Endstrecke
+im Gebiete der Gemeinde Kosir zur Ausführung zu bringen.
+(Verordbl. f. Eiscnb. u. Sch. Nr. 133, 1900.)
+Patentn achr ichten.
+Mitgetheilt von Ingenieur
+Victor Monath,
+WIEN, I. Jasomirgottstrasse Nr. 4.
+Liste der jüngst e rtheilten österreichischen Patente.
+Classe.
+21.Pat.-Nr. 2435. Ankerwickelung mit Schaltung für Abnahme
+von zweierlei Dreiphasenstrom- Spannungen.— Victor
+Karmin, Ingenieur in Wien. 1./5. 1900.
+„ Pat.-Nr. 2436. Einrichtung zur Verringerung der Querindue-
+tion von Dynamoankern.— Koloman von K a n d o, Chef­
+ingenieur in Budapest. 15./5. 1900.
+„ Pat.-Nr. 2469. Anruf- und Schluss-Signal für Fernspreeh-
+” vermittelungsämter.— International Telephone and
+Switchboard Manufacturing Company inPlain-
+field (V. S. A.). 15./6. 1900.
+ClaBse.
+21. Pat.-Nr. 2472. Apparat znm Einfangen und zeitweisen Auf-
+speichern von Nachrichten, Signalen oder dergleichen.—
+Waldemar Poulsen, Ingenieur in Kopenhagen. 1./5. 1900.
+40. Pat.-Nr. 2456. Elektrisch beheizter, rotirender Schmelztiegel.
+Francis Edward Hatch, Ingenieur in Norway (V. S. A.).
+15./5. 1900.,, r., A
+20. Pat.-Nr. 2586. Elektrisch pneumatische Vorrichtungen_ zur
+Regelung der Bewegung von Motoren.— George W osting-
+h o u s e, Ingenieur, in Westinghouse. 15./5. 1900.
+21. Pat.-Nr. 2579. Einrichtung zur Verhinderung der Rückentladung
+’ von Accumulatoren und der Stromabgabe von Gleichstrom­
+motoren in einem Wechselstromgenerator.— Johann P iirthner,
+städt. Bürgerschullehrer in Wien. 15./6. 1900.
+Pat.-Nr. 2584. Sicherungseinrichtungen für Tolephonstationon
+” gegen hochgespannte Ströme.— Dr. Johann Puluj, k. k. o. ö.
+Professor an der deutschen technischen Hochschule in Prag.
+1./7. 1900.,
+Pat.-Nr. 2592. In einer Station vereinigte Anlage mehrerer
+Telephonstationen mit akustischer Parallelschaltung.— Firma:
+Siemens& Halske in Wien. 1./6. 1900.
+Pat -Nr. 2697. Telautograph.— Dr. Friedrich S i 1 b e r s t e i n,
+” Advocat, in Wien, Anton P o 11 a k, Kaufmann in Szentes
+(Ungarn) und Josef V i r ä g, Ingenieur in Budapest. 1./7. 1900.
+Pat.-Nr. 2698. Kathoden- Strahlen- Lampe.— James Yate
+Johnson, Privat in London. 15./6. 1900.
+Pat.-Nr. 2705. Fernsprochstelle mit seitlich am Gehäuse drehbar
+angeordneten Fernhörern.— Firma: Siemens& Halske
+in Wien. 1./6. 1900..
+75. Pat.-Nr. 2654. Neuerungen an Elektroden für elektrolytische
+' Zwecke.— Firma: The General Electrolytic
+Par ent Company Limited in Farmvorth (Widnes)
+(England). 15./7. 1900.
+20. Pat.-Nr. 2764. Schalteinrichtung für elektrische Bahnen mit
+' Theilleiterbetrieb.— Firma: Helios Elektricitäts-
+A c t i e n-G esellsehaft in Köln-Ehrenfeld. 1./6. 1900.
+Pat.-Nr, 2846. Stromabnehmer für elektrische Bahnen mit
+Oberleitung.— Paul von Szentkir&lyi, k. u. k. Ober­
+lieutenant in Budapest. 15./7. 1900.
+Pat.-Nr. 2854. Stromabnehmer für Oberleitung.— Siemens
+”& Halske, Actien-Gesellschaft in Wien.
+21. Pat.-Nr. 2728. Kohlencontact für elektrische Schaltapparate
+u. dgl.— Firma: Friedr. Krupp in Essen (Ruhr). 15./6.1900.
+Pat.-Nr. 2735. Glühlampencontrolausschalter.— Firma: Sie-
+” mens& Halske in Wien. 1./7. 1900.
+Pat.-Nr. 2767. Ausschalter für feuchte Räume.— Martin
+” Schmidt, Monteur in Bochum. 15./6. 1900.
+Pat.-Nr. 2768. Glühlampenfassung mit Edisongewinde für Drei­
+leiteranlagen mit geerdetem Mittelleiter.— Firma: Siemens
+& Halske in Wien. 15./6. 1900.
+Pat.-Nr. 2843. Vorrichtung zur Verminderung der Funken­
+bildung bei elektrischen Maschinen.— Firma: Actienge-
+sellschaftElektricitätswerke (vorm. O. L. Kum­
+mer& Co.) in Niedersedlitz bei Dresden. 15./6. 1900.
+Pat.-Nr. 2847. Empfänger für elektrische Wellen.— Johann
+” Christian Schäfer, Elektrotechniker, Eduard Renz, Pri­
+vatier, und Paul L i p p o 1 d, Privatier, sämmtliche in Buda­
+pest. 15./7. 1900.,
+Pat-Nr. 2848. Unipolar-Dynamo.— Gustaf Dalen und
+” Arthur H ul t q vis t, beide Ingenieure in Stockholm. 15./6. 1900.
+42 Pat -Nr. 2856. Elektrisch betriebener Selbstverkäufer für Fahr-
+karten und dergl.— Fritz K r u 11, Civil-Ingenieur in Ham­
+burg. 15./7. 1900.
+Deutsche Patentanmeldungen.*)
+Classe.
+20 f. Elektrisch bewegbares Luftauslassventil für Luftdruck­
+bremsen.— Deutsche Waffen- und Munitions­
+fabriken, Karlsruhe i. B. 9./1. 1900.
+k. Sicherheitsvorrichtung für elektrische Apparate, welche
+durch ein Gehäuse gegen die umgebende Luft abgeschlossen
+sind.— UnionElektricitäts-Gesellschaft, Berlin.
+30./12 1899.
+21 a. Empfänger für Funkentelegraphie.— Anders B u 11, Köln-
+Ehrenfeld. 9./4. 1900.
+21 c. Isolirung für elektrische Kabel. H. Edmunds, West-
+minster. 10./5. 1900.
+*1 Die Anmeldungen bleiben nach der Vorprüfung acht Wochen öffentlich
+aufgelegt. Nach§ ii des Patent-Geeetzee kann innerhalb dieser Zeit Einspruch
+regen die Anmeldung wegen Mangel der Neuheit oder widerrechtlicher Entnahme
+erhoben werden. Das obige Bureau besorgt Abschriften der Anmeldungen und
+übernimmt die Vertretung in allen Einspruchs-Angelegenheiten.
+
+Nr. 49.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 695.
+Cla886
+21. c. Blitzableiter mit staubdicht in einer Röhre eingeschlosse­
+nen Kohlen-Elektroden.— Siemens& Halske, Actie n-
+Gesellschaft, Berlin. 6./12. 1899.
+30 f. Zweipolige Kehlkopfelektrode.— Dr. Eduard Eichte r,
+Plauen i. V. 12./8. 1899.
+48 a. Verfahren zum elektrolytischen Niederschlagen von Metallen.
+— Emile Louis Dessoll e, Epinay sur Seine. 16./6. 1899.
+20 1. Elektrische Schaltvorrichtung mit magnetischer Funken-/
+löschung.— Siemens& Halske, Actien-Geseil-
+schaft, Berlin. 6./12. 1899.
+21 a. Fernsprechanlage mit direct geschalteten Mikrophonen.—
+Siemens& Halske, Actie n-G esellschaft, Berlin.
+5. /3. 1900.
+„ a. Empfangsapparat für Funkentelegraphie mit gemeinsamer
+Stromquelle im Morse- und Fritterkreise.— Dr. Adolf S 1 a b y,
+Charlottenburg und Georg Graf von Arco, Berlin. 8,/2. 1900.
+„ c. Verfahren zum selbstthiitigen Anlassen von Elektromotoren.
+— Fabrik elektrischer Apparate Dr. Max L e v y,
+Berlin. 10./8. 1899.
+„ f. Bogenlampe.— Frederic Georges C h a g n a u d, Paris.
+2B./7. 1899.
+„ f. Verfahren zur Erzeugung von elektrischem Bogenlicht.—
+Envald R a s c li, Potsdam. 18./3. 1899.
+» g. Quecksilberstrahlunterbrecher und Schaltung zum wechsel­
+weisen Betriebe zweier oder mehrerer Funkeninductoren mit
+einem Unterbrecher.— Allgemeine Elektricitäts-
+Gesellschaft, Berlin. 16./2. 1900.
+„ c. Verfahren zur Aenderung von Capacität und Induction in
+einphasigen Wechselstromkabeln.— F eiten& Guilleaume,
+Carls werk, Actie n-Gesellschaft, Mülheim a. Rh.
+6. /3. 1899.
+n e• Inductions-Messgeräth für Dreiphasenstrom; Zus. z. Patent
+100.748.— Carl Raab, Kaiserslautern. 5./4. 1900.
+„ e. Motorelektricitätszähler für Gleich- und Wechselstrom.—
+Union Elektricitäts-Gesellschaft, Berlin.31./5.1900.
+„ f. Regelungsvorrichtung für Bogenlampen mit langem Licht­
+bogen.— Hugo Bremer, Neheim a. Ruhr. 9./1. 1900.
+20 i. Wegschranke mit elektrischem Antrieb.— Heinrich
+M a a s s e n, Kirchberg. 9./8. 1899.
+21 a. Schaltung von Nebenanschlüssen bei Stadtfernsprechlei­
+tungen o..dgl.— Actiengesellschaft Mix& G e n e s t,
+Telephon- und Telegraphen -W e r ke, Berlin.
+31./3. 1900.
+Classe.
+von einer Stelle aus eingeschaltet werden können.— Union
+Elektricitäts-Gesellschaft, Berlin. 5./5. 1899.
+20. Einrichtung für elektrische Bahnen zur Erhöhung der Brems­
+wirkung bei der Thalfahrt und der Zugkraft bei der Bergfahrt.
+Allgemeine Elektricitäts-Gesellschaft,
+Berlin. 9./8. 1898.
+21 a. Relais für Telegraphenleitungen.— Robert R. Schmidzi
+Bournemouth (England). 20./6. 1899.
+„ Verfahren zur Schnelltelegraphie mittelst Gleichstrom.—
+F. B e d e 11, Ithaca (V. St. A.). 16./8. 1899.
+„ Selbstcassirende Fernsprecheinrichtung mit einer von aussen
+durch Druckknöpfe verstellbaren Geldrinne.— C. Petersen,
+Kopenhagen, l./'ä. 1899.
+„ Schaltung zweier Fernsprechvermittlungsämter mit Einfach-
+oder Doppelleitung.— Siemens& Halske, Actien-
+Gesellschaft, Berlin. 28./7. 1899.
+„ Gesprächszähler für Fernsprecher.— Bank für elek­
+trische Industrie, Berlin. 26-/9. 1897.
+21 b. Sammlerelektrode.— C. Siber, Berlin. 4./10. 1899.
+21 c. Fliehkraftpendel zum Kurzschliessen der Ankerwickelun
+von Drehstrommotoren. -- Allgemeine Elektrieitäts,
+Gesellschaft, Berlin. 7./12. 1899.
+„ Selbstthätiger Maximalausschalter.— R. Beifiel d, London.
+14./12. 1898.
+„ Vorrichtung zum selbstthätigen Abschalten eines Zweigstrom­
+kreises vom Hauptstromkreise bei Eintritt von Hochspannung
+in erstere. ■— F. H. B a d g e r und W. J. B1 e w s, Montreal.
+28./2. 1899.
+„ Blitzschutzvorrichtung zum .gleichzeitigen Schutz mehrerer
+Leitungen.— Brown, Boveri&Co., Baden (Schweiz).
+21./7. 1899.
+„ Verfahren zur Herstellung einer Isolirmasse aus Serpentin­
+abfall.— Dr. F. C 1 a u s s, Meerane i. S. 28./1. 1899.
+„ Augenblicksschalter— E 1 ek t'r i ci t ä t s-A c ti e n g e s e li­
+sch a ft, vormals Schuck ert& Co., Nürnberg.
+16./4. 1899.
+Auszüge aus deutschen Patentschriften.
+Benjamin (jfarver Lamme in Pittsburg (Pa., V. St. A.).—
+Inductionsmotor mit besonderem Widerstand im inducirten
+Tlieil.— Classe 21 d, Nr. 112.314 vom 22. August 1899.
+„ a. Gesprächszähler für Fernsprechämter, der bei Nichtzustande­
+kommen des Gesprächs die Rückstellung des Zählwerks ge­
+stattet.— Ernst Schulze, Berlin. 20./12. 1899.
+„ c. Verfahren zur Herstellung von Drahtwiderständen, welche
+in evaeuirte oder mit indifferenten Gasen gefüllte Gefässe
+eingeschlossen sind.— Allgemeine Elektricitäts-
+Gesellschaft, Berlin. 9./10. 1899.
+„ c. Elektrischer Umschalter, bestehend aus einer Anzahl mit
+isolirenden Zwisehenlagen versehenen Metallplatten.— James
+Robinson Hatmaker, London. 24./2. 1900.
+„ c. Isolator für elektrische Leitungen mit Einrichtung zur
+Verhütung des Tönens.— Rudolf T h o r m a n n, Dessau.
+6-/4. 1900.
+„ e. Motor-Elektricitätszähler. -— The Mutual Electric
+Trust Limited, Brighton. 1./7. 1899.
+„ e. Ankor-Motor-Elektricitätszähler.— Charles Perdrisat,
+Lausanne. 16./2. 1900.
+„ f. Selbstthätige Anlass Vorrichtung für Elektrolytlampen.—
+Ewald Rasch, Potsdam. 8./11. 1899.
+„ h. Oeldichte Stromzuführungsvorrichtung für elektrische Heiz­
+körper.— Allgemeine Elektricitäts-Gesellschaft,
+Berlin. 15./8. 1898.
+40 a- Elektrischer Lichtbogenofen.— Deutsche Gold- und
+Silber-Seheide-Anstalt, vorm. Rössler, Frank­
+furt a. M. l./l. 1899.
+Deutsche Patentertheilungen.
+Classc
+12 h. Elektrodeneinrichtung.— The General Electrolytic
+Patent Company, Limited. I8./8. 1899.
+20 i. Elektrisches Stellwerk mit mehrflügeligen Eisenbalmsignalon.
+—- C. Stahmer, Georgmarienhütte. 20./10. 1897.
+20 k. Stromzuführung vom stromliefernden Wagen eines elek­
+trisch betriebenen Zuges zu den übrigen Wagen.— Siemens
+& Halske, Aetien-Gesellschaft, Berlin. 22./11.1899.
+20 1. Trommelschalter für, Elektromotoren.— H. Leitner,
+London. 28./6. 1899.
+„ Schalteinrichtung für solche olektiisehe Fahrzeuge, bei welchen
+die Regelungsschalter der Fahrmotoren durch Hilfsmotoren
+H
+Der Widerstand ist als Ring Ti R von vorhältnissmässig
+grossem Querschnitt ausgebildot und mit radialen Armen .1 A,
+welche zu den inducirten Leitern L führen, ausgestattet. Bei
+geringerer Geschwindigkeit des inducirten Thoiles nimmt in Folge
+geringerer Wärmeabgabe der Widerstand desselben zu und bei
+grösserer Geschwindigkeit in Folge stärkerer Wärmeabgabe ab.
+Ernst Kleinert in Berlin.— Scbaltvorriclitung für elektrische
+Beleuchtung von Treppenhäusern und ähnlichen Räumen.—
+Classe 21 c, Nr. 112.370 vom 7. März 1899.
+Fig, 2.
+Die Erfindung besteht in einer Schaltvorrichtung für elek­
+trische Beleuchtung von Treppenhäusern oder sonstigen neben-
+. aq
+
+Seite 596.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 49
+oder übereinander liegenden Räumen, bei welcher durch vorüber­
+gehendes Schliessen eines Hilfsstromes ein elektrischer Motor m
+in Thätigkeit gesetzt wird, welcher zum Einschalten der Lampen
+I, II, III, IV nacheinander eine Schaltscheibe s in einmalige
+Umdrehung versetzt. Das wesentliche Merkmal besteht darin,
+dass, wenn nur die Hälfte oder eine noch geringere Zahl der
+Lampen eingeschaltet werden soll, durch Schliessung eines be­
+sonderen Stromkreises mittelst eines Druckknopfes k oder l die
+Umdrehungsrichtung des Motors umgekehrt werden kann, so dass
+er früher in die Ruhelage zurückkehrt, als wenn er die Um­
+drehung im ursprünglichen Sinne vollendet hätte.
+Geschäftliche und finanzielle Nachrichten.
+Niederschlesisclie Eleitricitäts- und Kleinbahn-Gesell­
+schaft in Waldenburg. Das am 30. Juni laut Rechenschaftsbe­
+richtes beendete Geschäftsjahr hat recht befriedigende Fort­
+schritte gebracht. Die Fernleitungen u. s. w. wurden durch neue
+Linien nicht erweitert, dagegen im Innern nicht unbeträchtlich
+ausgebaut. Zwecks Anschlusses neuer Consumenten an die vor­
+handenen Netze wurden im verflossenen Geschäftsjahr neu auf­
+gestellt 17 Transformatoren von 690 KIV Leistung. Es wurden
+weiter verlegt 4024 m Kabel und 11.800 m blanke Leitungen. Die
+beiden Ortsnetze Hermsdorf und Görbersdor f wurden
+im Juli 1899 dem Betriebe übergeben. Namentlich das Görbers-
+dorfer Netz entwickelte sich recht gut. InFreiburg war, um
+die Leistungsfähigkeit des Ortsnetzes zu vergrössern, die Auf­
+stellung eines neuen 10 000 E-Transformators erforderlich. Die
+Nachfrage nach elektrischem Strom für Licht- und Kraftzwecke
+ist eine sehr rege gewesen, die Zunahme der Anmeldungen be­
+lief sich auf 49o/o. Am 30. Juni 1899 waren angeschlossen 513
+Anlagen gleich 653 li\V an Licht und 476 KW an Kraft mit 76 Mo­
+toren, am 30. Juni 1900 776 Anlagen gleich 929 KW an Licht
+und 7HO KW an Kraft mit 140 Motoren. Anmeldungen lagen am
+30. Juni 1900 noch vor für 33 Anlagen mit 3767 KW an Licht
+und 29.358 ATI' an Kraft mit 18 Motoren. Der Verkehr ist in
+diesem Jahre relativ etwas niedriger gewesen. Die Ursache dazu
+liegt darin, dass mit Rücksicht auf die Betriebsausgaben eine Er­
+höhung des anfangs üblichen Bahntarifes sich als unumgänglich
+nothwendig erwies. Die Folge davon war zunächst ein Rückgang
+in der Frequenz, welcher sich inzwischen wieder ausgeglichen
+hat. Es ist noch zu erwähnen, dass die Vorarbeiten und Ver­
+handlungen über die event. Einführung des Güterverkehrs im
+Gange sind. Das verflossene Jahr hat recht erhebliche Störungen
+im Bahnbetriebe gebracht. Durch den harten und schneereichen
+Winter litten bei den Terrain Verhältnissen die Motorwagen in
+ganz erheblichem Maasse. An 48 Tagen musste der Verkehr ein­
+geschränkt und an 6 Tagen vollständig eingestellt werden. Ab­
+gerollt wurden 788.619 Wagen-Kilometer. Befördert wurden
+2,369.012 Personen. Die Jahreseinnahmen betrugen 237.351 Mk.,
+d. h. 29'8 Pf. pro Wagen-Kilometer oder 17.58P60 Mk. pro
+Strecken-Kilometer und Jahr. Bei der Licht- und Kraftabtheilung
+betrug der Betriebsüberschuss 25.555 Mk., bei der Bahnanlage nur
+233 Mk, wozu noch Zinsen, Miethseinnahmen und der vorjährige
+Saldo kommen, so dass ein Ueberschuss von 41.412 Mk. verbleibt.
+Hiervon wird eine Dividende von 1/2% gleich 25.000 Mk.
+ausgeschüttet, während der Rest zu Abschreibungen u. s. w. ver­
+wendet wird. Am Schluss wird bemerkt, dass die Einnahmen der
+ersten drei bis vier Monate des laufenden Geschäftsjahres gegen
+die des Vorjahres ein Mehr von 19.239 Mk. aufweisen.
+Die Teleplion-Fabrik Actien-Gesellschaft vormals J. Ber­
+liner theilt uns mit, dass sie vom 19. d. M. ihre Fabrik und
+Bureaux nach XIII, Missindorfstrasse 21 verlegt hat.
+Compagnie Parisienne de PAir Comprime. Der Ver­
+waltungsbericht der Gesellschaft per 30. Juni bekundet, wie der
+„Frankf. Ztg.“ geschrieben wird, eine weitere Ausdehnung der
+Llektricitätslieferungen derart, dass die gegenwärtigen Produc-
+tionsmittel im nächsten Jahre verstärkt werden müssen. Es wurde
+demgemäss eine neue Maschine von 1200 PS bestellt. Besonders
+<he Lieferungen für Betriebskraft sind in Zunahme begriffen, die
+Zahl der bedienten Motoren erhöhte sich von 306 auf 485, die
+einen. Potaleffect von 17.707 Lampen von 16 Kerzen (gegen
+7195 i. V.) gleichkommen. Insgesammt belaufen sich die Abon­
+nements für Elektricitäts-Lieferung auf 240.807 Lampen zu 16
+Kerzen gegen 174.909 im Vorjahre. Weniger günstig präsentirt
+sich der Betriebszweig der comprimierten Luft. Die Gesammt-
+iänge der Leitungen für Betriebskraft hat sich von 176.733 auf
+212.988 m erhöht, während sie für den Uhrendienst sich bei
+70.556 m etwas verringert hat. Die Zahl der Abonnenten für
+Druckluft hat sich von 1231 auf 1475 erhöht, während sich die
+in Betrieb befindlichen Uhren von 4180 auf 4129 reducierten. Da
+die elektrischen Werke des Metropolitain nicht rechtzeitig fertig­
+gestellt werden konnten, wurde der Gesellschaft die Lieferung
+eines Theiles der nöthigen F.lektricität bis Anfang October über­
+tragen. Die' Elektricitäts-Erzeugung hat ein Erträgnis von 3-15
+Millionen Francs (i. V. 2- 30 Millionen Francs) und die Druck­
+luft 107.415 Frcs. (113.550 Frcs.) ergeben. Die Betriebskosten er­
+höhten sich durch die Preissteigerung der Kohlen um 90.000 Frcs.
+Im laufenden Jahre wird die Erhöhung bedeutender sein, da alle
+neuen Kohlenlieferungsverträge zu höheren Sätzen abgeschlossen
+werden mussten. Der Reingewinn stellt sich auf 2- 03 Milk
+(1'43 Mill.). Auf Grund der vorjährigen Beschlüsse wird derselbe
+dem Special-Tilgungsfonds zugeführt, der als Betriebsfonds zu
+dienen hat und der sich hierdurch auf 3'40 Mill. erhöht. Für das
+laufende Geschäftsjahr werden trotz der erhöhton Preise für
+Kohlen und Rohmaterial gesteigerte Erträgnisse in Aussicht ge­
+stellt. Aus den gegebenen Ziffern geht hervor, dass die Elektri­
+citäts-Erzeugung der Gesellschaft, ebenso wie den übrigen gleich­
+artigen Unternehmen, befriedigenden Gewinn einträgt, dass jedoch
+die Druckluft-Abtheilung ein Krebsschaden ist und bleibt. Ein
+Erträgnis von ungefähr 100.000 Frcs. steht in keinem Verhältnis
+zu einem Leitungsnetz von 283.000 »1, das natürlich fortwähren­
+den Unterhalt bedarf und immer mehr ausgedehnt werden muss.
+Neueste Preisliste der Fabrik elektrischer Koch- und
+Ileiz-Apparate „P rometheu s“ in Frankfurt a. M.
+Zum Kupfer-Monopol in den Vereinigten Staaten. Wie
+dem „B. B. C.“ aus Boston vom 6. November geschrieben wird,
+waren an der Bostoner Börse, dem bedeutendsten Kupferminen-
+Markt.e der Vereinigten Staaten, die Actien der Boston and
+Montana-Mine seit wenigen Wochen Gegenstand äusserst
+lebhafter Transactionon. Ausserordentlich grosse Käufe sollen für
+Rechnung der Amalgamated Copper Co. (Kupfer-Trust)
+erfolgt sein, welche bekanntlich eine Schöpfung der Standard
+Oil Co. ist, und wird hierbei in Erinnerung gebracht, dass die
+Gründung der Amalgamated Copper. schon von allem Anfang an
+nicht als Endzweck, sondern nur als ein Schritt zu einem noch
+viel gigantischerem Unternehmen bezeichnet worden war: der
+Consolidation sämmtlicher grosser Kupfer-Gesellschaften der
+Vereinigten Staaten! Der nächste grosse Handel soll die Absorp­
+tion der Boston& Montana seitens der Amalgamated Copper Co.
+sein. Erstere Gesellschaft hat in diesem Jahre 4,200.000 Doll.
+= 113% ihres Actien Capital s an Dividenden ausgezahlt. Die
+Jahres-Dividende der Amalgamated Copper betrug 6 Millionen
+Dollar, was umso bemerkenswerther ist, als dieselbe direct keine
+Kupferminen betreibt, sondern nur bedeutende Minen, wie
+namentlich die Anaconda und die Parrot-Minen coutrolirt. Die
+beiden genannten Minen haben im laufenden Jahre unabhängig
+von der Amalgamated Copper an Dividenden 4,800.000 Doll.
+(16o/ 0) beziehungsweise 1,379.000 Doll. (60o/ 0) ausgeschüttet.
+(Vergi. II. 12, S. 148. 1900.)
+Laut „Frankf. Ztg.“ wurde in Bilbao eine neue Elektri-
+citiitägesellscliaft mit einem Capital von 10 Millionen Pesetas
+errichtet, welche die Ausbeutung der Wasserkräfte hauptsächlich
+in der Minengegend von Carthagona bezweckt.
+Vereinsnachricliten.
+Die nächste Vereinsversammlung findet Mittwoch
+den 5. Decemher 1. J. im Vortragssaale des Wissen­
+schaftlichen Club, I., Eschenbachgasse 9, 1. Stock,
+7 Uhr abends statt.
+V o r t r a g des Herrn Ingenieur Ludwig K a 11 i r:
+„U eher compoundierte Wechselst ro m-
+generatore n.“
+Die Vereinsleitung.
+Schluss der Redäction: 27. November 1900.
+Verantwortlicher Redacteur: Dr. J. Sahulka.— Selbstverlag des Elektrotechnischen Vereines.
+Connmssionsverlagbei Spielkagen&Seh urich, Wien.— Alleinige Inseraten-Aufnahmebei Haasenstein& Vogler (Otto Maass), WienundPrag
+Druck von B. Spies& Co., Wien.
+

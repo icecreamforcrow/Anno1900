@@ -1,0 +1,1417 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 14.
+WIEX, 1. April 1900.
+XVni. Jahrgang.
+ist nur unter der Quellenangabe
+HCTYievItllTlf/eTl dev Redactzofi: Ein Nachdruck aus dem redactionellen Theile der Zeitschrift
+r Z. f E. Wien“ und bei Originalartikeln überdies nur mit Genehmigung der Redaclion gestattet.
+, Eie Einsendung von Originalarbeiten ist erwünscht und werden dieselben nach dem in der Redadionsordnunq festgesetzten Tarife
+hmonrt. Die Anzahl der vom Autor event. gewünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Manusci'ipte bekannt gegeben werden.’
+INHALT:
+Amvondung der automatischen Fehlermelde-Einrichtung in
+concentrischen, hochgespannten Wechselstrom- Kabel­
+netzen. Von Franz Probst 161
+Gewichtsökonomie bei Dynamomaschinen. Von E. Rosen-
+kerg 165
+Kleine Mittheilungen.
+Ausgeführte und projectirte Anlagen ....
+Patentnachrichten
+Geschäftliche und finanzielle Nachrichten..
+167
+168
+169
+Anwendung der automatischen Fehlermelde-Einrichtung
+in concentrischen, hochgespannten Wechselstrom-Kabel­
+netzen.*)
+Von Franz Probst, Vorstand des Kabelbureau der Internationalen
+Elektricitäts-Gesellschaft.
+Der normale Isolationswiderstand eines concen-
+trisclien Kabelnetzes für hochgespannte Wechselströme
+beträgt in der Regel mehrere hundert Megohm per
+Kilometer, während der Isolationswiderstand der im
+Netze eingebauten einzelnen Schalter, Transformatoren.
+Endverschlüsse u. s. w. nicht viel grösser als 50 his
+100 Megohm ist. Daraus erklärt es sich, dass ein aus­
+gebreitetes, grosses Netz mit vielen Einzeln-Transfor-
+matorstationen einen verhältnismässig niedrigen Iso­
+lationswiderstand aufweisen wird. Andererseits ist es den
+dem concentrischen System anhaftenden Condensator-
+wirkungen zuzuschreiben, dass das Potential des
+Aussenleiters gegen Erde ein verschwindend nie­
+driges ist.
+In einem kleinen, gut isolirten, concentrischen Kabel­
+netze mit wenig Transformatorstationen würde ein
+Fehler im Aussenleiter den Isolationswiderstand und
+damit auch das Potential verringern und könnte durch
+tägliche, während des Betriebes vorgenommene Iso­
+lationsmessungen constatirt werden. Bei grossen, aus-
+gebreiteten Netzen jedoch ist— wie oben gesagt—
+der Isolationswiderstand des Aussenleiters sehr niedrig,
+daher kaum messbar, und wären Isolationsmessungen
+zwecklos. Ausserdem müssen grosse, concentrische
+Kabelnetze, um sie gegen die verheerenden Wirkungen
+der statischen Entladungen **), welche infolge der Con-
+densator-Erscheinungen im concentrischen Systeme auf-
+treten, zu schützen, mit ihren Aussenleitern an Erde
+gelegt werden. In vielen Fällen lehrt die Erfahrung,
+dass es nicht einmal genügt, diese Erdung nur an
+einem Punkte des Netzes vorzunehmen; es musste dies
+vielmehr an mehreren Stellen bewirkt werden, um die
+Isolationsschichte des Aussenleiters vor den zerstörenden
+Entladungen zu sichern.
+*) Vergl. „Elektrotechnische Zeitschrift“ Berlin, Heft Nr. 11
+ex 1893; Vortrag von Dr. M. Kall mann über: „Einrichtungen
+zur dauernden Controlle des Isolationszustandes und selbstthätigen
+Anzeige der Fehlerstellen elektrischer Leitungsnetze“.
+**) Vergl. Neustadt, „Elektrotechnische Zeitschrift“, Berlin,
+Heft 18 ex 1893 und Kapp, Heft 52 ex 1899.
+Im Wiener Kabelnetze der Internationalen Elek­
+tricitäts-Gesellschaft wird der Aussenleiter seit mehreren
+Jahren durch eine Art Blitzschutzvorrichtung mittelbar
+geerdet, welche in der Wiener „Zeitschrift für Elektro­
+technik“, Heft Nr. 3 ex 1900 beschrieben wurde. Trotz
+dieser Schutzmaassregel ereignen sich'aber doch noch Fälle,
+dass die Isolationsschichte des Äussenleiters durch
+Entladungen zerstört wird, und ausserdem können auch
+mechanische Verletzungen eintreten. Dieser Fehler in der
+Aussenisolation würde an und für sich für den Betrieb
+keine nachtheiligen Folgen haben, wenn an der Iso­
+lationsschichte keine weitere Veränderung eintreten
+würde. Dies ist aber eben der Fall, weil durch den
+entstandenen Defect nicht blos statische Einladungen,
+sondern auch vagabundirende Ströme fliessen, was zur
+Folge hat, dass die Fehlerstelle erwärmt wird. Dieser
+Umstand, sowie die eindringende Feuchtigkeit tragen
+dann dazu bei, dass sich die begonnene Zerstörung
+gegen die Mitte des Kabels fortsetzt und auch die
+Isolationsschichte zwischen dem Aussen- und Innen­
+leiter beeinflusst wird. Auf diese Weise entsteht dann
+aus dem anfangs harmlosen Erdschluss allmälig, aber
+sicher ein Kurzschluss.
+Um solche Defecte im Aussenleiter des Netzes,
+insbesondere bei grösseren Kabelnetzen, wo erwähnter-
+maassen der Isolationswiderstand ein sehr niedriger ist
+und daher mit Messungen nichts erreicht werden kann,
+rechtzeitig zu entdecken, bevor der Schaden dem Be­
+triebe gefährlich wird, ist es nothwendig, automatische
+Fehlermelde-Anzeiger vorzusehen. Bei der Internatio­
+nalen Elektricitäts-Gesellschaft wurde eine solche Ein­
+richtung, ähnlich wie sie vom Oberingenieur A g t h e
+für das Berliner Gleichstromnetz der Allgemeinen Elek­
+tricitäts-Gesellschaft benutzt wird, in ihrem concen­
+trischen Kabelnetze eingeführt. Die Anordnung für diese
+Einrichtung beruht auf der Verwendung von Prüf­
+drähten. Im Wiener Kabelnetze der Internationalen
+Elektricitäts-Gesellschaft sind die Prüfdrähte, wie aus
+Fig. I und 2 ersichtlich ist, isolirt im Aussenleiter,
+u. zw. diametral einander gegenüber angebracht.
+Die einfachste Art, eine automatische Fehlermelde-
+Einrichtung zu erhalten, wäre die, den Prüfdrähten im
+Aussenleiter die Spannung des Innenleiters zu geben.
+Dies ist aber infolge der dem concentrischen System
+anhaftenden Eigenthümlichkeiten und wegen der vor­
+herrschenden Capacitätsverhältnisse nicht ohne schwierige
+
+Seite 162.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 14.
+Isolationsmaassregeln durchführbar. Wir nehmen daher
+zu einem Hilfsmittel Zuflucht, den Umstand benützend,
+dass das Potential des Aussenleiters beinahe Null ist,
+und dieser demnach so gut als wie geerdet angesehen
+werden kann. Nehmen wir nun in der Centrale einen
+transformirten, circa lOOvoltigen Strom und verbinden
+den einen Pol dieser Stromquelle mit dem Aussenleiter
+des Kabels, respective mit Erde und den anderen Pol
+Fig. 1.
+mit den beiden Prüfdrähten, so wird, sobald infolge
+einer mechanischen Verletzung oder durch einen
+sonstigen Defect die Isolationsschichte zwischen Aussen­
+leiter und Prüfdrähten zerstört wird, ein Stromschluss
+stattfinden, der mittelst eines von der Allgemeinen
+Elektricitäts-Gesellschaft in Berlin bezogenen Klappen-
+Apparates in der Centrale zur Anzeige gebracht wird.
+In der Fig. 3 führen die Prüfdrähte a, h. c, d etc.
+aus den Primär-EndVerschlüssen E±, E z zum Klappen­
+schranke, u. zw. gehen die Leitungen durch die Wider­
+stände Wj, W 2 u. s. w. zu den Relais mit den dazu­
+gehörigen Fallklappen 7c 1; 7r 2 u. s. w. und von diesen
+Fallklappen zu einer gemeinschaftlichen Leitung, welche
+zu dem einen secundären Pol des Transformators T
+führt, während dessen zweiter secundärer Pol an Erde
+gelegt ist. Die Prüfdrähte selbst führen von den End­
+verschlüssen durch die Hauptkabel und längs derselben
+zu den Schaltkästen etc. In den Schaltkästen sind diese
+Drähte durch ausschaltbare Bleisicherungen geschützt,
+und ausserdem ist daseihst, wie aus Fig. 4 ersichtlich,
+eine Schaltvorrichtung vorgesehen, welche den Zweck
+hat, ein eventuelles Eindringen von Wasser in den
+Kasten automatisch anzuzeigen.
+Wie aus Fig. 4 weiters ersichtlich, führt von der
+im Schaltkasten befindlichen Prüfdraht-Bleisicherung e,
+bei f abzweigend, eine Leitung zu dem auf der Aus­
+gussmasse des Schaltkastens befindlichen ringförmigen
+Leiter g. Dieser Leiter ist durch die Isolationsmasse,
+auf welcher er ruht, vollkommen isolirt. Dringt in den
+Schaltkasten Wasser ein, so wird dieses den ringför­
+migen Leiter g und damit auch den dazugehörenden
+Prüfdraht entweder mit dem Metallgehäuse oder der
+Contactfeder des äusseren Leiters des Schaltkastens
+oder mit beiden verbinden und dadurch einen Strom­
+schluss und das Fallen der dazugehörigen Prüfdraht­
+klappe des Meldeapparates verursachen. Die Klemmen
+des Innenleiters sind im Schaltkasten durch die in die
+Ausgussmasse hineinreichenden Porzellankästchen vor
+Eindringen des Wassers geschützt. Es ist daher die
+Möglichkeit gegeben, dem Eindringen rechtzeitig vor­
+zubeugen, bevor das Wasser bis über die Porzellan­
+kästchen des Innenleiters ansteigt.
+Sobald ein Fehler im Aussenleiter auftritt, ist es
+beinahe gewiss, dass einer der Prüfdrähte gleich mit­
+verletzt oder aber dessen Isolation von dem durch den
+vorgedachten Defect fliessenden Strom allmählig zer­
+stört wird und daher ein Stromübergang zum Aussen­
+leiter oder zur Erde entsteht, was sich in der Centrale
+durch Fallen der betreffenden Klappe kenntlich macht.
+Solcherart würden z. B., wenn laut Fig. 3 eine Ver­
+letzung des Kabels in dem Punkte Y stattfindet, beide
+Prüfdrähte in Mitleidenschaft gezogen werden und dem­
+nach die Klappen I und 2 functioniren, was den Be­
+weis dafür liefert, dass die Störung in dem ersten
+Theile des Kabels stattgefunden hat. Tritt ein Fehler
+bei X oder P auf, so würde im ersteren Falle nur die
+Klappe 1, im letzteren Falle blos die Klappe 2 fallen.
+Auf diese Weise kann jedes Kabel mit seinen Abzwei­
+gungen in drei Sectionen getheilt werden, und die Auf­
+findung eines so gemeldeten Fehlers ist bedeutend ver­
+einfacht.
+Sobald sich nun ein Fehler durch Fallen einer
+Klappe anzeigt, obliegt es dem Betriebs-Ingenieur, so­
+fort zur Behebung desselben zu schreiten, bevor noch
+der Schaden eine ernste Störung verursachen kann. Die
+Strecke, innerhalb welcher sich der Defect befindet,
+wird dann ermittelt, indem man die Prüfdrähte von
+Schaltkasten zu Schaltkasten untersucht, bis der Fehler
+so weit eingegrenzt ist, dass er sich in einer Kabel­
+strecke zwischen zwei Schaltkästen befindet. Die schad­
+hafte Strecke wird sodann ausgeschaltet und der ge­
+naue Ort des Fehlers durch Messungen erhoben. Die
+Ausschaltung dieser Strecke muss übrigens nicht un-
+
+Nr. 14.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 163.
+mittelbar erfolgen, sondern es kann dies, wenn sieb die
+unbedingte Nothwendigkeit ergibt, das Kabel unter
+Strom zu belassen, auch später, zu einem geeigneteren
+Zeitpunkte geschehen. In solchem Falle muss aber die
+Strecke mit sehr schwachen Abschmelzsicherungen ver­
+sehen werden, damit sich dieselbe, wenn der Fehler zu
+einem Kurzschluss ausartet, durch Abschmelzen dieser
+Sicherungen automatisch und sicher ausser Betrieb
+setzt. Die Bestimmung des Fehlers durch Messungen
+geschieht nach einer der vielen Methoden, wie sie in
+dem von Dr. 0. Fröhlich herausgegebenen Buche:
+„Isolations- und Fehlerbestimmungen an elektrischen
+Anlagen“ oder in dem von Charles F. R a p h a c 1 ver­
+fassten Werke: „The Loealisation of faults in electric
+light mains“ beschrieben sind. Für solche Messungen
+muss das fehlerhafte Kabel jedenfalls stromlos gemacht
+
+Seite 164.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 14.
+
+Nr. 14.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 165.
+und von den angeschlossenen Transformatoren befreit
+werden; es wird jedoch durch diese Messungen nicht
+immer ein directer Erfolg erzielt. Ich werde in einem
+späteren Aufsatze zeigen, wie man die besprochenen
+Felder durch die von mir für concentrische Kabelnetze
+angewendete bekannte Inductionsmethode viel rascher
+und ohne Zeitverlust auffinden kann, ohne dass eine
+Abschaltung der Transformatoren und Anschlüsse
+nütliig ist.
+Durch die Anwendung automatischer Fehlermelde-
+Einrichtungen ist dem Betriebe zweifellos ein werthvolles
+Hilfsmittel gegeben, um Störungen hintanzuhalten. Man
+wird, sobald ein Fehler entsteht, sofort von demselben
+unterrichtet und kann unverweilt alles vorkehren, wo­
+durch eine Störung vermieden wird. Die Internationale
+Elektricitäts-Gesellschaft hat diese Anordnung bei ihrem
+Wiener Kabelnetze probeweise in Gebrauch genommen
+und damit so gute Resultate erzielt, dass sie darangeht,
+die Einrichtung auf alle mit Prüfdrähten ausgerüsteten
+Kabel auszudehnen.
+Gewichtsökonomie bei Dynamomaschinen.
+Vortrag, gehalten im Elektrotechnischen Verein am 3. Jänner 1900
+von Ingenieur E. Rosenberg.
+Der praktische Constructeur hat häufig eine Reihe
+von Aufgaben zu lösen, die der Mathematiker mit dem
+einem Worte „Maximum- Minimum- Aufgaben“ be­
+zeichnet; er soll entweder mit gegebenen Mitteln einen
+maximalen Effect oder einen bestimmten Effect mit
+einem minimalen Aufwand von Geld, Material, Zeit,
+Intelligenz erzielen. Die Forderung, mit einem Minimum
+an Intelligenz bei der Bedienung auszukommen, ist eine
+Hauptforderung bei Apparaten, die fast jedermann zu­
+gänglich sein sollen: bei Aufzugs- und Krahnanlassern,
+bei Strassenbahn-Controllern u. s. w. Bei den Gleich­
+strom-Dynamomaschinen ist das Minimum an intelli­
+genter Bedienung dann erreicht, wenn sie gar keine
+oder möglichst wenig äussere Regulirung braucht, gar
+keine Bürstenverschiebung benöthigt, oder wenigstens
+ohne Bürstenverschiebung bei keiner Belastung, die
+innerhalb ihrer Leistungsgrenze gelegen ist, gefährlich
+funkt.
+Wir wollen uns nun vorläufig mit dieser Forde­
+rung nicht befassen, sondern nur auf die beiden erst­
+genannten: Minimalaufwand an Material und Minimal­
+aufwand an Geld, eingehen. Es soll untersucht werden,
+wie der Constructeur durch passende Wahl der von ihm
+zu bestimmenden Grössen, wie Verhältnis von Anker­
+länge zu -Durchmesser, Form der Magnetschenkel und
+des Kranzes, Grösse der Inductioil in Luft und Eisen,
+das Gewicht oder die Herstellungskosten seiner Maschine
+zu einem Minimum machen kann. In speciellen Fällen,
+so besonders bei Maschinen für transportable Zwecke,
+ist das erstere die Hauptforderung, in der Regel jedoch
+das letztere. Wir wollen bei Untersuchung dieser Frage
+von theoretischen Erwägungen und nicht von aus der
+Praxis geschöpften Formeln ausgehen, weil solche immer
+nur aus einer beschränkten Zahl von beobachteten Ma­
+schinen gewonnen sind und für andere Verhältnisse
+keine Geltung haben.
+Die dem Constructeur gestellte Aufgabe lautet zu­
+meist, eine Dynamomaschine von bestimmter Leistung EJ
+mit bestimmter Tourenzahl n zu bauen. Die Touren­
+zahl ist z. B. bei grösseren Generatoren für directe
+Kupplung durch die Tourenzahl des Antriebsmotors be- 1
+grenzt. Wir wollen annehmen, dass der Constructeur in
+allen anderen Verhältnissen vollkommen freie Wahl
+habe und wollen vorerst für die mehrpolige Aussenpol-
+type mit radial gestellten Magnetsehenkeln die ein­
+schlägigen Verhältnisse untersuchen.
+Die in einem Leiter inducirte elektromotorische
+Kraft ist bekanntlich das Product aus Induction, wirk­
+samer Länge des Leiters und Geschwindigkeit des­
+selben.
+E— B.l.v. 10~ 8
+Bei N T 0 in Serie geschalteten gleichwerthigen
+Leitern ist:
+E= B .l.v.N 0. IO- 8.
+B wäre die mittlere Induction auf dem ganzen We°’e,
+bei der Dynamo also die mittlere Induction am Anker­
+umfange.
+Nennen wir das Verhältnis des Polschuhbogens zu
+dem Bogen zwischen zwei benachbarten Polmitten a,
+und heisse die mittlere Kraftliniendichte in der Luft
+unter dem Polschuh B v so ist:
+B= a.. B 1.
+Die Umfangsgeschwindigkeit ist:
+wenn n die Tourenzahl pro Minute, D den äusseren
+Ankerdurchmesser bezeichnet.
+Es sei ferner p die Polzahl, r die Zahl der parallelen
+Stromkreise, ferner N die Gesammtzahl der wirksamen
+Ankerdrähte, dann ist:
+E=at.B 1 .l.-£-Dn.—. IO“ 8
+60 r
+und
+71 IV
+EJ=^.B 1 .l.-- .Dk.—. J.10-8,
+60 r
+wobei J den gesammten Maschinenstrom bedeutet.
+Wenn wir den in einem Leiter fliessenden Strom
+mit J 0 bezeichnen, so ist:
+J=r.J 0
+71 N
+E J= a..—. D Tr. —. r. J.. 10~ 8=
+60 r
+71
+o- 10" 8-
+a) b)
+Der Ausdruck a) stellt die Mantelfläche des Ankers,
+b) die gesammten Ampere-Windungen des Ankers dar.
+Wir wollen uns nun vorstellen, es wäre die Wicke­
+lung (wie bei einem glatten Anker) in einer homogenen
+Schicht von der Höhe h auf dem Anker vertheilt, die
+Stromdichte pro Quadratmillimeter dieser Schicht heisse /,
+dann ist:
+A’. J Q— D TT. h
+h j stellt uns bei glatten Ankern thatsächlich das Pro­
+duct aus Wickelungshöhe und Stromdichte (pro Qudrat-
+millimeter des rohen Wickelungsraumes gerechnet) dar;
+bei Nutenankern haben die Einzelausdrücke h und j
+keine directe Bedeutung, ihr Product ist jedoch die
+Zahl der Ampere-Windungen des Ankers pro Längen-
+
+Seite 166.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 14.
+einheit cler Peripherie. Dies in die frühere Formel ein­
+gesetzt, ergibt:
+E J= x. R t. -^r Z Dtz. Dzz.hj. 10- 8=
+= a.B 1 .~.% 2 .lD 2 .hj. 10~ 8,
+daher:
+— .ID 2—
+4
+EJ. 10 8
+I)
+it. 60
+x. B x .h j
+d. h. das äussere Volumen des Ankers, das „rohe
+Ankervolumen, ist unabhängig von dem Ver­
+hältnis zwischen Ankerlänge und -Durchmesser, also
+auch unabhängig von der Umfangsgeschwindigkeit, und
+ausser von den gegebenen Grössen nur abhängig
+von x, dem Verhältnis zwischen Polsehuh und Pol­
+bogen, B x der mittleren Luftinduction und hj der Zahl
+der Anker-Amperewindungen pro Millimeter Umfang;
+das Ankervolumen ist jeder dieser drei Grössen ver­
+kehrt proportional. Allerdings sind diese drei Grössen
+nicht unabhängig veränderlich, sie stehen vielmehr mit
+Ankerdurchmesser und Polzahl, welch’ letztere aus der
+Rechnung völlig herausgefallen scheint, in bestimmtem
+Zusammenhänge.
+Der Zusammenhang ergibt sich aus der bei jeder
+guten Maschine zu erfüllenden Hauptbedingung, dass
+sie ein funkenloses Commutiren ermögliche. Ueber die
+Bedingungen der funkenlosen Commutirung sind be­
+kanntlich zahlreiche Abhandlungen geschrieben und
+ausserordentlich complicirte Formeln aulgestellt worden.
+Wir wollen unseren Betrachtungen die eine einfache
+Rechnung ermöglichende Kapp’sche „Faustregel“ zu
+Grunde legen, dass behufs funkenfreier Stromumkehr
+an der vorderen Polspitze die Feldstärke unter einen
+bestimmten Werth nicht sinken dürfe, sind uns jedoch
+dabei dessen wohl bewusst, dass dieser „bestimmte“
+Werth keine Constante, sondern für Ring- und Trommel-,
+glatte und Nutenanker verschieden ist und nebstdem
+noch von der Damellenzahl des Collectors und ver­
+schiedenen anderen Factoren beeinflusst wird. Die so­
+genannten „Querwindungen“ des Ankers, als welche
+man die unter dem Polschuh befindlichen auffassen
+kann, erzeugen bekanntlich ein Feld 3F, das bei Gene­
+ratoren das primäre Feld an der vorderen Polspitze
+schwächt, das an der rückwärtigen verstärkt.
+s,,= W«. NJ°
+10
+1
+Zu
+wenn l L den Luftraum zwischen Polbohrung und Anker­
+eisen, doppelt gemessen, bezeichnet. Die Induction an
+der vorderen Polspitze ist:
+B'= B 1— iß', daher SP= B 1— B‘
+B,
+B
+4zz
+NJ n 1
+4 77
+x'
+D-.hj
+Zl
+10’’ V' Zn 10 P
+Wir erhalten demnach die wichtige Beziehung
+4 ic
+(Ri— B‘) .p.ljj
+10
+. x. D tz .hj
+1).
+Beziehung sich unter der Voraussetzung
+er-
+für eine —— 0—.-
+o*ibt, dass wir einen, bestimmten Luftraum ein be-
+stimmtes Polschuhverhältnis x, eine bestimmte Induc­
+tion B i und eine bestimmte Anker-Amperewindungs-
+zahl pro Längeneinheit annehmen. Dann ergibt sich:
+D 10 (R t— B').? L. la)
+P
+4 ir
+x. h j
+Wir können diese Gleichung, in der, von B‘ ab­
+gesehen, sechs Grössen Vorkommen, die alle als veränder­
+lich betrachtet werden können, in der mannigfaltigsten
+Art ausbeuten; vorläufig wollen wir untersuchen, was
+Auf der rechten Seite stehen nach der gemachten
+Annahme lauter constante Grössen, daher ist auch das
+Verhältnis— constant. Wenn wir daher z. B. die Um-
+P
+fangsgeschwindigkeit, mithin den Ankerdurchmesser
+einer Maschine vergrössern wollen, so müssen wir, um
+Polschuh Verhältnis, Induction, Anker-Amperewindungen,
+Luftraum beibehalten zu können, die Polzahl im gleichen
+Verhältnis mit dem Durchmesser vergrössern; dann
+bleibt das rohe Ankervolumen (Formel I) constant. Ver-
+grossem wir jedocb den Durchmesser? ohne die Pol-
+zahl zu ändern, so muss entweder x oder hj kleiner,
+bezw. B 1 oder A grösser werden. Die beiden ersten
+Eventualitäten vergrössern das Ankervolumen, weil x
+und hj im Nenner des Bruches (I) stehen, die Ver-
+grösserung des Luftraumes /l lässt das Ankervolumen
+unberührt, vergrössert aber das Magnetgewicht, während
+die Vergrösserung von Rj sich in einer Erleichterung
+des Ankers, jedoch in einer Erschwerung des Magnet­
+feldes äussert.
+Das Volumen des wirksamen Anlcertheiles, der
+Ankerbleche, ist:
+_J (D 2__ d 2 ).L
+wenn wir mit D 0 den inneren Durchmesser der Anker­
+bleche bezeichnen. Der Anker quer schnitt:
+(D- D 0). I
+muss die Gesammtzahl der aus einem Pol austretenden
+Kraftlinien :
+Z>
+$= Rj.
+P
+.1
+aufnehmen. Bezeichnen wir die Kraftliniendichte im
+Ankereisen mit R a, so ist:
+
+( D— D q)■ 1—
+B, cf. D tz
+B.
+B a
+P
+•z;
+D 0= D
+L B±_\
+l Ra‘ P r
+Das Ankerblechvolumen ist somit gleich
+D 2 l 2 V 1 -— ... II)
+B,. p
+Bf.p*
+Der Bruch ist in jedem Falle kleiner als 1;
+Ra P ..
+er wäre gleich 1, wenn D 0— 0 und x= 1 wäre, wen
+dann R< K'°= D R a ist; in allen wirklich vor-
+P
+kommenden Fällen ist der Zähler kleiner, der Nenner
+grösser.
+Daher ist der Minuend, der diesen Bruch in der
+ersten Potenz erhält, überwiegend gegen den Subtrahent,
+der die zweite Potenz darstellt. Im ganzen Ausdruck für
+das Ankerblechvolumen bleibt unter den erstgemachten
+Voraussetzungen alles constant bis auf die Grössen p
+
+Nr. 14.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seito 167.
+und %, von denen die erstere als dem Ankerdurch-
+messer proportional zu betrachten ist. Wäre auch K a
+constant, so würde der Klammerausdruck kleiner, wenn p
+und daher D wächst, allerdings nicht in gleichem Maasse
+kleiner.
+Fig. 1.
+Fig. 2.
+Nun können wir aber die Induction im Ankereisen
+bei verschiedenen Polzahlen nicht gleich lassen. Der
+Hysteresisverlust (somit auch die Erwärmung) des Eisens
+ist nach Steinmetz proportional der Polwechselzahl
+und der P6ten Potenz der Induction. Wollen wir nun,
+dass der Hysteresisverlust pro Cubikcentimeter der
+gleiche bleibe, so muss
+p. B a V6= Constant
+gesetzt werden.
+Wenn wir beide Seiten dieser Gleichung mit p 0-0
+multipliciren, so erhalten wir:
+p l6 .Bo,'- 6— C.p°'°
+10 1-6
+=V c. p™= c .y
+2-7_
+°' 6 =^ cYp.
+P% == V U. P u"= C. |/ P u
+Das Ankerblechvolumen ist somit gleich:
+2ait/7 1 a. 2 t 2 B x 2
+— D%1-
+4
+2 7 2 7
+c ’]/’ p c 2 J/% 2
+d. h. es wird wohl etwas kleiner, wenn die Umfangs­
+geschwindigkeit und damit p zunimmt, doch ist das
+Maass der Abnahme ein weitaus geringeres als das der
+Zunahme des Durchmessers.
+So beträgt z. B. das Ankerblechgewicht einer acht-
+poligen Dynamo für 250 KW bei 240 Touren 1070 %.
+Würde diese Dynamo sechspolig ausgeführt (Fig. 1) mit
+proportional verkleinertem Durchmesser, so
+wäre das Blechgewicht 1290 kg, bei ebensolcher
+zehnpoliger Ausführung (Fig. 2) 990 kg. Dabei
+ist aber zu berücksichtigen, dass einerseits die
+Tragconstruction, der Stern des Ankers bei
+grösserem Durchmesser schwerer wird, ander­
+seits sowohl Material als Arbeit mit zunehmendem
+Durchmesser sich bedeutend vertheuern. Kleinere
+Ankerscheiben lassen sich aus einem Stück
+stanzen oder schneiden, grössere müssen aus
+Segmenten zusammengesetzt werden. So kommt
+es, dass die Gestehungskosten des oben genannten
+sechspoligen Ankers trotz seines höheren Ge­
+wichtes um circa 20% kleiner sind, als die acht-
+poligen, während der leichteste zehnpolige Anker
+nahezu 50% mehr kostet als der sechspolige.
+(Fortsetzung folgt.)
+KLEINE MITTHEILUNGEN.
+Ausgeführte und projeetirte Anlagen.
+Oesterreich-Ungarn.
+a) Oesterreich.
+Aussig. (Elektricitätswer k.) Dio Gemeinde
+Vertretung von Aussig hat in ihrer Sitzung vom
+16. März I. J. den Beschluss gefasst, eino Kraftstation
+für Zwecke der Licht- und Kraftabgabe in eigener
+Regie zu betreiben. Die Anlage wird vorläufig fin­
+den gleichzeitigen Betrieb von 5000 Glühlampen
+ä 16 NK ausgebaut. Die Aussig-Teplitzer Eisenbahn
+hat sich bestimmt gefunden, den Strom für die Be­
+leuchtung ihrer Bahnhofanlagen in Aussig, circa
+110 Bogenlampen und 400 Glühlampen, von dem ge­
+planten städtischen Elektricitätswerko zu beziehen. Der
+Bau der Anlage wurde der Oesterreichischen
+Union- Elektrieitäts- Gesellschaft in
+Wien übertragen.
+•
+Lcesdorf. (Bewilligung zur Vornahme tech­
+nischer Vorarbeiten für eine Localbahn von
+Leesdorf nach Wittmannsdorf.) Das k. k. Eisenbahn­
+ministerium hat der Actiengesellschaft der Wiener
+Localbahnen in Wien die Bewilligung zur Vornahme
+technischer Vorarbeiten für eine normalspurige, für den Personen­
+verkehr mit elektrischer Kraft, für den Frachtenverkehr dagegen
+mit Dampfkraft zu betreibende Localbahn von Leesdorf unter
+Umgehung des Currayons von Baden und Weikersdorf
+zu einem geeigneten Punkte der Localbahn bis Vöslau zur Station
+Wittmannsdorf der k. k. Stnatsbahnen im Sinne der be­
+stehenden Normen auf die Dauer einos Jahres erthoilt.
+Troppau. (Bewilligung zur Vornahme t o c h-
+nisclier Vorarbeiten für ein Netz von elek­
+trischen Kleinbahnen in Troppau und Katha-
+r e i n.) Das k. k. Eisenbahnministerium hat dem Generalagenten
+der Dampfschiffahrts-Gesellschaft des Oesterreiehischen Lloyd
+in Prag, Bohumil Horsky, die Bewilligung zur Vornahme tech­
+nischer Vorarbeiten für ein Netz elektrisch zu betreibender
+Kleinbahnen im Gebiete der Landeshauptstadt Troppau und der
+Gemeinde Katharern mit den Linien:
+1. vom Nordbahnhofe durch die Bahnhofstrasse, der Jo­
+hannes- und die Töpfergasse auf den Oberring und sohin durch
+die Rudolfsgasso und die Olmützorstrasse bis zur Irrenanstalt;
+2. durch die Kathareiner Hauptstrasse und dio ltatiborer-
+strasse auf den Niederring und den Oberring und sohin durch
+die Sperr- und Ottendorfergasse bis zum Commuualfriedhofe;
+
+Seite 168.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 14.
+3. von der Linie 1 abzweigend über den Bahnring und
+durch die Teschnerstrasse bis zum Sehlachthofe und
+4. von der Linie 1 abzweigend durch die Jaktar- und
+Karlsauerstrasse bis zum Stadtparke im Sinne der bestehenden
+Normen auf die Dauer eines Jahres ertheilt.
+6) Ungai'n.
+Budapest. (Budapest er Strasseneisenbahn-
+Gesellschaft. Linie Budapest— Lipütfüld:Tech-
+nischpolizeilicheBegehung und Eröffnung des
+Betriebes.) Am 28. Februar fand unter Führung des Sections-
+rathes Arpäd Papp und mit Beiziehung der Vertreter der in-
+teressirten Staats-, Comitats- und Communalbehörden die tech­
+nischpolizeiliche Begehung der von der Direction der Budapester
+Strasseneisenbalm-Gesellschaft erbauten 4'5 km langen Linie Buda
+(Ofen) -Lipotfold (Leopoldifeld) statt. Die im Sehwabengebirgs-
+stock liegende neue Linie führt von ihrer Abzweigungsstation
+Palffy-Ter der Hauptlinie Budapest (via Franz Josef-Brücke)—
+Buda—Zugliget (Auwinkel) aus ihrer ganzen Länge nach als Berg­
+bahn mit Adhäsionsbetrieb auf durchaus zweigeleisigem eisernen
+Oberbau mit elektrischer Hochleitung. Die am Palffyplatze
+(111. Stadtbezirk) gelegene Stromerzeugungs-Centralstation, aus­
+schliesslich für den Dienst dieser Linie bestimmt, ist mit zwei
+Dynamomaschinen ii 700 PS ausgestattet. Die Trace der Linie,
+welche sowohl die im Thalzuge des Leopoldifeldes als auf der
+Wasserscheide in stetiger Erweiterung begriffene Villegiatur
+nebst Ofen auch mit den donaulinksuferseitigen Stadtbezirken
+verbindet, berührt die neu erbaute k. und k. Infanterie-Cadetten-
+schule und die Landes-Irrenanstalt. Nachdem die Commission den
+Bau der Bahn, die Beschaffenheit des vorläufig mit 40 Wagen
+dotirten Rollmateriales und die Einrichtung der Stromerzeugungs-
+Centralstation als entsprechend befand, ertheilte der Commissions­
+leiter ex commissione die Bewilligung zur sofortigen Aufnahme
+des Betriebes.
+(Bau der Linie am rechten Donauquai.)
+Die Budapester Municipalverwaltung hat, vorbehaltlich der mini­
+steriellen Genehmigung, das den Modus des Ausbaues der rechts­
+uferseitigen Quaibahn betreffende Project der Direction der Buda­
+pester Strasseneisenbahn-Gesellschaft gut geheissen. Diesem zufolge
+wir die neue Fortsetzung der von Alt-Ofen und weiterhin von
+der Margarethenbrücke aus längs dem Quai bis zum Brücken­
+köpfe führenden Linie, den Kettenbrückenplatz iii einem Tunnel
+unterfahrend, nächst dem Bruckbade Anschlüsse an die Linien
+Franz Josef-Brücke —Bruckbad und Attilastrasse—Christinen­
+städter Südbahnhof und nach Vollendung des Baues der Eskütcr
+(Schwurplatz)-Brücke auch an die bis zum Ostbahnhofe der königl.
+Ungar. Staatsbahnen führende grosse Radiallinie finden.
+Deutschland.
+Grandenz. Am 22. v. M. wurde zwischen der Nordischen
+Elektricitäts- und Stahl we rke-Actien-Gesel 1-
+schaft (vergl. II. 12, S. 148) und dem Magistrat der Stadt
+Graudenz der Kaufvertrag abgeschlossen, nach welchem dio der
+ersteren Gesellschaft gehörige elektrische Centrale und
+Strassen bahn vom 1. April ab in das Eigenthum der Stadt
+übergellt. Der Kaufpreis beträgt einschliesslich der noch zu
+liefernden 4 Motorwagen, einer Anzahl Motoren etc. 1,100.0(16 Mk.
+Patentnachrichten.
+Mitgetheilt von Ingenieur
+Victor Monatli,
+WIEN, I. J asomi rgottstra ss e Nr. 4.
+Liste der jüngst e r t h ei11 e n österreichischen
+ciasBo Patente.
+31. Pat.-Nr. 843. Giessform zur Herstellung von Accumulator-
+Rippenplatten mit nach aussen verengten Nuthen.— Johann
+Kornau], Betriebs-Director a. D. in München und Josef
+Hesse, Fabrikant in Fürth in Bayern. 20./1. 1898.
+20. Pat.-Nr. 650. Gemischtes Wechselstrom-Gleichstrom-Betriebs-
+system für elektrisch betriebene Fahrzeuge und Züge.— Max
+Deri, Ingenieur in Wien. 12./4. 1897.
+n Pat.-Nr. 673. Waggonfenster-Abdichtung.— Albert Rauscher
+Werkstätten-Cbef und Johann Schilhan, Heizhaus-Chef in
+Ungarn. 15/8. 1899.
+21 a. 1 at.-Nr. 652. Rufzeichenklinke.— Firma Siemens
+& Halske in Wien. 15./5. 1899.
+Classe
+21 a. Pat.-Nr. 670. Schaltung für gemeinschaftliche Fernsprech­
+leitungen zur Verhinderung des gleichzeitigen Anschlusses
+mehrerer Sprechstellen an dieselbe Leitung.— Julius Henrik
+West, Ingenieur in Berlin. 15./8. 1899.
+21 c. Pat.-Nr. 639. Neuerungen an elektrischen Vertheilungs-
+sytemen.— Charles Felton Scott, Elektrotechniker in Pitts­
+burgh, V. S. A. 15./5. 1899.
+„ Pat.-Nr. 666. Kabel mit einer dehnbaren Isolirung.— Firma
+Felten& Guilleaume in Carlswerk, Mülheim a. Rh.
+6./1. 1896.
+21 d. Pat.-Nr. 649. Ankerwickelung für durch Veränderung der
+Polzahl anzulassende Wechselstrommotoren.— Max D c r i,
+Ingenieur in Wien. 16./2. 1898.
+,, Pat.-Nr. 651. Anordnung zur Magneterregung von Dynamo­
+maschinen.— Max Deri, Ingenieur in Wien. 1./7. 1899.
+„ Pat.-Nr. 672. Schaltungsanordnung zur Erregung von Gleich­
+strom-Nebenschlussmaschinen und Motoren.— Adolf Sen ge 1,
+Professor in Darmstadt. 15./8. 1899.
+21 e. Pat.-Nr. 616. Vorrichtung zur Anzeige des Geschwindig­
+keits-Unterschiedes zweier Uhr- oder Laufwerke.— Emanuel
+Bergman n, Kaufmann in Berlin. 12./3. 1898.
+21 g. Pat.-Nr. 640. Elektrolytischer Stromrichtungswähler und
+Condensator. ■— Charles P o 1 l'a k, Director der Accumulatoren­
+werke System Po llak zu Frankfurt a. M. 1./6. 1899.
+„ Pat.-Nr. 671. Elektromagnet.— Adrien Louis Augustin
+Charles D’Arlincourt, Student in Paris. 15./8. 1899.
+40. Pat.-Nr. 646. Apparat zur Gewinnung von Metallen, bezw.
+Metall-Legirungen durch Elektrolyse.— Heinrich Bumli in
+Berlin. 15./6. 1899.
+20. Pat.-Nr. 716. Vorrichtung zum Spannen der Stromabnehmer­
+schnur.— Elektricitäts-Gesellschaft Felix Singer
+& Co., Actien- Gesellschaft und Rudolf B r a u n, In­
+genieur in Berlin. 1./9. 1899.
+„ Wagenolektromagnet zur Bremsung, Adhäsionsvermehrung
+und Steuerung von Apparaten im Bahnkörper.— Gesell­
+schaft zur Verwerthung elektrischer und
+magnetischer Stromkraft (System Schiomann
+& Kleinschmidt) Ad. Wilde& Co. in Hamburg
+19./3. 1899.
+„ Pat.-Nr. 749.. Elektrische Zugdeckungseinrichtung.— Theodor
+T iesenhausen, Oberst in Warschau, Russland. 19./9. 1899.
+21 b. Pat.-Nr. 702. Elektroden-Construction für Secundär-Batterien.
+— Gustave Philippart, Ingenieur in Paris. 15./5. 1898.
+21 c. Pat.-Nr. 710. Vorrichtung zur Verringerung der scheinbaren
+Selbstinduction von Leitern, die von Wechselstrom durch­
+flossen werden.— La S o c i e t <5 Anonyme pour 1 a
+Transmission d o 1 a Force par l’E lectrieite in
+Paris. 15./6. 1899.
+21. Pat.-Nr. 738. Neuerungen an Gleichstromvertheilungsanlagen.
+— Benjamin Garver L a m m e, Elektrotechniker in Pittsburg.
+15./5. 1899.
+21 f. Pat.-Nr. 717. Reflectorfassung für Glühlampen.— Firma.
+II. M ii t z& C o. in Wien. 1./8. 1899. "*
+40. Pat.-Nr. 728. Verfahren zur Verarbeitung von Nickel-, Kobalt-,
+Silber-, Blei- oder Kupfererzen auf elektrischem Wege. —'
+Compagnie Electro-Metallurgique dos Pro-
+cd d e s Gin et Leleux in Paris. 15./8. 1899.
+Classe. Deutsche Patent an meldungo n.*)
+12. Einrichtung zur Elektrolyse von Flüssigkeiten.— Paul
+Scho op, Wildegg, Schweiz. 17./7. 1899.
+i) Apparat zur elektrolytischen Herstellung von Bleichflüssigkeit.
+Dr. Wilhelm Stelzer, Colonie Grunewald. 18./1. 1899.
+20. Aufhängung für geschlossene Schutzrahmen an Strassenbahn-
+fahrzeugen mit Lenkachsen.— Siemens& Halske,
+Actien-Gesellschaft in Berlin. 13./6. 1899.
+„ Herausziehbarer Stromabnehmer für elektrische Bahnen mit
+Zuleitung in einem Schlitzcanal.— Siemens& II a 1 s k e,
+Actien-Gesellschaft, Berlin. 10./8. 1899.
+„ Leitungskuppelung für elektrisch betriebene Züge.— Sie­
+mens& Halske, Actien-Gesellschaft, Berlin. 29./8. 1899.
+21. Einrichtung zum Vorwärmen von aus Leitern zweiter Classe
+bestehenden Glühkörpern durch einen Lichtbogen.— Körting-
+& Mathiesen, Leutzsch-Leipzig. 22./12. 1898.
+*) Die Anmeldungen bleiben nach der Vorprüfung acht Wochen öffentlich
+aufgelegt. Nach§ ‘24 des Patent-Gesetzes kann innerhalb dieser Zeit Einspruch
+gegen die Anmeldung wegen Mangel der Neuheit oder widerrechtlicher Entnahme
+erhoben werden. Das obige Bureau besorgt Abschriften der Anmeldungen und
+übernimmt dio Vertretung in allen Einspruchs-Angelegenheiten.
+
+I
+Nr. 14.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 169.
+Classe
+21. System syntonischer elektromagnetischer Telegraphie.
+Dr. Oliver Josef L o d g e, Liverpool, Lancaster Engl. 22./1.1898.
+„Stabwickelung für den inducirten Theil von Mehrphasen­
+maschinen.— Benjamin Garver Lamme und John Purina ton
+Mallett, Pittsburgh, V. S. A. 14./8. 1899.
+„ Vorrichtung zur Erleichterung der Längsverschiebung von
+Schallwellen bei selbsttätigen Fernsprechschaltern.— Ludwig
+L o e w e& Co., A.-G. und Deutsche Waffen- und
+Munitions-Fabriken, Berlin. 13./10. 1898.
+„ Verfahren zur Umwandlung von ein- oder mohrphasigem
+Wechselstrom in Gleichstrom und umgekehrt.— Thomas
+Marcher, Dresden. 2./2. 1899.
+„ Vorrichtung zum Erhitzen eines Nernst’schen Glühkörpers
+durch einen elektrischen Heizkörper.— Dr. Otto Pilling
+Schicudingen, Prov. Sachsen. 18./5. 1899.
+26. Vorrichtung zum Oeffnen und Schliessen des Ventils von
+elektrischen Gasfernzündern.— Carl Savelsberg, Aachen
+15./4. 1899.
+20. Elektrische Locomotive. —Brown, Boverift Co. Baden
+Schweiz. 22./3. 1899.
+21. Ein Kabelträger für Vielfachumschalter.— Actien-Gesell-
+schaft Mix und Genest, Berlin. 18./11. 1899.
+„ Aufbau des Eisenkernes für elektrische Umformer.— Arthur
+Francis Berry, Harborough, Leicester, Engl. 19./3. 1899.
+n Augenblicksschalter mit durch schräge Flächen und Spann­
+federn bewirkter Schaltung.— Sigmund Bergmann Berlin
+20.,6. 1899. 8’
+„ Mit Metall- oder Metalloidsalzen versetzte Elektroden für
+Bogenlampen.— Firma Hugo Breme r, Neheim a. d. Ruhr.
+24./7. 1899.
+„ Hitzdraht-Leistungsinessor.— Richard Baue h, Potsdam
+L/8. 1899.
+„ Gleichstrom-Unipolarmaschine.— Gustav Dalen und Arthur
+Hultqvist, Stockholm. 12./7. 1899.
+„ Schmelzsicherung mit Schmelzkammer für hohen Druck
+Harry Phillips Davis, Pittsburgh, V. S. A. 2./5. 1899.
+„ Ihermosäule. Dr. L. Gottscho, Charlottenburg. 21./4
+1899. 6
+„ Thermosäule mit elektrischer Heizquolle.— Dr. L. G o 11 s c h o
+Charlottenburg. 21./4. 1899.
+„ Verfahren zur Isolirung untertheilter Eisentheile und dergl.
+von elektrischen Maschinen.— Felix Lecontc Ilerstal
+Belgien. 29./7. 1899.’
+„ Vorrichtung, um die Ausschläge frei schwingender Zeiger von
+Messinstrumenten zu addiren.— P. Rissler und H. Bauer
+Freudenstadt i. Württ. 7./3. 1899.
+ciaseo. Deutsche Patentertheilungen.
+6. Verfahren der elektrischen Behandlung wachsenden Getreides
+bei der Malzbereitung.— L. Joseph, Köln. 6./4. 1899.
+20. Vorrichtung zum Abschliessen des Längsspaltes des Leitungs­
+canals für elektrische Bahnen mit unterirdischer Strom­
+zuführung.— Cte. C. J. di Sto. S t o f an o, Turin. 18./5. 1899.
+„ Stromabnehmer für elektrisch betriebene Fahrzeuge.— W. A
+Rossel, Berlin. 22./7. 1899.
+21. Dreipolige Frittröhre.- W. II. Berne r, Elberfeld. 15./4.1899.
+„ Sperrvorrichtung für das Laufwerk von Bogenlampen—
+0. Opitz, Berlin. 12/4. 1899.
+„ Negative Elektrode für galvanische Elemente.— II deRufz
+de Lavison, Paris. 31./5. 1899.
+„ Verfahren zur Herstellung elektrischer Glühfäden für Glüh­
+lampen aus Carbiden.— W. L. V o o 1 k e r, London. 18./3. 1898.
+» Stromunterbrecher mit flüssigem Leiter.— N. Tesla New-
+York. 19./6. 1898.
+„ Mikrophon.— P. Germain, Auxerro, Yonne, Frankr. 8./7.1898.
+n Iragförmiger Masseträger für Sammlerelektroden; Zus. z Pat.
+J c ^‘ Eoppenburg’s Elemente und Accumulatoren,
+Wilde& Co., Hamburg. 5./4. 1899.
+„Elektrische Grubenlampe.— J. Glasmachers, Essen,
+Ruhr und C. Miller, Herten i. W. 24./5. 1899.
+„ Wechselstrombogenlampe mit Einrichtung zur Verminderung
+des Geräusches.— R. Belfield, London. 1./3. 1898.
+„ Llektiomagnetischer Schalter mit selbstthätiger Unterbrechung
+nach bestimmter Zeit. —P. Ho ff mann, Charlottenburg. 7./6.
+1898. 6
+„ Verfahren zur Erzeugung von elektrischem Licht nach Patent
+104.872- Dr. AV. Nernst, Göttingen. 19./6. 1898.
+„ Anordnung zur Messung der Arbeit eines Diebstromsystems;
+Zus. z. Pat. 107.110.— Siemens& Halske, Aetien-
+Gesellschaft, Berlin. 1./9. 1898.
+Claese.
+21. Schalter zum abwechselnden Einschalten zweier oder mehrerer
+Lampen.— Allgemeine Accum ulatoren-Werk e
+G. Böhmer& Co., Friedenau. 10./5. 1899.
+„ Regelungsvorrichtung für Bogenlampen mit horizontalen Kohlen.
+J. B o u 111 e t, Levallois-Perret, Seine, Frankr. 8./6. 1899.
+” Verfahren zur Herstellung von Nuthonankern.— J, Burke
+Berlin. 25./6. 1899.’
+„ Schalter für starke Ströme mit Unterbrechung durch eine
+Schmelzsicherung.— Allgemeine Elektricitäts-
+Gesellschaft, Berlin. 6./4. 1899.
+42. Schaltvorrichtung für selbstcassirende Elektricitätsraesser—
+C. Gante, Frankfurt a. M. 31. 7. 1898.
+12. Verfahren zur Darstellung von Halogensauerstoffsalzen durch
+Elektrolyse.— Dr. P. Imhoff, Liverpool. 29./3. 1898.
+„ Verfahren zur Gewinnung von Borsäure.— Chenal Duilhet
+& C o., Paris. 22./9. 1899.
+„ Elektrode zur Erzeugung von Calciumcarbid.— R Trost
+Ober-Rohrdorf (Schweiz). 26./4. 1899.
+20. Selbstthätige Ein- und Ausschaltung einer elektromagnetischen
+Bremse an elektrisch betriebenen AVagen.— Allgemeine
+Elektricitäts-Gesellschaft, Berlin. 22./7. 1899.
+” X°, n; idlt l ln g z. ur Regelung und zum mechanischen Bremsen
+elektrisch betriebener Fahrzeuge.— CI. E. AV o o d s Chicago
+23./2. 1898.’ g0,
+„ Scliienencontact.— Ch. Crop p, London. 16./5. 1899.
+„ Streckenst.romschliesser.— F. Sock, Magdeburg. 20./9. 1899.
+” l'luu'leluung zur Herbeiführung einer gegenseitigen Beein­
+flussung der einzeln für sich beweglichen Steuerung und Hand­
+bremse bei elektrischen Motorwagen.— R. Löschigk und
+L. Thomson, Braunsehwoig. 13./4. 1899.
+21. Selbstcassirende Fernsprechstelle.— Actien-Gesell-
+Schaft Mix& Genest, Berlin. 9./12. 1898.
+u Selbstthätige Schaltvorrichtung für Nebenschlusselektromotoren.
+— M. Kammerhoff, Hamburg. 20./12. 1898.
+Vorrichtung zur ambulanten Behandlung mit elektrischem
+Licht.— Dr. W. Gebhardt, Berlin. 19./10. 1898.
+40. Elektrolytisches Verfahren zur Gewinnung von Metallen aus
+ihren Halogenverbindungen.— Dr. E. Hübe r g, Berlin
+B./2. 1898. 8
+20. Elektrische Eisenbahnanlage.— J. J. Heilmann, Paris
+3/5. 1898.
+,, Geschlossener Strassenbahnwagen, wolcher durch Verschieben
+der Fenster und Füllungen unter das Dach in einen offenen
+Wagen umwandelbar ist.— J. A. Brill, Philadelphia. 9./10.
+1898. 1
+„ Einrichtung zum selbsttätigen Regeln von Zügen, die aus
+elektrisch betriebenen Motorwagen bestehen.— H. St. Maxi in
+London. 19./4. 1899.
+„ Einrichtung zur Erzwingung der Nulllage des Schalters elek­
+trischer Motorwagen bei angezogener Handbremse. -—
+R. Löschigk und L. Thomson, Braunschweig. 13./4. 1899.
+21. Typendrucktelograph.— R. Kübler und G. Roimann
+Berlin. 26,/2. 1898.
+„ Gebevorrichtung für Typendrucktelegraphen; Zus. z. Pat.
+110.499.— R. K üble r und G. R o i m a n n, Berlin. 11 /12
+1898.
+„ Augenblicksschalter mit drehbarer Schaltwalze ohne besondere
+Lager.— 11. L i p p o 11, Deutsch-Krone. 14./5. 1899.
+„ Einphasiger Wechselstrommotor.— The Langdon-Davies
+Electric Motor Company, Limited, London. 16./5.
+1899.
+Geschäftliche und finanzielle Nachrichten.
+Ganz& Comp., Elsengiesserei und Maschincnläbriks-
+A.-G. in Budapest. Zur Ergänzung unserer Notiz im II. 12,
+S. 146, bringen wir aus dem Geschäftsberichte noch folgende
+Mittheilungen:. Das abgelaufene Geschäftsjahr schliesst, trotz
+einer beträchtlichen Verminderung der Umsatzziffer, sie beträgt
+circa 13 Mill. Gulden gegen rund 17 Mill. des Jahres 1898, doch
+mit einem etwas höheren Gewinne ab, als letzteres. Die im An­
+fang des Jahres nur sehr geringen Aufträge haben sich fast stetig
+gemehrt und dieser allmählichen Steigerung ist es zu danken
+dass der sehr bedeutende Ausfall, den die AA r aggonfabrik an Auf­
+trägen erlitten hat, durch rationellen Betrieb in den übrigen
+Fabriken ausgeglichen werden konnte. Die Stammfabrik war nor­
+mal beschäftigt, nur das Rädergeschäft war gegen das Vorjahr
+wegen der geringfügigen Bestellungen auf neue Wagen für
+Ungarn, wesentlich ungünstiger. Hingegen hat sich die elek-
+tusche Fabrik im abgelaufenen Jahre in jeder Hinsicht
+bedeutend entwickelt. Die Bestellung auf die Etablir ung des
+
+Seite 170.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 14.
+elektrischen Betriebes der italienischen Vollbahn Lecco-Colico-
+Sondrio-Chiavenna ist perfect geworden, und die Versuche auf
+der Probebahn, die auf der Alt-Ofner Insel errichtet wurde,
+haben in jeder Richtung vollständig befriedigende Resultate er­
+geben, so dass die rationelle Anwendung hochgespannter elek­
+trischer Ströme für den Vollbahnbetrieb ausser Frage gestellt
+ist. Für Frankreich sowie Italien wurden elektrische Maschinen
+der grössten und vollendetsten Ausführung geliefert und konnte
+auch eine bedeutende elektrische Anlage für die Ostchinesischen
+Bahnen, eine elektrische Centrale sammt Pumpenstation für den
+Hafen Dalien Wan, abgeschlossen werden. Die Leobers-
+dorfer Filiale war anfänglich nur sehr spärlich mit Auf­
+trägen versehen und erst in den letzten vier Monaten befriedigend
+beschäftigt. Weit günstiger waren die Verhältnisse in der
+Filiale Ratibor; der lebhafte Geschäftsgang in Deutschland
+hat auch die Fabrik dortselbst fortlaufend vollständig beschäftigt.
+Das im vorhergehenden Jahre erworbene Eisen- und Hüttenwerk
+Petrovagora hat sich normal entwickelt.
+Accumulatoren- und Elektricitätswerke-Actien-Gesell-
+scliaft. Die Firma Dutschka& Cie. hat die Concession zur
+Errichtung einer Accumulatoren- und Elektricitätswerke-Actien-
+Gesellschaft erworben. Dieselbe hat ein Actien-Capital von 1,800.000
+Kronen, welches in 1500 Stück Actien ä 1200 K zerlegt und voll
+eingezahlt ist. Der Sitz der Gesellschaft ist Wien. An dem
+Unternehmen ist deutsches Capital, unter anderem die Bank
+für industrielle Unternehmungen in Frankfurt,
+hetheiligt. Nach den Statuten bildet den Gegenstand des Unter­
+nehmens: a) Die Herstellung und der Vertrieb von Accumulatoren,
+elektrotechnischen und mechanischen Utensilien, Maschinen,
+Apparaten und sonstigen Erzeugnissen der elektrischen und jeder
+verwandten Industrie; b) die Herstellung von Anlagen, die Er­
+zeugung und Leitung von Elektricität auf allen Gebieten der
+Industrie, insbesondere zu Zwecken der Beleuchtung, der Kraft­
+übertragung, der Elektrochemie und sonstiger gewerblicher und
+häuslicher Anwendung; c) die Erwerbung, Ausbeutung und Ver-
+werthung von Concessionen, betreffend die Ausführung von
+Telephon-, Telegraphen- und sonstigen ähnlichen Anlagen, sowie
+die Ausführung der damit im Zusammenhänge stehenden Bau-
+und Betriebsanlagen; d) die Erwerbung, Ausbeutung und Ver-
+werthung aller Arten von Patenten und Licenzen. soweit sie die
+Benützung des elektrischen Stromes zu industriellen, gewerb­
+lichen und häuslichen Zwecken direct oder indirect betreffen,
+insbesondere die Nutzbarmachung von Wasserkräften zum Zwecke
+der Erzeugung der Elektricität, sowie die Ausführung und Ueber-
+nahme der diesbezüglichen hydrotechnischen Arbeiten. Das
+Actien-Capital kann über einen Betrag von sechs Millionen Kronen
+hinaus nur mit staatlicher Genehmigung erhöht werden. Der Ver­
+waltungsrath soll aus mindestens fünf, höchstens aus fünfzehn
+Mitgliedern zusammengesetzt werden. Die Mehrzahl der Verwaltungs-
+rätho hat aus österreichischen Staatsbürgern zu bestehen; zwei
+der Verwaltungsräthe müssen auch in Wien domiciliren.
+Budapester (elektrische) Strassenbahn-Gesellschaft. Die
+Budapester Strassenbahn-Gesellschaft hat nunmehr den Rechnungs­
+abschluss pro 1899 veröffentlicht. Diesem nach stellt sich die
+Bilanz wie folgt: Activen: Bahnlinien und elektrische Aus­
+rüstung 29,189.738'40 K, Investition vor der Umstaltung auf elek­
+trischen Betrieb 5,043.309'96 K, Vorarbeiten 49.971-98 K, Ma-
+terialvorräthe 318.001 K. Debitoren 2,825.322-78 K, Cassastand,
+Einlagen und schwebende Zinsen 20,121.306-62 K, Werthpapiero
+40,153.363-24 K, Immobilien des gesellschaftl. Fonds 3,85^.031-54
+Kronen, zusammen 101,560.045-52 K. Passiven: Actiencapital
+40,477.800 K, Obligationsschuld 18,000.000 K, zu amortisirende
+Schuld der Franz Josefsbrückenlinie 415.769-48 K, statutenmässige
+Reserve 970.132-28 K; Ausserordentliche Reserve 63.787-32 K,
+Abschreibungsresorve 951.897-70K, Separate Reserve 30,723.695-90
+Kronen, Pensions- und Unterstützungsfonds 779.452-32 K. Credi-
+toren 4,954.824-60 K, Gewinn (mit Üebertrag vom Vorjahre per
+780.466-20 K) 4,222.685-92 Iv, zusammen 101,560.045-52 K, Die
+Betriebsrechnung schliesst mit folgenden Ziffern: Trans­
+porteinnahmen 6,476.750-94 Iv, sonstige Einnahmen: Zinsen
+1,375.766-76 K, Mietherträge 69.997-76 K, Ertrag der Titres der
+Budapester Localbahnen und der Budapest—Neupest—Räkos-
+polotäer elektrischen Strassenbahn 297.608 K, Ertrag der Franz
+Josefs elektrischen Untergrundbahn 62.919-50 K, verschiedene
+Einnahmen 80.119-34 K. zusammen Einnahmen 8,363.162-30
+Kronen. Ausgaben: Betriebsausgaben 3,037.591-92 K, Antheil der
+Commune der Haupt- und Residenzstadt Budapest 243.372-56 K,
+Steuern und sonstige Abgaben 588.390-10 K, Zinsen der Priori­
+tätsobligationen 700.608 K, Amortisation der Actien und Priori­
+täten 326.980 K, Abschreibung 9600 K, Beitrag zum Pensions­
+fond 14.400 K, zusammen Ausgaben: 4,920.942-58 K. Ueber-
+schuss 3,442.219"72 K, hiezu den Uebertrag vom Vorjahre per
+780.466-20 K, zusammen verfügbarer Ueberschuss
+4,222.685-92 K. Die Directiou wird der Generalversammlung nach
+Abzug der statutemnässigen Provisionen die Auszahlung einer
+Dividende von 30 K per Actie und 20 K per Genussschein be­
+antragen, wozu 3,143.070 K erforderlich sind. Der Rest mit
+815.215-92 K wird auf neue Rechnung übertragen. —• Aus den
+angeführten Daten erhellt, dass die Bndapester Strassenbalin-
+gesellschaft eine der bestgeleiteten und bestsituirten Stadtbahn-
+Actiengesellschaften ist und infolge ihrer imposanten finanziellen
+Stärke sowohl für die technische und verkehrliche Vervollkomm­
+nung des Unternehmens, als auch für die sichere Prosperität des­
+selben volle Gewähr bietet. M.
+Ludw. Loewe& Co., Actien-Gtesellschaft zu Berlin. Mit
+der zu Anfang des Berichtsjahres durchgeführten Uebe r-
+tragung der elektrischen Fabri cation an die
+Union Elektricitäts-Gesellschaft hat, so führt der
+Rechenschaftsbericht pro 1899 aus, eine bedeutungsvolle Phase
+in der Entwickelung der Gesellschaft ihren Abschluss erreicht.
+Bei diesel- Uebertragung hat sich die Gesellschaft durch Reser-
+virung eines namhaften Besitzes an Actien der abgetrennton
+Unternehmungen drei dauernde Vortheile gesichert: erstens die
+Kundschaft derselben für die Werkzeugmaschinenfabrik, zweitens
+eine ansehnliche Betheiligung an dem Gewinn der Tochtergesell­
+schaften als Actionäre, drittens die Ansammlung eines sehr be­
+deutenden Reservecapitals, welches sich daraus ergibt, dass die
+in den Besitz der Gesellschaft gelangten Actien bedeutend unter
+ihrem Courswerthe zu Buche stehen. Ausserdem setzt die Aus­
+scheidung der Elektrischen und Waffenfabrik die Gesellschaft in
+den Stand, nunmehr auf die Werkzeugmaschinen-
+fabri cation, der sie in den Zeiten der ausgedehnten Ge-
+scliäftsthätigkeit für die Nebenbranchen nicht ihre volle Auf­
+merksamkeit widmen konnte, ihre ganze Kraft zu concentriren.
+Die Eigenart der Fabrication von Werkzeugmaschinen und Werk­
+zeugen hat in weiten Kreisen der deutschen Industrie Aner­
+kennung gefunden. Aber auch im Auslande mehrt sich die Kund­
+schaft, und die Verwaltung kann mit Genugthuung constatiron,
+dass, wie die Leiter der hervorragendsten Ünternehmungen der
+heimischen Industrie, so auch zahlreiche ausländische Gross­
+industrielle nach Berlin kommen, um die Einrichtungen zu
+studiren und den Rath und die Hilfe der Gesellschaft zur Ver­
+besserung ihrer eigenen Fabrication unter Verwendung der
+Specialerzeugnisse der Gesellschaft Loewe& Co. in Anspruch
+zu nehmen. Zur Erleichterung des Absatzes wurde in Düssel­
+dorf eine Niederlage der Fabrikate errichtet. Es ist beabsichtigt,
+solche Niederlagen auch in Frankfurt am Main und später
+an anderen Orten Deutschlands und des Auslandes zu errichten.
+Die Deutschen Waffen- und Munitionsfabriken,
+welche im vergangenen Jahre ihr Capital von 12 auf 15 Millionen
+Mark erhöht haben, vertheilen eine Dividende von 18% auf das
+vermehrte Capital. Die Union Elektricitäts-Gesell­
+schaft hat auf der neuen Grundlage, auf welcher dieselbe im
+vergangenen Jahre gearbeitet hat, den erwarteten Erfolg erzielt
+und ist in der Lage, ihren Actionären die Vertheilung einer Divi­
+dende von 10% auf das gesammte von 3 Millionen auf 18 Mil­
+lionen Mark erhöhte Actiencapital hei reichlichen Abschreibungen
+und Rückstellungen vorzuschlagen und einen Bestand an Auf­
+trägen von circa 60 Millionen Mark in das neue Jahr herüber­
+zunehmen, so dass auch für dio Zukunft befriedigende Resultate
+erwartet werden dürfen. Die Gesellschaft für elek­
+trische Unternehmungen vertheilt auch für das abge­
+laufene Jahr eine Dividende von 10% und die Geschäfte der­
+selben befinden sich ebenfalls in guter, gleichtnässiger Entwicke­
+lung, trotz der durch den knappen Geldstand für elektrische
+Finanzgeschäfte zeitweilig verschlechterten Situation. Die British
+Thomson- Houston Company Limited hat ihren Ent­
+wickelungsgang im abgelaufenen Jahre in befriedigender Weise
+fortgesetzt und wird voraussichtlich in diesem Jahre auf das ver-
+grösserte Actiencapital wiederum eine Dividende von 10% zur
+Vertheilung bringen. Der Typograph, G. in. b. II., hat inso­
+fern eine günstige Entwickelung genommen, als er immer weitere
+Kreise des Druckereigewerbes für die Anwendung der von ihm
+hergestellten Setz- und Zeilengiessmascbine gewinnt. An den
+übrigen Betlioiligungen hat sich im abgelaufenen Jahre nichts
+geändert. Die Unternehmungen: Aschersiebener M a-
+schinenbau-Aetien-Gesellsehaft und Deutsche
+Niles-Werkzeugmaschinenfabrik sind noch iin
+Stadium der Entwickelung. Die Abschreibungen, welche 593.091 Mk.
+betragen (i. V. 875.785 Mk.), sind den alten soliden Sätzen ent­
+sprechend bemessen. Nach diesen Abschreibungen beläuft sich
+der Reingewinn des abgelaufenen Jahres zuzüglich des Ge­
+winnvortrages aus dem Vorjahre auf 2,027.802 Mk. (im Vorjahre
+2,096.584 Mk.). Mit Rücksicht darauf, dass dio beiden Rosorvo-
+
+Nr. 14.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 171.
+fonds den Betrag von 1000/ c des Actiencapitals ausmachen, sieht
+che Gesellschaft davon ab, in diesem Jahre eine Dotirung dieser
+Fonds vorzuschlagen, dagegen wird die Ludwig Loewe-Stiftun»-
+wiederum mit 50.000 Mk. dotirt. Es verbleiben dann 1,977.802 Mk
+welche nach Abzug der statutenmässig zu zahlenden Tantieme
+die V ertheiluug einer Dividende von 24‘o/ 0 auf das Actiencapital
+von 71/2 Millionen Mark gleich 1,800.000 Mk. gestatten und den
+Betrag von 72.653 Mk. zum Vortrage auf neue Rechnung lassen
+Es ngunren unter den Activen der Bilanz: Effecten- und Be-
+theiligungs-Conto 14,908.707 Mk. (i. V. 14,854.654 Mk.), vorräthige
+Fabrikate 111 fertigem und unfertigem Zustande 815.797 Mk.
+(1. V. 2,302.495 Mk.), Materialien 378.377 Mk. (i. V. 1,920 764 Mk)
+und Debitoren 10,938.444 Mk. (i. V. 14,024.782 Mk.). An Credi-
+toren schuldete die Gesellschaft 8,472.488 Mk. (i. V. 18,419.300 Mk.).
+Accumulatorenwerke System Pollak, Actieu-Gesellscliaft
+111 frankiert a. M. Wie der „Berk Börs.-Ztg.“ mitgetheilt wird,
+bungo die Verwaltung für 1899 die Vertheilnng einer Dividende
+y on wie im Vorjahre, auf das volleinbezahlte Capital von
+I1/2 Millionen Mark in Vorschlag, während auf die mit 500/ 0 ein­
+bezahlten 500.000 Mk. neuen Actien in Gemässheit der bei der
+Ausgabe festgesetzten Bestimmungen 40/ 0 p. r. t. vertheilt werden.
+£* Bergmann& Co., Actien-Gesellschaft Fabrik für
+Isolir-LMtnngsrohre und Special- Installations- Artikel für
+elektrische Anlagen, Berlin. Der Aufsichtsrath hat beschlossen,
+der am 21. April angesetzten Genoral-Versammlung eine Divi-
+220/ 0 gegen 18o/ 0 dos Vorjahres bei 421.090 Mk. (gegen
+206.516 Mk.) Abschreibungen in Vorschlag zu bringen. Anse-
+' ft AU UllllgtJIJ. JtVUÜ'e-
+sichts der weiter steigenden Nachfrage in den Fabrikaten der
+n n i p. i 111* ciuiikulüu um
+Gesellschaft wurde gleichzeitig beantragt, der General-Versamm­
+lung die Erhöhung des Actiencapitals um 500.000 Mk. vorzu-
+schlagen.
+., Ceipzigei' elektrische Strassenbalin. Im abgelaufenen
+Geschäftsjahre ist, wie der Geschäftsbericht mittheilt, bis auf
+eine kurze Strecke auf der Wurzener Chaussee das geplante Er­
+weiterungsnetz m Betrieb genommen worden. Der Verkehr hat
+sich aut allen Linien gesteigert. Die Fahrgeldeinnahmen sind
+gegenüber dem Vorjahre um 239.457 Mk. gestiegen und stellten
+sich msgesamint auf 1,563.518 Mk. Die Geleislänge erhöhte sich
+im Berichtsjahre von 81-35 hm auf 8423 km. Die Verhandlungen
+zwischen Staatsregierung und der Stadt Leipzig betreffend An-
+heim fall und Erwerb der Strassenbahnanlage nach beendeter
+Concession haben zu einem Abschluss geführt, so dass die Er-
+theilung einer endgiltigen Genehmigung für das Erweiterungs-
+netz nunmehr zu erwarten ist. Die Zahl der gegenwärtig im Be­
+triebe befindlichen Motorwagen beträgt an Wochentagen 91
+gegen 85 im Vorjahre; zu verkehrsreichen Stunden und an Sonn­
+tagen kommen ausserdem eine grössere Zahl Anhängewagen
+hinzu. Von dom ursprünglich geplanten Erweiterungsnetz ist nur
+noch eine Strecke von ungefähr 500 m auf der Wurzener Strasse
+vom jetzigen Endpunkt bis an den Ort Paunsdorf heranzubauen.
+Jn Aussicht genommen ist eine Verlängerung der Linie in der
+Hisenstiasse je nach dem Fortschreiten der Herstellung dieses
+Strassenzuges. Von dem nach Abzug der Unkosten und Abschrei­
+bungen, letztere 35.986 Mk. (i. V. 34.848 Mk.), ausgewiesenen
+Gewinn von 465.648 Mk. (i. V. 451.533 Mk.) beantragt die Ver­
+waltung 135.000 Mk. (i. V. 120.000 Mk.) dem Erneuerungsfonds-
+Oonto zu zu fuhren, so dass sieh dasselbe auf 274.833 Mk. stellen
+wurde; ferner dem Tilgungsfonds-Conto als Rücklage zu über­
+weisen 51.000 Mk. (wie im Vorjahre). Von den alsdann ver­
+bleibenden 279.648 Mk. sind 13.982 Mk. (i. V. 14.026 Mk.) in
+den gesetzlichen Reservefonds zu legen und als Tantieme für
+den Aufsichtsrath 13.121 Mk. (i. V. 13.277 Mk.) abzusetzen. Die
+Aktionäre erhalten 250.000 Mk. als 40/ 0 ige Dividende auf das
+Actiencapital von 6,250.000 Mk. (wie im Vorjahre), 2544 Mk.
+sind auf neue Rechnung vorzutragen.
+Allgemeine Gas- und Elektricitäts-Gesellschaft in
+R illen. In dem am 31. December v. J. beendigten zweiten Ge­
+schäftsjahre der Gesellschaft hat sich dieselbe, wie der Geschäfts­
+bericht mittheilt, durch Uebernahme von Actien an folgenden
+weiteren Werken betheiligt: Gas- und Elektricitätswerke in Bees-
+kow, Allstedt, Borkum, Eberstadt, Bolchen, Birnbaum, Brockau,
+h reienwalde, Vaals, Griesheim, Kolmar i. P., ferner an den Gas­
+werken Grünau, Gifhorn, Esch, Britz, Gross Ottersleben. Diese
+Gesellschaften betreiben vorläufig nur Gaswerke, obwohl die
+ersten 11 Werke neben der Concession für Gas auch diejenige
+für Elektricität besitzen. Dagegen wurde der Bestand an Äctien
+der Gaswerke Britz, Salbke und Nieder-Schöneweide verkauft, so
+dass die Gesellschaft Ende des Jahres an 29 Werken, deren Ge-
+sammt-Actieneapital 4,525.000 Mk. beträgt, mit 2,353.000 Mk.
+Actien^ betheiligt war. Unter diesen befinden sich 78.000 Mk. mit
+75°/o Einzahlung, während die übrigen sämmtlich voll gezahlt I
+sind Die Gesellschaft hat ferner mit 15 der obigen Werke, sowie
+mit den Gas- und Elektricitätswerken Nassau durch erste Hypo-
+thek sichergestellte Anleihen abgeschlossen und beläuft sich nach
+Wolterbegebung eines Theiles derselben der Saldo der über­
+nommenen Anleihen auf 1,390.000 Mk. Gegen diese Anleihen
+bat die Gesellschaft ihrerseits eine 4i/2°/oige Anleihe im Betraue
+von 1,000.000 Mk. an das Bankhaus J. Schultze& Wolde und
+die deutsche Nationalbank in Bremen begeben. Auf Grund der
+am 7. April 1899 beschlossenen Capitalerhöhung ist ein Betrat
+Y? n ,000.000 Mk. Actien an ein Consortium begeben, mit der
+Verpflichtung, die Actien der Gesellschaft an der" Berliner Börse
+znr Einführung zu bringen. Die Werke sind mit Ausnahme von
+Griesheim, welches erst in einigen Monaten eröffnet werden dürfte
+sämmtlich, wenn auch zum Theil erst soit kurzer Zeit, in Betrieb’
+DieGaswerke befinden sich grösstentheils in normaler Entwickelung.
+Die hatsache, dass bisher nur zwei von denjenigen Werken,
+welche das erste Geschäftsjahr vollendet haben, eine kleine Divi-
+dende vertheilen konnten, erklärt sicli daraus, dass das erste Ge­
+schäftsjahr in der Hauptsache als Baujahr anzusehen ist, wie denn
+überhaupt eine Gasanstalt in der Regel einiger Jahre bis zur
+Entwickelung bedarf. Die drei kleinen Elektricitätswerke, welche
+in Verbindung mit den Gaswerken Bredow, Deutsch-Krone und
+Neuenahr betrieben werden, zeigen bis jetzt noch keine genügenden
+Resultate. Das Gewinn- und Verlustconto schliesst mit einem
+Gewinnsaldo von 256.544 Mk. (i. V. 122.931 Mk.). Derselbe ist
+wie folgt zu vertheilen; dem Reservefonds 10.497 Mk (i. V 6146
+Mark), Tantieme für den Aufsichtsrath 14.959 Mk., vertra<rsmässige
+lauticme für den Vorstand 2986 Mk. (i. V. zusammen 10°192 Mk)
+=, 180- 000 Mk-( L V- 60 /o= 60.000 Mk!)’
+48.101 Mk. Vortrag auf neue Rechnung.
+Schlesische Elektricitäts- und (Jas-Actieiigesellscli.aft in
+Breslau. Der Brutto-Ertrag des Jahres 1899 betrug 303.254 Mk.
+(i. V. 208 043. Mk.), darunter aus den Betriebs-Üeberschüssen
+der Ubersehlesischen Elektricitätswerke 22.718Mk. (i. V. —) Ertrag
+der Gasanstalt Glogau 79.808 Mk. (i. V. 77.419 Mk.) und Zinsen"
+Überschuss 194.024 Mk. (i. V. 38.944 Mk.). Dagegen erforderten
+die Geschäftsunkosten 19.016 Mk. (i. V. 13.797 Mk.) und der
+Gewinnanteil der Stadt Glogau 25.978 Mk. (i. V. 22.731 Mk.).
+Als Reingewinn verblieben 258.259 Mk. (i. V. 171515 MkV
+Hieivon werden 13.080 Mk. (i. V. 7920 Mk.) dem Reservefonds
+überwiesen, 10.000 Mk. (i. V. 10.000 Mk.) auf Abschreibungs-
+conto gebucht, 15.992 Mk. (i. V. 10.388 Mk.) zu Tantiemen ver-
+wendet und 212.625 Mk. als 5V4% Dividende (i. V. 136.500 Mk.
+= 18°/ 0) gleichmässig auf das gesammte alte und neue Acticn-
+So lta k VOn. 4 ,050.000 Als Vortrag auf das neue Jahr bleiben
+6561 Mk. An Einnahmen standen der Gesellschaft der Notto-
+Deberschuss der Gasanstalt Glogau und die Zinsen der aussto-
+henden Bankguthaben zur Verfügung; hierzu trat nocli der mässige
+Betrag, welchen die Allgemeine Elektricitäts-Geseli-
+schaff.ans Betriebsüberschüssen der Oberschlesischen
+Elektricitätswerke bereits überwiesen hat. Der Haupt-
+betrag des Antheils aus diesen Ueberschüssen bleibt dagegen in
+Höhe von 85.000 Mk. der Verrechnung im laufenden Jahre vor-
+behalten. Von dom Rechte, die Uebergabe der Obersehlesischon
+Elektricitätswerke am ]. Jänner d. J. zu verlangen und mit diesem
+läge auch den Betrieb für eigene Rechnung zu übernehmen, hat
+die Gesellschaft keinen Gebrauch gemacht, weil dies mit Rück­
+sicht auf die noch im Gange befindliche Ausführung des zweiten
+Ausbaues nnvortheilhaft erschien. Damit war vertragsmässig der
+Uebergangstermin und die Zahlung auf den 1. October d. J.
+hinausgerückt. Auch dioser Termin erscheint aber mit Rücksicht
+auf die Schwierigkeit der Verrechnung der Betriebsüberschüsse
+innerhalb des Botriebsjahres recht unbequem. Die Allgemeine
+Elektricitäts-Gesellschaft hat aus diesem Grunde das
+Anerbieten gemacht, dass die Uoborgabe und Bezahlung der Werke
+erst am 31. De.cember 1900 erfolgen solle und dass sie bis dahin
+auch den Betrieb für ihre eigene Rechnung und Gefahr führen,
+der Schlesischen Elektricitäts- und Gas-Actiengesell-
+schaft jedoch anstatt des vertragsmässigen halben Antheils der
+Betriebsüberschüsse für das laufende Jahr 1900 85o/ 0 dioser Be­
+triebsüberschüsse bei Uebergabe der Werke zuweisen wolle, wo-
+gegen die sonstigen Bedingungen des Vertrages, insbesondere dio
+Verpflichtung zur Verzinsung der Herstellungskosten der Ober-
+schlesischen Elektricitätswerke bis zur Uebergabe und Bezahlung,
+unverändert bleiben. Die Zinsen sind allerdings im Bauanschlage
+nur bis zum 31. December 1899 vorgesehen; um die Zinsen für
+das laufende Jahr würde sich also der Herstellungspreis erhöhen.
+Dadurch indess, dass die Allgemeine Elektricitäts-Gesellschaft sich
+zur Ueberlassung von 85o/ 0 der Betriebsüberschüsse des laufenden
+Jahres bereit erklärt, ist eine entsprechende Coinpensation gesichert,
+weil bei der stetigen günstigen Entwickelung der Oberschlesischen
+Elektricitätswerke die gesammten Ueberschüsse bei vorsichtiger
+i
+
+Seite 172,
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 14.
+Berechnung auf circa 310.000 Mk. (gegen 183.000 Mk. im\ oijahie)
+in Aussicht genommen werden können. Um für die sodann am
+31. December d. J. stattfindende Bezahlung der Oberschlesischen
+Elektrieitätswerke rechtzeitig die erforderlichen Mittel bereit zu
+stellen, soll eine 4i/ 2 °/oige und zu 103o/ 0 rückzahlbare Anleihe von
+4 000.000 Mk. aufgenommen werden. Im März des abgelautenen
+Jahres wurde mit der Stromlieferung für die Stadt Beuthen O/S.
+begonnen, ferner wurden neu angeschlossen die Leitungsnetze der
+Gemeinden Klein-Dombrowka und Burowietz, sowie das Leitungs­
+netz der Golonie Borsigwerk, ebenso die Beleuchtung der Lahn­
+höfe Morgenroth, Scliwientochlowitz und Königshutte. Hie Aahl
+der Anschlüsse nimmt in schnellem Tempo zu. Es sind im Jauner
+und Februar des laufenden Jahres weiter 117*43 K W zum Anschluss
+gekommen. Die Anzahl der Consumenten betrug am 31. December
+1898 380, am selben Tage 1899 912, d. i. eine Zunahme von
+140%- D' e Anzahl der gegenwärtig vorliegenden Anmeldungen
+auf Anschluss von Lampen und Motoren, welche noch nicht m
+Betrieb gekommen sind, entspricht einem Aequivalent von rund
+700 KW. Im Laufe des Betriebsjahres kamen nach und nach alle
+Strecken der Oberschlesischen Dampfstrassenbahn, welche vorher
+mit Dampf betrieben wurden, elektrisch in Betrieb, sowie auch
+eine Anzahl neuer Strecken. Wenn auch hierdurch die Zunahme
+der Stromlieferung für Bahnzwecke gegenüber dem Vorjahre eine
+ganz bedeutende ist, so kommt die normale Abgabe des Bahn­
+stroms erst im laufenden Jahre zur vollen Geltung.
+Rheinische Elektricitäits- und Kleiuhahnen-Actien-Ge-
+sellschaft. Unter dieser Firma ist am 21. v. M. in Kohlscheidt
+bei Aachen eine Actien-Gesellschaft errichtet worden mit einem
+Grund Capital von 2>/4 Millionen Mk. Dem ersten Aufsiclitsrathe
+gehören folgende Herren an: Banquier Karl C ah n, in Firma
+Hardy& Co., G. m. b. H., Berlin, Banquier Louis Hage n-Köln,
+Hauptmann a. D. Heese-Berlin. Bergassessor Klemme-Kohl-
+scheidt, Dr. F. N e 11 e s s e n-Aaehen, Karl O h 11 g s c h 1 a g e r-
+Aachen, Director Rieh. O p i t z-Berlin und Arthur Pastor-
+Aachen.
+Motorfahrzeug- und Motorenfabrik in Berlin. In der am
+24. v. M. stattgehabten ausserordentlichen Generalversammlung
+ist" die Erhöhung des Actiencapitals auf 5 Millionen Mark be­
+schlossen worden. Von den dadurch der Gesellschaft zufliessenden
+3 Millionen werden 1,700.000 zum Erwerbe der Actien der Gesell­
+schaft für Verkehrsunternehmungen, die restlichen 1,300.000 Mk.
+zu einer Erweiterung der Fabriksanlagen in Marienfelde und\ er-
+stärkung des Betriebscapitals benutzt. Die Direction der Gesell­
+schaft für Verkehrsunternehmungen tritt in den Vor­
+stand des Unternehmens ein. Beide Fabriken haben in dem ab­
+gelaufenen Geschäftsjahre insbesondere ihre Constructionen von
+Benzin-, bezw. elektrischen Motorfahrzeugen so weit ausgebildet
+und erprobt, dass dieselben mit Beginn des laufenden Jahres m
+die Massenfabrication eintreten konnten.
+Actiengesellschaft für Motor- und Motorfahrzeughau
+(vorm. Cudell& Co.) in Aachen. Unter dieser Finna wurde die
+Fabrik von Cudell& Co in eine Actiengesellschalt mit 1>/ 10 Mil­
+lionen Capital umgewandelt.
+Drahtseilbahn Loschwitz-Weissev Hirsch. Nach dem
+Geschäftsbericht für 1899 ist das Unternehmen auf die elektrische
+Beleuchtung von Loscliwitz ausgedehnt worden. Dieser Geschäfts­
+zweig hat infolge des mit der Gemeinde Loseliwitz wegen der
+elektrischen Beleuchtung ihrer Strassen geschlossenen Vertrages
+eine Ausdehnung erfahren, die eine Erhöhung des veranschlagten
+Betrages von 75.000 Mk. auf 150.000 Mk. erfordern wird. Dieser
+Betrag wird dem Unternehmen von der bauenden Gesellschaft,
+der Vereinigten Eisenbahnbau- und Betriebs-
+Gesellschaft, creditirt. Die Einnahme aus dem Bahnverkehr
+ist von 94.260 Mk. auf 85.140 Mk. zurückgegangen, während sich
+die Betriebsausgaben von 34.011 Mk. auf 36.104 Mk. erhöht haben.
+Dieses ungünstige Verhältnis ist zum Theil auf die sehr schlechte
+Witterung in der zweiten Hälfte des Berichtsjahres, sodann aber
+auch auf die im August 1899 in Betrieb gesetzte elektrische
+Strassenbahn vom Waldschlösschen über den Weissen Hirsch
+nach Bühlau zurückzuführen. Einem seit längerer Zeit gehegten
+Wunsche des Publikums entsprechend, wurden die Personentarif­
+sätze für Berg- und Thalfahrt durch Ermässigung der Fahrpreise
+für die Bergfahrt gleichgestellt, auch die erhöhten Sätze für den
+Sonntagsverkehr aufgehoben. Die Zahl der beförderten Personen
+betrug 503.427 gegen 558.239 in 1898. Der nach Kürzung von
+5956 Mk. für den Erneuerungs- und Amortisationsfonds verfüg­
+bare R e i n g e w i n n von 47.516 Mk. soll wie folgt vertheilt
+werden: in den Reservefonds 2319 Mk., in den Special-Reserve­
+fonds 500 M., 4i/, t °/o Dividende (im Vorjahre 5%) 42.o00 Mk.,
+Tantiemen 770 Mk.. Vortrag auf neue Rechnung 1427 Mk. Die
+Bahnanlage steht mit 1,005.219 Mk., die elektrische Anlage mit
+47.314 Mk. zu Buch.
+Russische Elektricitatswerke Siemens& Halske. Aus
+Petersburg wird der „Berk Börs.-Ztg.“ geschrieben: Der Finanz­
+minister hat vorstehend genannte Actien-Gesellschaft ermächtigt,
+das Grundcapital des Unternehmens von 4 auf 7 Millionen Rubel
+mittelst Emission 6000 neuer Action zu je 500 Rubel nominal
+zu erhöhen. Die Prämie ist im Verhältnis zur jetzigen Hohe (los
+Roservecapitals normirt und beträgt 5 Rubel pro Actie. Das Be­
+zugsrecht steht den Inhabern der älteren Actien mit der Mass-
+gabe zu, dass auf 4 alte Actien 3 neue kommen.
+Direct Spanisli Telegraph Company, Limited. Der Bericht
+für 1899 ergibt nach Abzug der Beträge für Debenture-Zmsen
+und Amortisation einen Gewinn von 9325 Pf. St. Nachdem davon
+wie üblich dem Reservefonds 5000 Pf. St. zugewiesen worden
+sind, soll eine steuerfreie Dividende von 4%(/ ie Actien
+zur Auszahlung gelangen. Die Betriebseinnahmen zeigen einen
+Ausfall von 6352 Pf. St. gegen das Vorjahr, in welchem der
+spanisch-amerikanische Krieg der Gesellschaft ausserordentliche
+Einnahmen zugeführt hat. Die ordentlichen Betriebsausgaben sind
+für 1899 um 598 Pf. St. grösser gewesen als im Vorjahre. Am
+ll.Octobor 1899 brach das Falmouth-Bilbao-Kabel in etwa 200
+Knoten Entfernung von der englischen Küste; die WicdeiHer­
+stellung erfolgte am 18. Oetober und erforderte einen Kosten­
+aufwand von 1743 Pf. St., der dem Reservefonds entnommen
+worden ist.
+Metall-Marktbericht von Brandeis, G o 1 d s c hm i d t
+& Co. London, 23. März. Kupfer: Die Lago des Marktes
+ist unverändert. Casse Warrants bewegten sich zwischen /8 1 t.
+St. 12 sh. 6 d. und 78 Pf. St., für Lioferungswaare zeigt sich
+etwas mehr specnlativo Nachfrage und wurde bis 76 Pf. St. 7 sh.
+6 d. per drei Monate bezahlt. Wir notiren: Standard Kupfer per
+Casse 78 Pf. St. 10 sh. bis 78 Pf. St. 15 sh, Standard Kupfer
+per drei Monate 76 Pf. St. 5 sh. bis 76 Pf. St. 10 sh., English
+Tough je nach Marke 80 Pf. St. 5 sh. bis 80 Pf. St. 15 sh., English
+Best Selected je nach Marke 80 Pf. St. 10 sh. bis 81 1 f- St.,
+American und English Cathodes je nach Marke 77 Pf. St. 10 sh.
+bis 78 Pf. St., American und English Electro in Cakes, ingots
+und Wirebars je nach Marke 78 Pf. St. bis 79 Pf. St.
+Kupfersulfat: Der Preis in erster Hand bleibt aut 26 11.
+St., während kleine Posten in zweiter Hand zu 25 Pf. St. 10 sh.
+bis 25 Pf. 15 sh. käuflich sind. •— Zinn: Die Nachricht, dass
+die Zufuhren von Banca im Laufe dieses Jahres um 1200 t vei-
+grössert werden, verflaute den Markt und verursachte speculative
+Verkäufe. Der Preis fiel scharf auf 131 Pf. St. per drei Monate,
+hob sich wieder auf 136 Pf. St. 10 sh. und erreichte 137 Pf.
+St. 10 sh. für Casse. Heute war der Markt wieder schwach für
+Lieferungswaare, so dass die Unterprämie wieder 3 Pf. St. 10 sh.
+für 3 Monate beträgt. Wir schliessen: Straits per Casse 135 1 r.
+St. bis 135 Pf. St. 5 sh., Straits per drei Monate 131 Pf. St. 10 sh.
+bis 131 Pf. St. 15 sh., Australzinn per Casse 135 Pf. St. 5 sh.
+bis 135 Pf. St. 10 sh, Englisches Lammzinn 146 Pf. St. bis
+147 Pf. St. bis 138 Pf. St. bis 140 Pf. St., Bancazinn in Holland
+81 fl.. Billiton in Holland 8P25 fl.— Antimon stetig, 39 Pf.
+St.— Zink schwächer 21 Pf. St. 5 sh.— Blei ruhig ä 16 Pt.
+St. 12 sh. 6 d.— Quecksilber 9 Pf. St. 12 sh. 6 d.—
+Silber schwächer :i 27 Pf. St. 5 sh. 8 d. („Berl. B.-C.“)
+Vereinsnaehricliten.
+Di© nächste Yereinsversaminlung findet Mittwoch,
+den 4. April 1. J. im Vortragssaale des Wissenschaft­
+lichen Club, I., Eschenbachgasse 9, 1. Stock, 7 Uhr
+abends statt.
+Vortrag des Herrn Emil Honigmann über:
+„Die Stellung der Elektrotechnik zu dem
+geplanten Gesetz gegen unlauteren Wett­
+bewerb.“
+Die Vereinsleitung.
+Schluss der Redaction: 27. März 1900.
+Verantwortlicher Redacteur: Dr. J. Sahulka.— Selbstverlag des Elektrotechnischen Vereines.
+Commissionsverlag bei Spielhagen&Schurich, Wien.- Alleinige Inseraten-Aufnahme bei Haasenstein& V ogler (Otto Maass), Wien und Prag.
+Druck von B. Spies& Co., Wien.
+

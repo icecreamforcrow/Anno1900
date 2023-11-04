@@ -1,0 +1,1278 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 31. Wim, 29. Juli 1900. XVIIL Jahrgang.
+Bemerkungen der Redaction: Ein Nachdruck aus dem redactionellen Theile der Zeitschrift ist nur unter der Quellenangabe
+J- IVien 11 und bei Originalartikeln überdies nur mit Genehmigung der Redaction gestattet.
+Die Einsendung von Origmalarbeiten ist erwünscht und werden dieselben nach dem in der Redactionsordnung festgesetzten Tarife
+honorirt.Die Anzahl der vom Autor event. gewünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Manuscnpte bekannt-gegeben werden.
+INHALT:
+Rundschau 369
+Berechnung von asynchronen Wechselstrommotoren. Von
+.T. Pischer-Hinnen (Fortsetzung). ....... 370
+Marconi’s Vorgänger. Von Ingenieur Adolf Prasch (Fort­
+setzung) 375
+Kleine Mittheilungen.
+Verschiedenes 378
+Ausgeführte und projectirte Anlagen 379
+Patentnachrichten 38O
+Rundschau.
+Werden in einem Dreileiternetze für die beiden
+Zweige nicht getrennte Generatoren aufgestellt, sondern
+nur eine Maschine, welche die gesammte Spannung
+erzeugt, dann werden bekanntlich kleine Motordynamos
+benützt, um eine Ungleichheit in den Belastungen der
+beiden Zweige auszugleichen. Die einfachste Art ist die,
+zwei gleichartige Maschinen mit einander zu kuppeln und
+deren in Serie geschaltete Armaturen an die Aussen-
+leiter zu legen, den Mittelleiter aber an die Verbindungs­
+leitung der beiden Armaturen anzuschalten. Wird ein
+Zweig stärker belastet als der andere dann wirkt eine
+dieser Maschinen als Motor und treibt die andere als
+Generator an, wodurch von der weniger belasteten
+Seite auf den stärker belasteten Zweig Energie über­
+tragen wird. In diesem Falle wird die Spannung im
+stärker belasteten Zweige wegen des ohmischen Wider­
+standes der Armatur der Ausgleichsmaschine und an­
+derer Ursachen ein wenig sinken; es ist aber selbstredend
+vortheilhafter, wenn es möglich gemacht wird, die Span­
+nung des stärker belasteten Zweiges zu erhöhen, um den
+Spannungsabfall in der Linie, der im stärker belasteten
+Zweige grösser ist als im weniger belasteten, zu com-
+pensiren.
+Mehrere diese Aufgabe lösende Schaltungen sind
+bereits bekannt; kürzlich wurde aber der General
+Electric Company, bezw. deren Ingenieur Emmet
+eine Schaltungsanordnung patentirt, welche eine ein­
+fache Lösung des oben angedeuteten Problems darstellt.
+Die Ausgleichsmaschine hat zwei Armaturen, die auf
+dieselbe Achse aufgekeilt sind; diese beiden Armaturen
+sind untereinander in Serie geschaltet und stehen mit
+den Aussenleitern in Verbindung; an die letzteren
+werden auch die Nebenschlusswickelungen der Feld­
+spulen angeschlossen, die mit einem Widerstande in
+Serig geschaltet sind; zu den Serien Wickelungen der Feld­
+spulen, durch welche die in den Aussenleitern circu-
+lirenden Ströme fliessen, liegen Neusilberwiderstände,
+in Nebenschluss.
+Wenn bei dieser Anordnung beispielsweise der
+positive Zweig stärker belastet ist, so circulirt durch
+die Serienwickelung der positiven Maschine ein stärkerer
+Strom als durch die der negativen Maschine. Da nun
+die beiden Maschinen zusammengekuppelt und mit
+derselben Tourenzahl laufen, erzeugt die positive
+Maschine eine grössere elektromotorische Kraft wie
+die negative, so dass eine ungleiche Vertheilung der
+Spannung mit Bezug auf den Mittelleiter eintritt.
+Im Londoner „Electrician“ bespricht Clinker
+die Stromstösse in Transformatoren, die oft in der
+Primärwickelung eines Transformators in dem Augen­
+blicke auftreten, wo dieser an ein Netz angeschaltet
+wird. Der magnetische Zustand des Eisens vor An­
+schluss des Transformators hängt von dem Zeitpunkte
+bezw. der Phase ab, bei der der Transformator abge­
+schaltet wurde. Wenn nun der Transformator in einem
+Momente angeschaltet wird, wo der Primärstrom eine
+solche Richtung hat, dass er das Eisen in demselben
+Sinne magnetisiren würde, in welchem es schon hoch
+magnetisirt ist, dann ist die Permeabilität des Eisens
+in dieser Richtung so gering, dass ein starker Strom-
+stoss auftritt. Während der nächstfolgenden Secunden
+wird diese im Eisen vorhandene Magnetisirung ver­
+nichtet, so dass durch eine gewisse Zeit in derselben
+Richtung verlaufende Stromstösse auftreten. Bekannt­
+lich hat Tesla, indem er das Transformatoreisen durch
+Gleichstrom magnetisirte, den Transformator zu einem
+Wechselstrom- Gleichstromumformer machen wollen,
+jedoch mit negativem Erfolge.
+Clinker beschreibt nun zwei Versuche; bei
+einem derselben war ein Gleichstromamperemeter in
+den Primärstromkreis geschaltet, welches zeigte, dass
+durch die Primärspule eines unbelasteten Transformators
+fast durch eine Minute hindurch, nachdem der Strom­
+kreis geschlossen war, ein Gleichstrom fliesst; bei dem
+zweiten Versuche zeigt er diese Erscheinung, indem er
+das Eisen mit Gleichstrom magnetisirte; er nahm zwei
+Transformatoren, schaltete deren Niederspannungsspulen
+parallel und -schickte einen Wechselstrom hindurch,
+während die Hochspannungsspulen entgegengeschaltet
+waren und mit Gleichstrom gespeist wurden.
+Indem Julihefte des „StreetRailwayJournal“
+ist ein langer Aufsatz von II. M. Sayers über die
+Berechnung der Vertheilungssysteme bei elektrischem
+Bahnbetrieb mit Berücksichtigung der englischen Ver­
+hältnisse enthalten. Nach einigen einleitenden Bemer­
+kungen kommt der Verfasser darauf zu sprechen, dass,
+wenn die Vertheilungsradien gewisse Entfernungen
+wesentlich überschreiten, eine einfache Station, die dem
+Speiseleitungsnetz Gleichstrom liefert, unpraktisch wird
+und dass man dann eines der folgenden Systeme wählen
+kann: 1. Vervielfältigung der Stromerzeugungsstationen
+für Gleichstrom mit niedriger Spannung, 2. Verwendung
+
+Seite 370.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 31.
+von Batterieunterstationen, die von einer Generator­
+station aus geladen werden, 3. eine Generatorstation,
+die Mehrphasenstrom hoher Spannung erzeugt und ihn
+in Unterstationen, die in geeigneter Weise längs der
+Linie vertheilbar sind, transformirt.
+Das zweite System ist wenig in Anwendung und
+scheint nur in jenen Fällen brauchbar, wo kein dichter
+Verkehr ist. Sayers beschränkt sich daher auf einen
+Vergleich des ersten und dritten Systems. Hiebei handelt
+es sich um die Entscheidung zweier Fragen von grosser
+Tragweite: Erstens, wie hoch beziffern sich die Gesammt-
+kosten der Producirung einer Einheit in der Station
+oder den Stationen und zweitens was sind die Gesammt-
+kosten für das Uebertragen einer Einheit bis zum Bahn­
+wagen. Dieseletzteren Kosten können naturgemäss beliebig
+herabgesetzt werden, indem man viele Unterstationen
+errichtet, wodurch aber die Productionskosten einer Ein­
+heit sich erhöhen. Ueber die Beduction der letzteren
+dadurch, dass man grosse Generatoreinheiten benützt,
+kann nur auf Grund genauer Kenntnis der speciellen
+Verhältnisse etwas gesagt werden.
+Sayers zeigt dann in einer Reihe von Beispielen
+die Kostenvertheilung, u. zw. für ein Niederspannungs-
+Einzelstationssystem, für ein Niederspannungssystem
+mit zwei Kraftstationen und endlich für eine Drei-
+phasenvertheilung mit vier Unterstationen. Ein Vergleich
+der erzielten Resultate kann aus einer am Ende der
+Abhandlung befindlichen Tabelle entnommen werden.
+Beigefügt sind noch einige Zusätze, woraus die Me­
+thoden, die bei der Berechnung der ökonomischesten
+Stromdichte und Grösse von Speiseleitungen zur Ver­
+wendung kamen, ersichtlich sind.
+Berechnung von asynchronen Wechselstrommotoren.
+Von J. Fisclier-Hinnen,
+Director der Firma Fr. Kfizik in Prag-Karolinenthal.
+(Fortsetzung.)
+5) Zugkraft.
+Das Drehfeld, das wir uns, wie bereits bemerkt,
+von sinusförmiger Gestalt vorzustellen haben, bewegt
+sich gegenüber der Armatur mit einer Winkelgeschwindig­
+keit u> 2— 9 M i un( t erzeugt daselbst Ströme von gleicher
+Periodenzahl.
+Wir gehen von dem einfachsten Falle aus,
+dass die Armatur p m 2 Zacken enthält, d. h. je eine
+Zacke pro Pol und Phase: In dem Momente, wo die
+neutrale Zone des Drehfeldes mit einer bestimmten
+Zacke den Winkel a einschliesst (siehe Fig. 17) hat
+der in den Drähten dieser Zacke fliessende Strom die
+Amplitude
+^2mom ^2*“ Cp 2 ).
+Fig. 17.
+Da nun die Liniendichte a» dieser Stelle B mom— B s sin a
+ist, so wird mich einer bekannten Beziehung am Umfange
+der Armatur eine Zugkraft entstehen von der augen­
+blicklichen Grösse
+■L B b( N 9\....,
+z '"“= MÖW IwJ” *" *““ Ta)%
+Wenden wir uns nun zu dem zweiten extremen
+Falle, dass die Wickelung gleichmässig über die
+Oberfläche vertheilt ist.
+Es bedeute wie früher 2ß=— den Winkel, den
+m 2
+die Wickelung einer Phase am Armaturumfang ein­
+nimmt. Die momentane Zugkraft ist in diesem Falle
+Z\
+J2 Bs H Y
+9, 81.10® m 2 q 2
+sin (a— 9 2 )J sin^
+x d x
+-ß
+J 2 B b I Y A 2 12 m
+—„— sin -B- sin a sin (a—cp.,)
+9‘81.10® m„ q 2 \~ 2 m)
+Es hat augenscheinlich keinen Zweck, die gleiche
+Rechnung auch auf andere Zackenzahlen auszudehnen,
+2 777 TU
+denn man sieht sofort, dass derKlammerausdr uck— sin -—
+7C 2 m
+nichts anderes als die Grösse ^- 2 vorstellt, für welche
+die Tabelle III benützt werden kann. Im vorigen Falle
+war K 2— 2, so dass also~ == 1 ist. Die von einer ein-
+zelnen Phase ausgeiibte Zugkraft ist folglich allgemein:
+Kn Jn B s l'f Nn....
+Z' m= —2—- 2 -- 2- sm a sm (a—cp,). 28)
+mom 2 9'81.10° m 2 q 2 r2
+Integrirt man den ersten Ausdruck für die Zug­
+kraft Uber mindestens— Periode und multiplicirt man
+z
+die rechte Seite mit m 2, so erhält man die Zugkraft
+des ganzen Ankers, u. z. ist
+B 2 J 2 B s N 2 l'{
+Z= V?-'' cos cp 2 in kg
+4 9-81.10« q 2 T2
+29)
+Zu genau dem gleichen Ausdruck gelangt man
+durch Addition der momentanen Zugkräfte einer be­
+liebigen Zahl m 2 Phasen, welche untereinander einen
+2~
+Winkel einsckliessen.
+pm 2
+Daraus lässt sich der wichtige Schluss
+ziehen, dass die Zugkraft eines asynchronen
+Motors bei Anwendung von mehr als einer
+Phase während einer ganzen Periode constant
+bleibt, während sie bei einphasiger Wickelung
+zwischen Null und einem maximalen Werthe
+sinusförmig verläuft.
+Die Gleichung (29) ist in der angegebenen Form
+nicht für praktische Formeln geeignet, da sie noch
+drei Variable J 2, B a und cos cp 2 enthält, welche von ein­
+ander abhängig sind, und deren Wahl mithin an ge­
+wisse Bedingungen geknüpft ist. Wir können aber mit
+Leichtigkeit zwei dieser Grössen eliminiren.
+Nach Gleichung (27) ist nämlich
+T 1 /"n• V 72 N 1
+k% k 2
+H-tI+Kt-)’
+
+Nr. 31.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 371.
+Ferner nach Gleichung (4)
+pq i o« p
+c v N t.| r
+r qx u:°l
+h-D+K ff
+>1+ l 1+ s
+Substituirt man diesen Werth in Gleichung (29)
+100 m x p
+und multiplicirt man Zähler und Nenner mit
+so folgt nach geeigneter Gruppirung der Glieder
+P h V
+K x D 7t
+Z:
+X
+Äj lc x k x y
+2.10®
+100
+N t 2
+P 2 71
+Di
+8 a
+m.
+■Kj fe 2 V
+X
+D 9-81
+X <7■
+-f-H (i+-
+y I\ y
+Die voranstehende Gleichung kann noch bedeutend
+vereinfacht werden.
+In dem Klammerausdruck erkennt man unschwer
+die Grösse— ==
+1 E.
+U 1
+(siehe Gleichung 14).
+Was den Bruch
+Äg ky l h‘
+K x feg fe 2(
+anbetrifft, so
+ist
+derselbe, wie immer auch die Wickelung gewählt
+wird, gleich 1.
+Anmerkung: Der Beweis hiefür wurde s. z. von Prof.
+Blondei (Eclairage Electr. 17. Aug. 1895) erbracht unter der Vor­
+aussetzung von ideellen Wicklungen. In unserem Fallo würde der
+Beweis viel zu weitläufig sein, da die Coe fficienten K, k und k'
+mit Berücksichtigung der wirklichen Feldgestaltung aufgestellt
+wurden, daher ein kleinwenig von den Werthen Prof. Blondel’s
+abweichen. Die oben angeführte Thatsache verliert dadurch
+nichts an Wert.
+Es ist ferner zu berücksichtigen, dass die obige
+Formel die gesammte Zugkraft ausdrückt, d. h. sowohl
+die an der Riemenscheibe disponible nützliche Zugkraft
+als auch die Reibungsverluste. Die nützliche Zugkraft,
+die uns allein interessirt, ist dagegen um einige Procente
+kleiner und wird erhalten, indem man die rechte Seite
+mit (1—2.) multiplicirt, wo 100 2 den percentualen
+F orm der
+Reibungsverlust bedeutet. Die
+Gleichung (29) ist daher
+Ei n ... 100
+• m
+V (l—*)
+endgültige
+(1—Ci) x
+D9-81
+(“wf+KF
+30)
+Der Ausdruck
+r,= A
+x (1—a)
+Kir+Kr
+kann aus Tabelle VII entnommen werden.
+In vielen Fällen ist es bequemer, statt der Zugkraft
+gleich die nützliche Stromstärke auszurechnen. Zu
+diesem Zwecke multipliciren wir beide Seiten mit der
+Umfangsgeschwindigkeit
+D TU TI
+100 60 (1^:
+D Wj
+lÖÖ ~p
+(1-7)
+und mit 9‘81. Die obige Formel gibt dann die nütz­
+liche Leistung in Watt, oder indem man durch E t m x
+dividirt, bleibt noch
+Nützliche Stromstärke
+(1— ff) x
+J +l 1+ l
+(1 —ff) x
+31)
+h= *o C 1— 2) (1— 7)
+= *o (1— *) (1— 9)
+(Siehe Tabelle VII).
+Die Zugkraft, oder was gleichbedeutend ist, der
+nützliche Strom 7, geht augenscheinlich mit zunehmen­
+dem x durch einen maximalen Werth, bei welchem der
+Motor fataler Weise abfallen muss. Dieser kritische
+Punkt wird je nach der Grösse des Streuungscoefficienten
+ungefähr für Werthe von x zwischen 9—^20 ein treten.
+Mit Rücksicht auf die Stabilität des Motors bei all­
+fälligen Ueberbelastungen ist man selbstverständlich
+gehalten, weit unter dieser Grenze zu bleiben. Der
+normale Werth von x wird also zwischen 1\5—4 liegen,
+je nach der Grösse des Motors. Für Belastungsgrenzen
+zwischen Leerlauf und Volllast weicht aber der Ausdruck A,
+wie übrigens auch aus der Tabelle VII hervorgeht, nicht
+allzusehr von der Einheit ab, so dass man in erster
+Annäherung die Zugkraft proportional x. also auch
+der Schlüpfung setzen darf. Der Motor wird daher, wie
+immer auch die Feld- oder Armaturwickelung gewählt
+wird, jede beliebige Zugkraft, unter der maximalen
+Zugkraft entwickeln können, nur wird die Schlüpfung
+grösser oder kleiner ausfallen.
+Wenn wir es daher in der Hand haben, eine der
+beiden Grössen i Q oder x beliebig zum Voraus anzu­
+nehmen, so gilt dies allerdings nur mit Bezug auf
+die Zugkraft und auch hier nur unter gewissen Be­
+schränkungen. Der Motor soll aber auch eine möglichst
+kleine Phasenverschiebung haben und dies ist nur
+möglich, wenn der Leerlaufstrom in Vergleich zum Nutz­
+strome möglichst klein ist. Wir werden uns daher in
+dem nachstehenden Abschnitt etwas eingehender mit
+dieser zweiten Bedingung befassen.
+6) Leistnilg'sfactor (eos <p).
+Nach Definition stellt der Leistungsfactor das Ver­
+hältnis des Wattstromes J w zum Totalstrom J x dar, vor­
+ausgesetzt, dass die Stromcurve und Spannungscurve
+dem Sinusgesetze folgen. Andererseits ist J w gleich dem
+nützlichen Strom, getheilt durch den Nutzeffect L
+Es sei 100 s der °/ 0 Kupferverlust in der primären
+Wickelung,
+100 s' •„ °/ 0 Eisenverlust (Hysteresis und
+Foucault’sche Ströme),
+100 g„% Verlust in der secundären
+Wickelung,
+100 2„ °/ 0 Reibungsverlust.
+Der Wattstrom ist daher
+I
+7„=
+(1- s) (1
+*0
+(1- S) (1- 60
+Ferner ist nach Gleichun,
+*') (1—7)(1 -z)
+(1— a) x
+-t)'+ (‘+7)’
+g (24)
+’h— *° J/^~
+1+ x 2
++( 1_ 7-)
+und aus beiden Gleichungen folgt dann durch Division
+
+Seite 372.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 31
+I
+
+
+TABELLE VIII.
+Seite 3?4.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 31’.
+
+Nr. 31.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 375.
+COS cp:
+(1?) (1
+(1-^)2
+££ <7-
+RK)'
+,. 33).
+(Siehe Tabelle VIII.)
+Die obige Gleichung enthält, wie man heraus­
+gefunden haben wird, eine kleine Ungenauigkeit, indem
+die Eisenverluste zwar im Wattstrom 7 W berücksichtigt
+wurden, nicht aber in der Stromstärke Jj. Es muss
+hiezu bemerkt werden, dass der zur Compensation der
+Eisenverluste nüthige additionelle Strom nahezu gleiche
+Richtung mit I w hat, dagegen einen ziemlich grossen
+Winkel mit J{ einschliescst. Der Fehler, den wir durch
+obige Formel begehen, ist daher nur sehr gering.
+Es hat übrigens
+keinen Zweck, von
+derartigen
+Berechnungen einen allzugrossen Grad der Genauigkeit
+zu verlangen, weil wir schon bei der Annahme von
+sinusoidalen Strom- und Spannungswellen eine Hypo­
+these aufstellen, welche eben nur selten in der Praxis
+rzutrifft. Der wirkliche Leistungsfactor, d. h. das Ver­
+hältnis der Wattleistung zum Producte aus effectivem
+iStrom mal Spannung kann deshalb je nach Umständen
+etwas kleiner oder grösser ausfallen als die Gleichung (33)
+angibt und die Verhältniszahl cos cp verliert dadurch
+ihre ursprüngliche rein trigonometrische Bedeutung.
+An m erkung. Wir haben oben stillschweigend die allerdings
+naheliegende Annahme gemacht, dass der Wattverlust in der
+secundären Wickelung proportional der Grösse g Ei/ w sei. Es
+bleibt noch zu zeigen, dass dies wirklich der Fall ist. Gleichung (Sil)
+und (27j mit einander multiplicirt, ergeben, indem man wie früher
+K2 L‘
+= 1 setzt
+Ki U Lf
+E 2 J 2 rr>2= g (G A m l) (1— o
+I
+» 1 4- ac2
+.(I-«)
+Nun ist aber nach Gleichung 32)
+R
+/ 1
+X G
+\ y
++ 1+'
+:(1— e)(I— epcos?
+^(•-Tr+t-fr
+Dies eingesetzt ergibt den Wattverlust in der Armatur:
+E 2 J 2 m 2 =g(E i J 1 m l )(l— e)(l— s*) COStp=\
+= gEiiW(l-«)(l-«i)
+Beispiel 1. Welchen cos <p wird ein neu zu
+construirender Motor mit nachstehenden Daten haben?
+-= 0-6;
+I
+a= O'l
+Nutzeffect C == 0*88
+(1— 4= 0-95
+(1— 9)= 0-97
+(1— s)= 0-97
+(1— s')= 0-98
+Wir werden die Rechnung in der Weise ausführen,
+dass wir zunächst aus Gleichung (31) mit Hilfe von
+Tabelle VI x bestimmen. Es ist
+(1— er) x I 1
+A
+*o(l— *)(1— 9) 0-6. 0-95.0-97
+= 1-81.
+Um y zu erhalten, nehmen wir
+p= 0- 8 an, so wird
+J x 1 1
+0-6.0-8.0-88.0-03
+schätzungsweise
+79.
+* 0 S l 0. COS <P. L,. S
+Diese Zahl liegt näher an 100 als an 50. Wir
+(1— ff) X
+suchen nun in Tabelle VI für y— 100 und=
+.= 1-81 den Werth von x auf und finden
+x— 2‘2.
+Hiefür gibt die Tab. VIII
+(1- ff) V ~1+%A= °' 786’ daher
+0- 785„ on_
+f" -F97.0-98'=° 825'
+Diese vereinfachte Rechnung genügt vollkommen,
+denn die genaue Rechnung ergibt cos tp= 0'818.
+Beispiel 2. Wie gross ist der Leerlaufstrom im
+Verhältnis zum Nutzstrom zu wählen, damit für einem
+bestimmten Motor ein cos cp= 0’85 erreicht wird?
+Die Daten des fraglichen Motors seien nach­
+stehende:
+(1- s)= (1— sO= (1- y)= 0-96
+(1—(/)= 0‘94; totaler Nutzeffect C= 0'832
+er =0-08
+Der Rechnungsgang ist genau der umgekehrte wie
+im vorigen Beispiele. Die erste Aufgabe besteht auch
+hier wiederum darin, y approximativ zu bestimmen. Für
+eine erste derartige Schätzung leistet die Tabelle IX
+sehr gute Dienste. Für cos cp= 0'84 und£= 0‘832 mag
+~ ungefähr= 0'39 sein. Es wäre demnach
+V~ 0-39.0-04= G4’
+wofür wir rund 50 nehmen.
+Nun ist
+(1— s) (1— s') cos <p= (1— a)
+(l+.r2)A
+= 0-96.0-96..0'84= 0-774.
+Aus Tab. VIII finden wir dann
+x— P8
+und dergleichen für x— 1'8 aus Tah. VI
+(1 —■ o) x
+A
+— 1-525,
+daher mit Hilfe der Gleichung (31)
+A 1_ 1
+(1— g)x (1 —») (1— 5r)' 1-525 .0-94.0-96
+= 0-727.
+(Fortsetzung folgt)
+Marconi’s Vorgänger.
+Von Ingenieur Adolf Prascli.
+(Fortsetzung.)
+Die bisherigen Anregungen waren zum mindestens für
+weitere Entfernungen als hoffnungslos anzusehen, da es vielleicht
+mit einziger Ausnahme des von II. II i g h t o n verwendeten
+Goldblattempfängers an entsprechend empfindlichen Empfangs­
+instrumenten fehlte. Aber auch der erwähnte Empfänger war
+zu zart, um demselben überhaupt allgemeinere Anwendung zu
+sichern. Selbst für die eigentliche Telegraphie konnte er wegen
+seiner grossen Sensibilität nur geringe Verwendung finden und
+gelangte, so weit bekannt, nur im Grossherzogthum Baden zur
+Verwerthung, um jedoch bald wieder durch den allen Ansprüchen
+gewachsenen Morseschreiber verdrängt zu werden.
+Erst als in dem Telephone ein an und für sich robuster,
+dabei aber ungemein empfindlicher Empfänger, welcher auf die
+geringsten Einwirkungen reagirt, gefunden war, bekamen die auf
+dem Gebiete der drahtlosen Telegraphie durchgeführten Versuche
+umsomehr einen hoffnungsvolleren Charakter, als man hiedurch
+nothgedrungen darauf übergehen musste, dio inducirenden
+Wirkungen des elektrischen Stromes für diese Zwecke auszunützen
+
+Seite 376.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 31.
+Die anfänglichen Versuche, bei welchen das Telephon als
+Empfangsinstrument benützt wurde, bewegten sich natürgemäss,
+weil direct durch die Beobachtung hiezu angeregt, noch immer
+auf Verwertliung der Erdströme. Der erste, der die Verwendung
+des Telephons für diese Zwecke in Vorschlag brachte, war
+J. Gott, der Leiter der Anglo-American Telegraph Co. auf
+der Insel St. Pierre. Auf dieser Insel waren mehrere Telegraphen­
+stationen mit Seekabeln in Verbindung gesetzt, deren kürzestes
+nach dem Morsesysteme mit einer kräftigen Batterie betrieben
+wurde, während für die anderen Seekabeln die empfindlichen
+Thomson'sehen Apparate, nämlich das abgedämpfte Spiegel-Gal­
+vanometer und der Syphonrekorder, als Empfangsinstrumente
+dienten.
+Anfänglich wurden diese letzteren Apparate, da die Insel
+als ein an und für sich guter Isolator betrachtet werden musste,
+somit eine gute Erdleitung nicht zu erzielen war, durch Erd­
+ströme in empfindlichster Weise beeinflusst, wiewohl die einzelnen
+Stationen räumlich getrennt waren. Zur Abhilfe wurde nun eine
+5 km lange isolirte Leitung an das Ufer geführt und dort mit
+einer in die See versenkten Erdplatte verbunden. Dieses zeigte
+eine grosse Wirkung, aber hiebei wurde auch gefunden, dass
+die als Erdströme angenommenen schädlichen Ströme der Mani­
+pulation mit dem Morseapparate ihre Entstehung verdankten.
+Setzte man nämlich den Rekorder mit der früheren Erde und
+gleichzeitig mit dem anderen Leitungsende mit der Seeerdleitung
+in Verbindung, so konnten die von der über 200 m entfernten
+Morsestation gegebenen Zeichen ohne weiters mit dem Rekorder
+in der deutlichsten Weise aufgenommen werden. Diese Erscheinung,
+die sich durch abwechselnde Ladung und Entladung des Erd­
+reiches, wie solche bei dem Morsebetriebe stattfand, leicht
+erklären lässt, Hess J. Gott die Idee zum Ausdrucke bringen,
+dass eine telegraphische Verständigung durch die Erde ohne
+Leitungen auf ziemliche Entfernungen möglich ist, wenn ein
+Telephonempfänger angewendet wird und die Zeichengebung
+nach dem Morsesysteme erfolgt.
+Professor John Trowbridge von der Harvard-Uni­
+versität in Amerika war der erste, der dieses Problem syste­
+matisch studirte und das Project einer drahtlosen Telegraphie
+über den atlantischen Ocean wieder erweckte und namentlich
+die Möglichkeit des Verkehres von Schiff zu Schiff in den Kreis
+seiner Betrachtungen einbezog. Seine diesbezüglichen Unter­
+suchungen, welche im Jahre 1880 zur Durchführung gelangten,
+wurden durch eine ähnliche Erscheinung, wie die vorhergehende
+angeregt.
+Von der Sternwarte der Harvard-Universität wird täglich
+das Zeitzeichen nach Boston auf elektromagnetischem Wege
+vermittelt. Dieses Zeitzeichen machte sich nun in den, in das
+Telephonnetz eingeschalteten Telephonen durch deutliches Ticken
+bemerkbar. Ursprünglich wurde diese Erscheinung auf Inductions-
+wirkungen zurückgeführt, allein Trowbridge wies in klarer
+Weise nach, dass dies ein irrthümlicher Schluss sei, indem ein
+inductiver Effect an Telephonen von dem gebräuchlichen Wider­
+stande selbst dann nicht bemerkbar wird, wenn 10 Bunsen-Zellen
+in die eine Leitung geschaltet werden und die Telephonleitung
+in einer Entfernung von 0'3 m auf eine Länge von 10 m parallel
+mit der ersten Leitung verläuft.
+Aus allen seinen in der sorgfältigsten Weise durchge­
+führten Experimenten zieht Trowbridge den späterhin von
+Preece adoptirten Schluss, dass die Erdleitung einer in die
+Erde sich entladenden Batterie das Centrum von Wellen elektri­
+scher Energie sei, welchen sich immer mehr und mehr erweitere.
+Da nun in dem Telephon ein äusserst empfindliches Empfangs­
+instrument gefunden ist, lässt sieh durch diese Wellen auf
+ziemlich weite Entfernungen eine Nachi'ichten-Vermittelung
+durchführen.
+Die Möglichkeit, über den Atlantischen Ocean ohne Draht
+zu telegraphiren, ist hiedurch theoretisch nachgewiesen. Die Aus­
+führbarkeit ist jedoch eine andere Sorge und würde nach unseren
+heutigen Kenntnissen einen enormen Aufwand an Energie in
+den hiezu benöthigten dynamo-elektrischen Maschinen erfordern.
+Hingegen lässt sich, wir folgen hier immer auszugsweise den
+Ausführungen Trowbridge 1» selbst, diese Methode zur Inter-
+communication zwischen Schiffen zur See verwerthen und würde
+viel bessere Erfolge ergeben, als die heute übliche Signalisirung
+mit Glocken und Sirenen, weil sich bei diesen, namentlich bei
+dichtem Nebel, die Richtung, woher der Ton kommt, nur sehr
+schwer bestimmen lässt. Zur Durchführung dieser Idee wird von
+demselben der Vorschlag gemacht, eine Wechselstromdynamo von
+circa 7 KW Leistung in Betrieb zu erhalten, den einen Pol der­
+selben mit dem Schiffskörper zu verbinden, von dem anderen
+Pole eine lange isolirte Leitung abzuleiten, welche in die See
+gelassen und von dem Schiffe nachgeschleppt wird. Das in die See
+tauchende Ende dieser Leitung ist selbstverständlich von der
+isolirenden Hülle entblösst. Auf diese Weise soll eine deutliche
+Verständigung mittelst Telephon auf mindestens eine halbe See­
+meile möglich sein.
+In einem im Jahre 1891 veröffentlichten Artikel bespricht
+Trowbridge bereits die Erscheinungen der statischen und
+elektromagnetischen Induction in Bezug auf ihre Anwend­
+barkeit für die drahtlose Telegraphie. Hier erfolgt die Wirkung
+nicht durch die Erdleitung, sondern direct durch die Luft. Die
+Anwendung dieser Art der Telegraphie wird sich nur auf die
+See beschränken, da die zu Lande durch die Bodenerhebungen
+sich ergebenden Hindernisse der Fortpflanzung elektrischer
+Energie auf dem Wege der Induction Schwierigkeiten bereiten.
+Die am meisten einleuchtende Methode der elektrischen
+Signalisirung durch die Luft ist die der elektromagnetischen In­
+duction. Dieselbe begegnet jedoch den grössten Schwierigkeiten,
+da entweder die Inductionsrollen oder die Dynamomaschinen, um
+nur auf eine einigermassen grössere Entfernung Nachrichten ent­
+senden zu können, praktisch unmögliche Dimensionen bekommen
+müssten. Es müsste daher, um auf diesem Wege zum Ziele zu
+gelangen, eine Methode gefunden werden, welche es ermöglicht,
+die beiden Inductionsrollen gegenseitig so abzustimmen, dass die in
+der einen Rolle erregten elektrischen Oscillationen in der anderen
+Rolle sympathische Schwingungen hervorzurufen vermögen.
+Aber auch die statische Induction kann aus den gleichen
+Gründen nicht zum Ziele führen, denn entweder müssten die
+Capacitätsplatten oder die ladende Maschine eine die praktische
+Durchführbarkeit übersteigende Grösse annehmen.
+Wie man hieraus ersieht, äussert sich Trowbridge
+ziemlich skeptisch über die Möglichkeit der praktischen Durch­
+führbarkeit der drahtlosen Telegraphie.
+Aehnliche Versuche, wie Prof.T rowbridgo in Vorschlag
+gebracht hatte, wurden über dessen Anregung von Professor
+Graham Bell im Jahre 1882 auf dem Potomac-Flusse aus­
+geführt und ergaben dieselben die Möglichkeit, nach der ein­
+fachen Leitungsmethode bis auf nahezu 1-5 km weit in deutlicher
+Weise Signale zu empfangen. Derselbe gelangte auf Grund dieser
+Versuche genau zu denselben Schlussfolgerungen für die Inter-
+eommunication zwischen Schiffen zur See wie Trowbridge.
+, Hier sei auch eines von demselben Autor durchgeführten Ex­
+perimentes gedacht, mit welchem er den Nachweis des Vor­
+handenseins von äquipotentiellen Linien in den Wollen elektri­
+scher Energie lieferte.
+In ein mit Wasser gefülltes Gefäss wurde ein Blatt Papier
+eingelegt. An zwei Punkten dieses Blattes befestigte er zwei
+Nähnadeln, welche mit einem Unterbrecher, welcher den Strom
+circa lOOmal in der Secunde unterbrach, in leitender Verbin­
+dung standen. Zwei andere Nadeln standen mit einem Telephon
+in Verbindung. Die eine der Nadeln wurde gleichfalls an dem
+Papiere befestigt, während die andere Nadel an verschiedenen
+Punkten in das Wasser getaucht wurde. In dem Momente des
+Eintauchens dieser Nadel in das Wasser konnte in dem Telephon
+ein musikalischer Ton vernommen werden. Wurde jedoch die
+Nadel im Wasser rund herum geführt, so gelangte man an Punkte,
+von welchen kein Ton mehr vernommen werden konnte. Bei
+weiteren Experimenten konnte mit grosser Leichtigkeit eine
+äquipotentielle Linie um einen Pol in dem Wasser festgestellt
+werden.
+Professor A. E. Dolb ear von Tufts-Colloge in Boston
+construirte im Jahre 1883 eine sehr einfache Vorrichtung zur
+Telegraphie ohne Draht, bei welcher bereits das Princip der
+statischen Induction zur Verwerthung kam. Diese Einrichtung
+ist in Fig. 3 schematisch dargestellt. A und B sind die beiden
+Orte, zwischen welchen ohne Drahtverbindung gesprochen werden
+soll. C ist eine bei A und 1J eine bei B zur Erde führende
+Leitung. O ist eine Inductionsspule, in deren primären Kreis ein
+Mikrophonübertrager T und eine galvanische Batterie F ein­
+geschaltet ist. Diese Batterie besteht aus einer so grossen Anzahl
+von Zellen, um in der Leitung C, welche mit ihrem zweiten Ende
+mit der Secundärspule in Verbindung steht, eine elektromoto­
+rische Kraft von 100 Volts zu erzeugen. Die Batterie ist hiebei
+so verbunden, dass sie nicht nur den Strom für den primären
+Stromkreis liefert, sondern auch die Secundärspule und ihre Enden
+C und B elektrisch ladet.
+Wird nun in den Transmitter T hineingesprochen, so wird
+durch die hervorgerufenen Widerstandsveränderungen der
+elektrische Zustand der Spule O beeinflusst und hiedurch auch
+das Potential in der Erde bei A einer Variation unterworfen.
+Entsprechend diesen Potentialänderungen treten auch solche bei
+B auf, wodurch in dem Empfänger 11 die in T hineingesprochenen
+Worte abgehört werden können. Wie aus der Schaltung der
+Batterie 1 und Fi hervorgeht, wird die Erde an den beiden
+
+Nr. 31.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK
+Seite 377.
+Orten A und B mit einander entgegengesetztem Potential ge-
+laden, was als wesentlicher Theil dieses Systemes zu bezeichnen
+ist. Oie Condensatoren II, B.1 und II2 sollen durch ihre Laduno­
+den Effect vergrössern, werden aber nicht als wesentlich
+betrachtet. Die Wirkungen dieser Einrichtungen lassen sich aber
+auch m anderer Weise, und zwar rein auf dem Wege der
+statischen Induction erklären. Es kommen hier drei Condensator-
+wirkungen 111 Betracht, und zwar erstens zwischen der Condensator-
+platte bei A und der Erde zweitens zwischen der Condensator-
+platte bei B und der Erde und endlich zwischen den beiden
+äusseren Belägen der Condensatoren bei A und B, welche mit der
+zwischenhegenden Luft einen Condensator von äusserst geringer
+Capacität darstellen, während die beiden anderen Condensatoren
+äusserer Belag und Erde als zweiter Beleg, infolge der
+geringeren Stärke des Dielektricums eine grössere Capacität
+haben müssen. Die Condensatorwirkung zwischen A und B
+wird daher eine wesentlich geringere sein als in A und B selbst-
+nichtsdestoweniger ist sie ausreichend, um bei entsprechender
+Ladung und hinreichenden Ladungsschwankungen, den Telephon­
+empfänger U auf eine relativ mässige Entfernung hin zum An­
+sprechen bringen zu können.
+LJ
+IV P‘ =-
+Qä
+B
+Jv
+Für Zwecke der Eisenbahnsignalisirung zwischen den
+fahrenden Zügen unter einander und den Stationen, bei welchen
+es sich nicht um die Ueberwindung grosser Entfernungen handelt,
+wurde schon im Jahre 1881 von A. C. Brown der Vorschlag
+gemacht, längs der Bahnstrecke parallel mit den Schienen eine
+Leitung zu ziehen und die Locomotive oder irgend einen Wagen
+längsseitig mit einer Reihe von Drahtwindungen so zu umgeben,
+dass diese.Drahtwindungen so nahe als möglich der Leitung ver­
+laufen. Die Anordnung ist so zu treffen, dass die Leitung eine
+möglichst kräftige inductive Wirkung auf die Drahtwindung aus­
+üben kann. Wird nun in den Signalbuden eine Batterie, ein
+Signaltaster und ein selbstthätig wirkender Stromunterbrecher
+untergebracht und mit der Leitung verbunden, so ist es durch
+Unterbrechen und Schliessen des Tasters möglich, dem Zuge,
+wenn die Inductionsrolle mit einem Telephon verbunden ist,
+Nachrichten zukommen zu lassen. Wird ein gewöhnlicher Kohlon-
+übertrager in dio Leitung eingeschaltet, so ist es auch möglich,
+mit dem Zuge mündlich in Verkehr zu treten. Ausser Vorver­
+suchen, welche die Möglichkeit dieser Art der Nachrichtenver
+keiner praktischen Aus-
+_> —“
+mittelung erkennen Hessen, ist es zu
+führung dieses Systemes gekommen.
+Willoughby Smith beantragte im gleichen Jahre das
+metallische Dach eines Wagens von demselben vollkommen zu
+isoliren und durch einen Draht mit einem im Wagen-Innern
+untergebrachten Telephon, welches von der zweiten Klemme
+durch die Wagenräder zur Erde geführt ist, zu verbinden. Eine
+Telegraphenlinie wurde nun längs der Bahntrace so nahe als
+möglich zü den Geleisen und dem Wagendache getührt, dass bei
+einem telephonischen Gespräche über dieso Leitung das isolirte
+Dach, da in diesem Falle die Leitung und das Dach die Beläge
+eines Condensators darstellen, möglichst intensiv statisch indu-
+cirt wird. Hiedurch wird bei Ladungsvariation ein Strom durch
+das Telephon fliessen, so dass das Gespräch vom Wagen aus
+abgohört werden kann.
+Fig. 3.
+In späteren Versuchen gieng Dolbear dahin, die Con­
+densatoren durch Capacitätsflächen zu ersetzen, an Stelle des
+Mikrophonübertragers einen Morsetaster zu verwenden und in den
+1 limärkreis einen automatischen Stromunterbrecher einzuschalten,
+wodurch er bedeutend bessere Resultate erhielt. Dadurch, dass
+er einen vergoldeten Drachen durch eine dünne leitende Schnur
+mit der Secundärspule in Verbindung brachte und den Drachen
+in die Höhe steigen liess, erzielte er neuerlich bessere Resultate,
+was sich auch dadurch erklären lässt, dass die Capacität des
+Condensators zwischen Drachen und Erde eine geringere wurde,
+sohin die Wirkung des Condensators, welcher sich zwischen Station
+und Station bildete, eine grössere werden musste.
+In dieser Beziehung hat Dolbear bereits das von
+Marc o n i angewendete Princip, die Wirkung durch ^Erhöhung
+der vertikalen Stange zu vergrössern, festgelegt.
+In Fig. 4 ist die von Thomas Alva Edison im
+Vereine. mit den Herren G i 11 i 1 a n d, P h e 1 p s und W. S m i t h
+geschaffene Anordnung zum directen Verkehre zwischen Ziigon
+und den Stationen, die im Jahre 1885 patentirt wurde, vorgeführt.
+S. bezeichnet hier die Station und W. den auf der Strecke be­
+findlichen Wagen. Der für den Empfang eingerichtete Wagen
+trägt am Dache oder an der Seite oder an beiden Seiten einen
+isolirten Metallbelag a, welcher sich der ganzen Wagonlänge
+nach erstreckt und als der eine Belag eines Condonsators anzu­
+sehen ist. Dieser Belag besteht aus Metallstreifen, welche durch
+Blöcke aus Glas isolirt werden. Zur Vergrösserung der Ober­
+fläche ist es gut,. wenn alle Wagen mit solchen Metallstreifen
+versehen sind, die dann durch passende Kuppeln O elektrisch
+verbunden werden. Von diesen Metallstreifen führt ein Draht zu
+der Socundärwindung der Inductionsspule B und von dem zweiten
+Ende derselben zum Telephon T und von diesem über das Wagen­
+rad zur Erde. In dem localen Stromkreis der Batterie I' ist die
+Primärwickelung der Inductionsspule sowie ein rotirender
+Stromunterbrecher D, aus einem Stromrade mit isolirenden
+/wischenlagen, welche die freigelassenen Zwischenräume
+ausfüllen, bestehend, längs dessen Oberfläche eine Contact-
+feder schleift, eingeschaltet. In Abzweigung zu diesem Strom­
+unterbrecher befindet sich ein Morsetaster M, welcher diesen
+Fig. 4.
+
+Seite 378.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 31.
+Unterbrecher in der Ruhelage kurzschliesst, so dass er die In-
+ductionsspule nur dann beeinflussen kann, wenn der Taster
+niedergedrückt ist. Der Unterbrecher wird durch einen passenden
+Motor entweder elektrisch oder mechanisch angetrieben. Als
+Empfangs-Instrument ist ein Elektro-Motograph-Telephon vorzu­
+ziehen, dessen Kreide-Cylinder durch irgend einen passenden
+Motor in fortwährender Umdrehung erhalten wird und auf
+welchem eine Feder schleift, die durch die Reibung in Schwin­
+gungen versetzt, einen Ton bestimmter Höhe erzeugt, welcher
+sich bei Aenderung des Leitungswiderstandes in kennbarer Weise
+ändert. Es kann jedoch jede beliebige Form eines Telephons hie-
+für zur Verwendung gelangen. Der Umschalter n schliesst die
+secundäre Spule des Inductoriums bei Einlangen einer Nachricht
+kurz, so dass der Strom direct über das Telephon zur Erde ab-
+fliessen kann und durch den Widerstand der Secundärwindüng
+nicht unnöthig abgeschwächt wird. Für die Abgabe einer Nach­
+richt wird der Umschalter u unterbrochen, so dass der in der
+Secundärspule des Inductoriums indueirte Strom den Conden-
+satorbelag abwechselnd positiv und negativ zu laden vermag.
+Dies tritt aber nur dann ein, wenn der Taster M gleichzeitig
+niedergedrückt wird, weil bei Ruhelage desselben die Local­
+batterie F kurz geschlossen ist.
+Die Einrichtung in den stabilen Stationen ist, wie aus&
+zu ersehen ist, nahezu identisch mit der in den rollenden Wagen.
+An Stelle des Condensatorbelages a treten hier jedoch eine
+Reihe von Condensatoren i, i 1, i®, ß, deren innere Beläge ge­
+meinsam verbunden zu der Secundärspule des Inductoriums B,
+beziehungsweise in Abzweigung zu dem Umschalter u führen.
+Die äusseren Beläge sind mit den bei der Station vorbeiführenden
+parallelen Telegraphenleitungen 1, 2, 3, 4, u. zw. jede mit einer
+gesonderten Leitung verbunden. Die Leitung 4 führt in diesem
+Falle directe in die Station S, um die Verbindung mit dem da­
+selbst aufgestellten gewöhnlichen Telegraphensystem, in welchem
+R das Relais, P den Empfangsapparat, Mi den Zeichengeber und
+At die Localbatterie bezeichnet, herzustellen. Um nun im Falle
+der Ruhelage des Zeichengebers Mi, die bei Betrieb des Induc­
+toriums entstehende abwechselnde Ladung und Entladung der
+Leitung 4 auch in der Richtung nach rechts übertragen zu
+können, dient der Condensator K. Die hier nach dem englischen
+Patente vom 22. Juni 1885 wiedergegehene Darstellung der
+Schaltung ist offenbar falsch, da hier die in dem rechtsseitigen
+Belage des Condensators entstehende Ladung sich auch durch
+die Windungen des Relais R verbreiten müsste, welche in diesem
+Falle aber wie eine Würgespule wirken und Verzögerungen in
+der Ladung und Entladung der Leitung 4, rechte Seite, bedingen
+würde. Es wurde demnach in der Fig. 5, welche eine geänderte
+Anordnung der Uebertragung vorstellt, da hier für alle Fälle ein
+Arbeitsstrombetrieb gedacht sein dürfte, die nach eigener An­
+sicht richtige Schaltung für den directen Linienbetrieb unter
+Hinweglassung des Localstromkreises zur Anschauung ge­
+bracht. In dieser Darstellung erscheinen die einzelnen Conden­
+satoren durch eine einzige Condensatorfläche iV, welche in gleicher
+Höhe mit den Leitungen möglichst nahe zu denselben parallel
+aufgestellt ist, ersetzt und ist die Form des Elektro-Motograph-
+Telephons schematisch zur Anschauung gebracht. C bedeutet
+hier den rotirenden Kreidecylinder und h die an demselben
+schleifende Metallfeder, welche bei Aenderung des Leitungs
+Widerstandes den Ton wechselt.
+Die Wirkungsweise dieser Art der drahtlosen Telegraphie,
+wenn selbe in diesem Falle als solche bezeichnet werden darf,
+erklärt sich nun folgender Weise. Will beispielsweise die Station
+sprechen, so unterbricht sie vorerst den Kurzschluss der Secundär-
+windung von B durch Abstellen des Umschalters u und gibt
+dann durch abwechselndes Oetfneu und Schliessen des Tasters
+die Zeichen. Bei jeder Unterbrechung durch diesen Taster ge­
+langt der Strom der Batterie F durch die Primärwindung von B
+und ruft hiedurch, da dieser Strom durch den Unterbrecher D
+gegen hundertmale in der Secunde unterbrochen wird, in der
+Secundärspule eine Serie von Inductionsströmen hervor, welche
+die Condensatoreu i, i l, ß, i 3 oder die Capacitätsfläche N ab­
+wechselnd positiv und negativ laden und diese Ladungen auf
+die Leitungen 1, 2, 3, 4 übertragen. In gleicher Weise wird die
+Capacitätsfläche a von den Leitungen ausgeladen und der hie­
+durch durch das Telephon abfliessende Strom wird in demselben
+eine Art musikalischen Tones erzeugen. Bei Schluss des Tasters
+M wird die Einwirkung der Batterie f auf B aufgehoben. Der
+ganz gleiche Vorgang spielt sich ab, wenn vom Wagen zur Station
+oder von Wagen zu Wagen gesprochen werden will.
+Dieses System der Telegraphie vom Zuge aus wurde auf
+Staten Island ausgeprobt, sodann an der Chicago—Milwaukee
+und Chicago—St. Paul-Linie, sowie späterhin auf der Lehigh—
+Valley Railroad eingeführt und hat sich im Betriebe bestens
+bewährt, wurde aber späterhin mangels jeglichen Bedarfes an
+einem derartigen Verständigungsmittel wieder aufgelassen.
+An Schwierigkeiten, welche die Flusskabel in Indien da­
+durch bereiten, dass sie bei den rapid und vehement eintretenden
+Hochwässern häufig zerstört werden, liess schon O’Shaughnessy,
+wie bereits erwähnt, im Jahre 1849 Versuche unternehmen, um
+diese Kabel beseitigen zu können. Im Jahre 1858 nahm Blisset
+die damals resultatlos verlaufenen Versuche wieder auf, ohne
+jedoch, ebenso wie seine Nachfolger Schwendler, 1876, und
+W. P. Johnston, 1879, zu praktischen Ergebnissen gelangen
+zu können. Erst W. F. Melhuish ist es auf Grund mit
+grosser Sorgfalt durchgeführter Vorversuche gelungen, bei et­
+waigem Kabelbruch die telegraphische Correspondenz dadurch
+aufrecht zu erhalten, dass er den vibrirenden Klopfer von
+Cardew als Empfangs-Instrument zur Anwendung brachte. Waren
+zwei parallel verlaufende Kabel vorhanden, so verband er die
+äussere Metallschutzhülle des einen Kabels mit der Loitung des
+diesseitigen, die des anderen Kabels mit der Leitung des jen­
+seitigen Ufers und erreichte den angestrebten Zweck auch bei
+Kabelbrüchen in der Weise, dass die Schutzhüllen der beiden
+Enden des in zwei Theile gerissenen Kabels mit den vom Ufer
+führenden Leitungen verbunden wurden, wobei die Entfernung
+der beiden getrennten Kabelenden im Wasser, auch wenn die
+Kabelstücke, vom Wasser mitgenommen, stromabwärts führten,
+ohne störenden Einfluss blieb. Bei dieser Anordnung ist es jedoch
+nothwendig, dass dio Leitung einen möglichst geringen Wider­
+stand besitzt, was durch Ausschalten der eigenen Apparate beim
+Geben der Depesche erreicht wird. Es gelangt für diese Zwecke,
+um die eigenen Apparate dennoch stets für den Empfang betriebs­
+bereit zu halten, ein eigenartig construirter Taster zur An­
+wendung, durch welchen beim Niederdrücken die eigenen
+Aj)parate aus-, beim Hochhebon dagegen wieder eingeschaltet
+werden. Diese Art der Einrichtung ist nur als eine Art von
+Nothbehelf im Falle des Eintrittes von Störungen anzusehen und
+gelangte niemals definitiv, sondern stets nur vorübergohend zur
+Anwendung.
+(Schluss folgt.)
+KLEINE MITTHEILUNGEN.
+Verschiedenes.
+Elektrische Beleuchtung der Bahnhöfe der ungarischen
+Staatsbahnen. Die ungarischen Staatsbahnen lassen successive alle
+grösseren Bahnhöfe mit elektrischer Beleuchtung versehen. So
+wurden in letzterer Zeit durch die Vereinigte Elektri-
+citäts-A.-G. in Budapest die Bahnhöfe in Szatinar, Fünf­
+kirchen und Steinamanger mit elektrischer Beleuchtung ein­
+gerichtet.
+Elektrische Kraftübertragung in Webereien. Die grossen
+Vortheile des elektrischen Einzel-Antriebes bei mechanischen
+Webstühlen werden erfreulicher Weise in den betreffenden
+industriellen Kreisen immer mehr anerkannt und ist in Oesterreich
+schon eine Anzahl von grösseren derartigen Etablissements auf
+diesen Antrieb übergegangen. So hat in letzterer Zeit die Firma
+
+Nr. 31.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 379.
+Herrn. Schuh& Co. ihre neue grosse Seidenweberei in
+R o v e r e t o (Süd-Tirol) vollständig für elektrischen Betrieb ein­
+gerichtet und daselbst vorläufig 400 Webstühle mit Drehstrom-
+Motoren zur Aufstellung gebracht.
+Nachdem auch nach angestellten Proben der elektrische
+Einzel-Antrieb unter den schwieligen Verhältnissen der Sammt-
+weberei sich als vorzüglich verwendbar gezeigt hat, ist von der
+Firma F. W. Botschen in Königswald deren neu erbaute
+Samint-Weberei mit elektrischen Einzel-Antrieben eingerichtet
+worden.
+Die Ausführung beider Anlagen wurde durch die V e r-
+einigte Eie ktricitäts-Actien- Gesellschaft in
+Wien besorgt.
+Ausgeführte und projectirte Anlagen
+Oester reich- Ungarn.
+a) Oesterreich.
+Bruch. (Elektrische Einrichtung von Kohlen­
+werk e n.) Der Duxer Kohlenverein errichtet eine grössere Kraft-
+Ubertragungsanlage für seinen Maria-Schacht bei Bruch und
+hat die Ausführung dieser Anlage den 0 österreichischen
+Schuckert-Werken Wien übertragen. Zur Aufstellung
+gelangt eine Drehstrommaschine mit einer Leistung von ca. 180 KW,
+die mit einer Dampfmaschine direct gekuppelt ist. Sie dient zum
+Antrieb einerseits eines Ventilators, andererseits einer Seilförde­
+rung. Die immer weiter greifende Verbreitung elektrischer Be­
+triebe in Kohlenwerken beweist zur Genüge deren bedeutende
+Vorzüge vor jeder anderen Betriebsart. (Verg-1. H. 30, S. 366,1900.)
+(Jüdin g, Mähren. (Elektrische Bah n.) Bei der ver­
+hältnismässig noch sehr geringen Zahl der elektrischen Bahnen
+in Oesterreich, muss im Interesse der Elektrotechnik jede neue
+derartige Anlage mit Vergnügen begrüsst werden.
+Die Vereinigte Elektricitäts-Actiengesell-
+schaft in W i e n erbaut in Göding, woselbst sie auch ein
+Elektricitätswerk besitzt, eine normalspurige Localbahn mit elek­
+trischem Betrieb, welche sowohl dem Personenverkehr als auch
+der Frachtenbeförderung für die verschiedenen grösseren in
+Göding gelegenen industriellen Etablissements dienen soll. Die
+elektrische Localbahn, welche vorläufig ca. 2'5 km, lang wird,
+erhält einen Anschluss an den Bahnhof Göding der Kaiser-
+Ferdinands •Nordbahn, zum directen Uebergang der Wagen.
+Krakau. (Elektrische Strassenbahn.) In Er­
+gänzung unseres Berichtes im H. 28, S. 340, über die Con-
+cessionirung eines Netzes von mit elektrischer Kraft zu be­
+treibenden Kleinbahnlinien in Krakau wird uns mitgetheilt, dass
+die Krakauer Tramway-Gesellschaft die Ausführung der elek­
+trischen Anlage den Oesterreichischen Schuckert-
+Werken Wien übertragen hat. Die Centralstation wird zwei
+grosse Compounddampfmaschinen enthalten, welche je ein Gleich­
+stromdynamo von 220 K W Leistung antreiben. Die Zuführung
+des Stromes von 600 V geschieht durch Oberleitung, die Rück­
+leitung durch die Schienen. Für den Betrieb sind vorläufig
+20 Motorwagen in Aussicht genommen, mit Coupes I. und II. Classe.
+Auf dem ganzen gegen II km langen Bahnnetze, welches theils
+ein-, theils zweigeleisig geführt sein wird, soll ein Verkehr in
+Intervallen von 3—6 Minuten stattfinden.
+Mariazell, (Elektricitätswerk.) Die elektrische
+Centrale für Licht und Kraft in Mariazell ist derzeit mit einer
+Erweiterung ihrer von den Oesterreich i sch e n Schuckert-
+Werken Wien installirten Anlage beschäftigt. Die genannte
+Firma hat die Aufstellung einer neuen Dynamomaschine über­
+nommen, welche für eine Leistung von 65.000 W bestimmt ist.
+St. Ulrich. (Elektrische Centrale.) Die Zahl von
+kleineren Städten Süd-Tirols, die die günstigen Wasserkraft-Ver­
+hältnisse zur Anlage von Elektricitätswerken ausnützen, ist kürz­
+lich durch St. Ulrich bei Bozen vermehrt worden. Die Anlage
+soll vor allem den Zwecken öffentlicher und privater Beleuchtung
+dienen und wird aus zwei Turbinen bestehen, welche je eine
+Gleichstrommaschine mit einer Leistung von 105 KW antreiben.
+Die Ausführung der elektrischen Einrichtung haben die Oester-
+r e i c h i s c h e n Schuckert-Werke übernommen; mit dem
+Baue wurde vor Kurzem begonnen.
+Tünnitz, Böhmen. (Elektricitätswerk.) Die Ge­
+meinde Türmitz erhält ein Elektricitätswerk, welches im Gleich­
+strom-Dreileitersystem 2 X 220 V arbeiten wird.
+Die Ausführung wurde der VereinigtenElektrici-
+täts-Actiengesellschaft Wien übertragen.
+Wien. (Elektrische Strassenbahnen.) Die
+k. k. Statthalterei in Wien hat hinsichtlich des vom Magistrate
+der Reichshaupt- und Residenzstadt Wien vorgelegten Projectes
+für die Linie: 1. „Radetzkystrasse —Heumarkt—Getreidemarkt“,
+Theilstrecke (Invalidenstrasse von der Ungargasse über den Heu­
+markt bis zur Johannesgasse und von der Johannesgasse durch
+die Lothringerstrasse über den Karlsplatz und die Friedrich­
+strasse bis zum Getreidemarkt sammt Verbindungscurven zu der
+Linie in der Heugasse und zur bestehenden Linie am Rennweg);
+2. „Getreidemarkt—Museumstrasse—Auerspergstrasse—Währinger
+Hauptstrasse“, Theilstrecke: (Josefstädterstrasse durch die Landes­
+gerichtsstrasse, die Garnisonsgasse und die Schwarzspanierstrasse
+bis zur Währingerstrasse) der Wiener elektrischen Strassenbahnen
+die Tracenrevision und Stationscommission und bei anstauds­
+losem Ergebnisse dieser Verhandlung anschliessend an dieselbe
+die politische Begehung, sowie rücksichtlich der Theilstrecke
+„Josefstädterstrasse—Währingerstrasse“ die EnteignungsVerhand­
+lung auf den 31. Juli anberaumt. Mit der Leitung dieser Amts­
+handlungen wurde der k. k. Bezirkseommissär Dr. Hans Ritter
+von Galatti betraut.
+b) Ungarn,
+Budapest. (Ministerialerlass, betreffend die
+Einführung von Mass regeln zur Sicherung des
+Zugsverkehres bei den Strasseneise.nb ahnen.)
+Der königl. Ungar. Handelsminister hat aus Anlass einer Kata­
+strophe, die sich in jüngster Zeit auf der elektrisch betriebenen
+Linie Budapest—Zugliget—-Auwinkel im Ofner Schivabeuberg-
+gebiete ereignete, eine Enquete behufs Revision der Verkehrs­
+ordnung von Strassenbahnen im Allgemeinen einberufen, welche
+auch bezüglich der Sicherung des Verkehres in der Station
+Zugliget der Budapester Strasseneisenbahn-Gesellschaft specielle
+Vorschläge zu erstatten beauftragt wurde. Der Minister hat nun
+im Sinne dieser letzteren vorläufig an die Direction der Buda­
+pester Strasseneisenbahn-Gesellschaft, die Generalinspection für
+Eisenbahnen und Dampfschifffahrt und das Präsidium der haupt­
+städtischen Polizei gerichtete Verordnungen erlassen, in welchen
+vorläufig die bis zum Zeitpunkte der Erstellung einer allgemeinen
+neuen Verkehrsordnung für Strasseneisenbahnen im Interesse der
+Sicherung des Betriebes geltenden Bestimmungen präcisirt werden.
+Der an die Direction der Strasseneisenbahn-
+Gesellschaft gerichtete Erlass verfügt,
+1. dass die abschüssig gelegene Trace der Endstation Zugliget
+ungesäumt entsprechend verlängert wird und auf ein hori­
+zontales Niveau gebracht werde;
+2. dass in genannter Endstation jeder einzelne Wagen vom Zeit­
+punkte seiner Ankunft bis zu jenem seiner Abfahrt unter
+ständige Aufsicht gestellt und das Betreten desselben vor
+Einfahrt in die Abfahrtsstelle seitens des Publicums streng­
+stens hintangehalten werde;
+3. dass die Endstationen sämmtlicher Linien durch Schranken
+abzuschliessen sind, welche erst zum Zeitpunkte des Ein­
+lasses des Publicums, u. zw der per einzelnen Wagen nor-
+mirten Anzahl von Personen geöffnet werden dürfen;
+4. an Sonn- und Feiertagen ist die Abwicklung des Verkehres
+durch Beamte der Gesellschaft zu leiten, welche die Ein­
+haltung der Vorschriften strengstens zu überwachen haben;
+5. Wagenführer und Zugsbegleiter sind bei persönlicher Ver­
+antwortung verpflichtet, nur der per einzelnen Wagen nor-
+mirten Anzahl von Fahrgästen das Betreten des Wagens
+zu gestatten;
+6. an den Endstationen, insbesondere an jenen, wo erfahrungs-
+gemäss zu gewissen Zeiten ein gewisser Andrang stattfindet,
+sind in entsprechender Anzahl Cassen zur Ausgabe der Fahr­
+karten und 0rdnungsnumm6rn aufzustellen;
+7. nach und von Ausflugsorten ist insbesondere während des
+Sommers und an Festtagen eine der statistisch bekannten
+Maximalfrequenzziffer entsprechende Anzahl von Wagen in
+Verkehr zu setzen.
+Die Direction wurde im Erlasse auch aufgefordert, un­
+gesäumt Vorschläge für Wagentypen zu erstatten, deren Con-
+struction bei starkem Andrange der Durchführung einer Ab­
+schaffung von Stehplätzen entspricht.
+Die Generalinspection erhielt den Auftrag, der
+Strassenbahndirection und Stadtbehürde bei Vorbereitung der
+sie betreffenden Maassnahmen an die Hand zu gehen, die
+Durchführung der Vorschriften beständig zu überwachen, ja selbst
+nach Punkten, wo ein grösserer Andrang des Publicums vorzu­
+kommen pflegt, besondere Inspectoren zu dirigiren. Ein ähnlicher
+Erlass wurde an die Polizeidirection gerichtet mit dem
+Aufträge, ihren Organen die Unterstützung des Betriebspersonals
+anzubefehlen.
+
+ZEITSCHRIFT FÜR ELEKTROTECHNHy.
+Nr. 31.
+Seite 380.
+Szatmär. (Elektrische Beleuchtung.) Die von
+der Vereinigten E 1 e k t r i c i t ä t s- Actiengesell-
+Schaft Budapest durchgeführte zweite Vergrösserung dieser
+Centrale für 3000 Glühlampen durch Aufstellung einer Dampf-
+dynamo von 300 PS affectiver Leistung mit dazu gehöriger Ivessel-
+und Pumpenanlage, wurde dem Betriebe übergeben. Die Noth-
+wendigkeit dieser Erweiterung des städtischen Elektricitätswerkes
+ist ein erfreuliches und aufmunterndes Beispiel, nachdem hiedurch
+neuerlich das Prosperiren der elektrischen Beleuchtung, sobald
+selbe einmal Fuss gefasst hat, bewiesen wird. Die Rentabilität des
+Werkes wird besonders durch verallgemeinerte Einführung des
+elektrischen Betriebes gehoben; so z. B. sind die Kühlanlagen
+des städtischen Schlachthauses elektrisch betrieben. Gegenwärtig
+wird auch eine elektrische Strassenbahn in Szatmär
+erbaut; den Strom für selbe liefert ein 100 PS-Gleichstromumformer
+(Motorgenerator), welcher den 300 F-Gleichstrom der städtischen
+Centrale in 550 V Bahnstrom umsetzt.
+Italien.
+Neapel, (Elektrische Centrale.) Die grosse neue
+elektrische Anlage in Neapel, welche auch die Stromabgabe für
+die elektrischen Strassenbahnen besorgen wird, hat für ihre
+Anlagen vier Stück Drehstrom- Gleichstrom- Umformer für
+eine Leistung von je 300 KW bei der Vereinigten Elek-
+t r i c i t ä ts- A.- G. Wien bestellt. Der Hochspannungsmotor
+arbeitet mit 6000 V bei 300 Touren. Die Gleichstrommaschine
+gibt 300—330 V. Das Anlassen erfolgt mittelst Aceumulatoren von
+der Gleichstromseite aus.
+Patentnachrichten.
+Aufgebote.*)
+Wien, am 15. Juli 1900.
+Classe.
+12. S c h o o p Paul, Elektriker in Wildegg (Schweiz).— V e r-
+fahren zur Elektrolyse m i 11 e 1 s t G1 e i c h s t.r o m:
+Die Elektroden werden vom Elektrolyten so bespült, dass die
+wirksame Oberfläche der einen Elektrode oder Elektrodenseite
+um ein Mehrfaches geringer ist, als diejenige der gegenüber­
+liegenden Elektrode oder Elektrodenseite, wobei weiters für
+eine wirbelartige Bewegung des Elektrolyts behufs Ent­
+mischung desselben, sowie für Kühlung, bezw. Erwärmung
+des Elektrolyton vorgesorgt werden kann.— Angemeldet am
+11. August 1899.
+20. Commanditgesellschaft Striegel, Nacken& Co.
+in Köln a. Rh. als Rechtsnachfolgerin des Lachenmeyer
+Hermann, Elektrotechnikers in Düsseldorf.— Stromab­
+nehmer für elektrische Bahnen: Zu beiden Seiten
+der auf einem Führungsbolzen drehbar gelagerten Abnehmer­
+rolle sind Drehkreuze angeordnet. Letztere sind jedoch auf
+dem oben angeführten Führungsbolzen festgekeilt, um ein
+gleichzeitiges Anschlägen je eines Armes beider Drehkreuze
+zu ermöglichen und die Reibung der Rolle einzuschränken.
+— Angemeldet .am 30. December 1899.
+— Holt Johann vod, Arbeiter in Hamburg.— Schutzvor­
+richtung an St rassenbahnwagen, bestehend aus
+einem schiefgestellten, mit Rollen besetzten Rahmen, dessen
+eine Hälfte beim Auftreffen auf ein Fahrthindernis zuriick-
+geschlagen wird.— Angemeldet am 2. October 1899.
+Jährig Hans, Ingenieur in Wien.— Kreuzungen von
+elektrischen Contactleitungen verschiedenen
+Potentials: Ein von den einander kreuzenden Contact-
+leitungen isolirtes Kreuzungsstück ist mit einem Umschalter
+leitend verbunden, welcher selbst wieder in leitender Ver­
+bindung mit den beiden Contactleitungen steht, so dass sowohl
+die eine als auch die andere Contactleitung mit dem Kreuzungs­
+stück leitend verbunden werden kann. Das Umschalten
+*) Yon den nachstehenden Patent-Anmeldungen einschliesslich der
+Gesuche um ü m w a n d 1 u n g von angeßuchten oder ertheilten Privilegien in
+Patente erfolgt hiemit, nach geschehener Vorprüfung, die öffentliche Bekannt­
+machung im Sinne des§ 57 und der §§ 120 und 121 Pat. Ges.
+Gleichzeitig werden diese Anmeldungen mit sämmtlichen Beilagen und
+die Beschreibungen zu diesen Umwandlungsgesuchen in der Auslegehalle des
+k. k. Patentamtes durch zwei Monate ausgelegt.
+Innerhalb dieser Frist kann gegen die Ertheilung jedes dieser angemeldeten
+Patente und gegen die Umwandlung jedes dieser Privilegien Einspruch
+eihoben werden. Ein solcher Einspruch ist schriftlich in zweifacher Ausfertigung
+beim k. k. Patentamte einzubringen.
+Vom heutigen Tage an treten für die nachverzeichneten Gegenstände zu
+Gunsten des Patentwerbers oder Umwandlungswerbers einstweilen die
+gesetzlich en Wir k u n g e n des Patentes ein.
+Classe.
+erfolgt entweder von Hand aus oder automatisch.— Ange­
+meldet am 20. September 1899.
+— Kugle r Michael, Ingenieur und Inspector der königl. Ungar.
+Staatseisenbahnen in Budapest.— Rettungsapparat
+für St rassenbahnwagen: Eine vor den Laufrädern
+drehbar gelagerte, an elastischen Armen aufgehängte Walze
+wird durch den Verunglückten gegen die Laufräder gepresst
+und in Drehung versetzt.— Angemeldet am 5. Februar
+1900.
+— Szentkirälyi Paul von, k. u. k. Oberlieutenant in Buda­
+pest.— Stromabnehmer fürelektrischeBahnen
+mit Oberleitung: Die Angriffspunkte der Spiralfedern,
+welche den Stromabnehmer in aufrechter Stellung halten, sind
+an beweglichen Schlitten angeordnet, die durch Kniehebel
+mit einander verbunden sind, so dass einerseits die behuis
+Spannung der Federn in ihre Endstellung gebrachten Schlitten
+in dieser Stellung gesperrt werden, andererseits aber auch
+durch gegenseitige Annäherung dieser Schlitten die voll­
+ständige Entspannung der Federn herbeigeführt werden kann.
+— Angemeldet am 8. Mai 1899.
+21. Schäfer Johann Christian, Elektrotechniker, Renz Eduard,
+Privatier, sämmtlich in Budapest.— Empfänger f il r
+elektrische Wellen: Auf geeignete Nichtleiter werden
+dünne Metallbeläge aufgebracht, die durch kleine Spalten in
+zwei oder mehrere Theile getrennt sind. Die auf diese Weise
+hergerichteten Platten befinden sich entweder in evacuirten
+oder mit Luft, bezw. Gasen gefüllten Gefässen.— Ange­
+meldet am 29. Mai 1899, mit der Priorität des ungarischen
+Patentes Nr. 15411, d. i. vom 9. Februar 1899.
+42. F i r 1 e y Anton, Director der Elektricitätswerke in Eperjes.
+— Geschwindigkeitsmesser: Eine mit dem beweg­
+lichen Theile der Maschine gekuppelte Pumpe saugt die im
+Messer befindliche Flüssigkeit an und drückt sie unter einen
+Schwimmer, der mit dem Registrirwerke verbunden ist. Durch
+das Heben des Schwimmers wird ein conisches Ventil geöffnet,
+welches eine solche Flüssigkeitsmenge zum Abfluss bringt,
+das der Schwimmer bei der bestimmten Hubzahl der Maschine
+in seiner Stellung erhalten bleibt.— Angemeldet am 8. Mai
+1899.
+— K r u 11 Fritz, Civilingenieur in Hamburg.— Elektrisch
+betriebener Selbstverkäufer für Fahrkarten
+u. dergi.: Ein zwischen zwei Elektromagneten schwingender
+Anker ist mit dem Kartenausgabeschieber verbunden. Die den
+Münzcanal durchlaufende Münze schliesst den die Elektro­
+magnet umfliessenden Stromkreis zuerst in der einen, dann
+in der anderen Richtung, wodurch der Anker einen Hin- und
+Hergang macht, dabei mit Hilfe zweier nebengeschalteter
+Elektroinagnete jedesmal den Stromkreis wieder öffnet und
+mittelst des Schiebers eine Karte ausgibt.— Angemeldet
+am 31. December 1899 mit der Priorität des D. R. P.
+Nr. 108.524, d. i. vom 4. Juni 1898.
+63. Por sc h e Ferdinand, Ingenieur in Wien.— Elektrisch
+betriebenes Automobil: Auf den die Lenkung be­
+wirkenden Achsschenkel der Vorderräder des Automobils sind
+die Feldmagnete eines Elektromotors und um diese die
+Armatur in einem um dieselben drehbaren Gehäuse angeordnet
+welch’ letzteres als Nabe des Rades ausgebildet ist, wobei der
+Strom zum Antrieb des Motors von einer entsprechend im
+Wagen untergebrachten Accumulatorenbatterie durch Ver­
+mittlung eines Collectors dem Motor zugeführt werden kann.
+— Angomeldet am 31. Juli 1899.
+Entscheidungen.
+Privileg'ienwesen.
+Erkenntnis desV erwaltungsgerichtshofes vom
+1. December 1899, Z. 9956.
+( Durch Artikel 2 der Handelsconvention vom 18. Februar 1884,
+R. G. Bl. N. 27 zwischen Oesterreich- Ungarn und Frankreich
+sind die Franzosen den Inländern in markenrechtlicher Beziehung,
+insbesondere auch insoferne gleichgestellt, dass dieselben den
+Schutz einer hierzulande hinterlegten Marke nur insoweit und
+nur in der Richtung ansprechen können, als ein solcher Schutz
+dem Inländer in Absicht auf die gleiche Marke zustande.
+Das Handelsministerium ist nur insoferne berufen, über
+das ausschliessliche Gebrauchsrecht an einer Marke (§ 30 M. Sch.Ges.)
+abzusprechen, als es sich dabei um Fragen des Marken-, nicht
+des Civilrechtes handelt.
+Schluss der Redäction: 24. Juli 1900.
+_... Verantwortlicher Redacteur: Dr. J. Sahulka.— Selbstverlag des Elektrotechnischen Vereines,
+onnmssionsver agbei Spielhagen&Schurich, Wien.— Alleinige Inseraten-Aufnahmebei Haasenstein& Vogler (Otto Maa-ss), Wien nndPrag
+Druck von R. Spies& Co., Wien.
+

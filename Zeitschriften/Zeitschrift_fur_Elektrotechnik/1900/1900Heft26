@@ -1,0 +1,893 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 2G. WIEN, 24. Juni 1900. XVIII. Jahrgang.
+Bemerkungen der Bedaction: Ein Nachdruck aus dem redactionellen Theile der Zeitschrift ist nur unter der Quellenangabe
+„Z. f. E. Wien“ und bei Originalartikeln überdies nur mit Genehmigung der Redaction gestattet.
+Die Einsendung von Originalarbeiten ist erwünscht und werden dieselben nach dem in der Redactionsordnung festgesetzten Tarife
+honorirt. Die Anzahl der vom Autor event. gewünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Manuscripte bekanntgegeben werden.
+INHALT:
+Rundschau 313
+(J österreichische elektrische Industrie auf der Pariser Welt­
+ausstellung 1900. Complete Ausrüstung eines elektrischen
+Automobilwagens. Automobil- Motor von der V e r-
+einigten Elektricitäts- Actien- Gesellschaft,
+Wien 314
+Elektrische Glühlampen von der Wiener elektrischen Glüh-
+lampen-Fabrik Sturm& Co 316
+Blockeinrichtung bei elektrischer eingeleisiger Strasseiibalm 316
+Die elektrische Kraftübertragung auf grosse Entfernungen
+(Fortsetzung und Schluss) 317
+Kleine Mittheilungen.
+Ausgeführte und projectirte Anlagen 319
+Geschäftliche und finanzielle Nachrichten. 3110
+Vereinsnachrichten% 320
+Rundschau.
+In dem Maihefte des „Street Railway Journal“ be­
+spricht A. B. Herrick die elektrolytischen Wirkungen,
+die als Begleiterscheinung bei allen Trambahnen mit
+Rückleitung des Stromes durch die Schienen auftreten.
+Diese machen sich in gepflasterten Strassen am meisten
+dort bemerkbar, wo tiefliegende Schienen benützt werden
+und diese mit der Erde eine beträchtliche Contactfläche
+haben. Wo die Schienen aufCement liegen und auch da, wo
+man Asphalt oder andere Pflasterungsarten verwendet
+und so den darunter befindlichen Boden gegen Tage­
+wasser von den Strassen her schützt, ist der Wider­
+stand, den diese Erdströme zu überwinden haben, ein
+höherer. Der Erdwiderstand variirt zwischen 0'8 fl
+und 1 Megohm per Cubikmeter, je nach der Menge des
+Wassers und der lösenden Salze.
+Die Elektrolyse im Erdboden ist von der in
+einem galvanischen Bade verschieden; im letzteren Falle
+wird das Metall von einem Pole weggeführt und am
+anderen abgelagert. In der Erde liegt das zersetzte
+Metall nahe bei der Oberfläche, auf welche die Ein­
+wirkung stattfand. Wenn also das von der Einwirkung
+betroffene Metall eine Stahlschiene ist, so bildet sich
+in dem Erdboden, der bei der Schiene liegt, ein Eisen­
+oxyd; da dieses Oxyd den Widerstand, den der vaga-
+bundirende Strom findet, erhöht, so nimmt die Stärke
+des letzteren und darrtit zugleich die elektrolytische
+Wirkung ab. Diese tritt auch in vermindertem Um­
+fange bei Gusseisen auf, stärker bei Schmiedeisen und
+am intensivsten bei Blei.
+Es wird aber häufig als elektrolytische Wirkung
+seitens des Bahnstromes angesehen, was Folge eines
+localen Proeesses ist, z. B. dort, wo ein bleiernes Wasser­
+rohr mit einem eisernen Wasserrohr verbunden ist;
+beide bilden dann die Elektroden eines Elementes,
+dessen Elektrolyt die zwischenliegende Erde ist.
+Wie schon früher erwähnt, variirt der Erdwider­
+stand beträchtlich; Thonerde mit sechs Procent Feuchtig­
+keit zeigt durchschnittlich ungefähr 45 fl pro Cubik­
+meter; Sand mit 8V2 Procent Feuchtigkeit ca. 3P5 fl.
+Diese Verschiedenheit der Widerstände, welche durch
+die verschiedene Bodenbeschaffenheit bedingt wird, hat
+auch zur Folge, dass die Spannungsmessungen zwischen
+der Schiene und den Röhren, an verschiedenen Punkten
+des Bahnnetzes vorgenommen, kein Mittel zur Eruirung
+der besonders gefährdeten Stellen abgeben.
+Sheldon berichtet auf Seite 469 derselben Zeit­
+schrift über die in Brooklyn von ihm gemachten Er­
+fahrungen bezüglich der elektrolytischen Wirkungen
+der Bahnströme. Brooklyn bedeckt eine Fläche von
+160 hm-; während der Stunden des grössten An­
+dranges verkehren 1100 Wagen, die ca. 47.000 .!
+erfordern. 80%' der für diese Wagen nothwendigen
+Energie liefern vier Kraftstationen, die auf einer
+Seite der Stadt an der Wasserfront liegen. Als
+Rückleitung dienen zum Theil die Schienen, deren
+Verbindungen nach verschiedenen Systemen ausgeführt
+sind, zum Theil die Hochbahnconstructionen, die Wasser­
+leitungsröhren, die Gasröhren der Brooklyn Union
+Gas-Company, die Kabel der New-York& New-Jersey
+Telephone Company und die Röhren für die Kabel der
+Edison Electric Illuminating Company. Die Spannungs­
+differenz zwischen den Schienen und den Untergrund­
+röhren variirt je nach der Belastung, Lage u. s. w.
+von einem Bruchtheil eines Volts bis zu 25 F; ferner
+ergab sich, dass der Spannungsunterschied an einem
+Punkte, der von der Station am weitesten entfernt
+liegt und dem des Erdbodens in der Nähe einer Station
+eine Höhe bis zu 40 V erreicht. Die Hauptröhren der
+Wasserleitung sind aus Gusseisen; ein Theil dieser
+Röhren enthält einen höheren Procentsatz von Kohle
+als die übrigen. Ebenso sind die Hauptröhren der Gas­
+leitung aus Gusseisen, während die Abzweigröhren aus
+Schmiedeisen hergestellt sind. Thatsächlich konnte an
+den gusseisernen Röhren keine Corrosion cönstatirt
+werden, an den schmiedeisernen Blei- und Messingröhren
+hingegen eine beträchtliche. Die Telephonkabel, die einen
+Bleimantel hatten, litten stark durch Elektrolyse.
+Der Verfasser gieng nun daran, die Ursache dieser
+scheinbaren Immunität des Gusseisens gegen die Elektro­
+lyse aufzudecken. Da man diese eigenthümliche Er­
+scheinung mit der chemischen Beschaffenheit des Guss-
+eisens in Verbindung brachte, so stellte Sheldon ex­
+perimentell fest, dass dies nicht der Fall ist.
+Er setzte Elektrolytzellen zusammen, deren Elek­
+troden aus Eisenstäben verschiedenen Materiales be­
+standen, mit feuchter Erde als Elektrolyt, und fand keinen
+wie immer gearteten Unterschied. Die Öorrosion trat in
+
+Seite 314.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 26.
+allen Fällen gleich stark auf. Die chemische Con­
+stitution kann sonach nicht clie Ursache der Immunität
+des Gusseisens sein; es scheint vielmehr diese Eigen-
+thümlichkeit mit der Herstellung der Röhren zusammen­
+zuhängen.
+Beim Giessen der Röhren in Sandformen wirkt
+das Eisen auf die Sandschicht und es dürfte ein
+Ueberzug von Kieseleisenerz entstehen, der ein schützender
+Mantel für die Röhre ist. Diese Hülle ist ausserordentlich
+dünn und enthält an manchen Stellen Durchlöcherungen,
+so dass bei genügend hoher Spannung Zerfressung ein-
+tritt, sobald diese Hülle gänzlich durchbrochen wird.
+Im Ganzen genommen ist die Zerstörung infolge der
+elektrolytischen Wirkung als bedeutend geringer ge­
+funden worden, als man von vornherein erwartet hatte.
+Dr. M. L. Pup in hielt vor der American In­
+stitution of Electrical Engineer einen Vortrag über die
+Telephonie in Kabelleitungen und über grosse Ent­
+fernungen. Er bespricht zuerst die Schwächung, welche
+die elektrischen Wellen über lange Leitungen erfahren
+und discutirt an der Hand von ihm entwickelter
+Formeln die Factoren, welche auf sie Einfluss nehmen.
+Die Thatsache, dass diese vorgenannte Abnahme der
+Intensität der elektrischen Wellen durch vertheilt an­
+geordnete Selbstinductionsspulen verringert werden
+kann, hatte bereits 0. Heaviside erkannt. Da es
+aber praktisch unausführbar sich 'erwies, genügend
+hohe Inductanzen über die ganze Linie zu vertheilen,
+so war zu untersuchen, ob nicht discret vertheilte In­
+ductanzen dieselbe Wirkung hervorrufen. Dr. Pup in
+gibt nun Formeln an, wie über die Telephonlinie die
+Inductanzen vertheilt sein müssen, damit die Cor-
+respondenz über die ganze Linie eine gute ist und be­
+spricht auch die Versuche, die er auf einer künstlichen
+Linie in den Laboratorien der Columbia-Universitjit
+gemacht hatte. Er theilte die Linie in 250 Sectionen,
+deren jede einen Widerstand von 9 H und eine Capacität
+von 4'7 Mikrofarad; hatte und sonach ungefähr eine
+Meile Oberleitung repräsentirte; diese einzelnen Sectionen
+verband er durch Drosselspulen und fand, dass ohne
+die letzteren die telephonische Correspondenz über
+112 Meilen unmöglich war, während er mit jenen über
+die ganze Leitungslänge sprechen konnte.
+Campbell Swinton bespricht im „Electrician“
+die gewiss schon von vielen beobachtete Eigenthüm-
+lichkeit, dass die an den Wänden der Zimmer be­
+festigten Zuleitungen für die Beleuchtungskörper hei
+Gleichstrom sich in verschiedenem Maasse mit Staub
+belegen. Swinton weist nun nach, dass der weniger
+von Staub belegte, gegen die Erde von geringerem
+Potential war, dass sonach die Erscheinung auf elektro­
+statischer Anziehung beruhe.
+Oesterreichische elektrische Industrie auf der Pariser
+Weltausstellung 1900.
+Ctfmplete Ausrüstung eines AutomoMbvag'ens.
+Automobil-Motor
+von der
+Vereinigten Elektricitäts- Aetiengesellschaft,
+Wien.
+Durch die Ausstellung eines Automobil-Motors
+und die dazu gehörigen Apparate zeigt die Vereinigte
+Elektricitäts-Actiengesellschaft in Wien ein reges Fort­
+schreiten auf dem Wege des Automobilwesens.
+In Fig. 1 sehen wir den Elektromotor der vier-
+poligen Tjrpe A 5, welcher als Serienmotor ausgeführt
+wird, in geöffneter und geschlossener Form. Es ist aus
+dieser Figur deutlich zu entnehmen, dass das Haupt­
+augenmerk
+1. auf äusserst gedrängte Form zwecks Raum­
+ersparnis und
+2. was viel wichtiger ist, geringes Gewicht gelegt
+wurde.
+Das Motorgewicht beträgt ca. 1.35 hg. Der Motor
+leistet normal 3 1/ 2 PS und läuft hiebei mit der geringen
+Tourenzahl von ca. 500 per Minute bei 80 T -Spannung.
+Hiebei hat der Motor einen Wirkungsgrad von ca. 80%.
+Das Gehäuse ist aus Stahlguss und in der
+Mittellinie der Motorachse getheilt. Bei dieser An­
+ordnung ist das Herausnehmen des Ankers sehr be­
+quem und kann man das hiezu nöthige Abldappen der
+oberen Hälfte des Gehäuses, welche mittels Charnieren
+mit der unteren Hälfte verbunden, ist, sehr leicht durch
+einfaches Lösen der Schrauben, die die beiden Theile
+Zusammenhalten, bewerkstelligen. Die Erregerspulen
+werden durch geeignete Spulenhalter auf den Polen
+des Gehäuses befestigt. Den Abschluss des Gehäuses
+bilden die beiden Stirnschilder, welche zugleich als
+Lagerkörper ausgebildet sind; die Bronzelager derselben
+werden mit consistentem Fett geschmiert. Der Anker,
+welcher zur Erzielung verschiedener Geschwindigkeiten
+mit zwei Collectoren ausgerüstet wird, besteht aus
+besten Holzkohleneisenblechen und liegen die Anker­
+drähte geschützt und durch Glimmer von einander
+isolirt in den Nuthen. Das Herausfallen der Wicke­
+lungen aus den Ruthen, das durch die häufig vor­
+kommenden Stösse und Erschütterungen herbeigeführt
+werden könnte, ist durch das Abschliessen der Nuthen
+mit Fibrekeilen vollständig ausgeschlossen. Die Col-
+lector-Segmente, welche aus Hartkupfer bestehen und
+durch Glimmer von einander isolirt sind, werden auf
+einer Büchse fest zusammengehalten. Diese Büchse
+kann sehr leicht auf der hohlen Ankerwelle aufgeschoben
+
+Nr. 26.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 315.
+werden und wird mittels eingelegter Feder, die durch
+Schrauben gesichert ist, festgehalten. Die Ankerdrähte
+sind durch Schrauben mit Contramuttern in den Seg­
+menten eingeklemmt und können daher sehr rasch,
+wenn sich die Nothwendigkeit ergibt, gelöst werden.
+Um bei Fahrten in der Curve die Unabhängigkeit der
+Wagenräder zu erzielen und eine Verdrehung der
+Motorwelle zu verhindern, arbeitet der Motor nicht
+direct, sondern durch Vermittlung eines Differential­
+getriebes auf das eine Laufrad der Hinterradachse des
+Wagens unter Zwischenschaltung einer Innenverzahnung
+mit Uebersetzung 1: 6, während das andere Laufrad
+blos mit der Zahnradübersetzung 1: 6 angetrieben
+wird. Zu diesem Ende sitzt auf den beiderseitigen
+Motorwellenstummeln je ein kleines Bronzezahnrad.
+Die grossen Zahnräder sind aus Gusseisen und befinden
+sich zu beiden Seiten des Motors auf der Wagenachse
+aufmontirt. Damit die Zahnradentfernung genau ein­
+gehalten wird, was für den ruhigen, stossfreien Lauf
+der Zahnräder unbedingt nothwendig ist, wird der
+Motor mit zwei am Polgehäuse angegossenen Augen
+drehbar um die Hinterachse auf dem Wagengestelle
+federnd aufgehängt. Die Kohlenbürsten, die hier in
+Verwendung kommen, können sehr rasch ausgewechselt
+werden, indem man die zweitheiligen Deckel über den
+Collectoren einfach durch Lösen von Charnierschrauben
+öffnet, wodurch die beiden Collectoren und Bürsten
+gänzlich freigelegt und zugänglich sind. Durch die
+gewählten Anordnungen ist der Motor vollständig staub-
+und wasserdicht abgeschlossen, was unbedingt erforder­
+lich ist, um ihn vor den schädlichen Einflüssen, denen
+er auf den Strassen direct ausgesetzt ist, vollkommen
+zu schützen. Die Construction des Motors ist eine
+äusserst kräftige und dauerhafte. Ein besonderes Augen­
+merk wurde darauf gelegt, die einzelnen Theile des
+Motors bequem auswechselbar zu gestalten.
+Durch Anwendung dieser einfachen Construction
+ergeben sich die geringsten Reparatur- und Unter­
+haltungskosten, wie es dem Charakter eines Automobil­
+motors entspricht. Die Geschwindigkeitsregulirung
+erfolgt durch Hintereinander- und Parallelschaltung
+der Collectoren und Batteriehälften in Verbindung mit
+Vorschaltwiderständen, welche während des Anlassens
+auf der ersten Stufe gebraucht werden. Die grösste
+Geschwindigkeit, die unter normalen Verhältnissen mit
+diesem Automobilmotor erzielt wird, beträgt ca. 25 bis
+30 lcm pro Stunde.
+Die Hauptdimensionen kann man ans Fig. 2
+ersehen.
+Fig. 3.
+Mit diesem Motor hatte die Firma
+auf der Automobilausstellung im Jahre
+1899 in Berlin nicht nur die goldene
+Medaille, sondern auch beider gleich­
+zeitig- veranstalteten internationalen
+Concurrenzwettfahrt den ersten Preis
+errungen.
+Controller.
+Zur weiteren Ausrüstung eines Automobils gehört
+der Controller, ein ebenso wichtiger Theil wie der
+Motor selbst. Es 'ist dies ein Steuerapparat, Type A c,
+für Geschwindigkeitsregulirung, welcher jedoch durch
+Umschaltung der Stromkreise gestattet von Vorwärtsfahrt
+auf Rückwärtsfahrt Uberzugehen. Derselbe ist unter dem
+Führersitz angebracht und kann durch ein Hand­
+rad oder einen Hebel von diesem aus bethätigt werden.
+Das Gehäuse des Controllers ist aus Aluminium her­
+gestellt, um ihn möglichst leicht zu erhalten, und sind
+auf dessen Achse, welche im Gehäuse drehbar gelagert
+ist, die einzelnen Contactwalzen isolirt aufmontirt. Die
+Contactstlicke bestehen aus Messing und haben aber
+
+Seite 316.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 26.
+an jenem Ende, bei welchem die Contactfinger unter
+Spannung abgerissen werden, ein Einsatzstuck von
+Kupfer, das sich widerstandsfähig gegen Zerstörungen
+durch den elektrischen Funken gezeigt hat und welches
+nöthigenfalls leicht ausgewechselt werden kann. Zwischen
+den einzelnen Contactwalzen stehen Isolationsringe
+hervor, so dass ein Stromübergang von einer Contact-
+reihe auf die nächste dadurch auf alle Fälle unmöglich
+ist. Mittelst dieser Walzen kann man fünf Stellungen
+für Vorwärtsfahrt mit allmälilig gesteigerter Geschwindig­
+keit, zwei Rückwärtsfahrtstellungen und drei Stellungen
+für die elektrische Kurzschlussbremsung erzielen. Die
+einzelnen Stellungen werden durch ein Schaltrad, in
+welches ein Sperrkegel federnd eingreift, fixirt. Dieser
+Controller fällt durch seine kräftige und leichte Bau-
+Fig. 4.
+art auf, dessen Hauptdimensionen aus Fig. 3 zu er­
+sehen sind. Der elektrische Automobilwagen ist ausser
+der Accumulatorenbatterie noch mit einem Kothaus­
+schalter, Ladestöpsel, Vorschaltwiderstand und Blei­
+sicherungen ausgerüstet. Der Kothausschalter ist
+wesentlich kräftiger gebaut als ein Ausschalter für
+normalen Betrieb und ist mit dem Gestänge der zwei
+Bandbremsen, welche sich gleichzeitig auf dem äusseren
+Umfange des innen verzahnten Radkranzes befinden, or­
+ganisch verbunden. Soll der Wagen bei äusserster
+Gefahr rasch angehalten werden, so wird vom Führer­
+sitze aus durch einen einzigen Zug oder eventuell
+durch Fusstritt der Hebel des Ausschalters zuerst
+herausgerissen und dann sofort automatisch mit der­
+selben Bewegung die mechanische Bandbremse an­
+gezogen. Da dieser Schalter unter dem Wagengestell
+in der Kähe der Bandbremsen angebracht ist, so ist
+er ebenso wie der Motor dicht abgeschlossen, um ihn
+vor äusseren beschädigenden Einflüssen zu schützen.
+Der Ladestöpsel besteht aus zwei verschiedenen Co-
+nussen, um ein verkehrtes Laden der Batterie zu ver­
+hindern.
+Die Widerstände sind spiralförmig aus Nickelin-
+drähten hergestellt und auf kleinem Rahmen, der leicht
+am Kutschbocke unterzubringen ist, montirt. Dieselben
+sind genau nach den Geschwindigkeitsstufen ab-
+gegliehen und finden unter dem Controller ihren Platz.
+Aus Fig. 4 kann man eine vollständige Ausrüstung
+für einen elektrischen Automobilwagen ersehen.
+Elektrische Glühlampen
+von der Wiener elektrischen Glühlampen-Fabrik Sturm& Co.
+In Gruppe IV und V, Classe 25, Gallerie, auf
+einem Raume von 8 m 2 befinden sich die Ausstellungs­
+kästen der Wiener elektrischen Glühlampenfabrik
+Sturm& Ci e.
+In dem grossen Mittelkasten ist eine aus Glas-
+spiegelreflectoren construirte Pyramide ausgestellt,
+welche die praktische Anbringungsart dieser Beleuch­
+tungskörper demonstrirt.
+Man sieht dieselben in allen Grössen und Formen,
+von den grossen Reflectoren von 25 cm Durchmesser
+bis zu den kleinen von 7 an Durchmesser, gewölbte,
+flache, glatte mit Lichtvertheiler und als allerletzte
+Keuheit solche mit Brillantrippen.
+Ebenso ist eine dreireihige Deckenbeleuchtung
+in diesem Kasten etablirt.
+Die in die Reflectoren eingeschraubten zahlreichen
+Kugelglühlampen sind 10-, 16- und 25kerzig, 3 W für
+110 V (zu 2 Abtheilungen hintereinander geschaltet)
+und 220 V und verbreiten ein zehnfaches Licht nach
+allen Richtungen.
+Eine grosse Vitrine von 2 m 2 enthält eine Col­
+lection aller möglichen Glühlampen; hier sieht man
+solche allerkleinster Sorte mit Durchmesser von 4 mm
+hell, färbig mit und ohne Spitze für Wissenschafts­
+und Spielerei zwecke, Lampen für Accumulatorenbetrieb
+bis 1 1/ 2 W per Hormalkerze, Kerzenlampen, Röhren­
+lampen, Focuslampen, Special-Glühlampen für färbige
+Ueberkolben, Guirlanden, alle Lampentypen von 50
+bis 250 V von 5 bis 500 Kerzen 3V2- 3, 2V2 nnd 2 W
+per Kormalkerze, Lampen mit angehängten Kohlen­
+fäden (für Bahnen, Schiffe etc.) gypslose Lampen und
+endlich solche mit Vorrichtung gegen Herausfallen aus
+den Trägern.
+Blockeinrichtung bei elektrischer, eingeleisiger Strassen-
+bahn.
+In Colorado Springs ist bei den eingeleisigen
+elektrischen Strassen bahnen eine von der Parrish
+Automatic Signal Company hergestellte Einrichtung in
+Gebrauch, welche anzeigt, ob die Strecke zwischen
+zwei Ausweichen von Fahrzeugen frei ist oder nicht.
+Bei einer der Ausweichen der Strecke I IT befindet
+sich eine Signalhütte, in welcher zwei Elektromagnete E
+und F aufgestellt sind, die abwechselnd auf den Anker H
+wirken; dieser vermittelt, wenn F bethätigt wird, einen
+Contact mit (7, hebt dagegen, wenn E vom Strom
+durchflossen ist, diesen Contact wieder auf.
+
+Nr. 26.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 317.
+A, D und 77, C sind kurze, isolirte Stücke der
+Schleifleitung, K und zwar befinden sich die ersteren
+bei den Ausfahrten, die letzteren hei den Einfahrten.
+Die Elektromagnete E und F werden durch eine
+dünne Eisendrahtleitung einerseits mit der Speise­
+leitung L, anderseits mit den isolirten Leitungs-
+stücken IS. C und A. D entsprechend verbunden.
+J J
+-0-0— o-o—^
+Fig. 1.
+Fährt nun ein Motorwagen von der Ausweiche I
+ab, so wird, wenn der Schleifcontact des Wagens mit A
+in Contact kommt, der Elektromagnet F in den Strom­
+kreis geschaltet; derselbe zieht den Anker H an und
+schliesst einen Strom über L, F, G. II und die in beiden
+Ausweichen befindlichen Glühlampen J., J, welche auf
+einer Seite Endschluss haben; die Lampen verglühen
+nun und zeigen damit an,, dass die Strecke I II von
+einem Wagen besetzt ist.
+Mittlerweile fährt der Wagen von 1 nach II und
+kommt zu dem isolirten Leitungsstücke G, wobei der
+Strom über den Elektromagneten E geschlossen wird,
+der den Anker II abreisst, den Contact über G aufhebt
+und das Verlöschen der Lampen herbeiführt; es ist
+also jetzt die Strecke von Wagen nicht besetzt.*)
+Walzel.
+Die elektrische Kraftübertragung auf grosse Ent­
+fernungen.
+(Fortsetzung und Schluss.)
+Selbstverständlich hat sich Prof. Forbes als Mitarbeiter an
+dem grossen Werk in seinem Vortrag sehr ausführlich mit der
+Kraftübertragungsanlage am Niagara -Fall beschäftigt, die in
+den letzten Jahren durch die Aufstellung neuer Generatoren auf mehr
+als die doppelte ihrer ursprünglichen Leistungsfähigkeit gelangt
+ist. Dank dem riesigen Kraftbedarfe, welchen die ungemein rasch
+aufblühende Industrie dieses Distrietes erforderte, mussten
+Leitungen verlegt und neue Transformator-Unterstationen er­
+richtet werden, und schon scheint man eine neuerliche Ver-
+grösserung ernstlich in Erwägung zu ziehen
+Gegenwärtig liefert die Anlage 50.000 PS elektrischer
+Energie in Form von zweiphasigem Wechselstrom von 2200 I
+Spannung und 25 Perioden pro Secunde. Davon benöthigt die
+Union Carbide Company allein 15.000 PS zu ihrem Betrieb, ferner
+wird an die Stadt Buffalo zu Beleuchtungs- und Tramzwecken,
+sowie für das dortige Elektricitätswerk und an die Unterstationen
+in Lockport und Tonawanda Energie abgegeben. Kürzlich wurde
+die Montage des neunten und zehnten Generatorsatzes zu 5000 PS
+vollendet; man ist jedoch von dom Plan, die im Ganzen zur Ver­
+fügung stehenden 100.000 PS in eine m Generatorhaus zu ver­
+einigen, abgegangen, weil sich der Tunnel für den Unterwasser­
+canal als zu eng erwiesen hat, und beabsichtigt auf der
+canadischen Seite des Falles, wo ein kürzerer und breiterer
+Tunnel angelegt werden soll, eine neue Centrale zu bauen.
+*) Street Raihvay Journal.
+Die hinzugekommenen Turbinen und Generatoren sind im
+Wesentlichen von derselben Bauart wie die seit Eröffnung der
+Anlage im Betriebe stehenden und in dieser Zeitschrift (.1896,
+Heft ül) beschriebenen. Nur wurden an Stelle der schmiede­
+eisernen Leitschaufeln solche aus Phosphorbronce eingebaut,
+welches Material besser der abschürfenden Wirkung mitgerissoner
+kleiner Steine widerstehen kann. Jede Turbine leistet 5000 PS
+bei 250 Touren in der Minute. Direct auf der verticalen Welle
+sitzt der Zweiphasen-Generator, die wohlbekannte Schirmtype mit
+innerer, feststehender Armatur und äusserem, rotirendem Feld.
+Die Ankerbleche mit dazwischen gelegten Lüftungsscheibon
+werden über einen schmiedeeisernen, an der Bodenplatte fest-
+geschraubten Cylinder gestülpt; durch kräftige Schraubenbolzen
+werden auf conische Sitzflächen an der Innenwandung des
+Cylinders 2 vierarmige Speichenräder niedergepresst, deren
+Naben das obere und untere Turbinenwellenlager bildon. Durch
+diese Construetion ist eine genaue Centrirung möglich. Die
+Armatur ist zweiphasig gewickelt, hat 324 Nuthen, in welche je
+ein Kupferstab, durch Glimmer und Schellack von einander isolirt,
+eingelegt wird.
+Das rotirende Magnetfeld wird von einem Nickelstahl-
+Cylinder gebildet, der durch ein seehsarmiges Speichenrad mit
+der Turbinenwelle verbunden ist; nach innen trägt der Ring
+12 gusseiserno Polansätze in 4 Lagen mit Kupferband bewickelt;
+für ausreichende Ventilation ist durch Einlagen von isolirten
+Metallstäbchen zwischen die einzelnen Lagen gesorgt. Der Strom
+wird durch Bürsten zugeführt, welche an 2 Collectorringen auf
+der Welle schleifen.
+Wie aus Fig. 1 zu ersehen, ist für ausreichende Kühlung
+des Ankoreisens durch circulirendes Wassor und für reichliche
+Oelschmierung der Lager durch Anbringung von Wasser- und
+Oelführungen gesorgt. Prof. Forbes berührt auch in seinem
+Vortrage die Schwierigkeiten, dio im Anfang des Betriebes bei
+Anwendung der rotirenden Umformer zu überwinden waren.
+Der Tendenz zum Pendeln wurde durch die von Hutin und
+Leblanc angegebenen Anordnung begegnet, und das Eingraben
+von Rinnen auf dem Collector suchte man dadurch zu verhindern,
+dass man dem Anker eine kleine axiale Bewegung gestattete.
+Dio 10 Generatoren sind in 2 Gruppen zu jo 5 an das
+Schaltbrett angeschlossen, das 2 Sätze von Zweiphasensaininel-
+schienen enthält, die durch Ausschalter mit einander verbunden
+werden können. Von diesen zweigen die einzelnen Speiso­
+leitungen zu den Unterstationen ab. Die Erregung der Genera­
+toren wird nicht mehr von 2 rotirenden Umformern besorgt,
+sondern von 4 Turbinen-Gleichstrom-Generatoren mit verticaler
+Welle; die Regulirung geschieht durch einen hydraulischen Regu­
+lator, dessen Ventile durch einen Localstromkreis vom Schaltbrett
+aus bethätigt werden.
+Bemerkenswerth sind die elektromagnetischen Rogulir-
+Apparate von Seilers für die Hauptturbinen; ein Centrifugal-
+pendel kann in 2 äussorsten Stellungen Contaeto eines Local­
+stromkreises (unter Oel) schliessen, welcher seinerseits die Rogu-
+lirung des Wassereinlaufes besorgt. Nachdem Hauptausschalter
+nicht vorhanden sind, können dio Generatoren nur dadurch
+stromlos gemacht werden, dass man den Erregerkreis öffnet;
+dabei wird automatisch durch den Regulator der Wassereinlauf
+abgesperrt.
+Interessant ist eine Bemerkung Forbes’ bezüglich des
+Parallolschaltens der Generatoren;. es hat sich nämlich gezeigt,
+dass dies meist dann anstandslos von statten geht, wenn eine
+Turbine mit oinem gewöhnlichen Regulator, dio zuzuschaltende
+Turbine jedoch mit einem sehr empfindlichen Regulirwerk aus­
+gestattet ist.
+Ein Satz von 3 Maschinen liefert 15.000 PS für
+die Union Carbide Company, deren Werke 3’8 km von der Centrale
+entfernt sind. Zu diesem Zwecke wird der zweiphasige Strom
+in Transformatoren nach der Scott’schen Schaltung in Drei­
+phasenstrom von 11.000 V verketteter Spannung umgowandolt,
+durch 7 unterirdische Kabel (2 für jode Maschine und 1 Roserve­
+kabel) an die Verbranchsstelle geführt und dort durch zwei­
+malige Transformation auf 110 V herabgesetzt.*) Die Kabel sind
+dreiaderig, haben Papierisolation und wurden vorerst auf 20.000 V
+auf den Isolationswiderstand und die Capacität geprüft. Der
+Capacitätsstrom war 2'U A, mithin die Capacität gegen OM 9 MP
+pro Kilometer; der Isolationswiderstand betrug 80 Megohm auf
+das Kilometer.
+In den Carborundum-Werkon hat dio AVestinghouse-Gesell-
+schaft einen Transformator aufgestellt, der in mancher Hinsicht
+bemerkenswert!! ist. Nachdem die für den Schmelzprocess in
+*) Ueber die Transformatoren dieser Anlage siehe Z. f. E. 1903, Heft 13,
+Seite 151.
+
+Seite 318.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 26.
+Fig. 1
+dem elektrischen Ofen nöthige Spannung nur zwischen 12 und
+30 V beträgt, und der Transformator für eine Leistung von
+450 K W bestimmt ist, liefert er secundär bei der niedrigsten
+Spannung 37.500 A, in seiner Art demnach ein Unicum. Der
+Transformator stellt in einem eisernen, cylindrischen Gefäss von
+1-6« Durchmesser und 1-8 m Höhe, hat Oelisolirung und Wasser­
+kühlung. Um jeden Schenkel ist eine massive Kupferstange als
+Secundärwickelung in einer einzigen Windung herumgelegt; die
+Enden sind jederseits mit 8 Kupferstäben von 3t an" Querschnitt
+verbunden, dio durch die Mauer hindurch zum Ofen führen.
+Natürlich muss die Variirung der secundären Spannung zwischen
+den angegebenen Grenzen durch Veränderungen im Hoch­
+spannungskreis vorgenommen worden. Soll z. B. die Spannung
+erniedrigt werden, so schaltet man durch geeignete Ausschalter
+einige primäre Windungen ab und an ihrer Stelle so bemessene
+Ersatzwiderstände aus Eisendraht ein, dass die Belastung- der
+Linie die gleiche bleibt; es lassen sich 20 verschiedene Secundär-
+Spannungen erzielen.
+Nach Buffalo, 40 km von der Centrale entfernt,
+geschieht die Uebertragung der Energie von fast 10.000 PS in
+einer der vorangehenden ganz ähnlichen Weise. Der Zwei­
+phasenstrom der Generatoren wird in Transformatoren in drei­
+phasigen von 11.000 Vverwandelt, der durch 2 oberirdische Dreh-
+stromleitungen in die Nähe der Stadt geführt wird. An dieser
+Stelle geht die Oberleitung in ein unterirdisches Kabelnetz über,
+das sich nach den einzelnen Unterstationen verzweigt. In
+letzteren wird der Strom wieder auf 2z00 V Dreiphasenstrom
+herabtransformirt, zur Verthoilung an die Consumenten. An der
+Abnahmestelle geschieht eine abermalige Transformirung auf die
+Gebrauchsspannung von 440 oder 220 V für Licht- und 360 V
+für Kraftzwecke. Die Oberleitung besteht aus 6 starken 15 mm
+dicken Kupferseilen, dio in Abständen von 90 cm an 9 m hohen
+Stangen, in 23™ Entfernung aufgestellt, angebracht sind. Sie
+ist gegen Blitzgefahr durch einen bei jeder zweiten Stange ge­
+erdeten Blitzdraht und durch Blitzableiter an den beiden End­
+punkten geschützt.
+In Anbetracht der riesigen Ausdehnung, die die Niagara­
+anlage angenommen hat, und in Berücksichtigung des Umstandes,
+dass bei der Concentrirung einer so gewaltigen Energiemenge
+an einem Punkte Fehler in der Anlage von den verheerendsten
+Folgen sein können, musste auf den Schutz der Linien durch
+die Anbringung präcise wirkender Ausschalte- und Umschalte-
+Vorrichtungen viel Bedacht gelegt werden. Zu den inter­
+essantesten gehören dio automatischen Zeitausschalter, die sowohl
+in der Centrale, als auch in den Unterstationen und Speise­
+leitungen angebracht sind, um die Anlage gegen excessivo
+Kurzschluss-Ströme zu schützen. Diese Apparate sind so ein­
+gerichtet, dass sie im Falle eines Kurzschlusses den Strom nicht
+momentan, sondern erst nach Ablauf einer bestimmten vorher
+einstellbaren Zeit unterbrechen. Die in den Vertheilungskabeln
+in Buffalo eingestellten Ausschalter unterbrechen den Strom in
+1—2 Secunden nach Beginn der Störung, die am Ende der Fern­
+leitung angebrachten nach 3 Secunden, w ährend die Ausschalter
+in der Centrale erst nach 4 Secunden öffnen; auf diese Weise
+werden also nicht gleich alle Verbindungen geöffnet, sondern nur
+die vom Kurzschluss betroffenen Leitungen abgeschaltet.
+In Fig. 2 ist ein derartiger von der General .Electric Co.
+construirter Zeitausschalter schematisch dargestellt. Die wesent­
+lichste Einrichtung desselben besteht aus einem Uhrwerk und
+2 Magnetspulen, die mit den Secundärklemmen zweier Serien-
+oder Strom-Transformatoren verbunden werden, deren primäre
+Bewickelung in je einer Leitung einer Phase eingeschaltet ist.
+Wenn in irgend einer Phase im Fallo eines Kurzschlusses der
+Strom anwächst, wird der Anker der Elektromagnete angezogen,
+der seinerseits wieder das Uhrwerk auslöst; ist die Dauer der
+Störung grösser als die Zeit, für die der Apparat justirt ist, so
+schliesst das Uhrwerk einen Localstromkreis, der unter Vermitte­
+lung von Auslösespulen 2 Hauptausschalter bethätigt, die in
+beiden Phasen den Strom öffnen.
+Ausser den auf Ueberlastung reagirendon Ausschaltern
+sind in den Unterstationen Ausschalter angebracht, die dein nor­
+malen Kraftfluss von der Fernleitung gegen die Unterstation hin
+kein Hindernis in den Weg legen, jedoch den Stromkreis momentan
+öffnen, wenn die Energie den umgekehrten Weg nehmen will.
+Es kann in einer Unterstation, die eine durch rotirende Umformer
+an das Netz angeschlossene Accumulatorenbatterie enthält, bei
+abgeschalteter Centrale der Fall eintreten, dass sie zu einer
+Generatorstation für die anderen Unterstationen wird. In diesem
+Falle wird die Unterstation durch einen in Fig. 3 schematisch
+dargestellten Ausschalter automatisch vom Netz abgetrennt. Zu
+diesem Zwecke enthält jeder Ausschalter zwei kleine Gleichstrom-
+Motoren, deren Anker durch Bürsten von den Secundär-Klemme
+eines-in zwei Phasenleitungen eingeschalteten Strom- oder Serien-
+Transformators gespeist, während das Feld von Spannungs- oder
+Parallel-Transformatoren constant erregt wird; bei inductionsfreier
+
+Nr. 26.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 319.
+Belastung der Anlage soll keine Phasendifferenz zwischen dem
+Anker- und Feldstrom der kleinen Motoren bestehen. Der Motor,
+der jetzt in einer Richtung ein Drehmoment ausübt, wird in
+dieser Richtung in seiner Bewegung gehindert. Wenn aber bei
+Eintritt der oben erörterten Eventualität der Strom um 180 o
+gegen die Spannung verschoben ist, so wird der Motor in der
+entgegengesetzten Richtung rotiren wollen, dabei schliesst er einen
+Localstromkreis, der in gleicher Weise wie früher die Unter­
+brechung der Leitung besorgt.
+In dem zweiten Theil seines Vortrages beschäftigt sich der
+Vortragende mit der Anwendbarkeit dos sogenannten Kelvin­
+sehen Gesetzes auf weitverzweigte Leitungsanlagen und regt den
+Gedanken an, die Verzinsung des Kupferwerthes durch eine
+Hypothek auf das Leitungskupfer zu vermindern. Die Kosten des
+letzteren will er auch durch sectionsweises Einschalten von
+Spannungserhöhern (Boostern) herabsetzen. Es sei z. B. eine
+64 km lange Linie angenommen, auf der ein Spannnngsverlust
+von 40% zu gewärtigen ist; er schlägt vor, diese Leitung in
+vier Sectionen zu 16 km zu theilen und am Anfang einer jeden
+Abtheilung durch Aufstellung eines Boosters den Spannungs­
+verlust von 10% in jeder Section auszugleichen. Dadurch ist
+nach seinen Berechnungen eine Ersparnis an Kupfer im Ver­
+hältnis von 3’439: 4 möglich; den Arbeitsverlust in dem Booster
+selbst hält Forbes für vernachlässigbar. Die Verwendung von
+Aluminium zu Leitungsdrähten setzt das Gewicht der Leitung
+auf die Hälfte herab; dabei muss der Drahtdurchmesser um an­
+nähernd 28°/o stärker gehalten werden. Dadurch wird dem Wind
+eine grössere Angriffsfläche geboten, was in Anbetracht dor ge­
+ringeren Festigkeit des Aluminiums wohl zu bedenken ist. Den
+atmosphärischen Einflüssen wäre am leichtesten durch einen
+Firnissüberzug begegnet.
+Die Anbringung von Erdrückleitungen bei Wechselstrom­
+netzen hält Forbes nicht für angezeigt; sind sämmtliche
+Leitungen isolirt, so ist seiner Ansicht nach das Zweiphasen-
+System dem dreiphasigen gleichworthig. Dort, wo es sich um die
+Uebertragnng der Enorgie von Wasserkräften handelt, empfiehlt
+er für die Genoratorstation Turbinen mit verticaler Welle und
+für das System der Uebortragung entweder hochgespannten Gleich­
+strom mit hintoreinandergeschalteten Gleichstrom-Maschinen oder
+zweiphasigen Wechselstrom. G.
+Allsgeführte und projectirte Anlagen
+Oester reich- Ungarn,
+a) Oesterreich.
+Teplitz. (Elektrische Bahn.) Am 7. d. fand die
+technisch-polizeiliche Prüfung der neuerbauten Linie Schn 1-
+p.latz-Stephansplatz statt. Diese Linie weist eino grösste
+Steigung von 72°/( o aut' und einen kleinsten Radius von 23 m.
+Die Gesammtlänge der neuon Linie beträgt 0'6 km und sind auf
+derselben vorgesehen die Haltestellen „Bahnhofstrasse“ (vis-ii-vis
+dem Hotel „KronprinzRudolf“) und die bedingungsweise Haltestelle
+„Theater“. Am Stephansplatz wurde für Postbefördorungszwecke
+ein 93 m langes Zustreifgeleise hergestellt, so dass es möglich
+sein wird, die Postgüter vom Postamt direct zum Bahnhof der
+Aussig-Teplitzer Eisenbahn zu befördern, woselbst bei der
+bestehenden Ausweiche ein kurzes Stockgeleise angelegt werden
+wird. Der Betriebsconsens wurde der T op 1 it,zer Elektricitäts-
+und Kleinbahn-Gesellschaft, .welche den Bau der Strecke
+in eigener Regio durchgeführt hat, ex commissione ertheilt. Die
+Fahrbetriebsmittel der genannten Gesellschaft wurden durch
+Anschaffung des Motorwagens Nr. 15 vermehrt und erhält dieser
+Wagen bereits Lenkachsen bei einem Radstand von 3'5 m, so
+dass ein Schaukeln bei demselben ausgeschlossen sein wird. Die
+Sitze desselben sind als Quersitze ausgeführt.
+b) Ungarn.
+Budapest. (Umsteigverkehr zwischen Ujpest und
+Räkospalota.) Die Budapest-Umgebung elektrische Strassen-
+bahn-Gesellschaft und die Budapest-Ujpest-Räkospalotaer elektrische
+Strassenbahn-Gesellschaft haben auf ihren Linien zwischen den
+Gemeinden Ujpest und Rdkospalot a gegenseitig den
+Umsteigverkehr eingeführt. Nach dem diesbezüglichen, vom
+königl. ungarischen Handelsminister genehmigten Vertrage haben
+beide contrahirenden Gesellschaften im Interesse der Hebung
+der wirthschaftlichen Entwickelung dor genannten Gemeinden
+zugleich die betreffenden Tarife bedeutend reducirt und beträgt
+die Keduction in einzelnen Relationen 2—14 Heller, was einer
+Ermässigung von 9—41 Percent entspricht. M.
+Neusolil. (Beszterczebanya.) (Verlängerung der für
+die Vorarbeiten der Beszterczebsinya-Hormunder
+Eisenbahn ertheilten Concession.) Der ungarische Handels­
+minister hat die dem Bauunternehmer Samuel Horovitz in
+Kolozsvar für die Vorarbeiten einer von der Station Besztercze-
+bänya (Neusohl) der königl. ungarischen Staatsbahnen in der
+Richtung von Zäbovaistvünytelep, Elesd, Jakabfalva und Olmäny-
+falva bis Herrn and führenden normal-, eventuell schmal­
+spurigen Vicinalbahn mit Locomotivbetriob oder elektrischen
+Betrieb ertheilte und bereits verlängerte Concession auf die
+Dauer eines weiteren halben Jahres erstreckt. M.
+Pressbürg. (Pozsony). (Anhang zur Concessions-
+urkunde der Pozsonyer elektrischen Stadtbahn.) Der
+ung. Handelsminister hat der Pozsonyer Elektricitäts-
+Gesellschaft als Concessionärin der Pozsonyer elek­
+trischen Stadtbahn zu ihrer den Bau und die Inbetriebhaltung
+der genannten elektrischen Eisenbahn betreffenden Concessions-
+urkunde einen Anhang herausgogeben, demnach die Gesellschaft
+die Concession erhält, beziehungsweise die Verpflichtung über­
+nimmt, eine von ihrer Hauptlinie in der Vitezgasse abzweigend
+über die Szeplakgasse und Reichsstrasse bis zur Recseor Mauth
+führende Flügellinie auszubauen und in Betrieb zu setzen, ferner
+auf einzelnen Strecken in der Erzherzog Friedrichgasse und
+Rosengasse ein zweites Geleise zu legen, endlich ihre Strom­
+erzeugungsanlage zu erweitern und den Fuhrpark zu vermehren.
+Die Kosten dieses Baues, bezw. der Erweiterung und der Ver­
+mehrung der Fahrbetriebsmittel wurden mit 294.600 K bestimmt,
+wovon 77.000 Iv für Anschaffung von Fahrbetriebsmitteln zu
+verwenden sind. Das gesummte effective (zum Bau und der
+Betriebsausrüstung der Pozsonyer elektrischen Stadtbahn ver­
+wendete) Capital beträgt somit 1,754000 K, wovon
+343.306 K auf Fahrbetriebsmittel fallen. Das zur Beschaffung
+des effectiven Capitales erforderliche Nominaleapital wird der
+ung. Handelsminister im Einvernehmen mit dem ung. I inanz-
+minister bestimmen.
+
+Seite 320.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 26.
+Geschäftliche und finanzielle Nachrichten.
+Continentale Gesellschaft für elektrische Unter­
+nehmungen in Nürnberg, in Ergänzung unserer Mittheilungen
+im vorigen Hefte S. 312 entnehmen wir dem Geschäftsbericht
+für 1899/19U0 noch folgende Angaben über die ausserhalb Deutsch­
+lands befindlichen Unternehmungen, an denen die Gesellschaft
+interessirt ist: Das Dichtwerk der CzernowitzerElek-
+tricitätswerk- und Strassenbahngesellschaft
+in Czernowitz hat sich sehr befriedigend entwickelt. Auch
+die Bahnanlage lässt befriedigende Ergebnisse erwarten. Die
+Verhandlungen mit den Behörden wegen Umwandlung der
+StrassenbahninK ra k a u und Ausbau des Netzes haben zum
+Ziele geführt und es ist mit dem Bau begonnen worden. Die
+Continentale Gesellschaft für elektrische Unternehmungen hat in
+Verbindung mit ihren Brüsseler und Wiener Freunden die
+Krakauer Tramway-Gesellschaft in Krakau mit einem Capital
+von 2,800.000 K errichtet Dieselbe hat die Activen der Tram­
+ways Autrichiens, Cracovie& Extensions gegen 800.000 K in
+Actien der Krakauer Tramway-Gesellschaft übernommen. Die
+bisherige Brüsseler Gesellschaft, welche in dem letzten Geschäfts­
+jahre wieder 6°/ 0 vertheilte, wird sich demnächst auflösen.—
+Die Oesterreichischen Sch uckert- Werke in
+Wien haben das Actiencapital von 4,000.000 K auf 8,000.000 K
+erhöht, wobei die Continentale Gesellschaft für elektrische Unter­
+nehmungen ihr Bezugsrecht im Verhältnis ihrer Betheiligung
+ausgeübt hat. Das Werk ist zu lohnenden Preisen vollauf be­
+schäftigt und wird zur Zeit vergrössert. Die Oesterfeichisehen
+Schuckert-Werke haben sich an dem Wettbewerb um die Er­
+richtung der durch die Gemeinde Wien ausgeschriebenen beiden
+grossen elektrischen Centralen betheiligt und führten die Ver­
+handlungen zum Abschluss.— Die Reichenberger
+Strassenbah n- G esellschaft vertheilte für 1899 eine
+Dividende von 4%. Die Betriebsergebnisse sind durch den Aus­
+bau des Netzes nach Rochlitz, zu welchem Zwecke das Actien­
+capital von 900.000 Iv auf 1.400.000 K erhöht werden wird,
+wesentlich verbessert worden. Zwei weitere Stadtlinien sind ver­
+traglich gesichert.— Die Verkehrsverhältnisse der Actien-
+Gesellschaft der Wiener Localbahnen sind in
+einer steigenden Entwickelung; insbesondere hat der inzwischen
+ausgeführte Anschluss an die Staatseisenbahn in Maxing die er­
+wartete Steigerung des Güterverkehrs für die Gesammtlinie ge­
+bracht. Die Continentale Gesellschaft für elektrische Unter­
+nehmungen hat sich in Verbindung mit der Länderbank die
+Mehrheit in der Neuen Wiener Tramway-Gesell­
+schaft gesichert und beabsichtigt nach Umwandlung der Linien
+einen directen Personenverkehr von dem Innern Wiens nach
+dem Innern der Curorte Baden und Vüslau einzuführen.— Die
+SocietäLombarda perDistribuzione diEnergia
+Elettrica in Mailand hat die Anlagen zur Gewinnung der
+Wasserkraft des Tessins fertiggestellt. Zur Zeit findet der elek­
+trische Probebetrieb statt und die definitive Betriebseröffnung
+ist in nächster Zeit zu erwarten. Die Nachfrage nach Strom ist
+so rege, dass ausser den ersten sechs Turbinen von je 2000 PS
+noch zwei weitere Dynamoturbinen in Bestellung gegeben sind.
+Infolgedessen ist das Actioncapital von 8,000.000 Lire auf
+10,000.000 Lire erhöht worden.— Die Societä Nazionale
+per 1 e Industrie e Impres'e Elettriche in Mai­
+land hat auf ihr Capital von 5,000.000 Lire bis jetzt 2,500.000 L.
+einberufen. Die Gesellschaft hat unter anderem einen Theil des
+Besitzes der Continentalen Gesellschaft für elektrische Unter­
+nehmungen an der Sociotä Lombarda übernommen und sich an
+der Verwerthung- einer grösseren Wasserkraft bei Pont St. Martin
+betheiligt.— Die S o c i e t ä S i c u 1 a T r a m w a y s- O m n i b u s
+in Palermo vertheilte eine Dividende von 3o/o, obwohl der
+Verkehr durch die Umwandlung in elektrischem Betrieb sehr
+gestört wurde. Die Bergbahn von Rocca nach Monreale ist vor
+kurzem eröffnet worden und die Ergebnisse entsprechen den Er­
+wartungen.— Die Societä Toscana per Imprese
+E1 e 11 r i eh e in Florenz hat in dem am 31. December v. J.
+abgelaufenen ersten Geschäftsjahre einen Ueberschuss noch nicht
+erzielt. Im laufenden Geschäftsjahre übertreffen die Einnahmen
+die vorjährigen erheblich.— Die Societä per laTrazione
+Elettrica solle Ferrovi in Rom hat mittels Vertrages
+mit der Societä Italiana per le Strade Ferrate Meridionali die
+Einführung des elektrischen Betriebes auf mehreren Strecken
+der Veltliner Bahnen übernommen.— Die Societä Torinese
+di Tramways e Ferrovie Economic he in Turin
+vertheilte auf das erhöhte Actiencapital von 5,250.000 Lire eine
+Dividende von 7'/ 2 °, 0• Die Gesellschaft traf ein günstiges Ab­
+kommen mit der Stadt, wonach die letztere durchwegs ober­
+irdische Leitung gestattet. Der Ausbau der Linie der Societä
+Anonima dei Tramways a Vapore nella Provincia di Torino
+nach Pinerolo hat den Erwartungen voll entsprochen. In Ver­
+bindung mit französischen Finanzkreisen und der Companie
+Generale d’Electricite de Greil hat die Cont. Ges. für elektrische
+Unternehmungen die S o c i e t e Industrielle d’Energie
+Electrique in Paris mit einem Actiencapital von
+10,00il.000 Frcs. errichtet, von welchem die Hälfte zur Zeit ein­
+bezahlt ist. Die Gesellschaft hat Betheiligungen an den Conti­
+nentalen Unternehmungen in Antwerpen, Lihau und Madrid
+übernommen. Die Cont. Ges. für elektrische Unternehmungen
+hat sich bei der Capit.alsvermehrung der Compagnie du cliemin
+de fer sur route de Paris ä Arpajon durch Uebernahme von
+4V2^igen Vorzugsactien betheiligt. Die Compagnie Elec­
+trique Anversoise wird für das am 30. Juni zu Ende
+gehende Geschäftsjahr voraussichtlich eine angemessene Dividende
+vertheilen können. Für die Uebernahme der Anlage in Lihau
+hat die Continentalo Gesellschaft für elektrische Unternehmungen
+zusammen mit ihren Pariser Freunden unter dem Namen
+„SocicteContinentalc de Traction& d’E c 1 a i r a ge
+par l’E 1 e c tri c i t e“ eine französische Gesellschaft mit dem
+Sitze in Paris und einem Actiencapital von 4,000.000 Frcs. er­
+richtet. Zwecks Uebernahme der Anlagen in Madrid wurden
+unter Pariser Mitwirkung zwei spanische Gesellschaften und zwar
+die Compania Electrica Madrilena de Traccion
+für die Strassenbahu mit 6,000.000 Pes. und die Compania
+Electrica Madrilena de Alumbrado y Fuerza
+für die Licht- und Kraftcentrale mit 4,000.000 Pes. errichtet.
+Noch in diesem Sommer soll die Centralo für Lieht und Kraft
+und ein Theil der neuen Linien in Betrieb kommen. Die
+S o cie d a d Electro-quimica d e F 1 i x in Barcelona
+hat zur Fortführung der Bauarbeiten 2,000.000 Obligationen aus­
+gegeben. Der Probebetrieb wurde vor kurzem eröffnet. Die
+Actieselskabet Hafslund in Norwegen hat für
+1898/99 eine Dividende von 4% vertheilt. Das Elektricitäts-
+werk in Jassy hat in dem acht Monate umfassenden ersten
+Betriebsjahre einen Betriebsüberschuss ergeben. Die Einnahmen
+der Strassenbahn in Constantinopel haben sich gebessert.
+Die Süddeutsche Elektricitäts-Actien-Gosellschaft in
+Ludwigshafen a. Rh. hat in dem Geschäftsjahre 1899 ausser
+anderen bedeutenden Installations-Anlagen die Elektricitätswerke
+Ladenburg-Neckar hausen für die Actien-Gesellscliaft
+für elektrische Anlagen und Bahnen in Dresden und das Elek-
+tricitätswerk Schiff erst ad t (Pfalz) für eigene Rechnung
+fertiggestellt. Das Geschäft hat sich im letzten Jahre günstig-
+entwickelt, so dass das Unternehmen in allen Theilen voll be­
+schäftigt war. Die Filialen in M annhei m und Mainz er­
+brachten gleichfalls guten Gewinn. Die Werke Osthofen,
+Lade n b u r g und Sinsheim wurden käuflich erworben und
+zu diesem Zweck das Grundcapital um 500.000 Mk. erhöht. Der
+Bruttogewinn für 1899 beträgt 82.667 Mk. (im Vorjahre
+35 440 Mk.), von dem 46.089 Mk. für Handlungskosten und
+6326 Mk. für verschiedene Abschreibungen in Abzug gebracht
+werden, so dass sich ein Reingewinn von 35.250 Mk.
+(8734 Mk.) ergibt. Nach weiteren Abschreibungen von 4998 Mk.
+wird eine Einlage von 1648 Mk. in den Reservefonds und die
+Vertheilung einer Dividende von 8"/., (i, V. 6^) auf
+250.000 Mk. für ein ganzes und auf 125.000 Mk. für ein halbes
+Jahr vorgeschlagen. Von dem Reste sollen je 1128 Mk. dem
+Aufsichtsrath und Vorstand als Tantieme gewährt und 4050 Mk.
+auf neue Rechnung vorgetragen werden.
+Vereinsnachrichten.
+Voranzeige.
+Am Mittwoch den 27. d. M. Excursion zur Be­
+sichtigung- des Kress’schen Luftschiffes in Unter-
+Tullnerbach.
+Abfahrt von Wien Westbahnhof um 4 Uhr 10 Min.
+nachmittags.
+Separate Einladungen folgen.
+Die Vereinsleitung.
+Schluss der Redaction: 19. Juni 1900.
+Verantwortlicher Redactenr: Br. J. Sahulka.— Selbstverlag des Elektrotechnischen Vereines,
+Commissionsverlag bei Spielhagen&Schurich, Wien.— Alleinige Inseraten-Auluahme bei Haasenstein& Vogler (Otto Maass), Wien und Prag,
+Druck von E. Spies& Co., Wien.
+

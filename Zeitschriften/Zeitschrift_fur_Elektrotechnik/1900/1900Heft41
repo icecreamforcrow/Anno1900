@@ -1,0 +1,1652 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 41.
+Wim, 7. Octoher 1900.
+XYH1. Jahrgang.
+Bemerkungen der Redaktion: Ein Nachdruck aus dem redactionellen Theile der Zeitschrift ist nur unter der Quellenangabe
+” 7v r- n Und bel 0n ^nalartikeln überdies nur mit Genehmigung der Redaction gestattet.
+,.\ le Einsendung von Origmdlarbeiten ist erwünscht und werden dieselben nach dem in der Redactionsordnung festgesetzten Tarife
+Manuscripte bekannt^ 1 even *' 9 ew ünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+INHALT:
+Bestimmung der Grösse und Anzahl der Abstufungen von
+Regulirwiderständen für Nebenschlussdynamo für einen
+KU Grunde gelegten Ungleichförmigkeitsgrad. Von Emil
+Dick, Ingenieur.. 489
+Berechnung von Leitungsmasten auf Zerbrechen und Um­
+kippen. Von E. W. E hner t, Ingenieur 494
+Kleine Mittheilungen.
+Verschiedenes 497
+Ausgeführte und projectirte Anlagen 498
+Patentnachrichten 499
+Geschäftliche und finanzielle Nachrichten 500
+Bestimmung der Grösse und Anzahl der Abstufungen
+von Regulirwiderständen für Nebenschlussdynamo für
+einen zu Grunde gelegten Ungleichförmigkeitsgrad.
+Von Emil Dick, Ingenieur.
+Im Folgenden soll zuerst die Abhängigkeit des
+Spannungsabfalles von der Armaturreaction und dem
+Kupferverlust auseinandergesetzt werden.
+Es bezeichne:
+Obgleich obiges Thema für die Praxis eine ziem­
+liche Bedeutung besitzt, so wurde dasselbe in der
+elektrotechnischen Literatur wenn gar nicht, so doch
+nur zum Theil behandelt; es ist daher wohl anzunehmen,
+dass dies den scheinbar verwickelten Beziehungen
+zwischen den in Betracht gelangenden Grössen, als
+Spannungsabfall, hervorgerufen im Armaturkupfer und
+durch Armaturreaction, wie auch auf der mehr secun-
+dären Erscheinung der Veränderung des Erregerstromes
+bei veränderlicher Belastung der Maschine zugeschrieben
+werden muss.
+Die im Folgenden angeführte Methode kann nur
+Verwendung finden auf Nebenschlussdynamos allgemein
+gebräuchlicher Bauart. Maschinen, deren Ankerwicke­
+lungen mit den gangbaren Formeln nicht überein­
+stimmen, als die Wickelungen von S. G. Bro wn,
+Sayers, Swinburne etc., ferner Dynamos mit
+dritter Hilfsbürste, wo das durch Armaturrückwirkung
+verdichtete Feld selbstthätige Regulirung der Klemmen­
+spannung bezwecken kann, und endlich Compound­
+maschinen gelangen hier nicht in Betracht.
+Letztere Anordnungen haben in der That sehr
+Vieles für sich, aher unter der Voraussetzung einer
+bestimmt einzuhaltenden Spannung an der Verbrauchs­
+stelle, bedürfen solche Dynamos, bei vorkommenden
+Tourenveränderungen des Antriebsmotors unter allen
+Umständen auch einen Regulirwiderstand.
+Meistentheils erfahren Regulirwiderstände, welche
+aus der Klemmenspannung der Dynamo- und Erreger­
+stromstärke bei Leerlauf, wie aus dem Widerstand der
+Magnetwickelung bestimmt werden, eine mehr oder
+weniger empirische Bestimmung der Untertheilung,
+anderntheils aber wird dieselbe auch unter Zugrunde­
+legung einer gleichbleibenden Grösse A i n> die die Er­
+regerstromstärke von Stufe zu Stufe verändert, bemessen.
+Unter Hinweis auf die Leerlaufcharakteristik der
+Dynamo geht dann ohne Weiteres hervor, dass der
+Ungleichförmigkeitsgrad der Klemmenspannungen für
+alle Belastungen nicht derselbe bleiben kann, d. h. eine
+rationelle Untertheilung des Regulirwiderstandes ist
+nicht vorhanden.
+E k die Klemmenspannung der Dynamo,
+s der Spannungsverlust im Armaturkupfer,
+J die von der Dynamo abgegebene Stromstärke,
+a die halbe Anzahl Armaturstromzweige,
+A' a die Anzahl wirksamer Drähte auf dem Armatur­
+umfange,
+4, die Stromstärke pro Armaturstromzweig,
+D den Armaturdiameter in cm,
+b den Polbogen in cm,
+5 den Luftab stand in cm,
+p die Zahl der Polpaare.
+Zj die Linienzahl des Feldes pro Pol,
+7i'o den Coiifficienten der nützlichen Streuung*),
+7 f i den Coefficienten der Widerstandserhöhung des
+Luftraumes bei Zackenarmaturen,
+Y den Winkel zwischen neutraler Linie und Polschuh­
+kante, bezogen auf eine zweipolige Dynamo,
+ß das Verhältnis des Polbogens zum Armaturbogen
+von neutraler "Linie zu neutraler Linie.
+Es ist dann allgemein:
+Z,=
+(E k -f e). 60. a. 10 8
+1)
+n. A 7 a. p
+und das von der Armatur gebildete Reactionsfeld**)
+z= »a• A'a. fr 2■ 7
+a 3-2. S. %.. *. D j
+Da die beiden Componenten senkrecht aufeinander
+wirken, so wird der Winkel der Verschiebung der
+neutralen Zone dadurch bestimmt und es folgt aus
+Formel 1 und 2
+Zf^ 0-166.n.n.7.&2.A a 2
+Zj— g?— S D
+oder
+a. /.•„■ h. IO« E k 4- s
+. 3)
+tg(p=
+wo C eine Constante bedeutet
+4)
+*) Buch von Fi s c li e r- H in n 0 n, 4. Aufl., Seite 151.
+**) E. T. Z. 1898, H. 48.
+
+Seite 490.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 41.
+Die Beziehungen zwischen 7,J und Z lt als auch
+zwischen 4. C und E k -f- e sind aus Obigem einander
+gleich, so dass im nebenstehenden Diagramme an Stelle
+des Armaturfeldes ZJ die Stromstärke< a. C und analog
+für das Hauptfeld Z\ die elektromotorische Kraft der
+Dynamo 24 -(- s gesetzt werden kann (Fig. 1 und 2).
+Es ist somit zur Erzeugung der Klemmenspannung 24
+und für die gegebene Belastung der Dynamo die Er­
+regerstromstärke i n erforderlich, und zwar stellt die
+Differenz von E a mit E k den Spannungsabfall dar,
+welcher durch Armaturreaction und Kupferverlust in
+der Armatur hervorgerufen wird.
+Wollen wir demnach an einer entworfenen Dynamo
+eine Verification der Feld-Amperewindungen durch­
+führen, so berechnen wir nach Formel 3 aus den ge­
+gebenen Daten den Winkel <p der Verschiebung der
+neutralen Zone für die Normalbelastung der Maschine,
+bestimmen hierauf die Leerlaufcharakteristik der
+Dynamo (Abhängigkeit der Spannung von der Erreger­
+stromstärke bei constanter Tourenzahl), wobei die so
+erhaltenen Werthe in einem Coordinatensystem (Fig. 3)
+aufgetragen werden.
+Es wird nun im Punkte p eine Senkrechte auf
+die Linie op errichtet, worauf vom Schnittpunkte dieser
+mit der Ordinatenachse eine Parallele zur Abscisse
+gezogen wird, um die Erregerstromstärke i n für die
+zu Grunde gelegte Belastung und Klemmenspannung der
+Maschine zu erhalten.
+Dieses Verfahren hat strenge genommen nur
+Giltigkeit auf Dynamos, deren Bürsten aus der neutralen
+Zone nicht verschoben werden, wie dies z. B. bei Ma­
+schinen, welche für elektrische Beleuchtung von Eisen­
+bahnwagen dienen, zutrifft.
+Bei Dynamos mit verschiebbaren Bürsten müssen
+jedoch noch die dem Hauptfelde direct entgegengesetzt
+wirkenden Armaturamperewindungen in Berücksich­
+tigung gezogen werden. Weil diese Componente durch
+die Stellung der Bürsten präcisirt ist und der Winkel
+der Bürstenverschiebung mit grosser Annäherung gleich
+dem Winkel 9 gesetzt werden kann, so sind wir in der
+Lage, die Mehrerregung 4 aus den Grössen der Ma­
+schine zu berechnen, d. h. die Erregerstromstärke
+erhält dann in dem Falle den Werth
+Nachdem diese Punkte vorausgeschickt worden
+sind, sind wir nun in der Lage, zur Bestimmung Ab­
+stufungen eines Nebenschluss-Regulirwiderstandes über­
+zugehen.
+Dieser muss die Bedingung erfüllen, eine Begu-
+lirung der Klemmenspannung hervorzurufen, die bei
+allen Belastungen die zulässigen Grenzen nicht über­
+schreitet.
+Bezeichnen wir mit E mkX die obere zulässige
+Grenze der Klemmenspannung und mit E m[u die untere
+Grenze derselben, so beträgt der Ungleichförmigkeits­
+grad= 2
+24
+E m
+Ainax ~f- E min
+Die Lösung unserer Aufgabe erfolgt nun am
+leichtesten auf graphischem Wege unter Benützung des
+Diagrammes Fig. 4, dessen Construction für den Zweck
+besser geeignet erscheint als Fig. 2.
+Da das Diagramm jedoch nicht für die Klemmen­
+spannung 24, sondern für die Grenzwerthe 2? max und E min
+in Betracht gezogen werden muss, so erhalten wir das
+Diagramm Fig. 5 und dieses bildet die Grundlage für
+die Bestimmung der Abstufungen.
+Nehmen wir an, die Dynamo sei mit der Strom­
+stärke J a belastet und die Klemmenspannung betrage
+Emin Volt, dann stellt die Länge gd in einem gewissen
+Masstabe die Stromstärke J n und gc den Spannungs­
+verlust im Armaturkupfer dar, während oc die Span­
+nung angibt, die bei Leerlauf der Dynamo bei der
+
+Nr. 41.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 491.
+Erregerstromstärke i n auftreten würde; die Erreger­
+stromstärke muss demnach den Werth i a besitzen,
+damit bei der Belastung J n die Klemmenspannung E min
+Volt beträgt.
+Wird nun Widerstand im gewissen Betrage aus
+dem Erregerstromkreise ausgeschaltet, so wird natur-
+gemäss die Erregerstromstärke einen grösseren Werth i Dl
+erhalten und die Klemmenspannung der Maschine
+steigt daher auf die maximal zulässige Höhe 2? max.
+Nachdem der äussere Widerstand, welcher der Strom­
+stärke J n entspricht, keine Veränderung erfahren hat,
+so steigt mit der Klemmenspannung auch proportional
+die Stromstärke ./„, und zwar ist dieselbe durch die
+Länge/ b bestimmt; gleichzeitig hat auch derSpannungs-
+verlust im Armaturkupfer um einen gewissen Betrag
+zugenommen, entsprechend der Länge a f.
+Diese Folgerung geht ausserdem aus Formel 4
+zur Genüge hervor, indem der Winkel <p für beide
+Fälle derselbe bleibt.
+Die Bestimmung der Widerstände der Stufen
+erfolgt nun mit Hilfe der Leerlaufcharakteristik E A der
+betreffenden Dynamo Fig. 6, wobei auf der Abscissen-
+achse die Erregerstromstärken und auf der Ordinaten
+aehse die Spannungen E aufgetragen sind.
+Da H max. und E min gegeben sind und der
+Winkel <p, wie auch der Spannungsverlust s für
+die maximale Belastung der Dynamo als bekannt
+vorausgesetzt werden kann, so sind wir im Stande
+analog dem Diagramme Fig. 5 die beiden schiefen
+Strahlen ab und cd und durch die Punkte b und d
+parallele Linien zur Abscissenachse zu ziehen.
+Diese schiefen Strahlen dienen zur Bestimmung
+der Erregung aller zwischen Leerlauf und Vollast vor­
+kommenden Beanspruchungen der Maschine für die
+Grenzwerthe 7i' max und 2? min.
+Aus der Leerlaufcharakteristik geht für E mm die
+zugehörende Erregerstromstärke i 0‘ hervor; es ist diese
+durch den Schnittpunkt der i? a Curve mit Linie E miu
+bestimmt. Der Gesammtwiderstand im Erregerstrom­
+kreise muss demnach
+= R 0 fi betragen.
+*o
+Gleichzeitig erhalten wir auch die Erregerstromstärke i 0,
+für J? roax und Leerlauf der Maschine; es ist daher der
+Gesammtwiderstand
+= R. für ./= 0
+• *o
+und die erste Widerstandsstufe= R 0— R^. Dieser Wider­
+stand kann graphisch zum Ausdrucke gebracht werden.
+Durch den Schnittpunkt von 2?» mit E mm wird
+vom Nullpunkte aus ein Strahl gezogen, bis diese
+Linie die im Punkte i 0‘ errichtete Senkrechte schneidet
+und ziehen die Linie bh. Es ist daher das Verhältnis
+E m
+und
+hiß
+Fn
+R n
+üb
+hi 0‘
+E m
+-o— -n—-77 7-7-’-= t g a i•• -6).
+*0 *0
+Die Maschine erfährt nun allmälig eine derartige
+Belastung, dass die Klemmenspannung auf E min herunter-
+
+Seite 492.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 41.
+sinkt. Da der Widerstand im Erregerstromkreis keine
+Veränderung erfährt, so bleibt auch das Verhältnis
+E
+—constant und in Folge dessen erhalten wir durch
+V
+den Schnittpunkt n der Linie mo mit ü’ min die Er­
+regerstromstärke i v Diese entspricht einer elektro­
+motorischen Kraft, welche durch die Länge qo
+dargestellt ist; es beträgt dann die zugehörige Be­
+lastung J y Ampere.
+Der Widerstand im Erregerstromkreis wird
+weiterfolgend wieder um einen gewissen Betrag
+vermindert, so dass die Klemmenspannung der Dynamo
+von Neuem auf A’ max steigt. Die Vorgänge gehen dem­
+nach nach der im Diagramme Fig. 5 festgesetzten
+Weise von statten, wobei eine Erreger Stromstärke
+erhalten wird, welche der elektromotorischen Kraft o W-
+entsprechen muss; der Gesammtwiderstand Ii 2 ist daher 7'
+Bo
+fÜr
+und die zweite Widerstandsstufe ist dann gleich der
+Differenz von R t mit B 2.
+Um dieselbe graphisch zu ermitteln, verfahren
+wir nach der früher angegebenen Methode. Es ist
+nämlich
+Bmin
+Br
+Hy
+und
+R i i? 2=
+liy‘
+E m
+tg a 2.. 2 tB Abstufung. 7).
+i h
+Auf dieselbe Art und Weise werden die folgenden
+Abstufungen bestimmmt, welche in ihrer Entwickelung
+und zur besseren Uebersicht in nachstehender Tabelle
+zusammengestellt sind.
+200 106 0 1 2 3 upg if 5 L
+Fig. 7.
+treme Annahmen getroffen, damit die rein mechanisch vor­
+zunehmende Construction deutlich zum Vorschein kommt.
+Anders verhält es sich mit der Fig. 7. Diese
+hat Bezug auf eine 22 KW Dynamo (Manchester
+Type), die für eine Klemmenspannung von 110 V ge-
+En
+— R 0 für J— 0,
+E m
+— Ry für J— 0, B{
+Brr
+E m
+E m
+E•
+^By
+= Bo
+— Bo
+= Bn
+Em
+= Jr
+Em
+2)
+= Bo
+= Rn
+= Ji‘, Ri
+Em
+B,
+R i =*g«i
+B 2= tg a 2
+= J 2 ‘y R 2 Rj= tg a 3— 3te
+= R 3— R i= lg *4= 4te
+lte Abstufung.
+2te
+Jn-
+E m
+— B,
+'n+ 1
+— t/ n j R n R n _j_ 1—
+lte
+Um an Stelle der Tangentenfunctionen die ein­
+zelnen Widerstände direct aus der Fig. 6 ablesen zu
+können, wählen wir auf der E max Linie einen für den
+Zweck geeignet erscheinenden Punkt P, errichten in
+diesem eine Senkrechte und verlängern die Strahlen
+bh, bl.. ., bis diese Strahlen die Senkrechte schneiden.
+Es ist nun allen Winkeln' a t a 2 a 3 ,.. die Abscisse ~bP
+gemeinschaftlich, in Folge dessen bilden die Längen
+P\ P‘2, P‘3■■■• in einem gewissen Masstabe die ge­
+suchten Widerstände der aufeinander folgenden Ab­
+stufungen.
+Es ist klar, dass die Fig. 6 der Praxis unmöglich
+entsprechen kann und wurden nur aus dem Grunde ex­
+baut wurde und deren Leerlaufcharakteristik mit der
+U a Curve übereinstimmt.
+Als Grenzwerthe für die Regulirung der Klemmen­
+spannung ist eine Abweichung von -4- 2 V von der
+Normalspannung zu Grunde gelegt, entsprechend einem
+Ungleichförmigkeitsgrad von
+112— 108
+112+ 108
+— 0036
+Da die Maschine eine äusserst grosse Armatur-
+reaction aufweist und demzufolge die Bürsten eine
+grosse Verschiebung mit zunehmender Belastung er­
+fahren, so muss im Diagramme der Fig. 7 der Ein-
+
+Nr. 41.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 493.
+fluss der dem Hauptfeld direct entgegengesetzt wir­
+kenden Armatur-Amperewindungen in einer theoretisch
+angenäherten Form zum Ausdruck gelangen, und zwar
+geschieht dies durch eine Veränderung der Lage der
+schiefen Strahlen a b und c d.
+Laut Fig. 8 geht die Zulässigkeit dieser Vor­
+nahme zur Genüge hervor, denn nach Früherem kann
+die erforderliche Mehrerregung i e leicht berechnet werden
+und es entspricht dann dieser Erregerstromstärke i a‘
+eine elektromotorische Kraft, welche mit Länge äü>über­
+einstimmt. Der Winkel <p bleibt natürlich unverändert,
+weil die direct entmagnetisirenden Armatur-Ampere­
+windungen keine Verschiebung der Lage der neutralen
+Zone hervorrufen.
+Die Methode kann demnach auch für Maschinen
+mit verstellbaren Bürsten in Anwendung gebracht
+werden; es erscheint dann im Diagramme Fig. 8 der
+Einfluss der direct entmagnetisirenden Armatur-Am­
+perewindungen in der Art, wie wenn der Kupfer­
+verlust s um einen gewissen Betrag willkürlich erhöht
+worden wäre.
+Zur Bestimmung der Zwischenwerthe der Grösse
+der Widerstände ist es daher zulässig, die rein me-
+chanische Operation einfach auf die corrigirten Strahlen
+a‘ b und c‘ d vorzunehmen.
+In ähnlicher Weise beurtheilt auch Fischer-
+Hinnen die Armaturreaction, indem derselbe den
+totalen Spannungsabfall gleichsetzt dem zwei- bis drei­
+fachen Kupferverluste der Armatur.
+Wie wir aus der Fig. 7 weiter ersehen, ist das
+graphische Verfahren zur Bestimmung der Widerstände
+der einzelnen Abstufungen nur auf 3 Stufen durch­
+geführt, was für die Praxis auch vollständig- genügt,
+um den Verlauf erkennen zu können.
+Es mag an dieser Stelle wohl noch angebracht
+sein, in kurzen Worten die Durchführung der Con-
+struction der Fig. 7 zu erläutern.
+Nachdem die Leerlaufcharakteristik E& im Coor-
+dinatensystem eingezeichnet ist, wird der Winkel <p der
+Verschiebung des neutralen Feldes für die Vollbelastung
+der Dynamo nach Formel 3 aus den gegebenen Daten
+berechnet. Der Winkel <p wird hierauf vom Nullpunkte
+aus an die Ordinatenaehse. auf die linke Seite der­
+selben aufgetragen, worauf alsdann die parallelen
+Linien F max und /f m i n, welche die Grenzwerthe für
+die Regulirung bilden, gezogen werden.
+Da der 0 h m’sche Spannungsverlust s der Ar­
+matur ebenfalls aus den Daten der Dynamo berechnet
+werden kann, so ist der schiefe Strahl a b und analog
+der Fig. 7 auch die zugehörende Erregerstromstärke
+(welche jedoch nur Giltigkeit für unverschiebbare
+Bürsten besitzt) bestimmt.
+Für verschiebbare Bürsten wird die Mehrerre-
+gung i e, die pro magnetischen Kreis aus den entgegen­
+gesetzt wirkenden Armaturamperewindungen, der Win­
+dungszahl des Feldes und dem Winkel <p berechnet
+werden kann A ), entsprechend der Fig. 7 hinzugefügt,
+um für die Vollbelastung der Maschine die erforderliche
+Erregerstromstärke zu erhalten. Die corrigirten schiefen
+Strahlen n‘ b und c‘ d sind demnach gegeben, aus denen
+zuletzt auf einfache Weise die einzelnen Regulir-
+widerstände für die dazwischen gelegenen Belastungen
+graphisch ermittelt werden können.
+Speciell für die in Betracht gezogene Manchester
+Dynamo ersieht man aus Fig. 7, dass zufällig für Leer­
+lauf, halbe und volle Belastung die Regulirwiderstände
+miteinander in der Grösse übereinstimmen, indem der
+Winkel a für dieselben der gleiche ist.
+Der totale Regulirwiderstand Ii beträgt dann:
+ST .... in Volt
+U 0 .... in Ampere
+und die Anzahl der Abstufungen ist gleich—
+PQ
+Aus der Anzahl der Abstufungen, wie auch aus
+dem Diagramme der Fig. 7 tritt die Thatsache deutlich
+hervor, dass die Maschine gegen Belastungsveränderungen
+äusserst empfindlich ist, was der Betrieb zur Genüge
+auch bestätigt hat, denn selbst bei relativ kleinen Be­
+lastungsschwankungen war es erforderlich, die Bürsten
+auf funkenlosen Gang einzustellen und die Spannung
+nackzureguliren. Durch Aufstellung eines aut. Spannungs­
+regulators ■■*) wurde dann die Bedienung wesentlich ver­
+mindert.
+Führen wir die Bestimmung eines Regulirwider-
+standes für eine moderne, richtig dimensionirte Dynamo­
+maschine durch, so erhält die Fig. 8 ein verändertes
+Bild.
+Abgesehen von der Leerlaufcharakteristik wird
+der Winkel <p für volle Belastung unter allen Umständen
+kleiner sein als ca. 20°, im Weiteren wird der
+Ohm’sche Spannungsverlust im Armaturkupfer un­
+gefähr 3% der Normalspannung betragen und infolge
+der geringen Verschiebung der neutralen Zone, resp.
+der Bürsten wird die Mehrerregung i e verhältnismässig
+klein ausfallen, wie auch die Grösse e'. Alle diese an­
+geführten Momente tragen dann dazu bei, die Zahl der
+Abstufungen für den Regulirwiderstand auf ein Minimum
+reduciren zu können, bei einem zu Grunde gelegten
+Ungleichförmigkeitsgrad.
+Die im Anfänge angeführte theoretische Ab­
+leitung der Armaturreaction ist allerdings nicht ein­
+wandfrei, da das Hauptfeld wie das Armaturfeld wohl
+nicht ohne Weiteres durch deren Componenten zu einer
+Resultirenden zusammengesetzt dargestellt werden kann,
+jedoch geben die nach der vorstehenden Methode be­
+stimmten Werthe der Grösse der Stufen ein für die
+Praxis genügend genaues Resultat.
+*) ie
+Na,
+(1-
+-»•4-
+2. p• '■ p
+= Windungszahl der Magnetwickelung
+**) Dieser ist in der E. T. Z. 1900,
+1_
+W
+wo W—
+pro magnetischen Kreis.
+H. 4, beschrieben.
+
+Nr. 41.
+Seite 494.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Berechnung von Leitungsmasten auf Zerbrechen und
+Umkippen.
+Von E. W. Ehnert, Ingenieur.
+Bei Projectirung und Ausführung elektrischer
+oberirdischer Leitungsanlagen ist mit Rücksicht auf
+Anlagecapital und Sicherheit der Anlage eine Rechnung
+über die Dimensionen der am stärksten beanspruchten
+Maste unumgänglich nothwendig. Selbstredend sind da­
+bei die denkbar ungünstigsten Momente in Betracht zu
+ziehen, und ist zu untersuchen, oh der Mast gegen Zer­
+brechen und Umkippen genügende Festigkeit bietet.
+Besonders hei Projectirung von Anlagen für Behörden,
+welche meistens bestimmte Sicherheitsgrade festsetzen,
+wird eine Rechnung vorgenommen werden müssen, um
+volle Garantie leisten zu können. Im Nachfolgenden
+wollen wir an Hand von Tabellen die gebräuchlichsten
+Formen festlegen. Für schwächer beanspruchte Maste
+findet meistens Holz, für stärker beanspruchte Eisen,
+Anwendung. Um die Fäulnis des Holzmastes möglichst
+hinauszuschieben, den Mast also dauerhaft zu machen,
+wird derselbe imprägnirt. Das geschieht, indem man
+den Mast entweder an seinem unteren Ende blos an­
+kohlt, oder mit irgend einer Flüssigkeit, wie Kupfer­
+vitriollösung, Carbolineum etc. ganz tränkt. Zu diesem
+Zwecke wird der Mast an einem Ende mit einem Schuh
+versehen, und die Flüssigkeit hydraulisch hindurchge­
+presst. Gut imprägnirte Maste erreichen durch das Im-
+prägniren eine Dauerhaftigkeit bis zu 30 Jahren.
+Fig. 1. Fig. 2.
+Nach dieser Abschweifung gehen wir zur Be­
+rechnung über und betrachten den allgemeinsten Fall,
+wo am oberen Ende des Mastes Leitungen mit ver­
+schiedenem Querschnitte nach verschiedenen Richtungen
+abzweigen. In diesem Falle muss vorerst der resul-
+tirende Leitungszug berechnet werden. Nach bekannten
+Verfahren finden wir aus dem Parallelogramm der
+Kräfte die Resultante. Am besten geschieht dies auf
+graphischem Wege (Fig. 1). Heben sich zufälligerweise
+die Leitungszüge nahezu auf, wird die Resultante also
+fast Null, so empfiehlt es sich anzunehmen, dass eine
+Leitung nicht vorhanden ist, dieselbe z. B. gerissen ist,
+und zu sehen, welche Beanspruchung man auf diese
+Art bekommt (Fig. 2).
+Der durch das Gewicht der Leitung allein hervor­
+gebrachte Leitungszug wird aus der bekannten Gleichung
+berechnet:
+„ GU 2
+— 4h’
+hierin bedeutet
+G das Gewicht pro Meter Leitungsnetz in hg,
+l die Spannweite in m und
+h den Durchhang in m.
+Ausser diesem Zuge ist noch der Winddruck auf
+die Leitung zu berücksichtigen. Bezeichnet q den Quer­
+schnitt der Leitung, so ist
+0-57
+1000 f 7C
+C ist eine Constante und bezeichnet den Wind­
+druck pro 1 m 2 Fläche;
+Wir finden denselben ans folgender Tabelle:
+Windgeschwindigkeit
+in m
+15
+30
+40
+O
+28
+110
+195
+Die Formel, welche beide Wirkungen berück­
+sichtigt lautet demnach
+Gl+
+ff
+0-57. I
+Pges—
+1000
+4 h
+. I
+Bezeichnet s das specifische Gewicht des Leitungs­
+materials, so ist
+g.s-f- C]/f 0-643
+p—
+1 ges—
+i 2
+4000. h
+Die folgende Tabelle gibt für verschiedene Durch­
+hänge und Querschnitts den Leitungszug in hg an. Zu
+Grunde gelegt ist eine Mastenentfernung von 40 rn, und
+eine Luftgeschwindigkeit von 40 m.
+li= \m
+Querschnitt q Zug
+h— T5 m
+Querschnitt q
+Zug P z
+10
+16
+25
+35
+50
+70
+95
+193
+256
+338
+423
+528
+667
+806
+10
+16
+25
+35
+50
+70
+95
+128
+170
+220
+280
+350
+440
+540
+Ausser dem Leitungszug wirkt auf den Maste
+der Winddruck. Letzterer berechnet sich aus der
+Grösse der getroffenen Fläche, multiplicirt mit der Con-
+d t
+Fig. 3.
+Fig. 4.
+stanten C. Dieser Werth ist bei runden Masten noch
+mit 0'57 zu multiplieiren. Wie nebenstehende
+Skizze zeigt (Fig. 3), wird der Mast auf Biegung be­
+ansprucht, wenn wir uns das untere Ende in starrer
+Verbindung mit dem Boden denken. Wir müssen dem­
+nach setzen:
+
+Nr. 41.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 495.
+SP.«= dem Wiederstandsmoment TT seines
+Querschnittes X der Spannung des Mastes S, also
+P z. a -)- P o)• a x= W. S.
+Der Winddruck auf den Mast berechnet sich wie folgt.
+Bezeichnet d x den oberen, d 2 den unteren Durch­
+messer des Mastes in m, so ist die Fläche
+d i+„ imd der Winddruck
+m*
+dl 4- d 2\ a. 0-57. C
+2/ 1000.1000
+Der Winddruck greift im Schwerpunkt der
+Fläche des Mastes an, wir können jedoch mit für die
+Praxis genügende Genauigkeit den Angriffspunkt in
+halber Höhe des Mastes uns denken.
+Bezeichnet in die Abnahme des Mastes nach oben
+hin, so ist
+d x— d 2
+m, demnach
+P m=
+(m+ 1) d 2. a. 0-57. C
+2.10 6
+Setzen wir endlich den Werth für das Wider­
+standsmoment TT— —k-• dJ ein und ordnen wir,
+32
+findet man
+, (m-f-l)a.0-57.0.32.0!!
+so
+P 7. o.32
+= 0
+2 2. 10°. 1t. S tc.S
+Den Factor m können wir mit für die Praxis ge­
+nügender Genauigkeit zu 0\S annehmen.
+Der folgenden Tabelle sind nachfolgende Werthe
+zu Grunde gelegt:
+C=195; S= 1-2= zehnfacher Sicherheit.
+a= 8000; a x— 4000, womit sich ergibt
+d./-
+27.130 d 0
+P z. 67.840= 0.
+Mit Hilfe der Condanischen Formel finden wir
+folgende Tabelle:
+r/ 3 in mm
+ca. 235
+„ 275
+„ 300
+„ 335
+„ 355
+Nummer des Mastes
+1
+2
+3
+4
+5
+Pz in kg
+100
+200
+300
+400
+500
+Mit Rücksicht auf gefälliges Aussehen der Leitungs­
+anlage darf die durch den Leitungszug hervorgebrachte
+Durchbiegung des Mastes keine zu grosse sein. Etwas
+lässt sich ja die Durchbiegung immer unsichtbar
+machen, indem man den Mast auf „Anzug“ setzt, d. h.
+von vornherein etwas schief in der entgegengesetzten
+Richtung vom Leitungszuge setzt, so dass bei gespannten
+Leitungen die Centren des Mastenzopfes und Fusses
+lothrecht sind.
+Wir wollen jetzt die oben berechneten Maste auf
+Durchbiegung controliren. Die betreffende Formel lautet:
+J. P.« 3
+J.E' 3
+Hierin bedeutet:
+J das Trägheitsmoment, für runden Querschnitt=
+0-049. d 2 4,
+E den Elasticitätsmodul= 1200,
+a die Länge des Mastes= 8000.
+In folgender Tabelle sind die Resultate zusammen-
+O
+gestellt.
+Nummer des Mastes Durchbiegung d in mm
+1 ca. 96
+2 „96
+3» 95
+4'„ 92
+5„ 89
+Ergibt die Rechnung sehr dicke Maste, so
+empfiehlt es sich nicht, solche über 35 cm Zopfstärke
+zu verwenden, einestheils aus Schönheitsrücksichten
+und andererseits macht die Beschaffung starker Maste
+grosse Schwierigkeiten und Kosten. Man zieht es dann
+vor, statt einen starken zwei schwächere Maste von
+gleicher Festigkeit zu verwenden, oder man verwendet
+einen Rohr- oder Gittermast. Erstere werden entweder
+aus Schmiedeeisen oder Stahl gezogen, oder aus Guss­
+eisen gegossen, letztere ausschliesslich aus Walzeisen
+hergestellt.
+Wir wollen vorerst einen Rohrmast betrachten.
+Es gilt wieder die Beziehung
+und auch
+P z. a+ P w. a x— TT. S
+D.a. 0-57. C
+P w=
+10°
+wenn wir annehmen, dass der Mast nach oben zu sich
+nicht im Durchmesser verjüngt. In der Praxis ist dies
+natürlich in den meisten Fällen der Fall, doch können
+wir die angeführte Annahme ruhig machen, ohne auf
+ein wesentlich anderes Resultat zu kommen.
+Das Widerstandmoment für den ringförmigen
+Querschnitt lautet bekanntlich
+TT
+7C ID 1 #\
+= 32 r~D)
+Die zulässige Spannung S können wir bei guss­
+eisernen Masten zu 4'5 kg, für Stahlrohrmaste zu 15 kg
+und für schmiedeeiserne Maste zu 9 kg annehmen. An
+Hand der Tabellen über die üblichen Profile kann
+leicht der geeignete Mast gefunden werden.
+Gittermaste unterscheidet man zwei Arten, und
+zwar quadratische und Flachrohrmaste. Erstere werden
+aus 4+ eisen, letztere aus 2 U eisen hergestellt. Qua­
+dratische Gittermaste finden Anwendung an solchen
+Stellen, wo starke Leitungszüge auftreten, ausserdem
+auch als Lampenmaste für Bogenlampen. Flache Gitter­
+maste werden mit Vorliebe an Stellen mit einseitigem
+Zuge, wie als Endmaste und als Strassenbahnmaste
+angewandt. Die Berechnung gestaltet sich minder ein­
+fach und ist langwierig, wir müssen deshalb davon
+absehen, Werthe in Tabellen niederzulegen, und wollen
+nur den Rechnungsgang andeuten.
+Nach Wahl eines geeigneten Profiles berechnet
+man aus den nachstehend angeführten Formeln den
+Werth TT.
+Es ergibt sich
+TT == 8 ’ß—, wobei
+J m= J>+ (4“ ‘i)“- (2 b— d). d
+1 b 2+&. d
+und
+cP
+2.5— d
+ist.
+
+Seite 496.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 4L
+J s finden wir aus:
+1
+~3
+worin e 9— b— e, ist.
+J,=
+. (b. e* —[b— d}W+ d. c 2 3),
+Nebenstehende Skizze (Fig. 5) veranschaulicht die
+Bedeutung der Buchstaben.
+Liefert die Formel P 7j. a -j- P w. a x einen anderen
+Werth, als wie wir aus der eben angeführten Formel
+Offenbar kippt ein Mast nicht um, wenn das durch
+das Erdreich liervorgebrachte Drehungsmoment grösser
+oder gleich ist dem Biegungsmoment.
+« ~.b y
+“ZZf
+für W nach Multiplication mit S erhalten,
+eben ein anderes Profil gewählt werden.
+so
+muss^—Ä-----
+Die
+ähnlich und
+Berechnung der
+sind dann
+rücksichtigen.
+W=
+Flachmaste gestaltet sich
+folgende Gleichungen zu be-,
+4 4
+B
+Jm 4 -j~
+T
+«i=
+.(2 b l .d 1+ d.b— Add,)
+2 d 1 b* -f- (b— 2 4) rf 2
+2 d, b, (b— 2 d,) d
+Z^ b- e *-
+[b— 2 d] h s +2 d t e 2 3)
+und endlich e 2= 5,— e 1.
+von P w ist die richtige Fläche
+Zur Bestimmung
+für den Winddruck zu berücksichtigen. In nachfolgenden
+Tabellen sind einige Werthe für J e
+angeführt.
+Gleichschenkeliges
+Winkeleisen
+Profil
+Nr.
+5 1 A
+6V*
+H/ S
+b
+mm
+d.
+mm
+Jb
+10« x
+10
+11
+12
+50
+60
+65
+70
+75
+80
+90
+100
+110
+120
+5
+7
+9
+6
+8
+10
+6
+8
+10
+7
+9
+11
+7
+9
+11
+8
+10
+12
+8
+10
+12
+9
+11
+13
+10
+12
+14
+10
+12
+14
+11
+18
+15
+11-2
+14-8
+18-1
+17'8
+22-5
+26-9
+23 4
+29-8
+356
+34-4
+423
+496
+43 3
+53 6
+63-1
+60
+72-7
+84
+739
+89.1
+103
+118
+140
+160
+180
+210
+239
+243
+284
+324
+346
+400
+451
+D eisen
+Profil
+Nr.
+b
+mm
+mm
+d
+mm
+4
+mm
+! J B
+10« X
+3
+4
+5
+61/2
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+30
+40
+50
+65
+80
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+300
+33
+35
+38
+42
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+5
+5
+5
+5-5
+6
+6
+7
+7
+7- 5
+8
+8- 5
+9
+9- 5
+10
+10
+10
+7
+7
+7
+7- 5
+8
+8- 5
+9
+10
+10- 5
+11
+11- 5
+12- 5
+13- 5
+14
+15
+16
+5-2
+7-3
+10
+15-7
+21-7
+33-1
+49-2
+711
+97'4
+130
+171
+226
+297
+365
+475
+564
+Wir gehen jetzt über zur Berechnung
+auf Umkippen.
+des Mastes
+x,
+a
+Vd
+B
+b -2cL t
+-M
+M
+B
+d
+r
+A
+gilt
+also folgende Be-
+h
+~2
+Fig. 5.
+Für Holz- und Rohrmaste
+ziehung:
+P■«+ Pw- eil-
+Pc berechnet sich aus:
+h d 2 .p. 1(W G
+den specifischen Widerstand p. welchen das Erdreich
+entgegensetzt, können wir zu
+P= 20.000 kg pro m 2
+annehmen.
+Es ergibt sich dann
+h aus:
+h■
+f
+(Pa+ P w, ai ).2. 10«
+Vortheilhaft ist es diesen Werth für h noch mit
+einem Coefficienten c zu multipliciren, um vollständig
+sicher zu gehen, z. B. mit c= 15.
+Beispiel: Wie tief müsste ein Holzmast ge­
+setzt werden, welcher 6 rn über der Erde mit 500 kg
+beansprucht wird? Der Durchmesser beträgt d 9— 30 cm
+
+Nr. 4L
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 497.
+und es herrscht vollständige Windstille. Vorstehende
+Formel liefert:
+P
+500.6000.2.10«
+= 1000 mm
+300.20000
+Der Sicherheit halber werden wir den Mast
+1500 mm tief setzen. Um die bei stark beanspruchten
+Masten gegen das Erdreich drückende Fläche und damit
+den Widerstand zu vergrössern, bringt man an beiden
+Seiten^ des Mastes Druckbleche an, oder man setzt den
+Mast in Beton. Als Material für die Druckbleche ver­
+wendet man Wellblech mit Vorliebe. Bezeichnet b die
+Breite und l die Länge eines Druckbleches in mm und
+P den specifischen Widerstand des Erdreiches, so ist
+der wirksame Gegendruck
+p b.l
+Pe —V■
+10 G
+Hebelarme 7i t;
+am Hebelarm
+Dieser Druck wirkt am
+Kräfte P und P w wirken
+a i H- 2*
+Die gütige Gleichung wird also lauten
+P V/ 2) -f Pw. («! -f b/ 2)= p.
+Hieraus ergibt sich
+h= b 4- 10°.
+= h—b.
+o -f- &/ 2
+Die
+resp.
+b.l
+HF
+(h-b)
+P- ja -1~ b/ 2) -j- P w (a t -[- b/ 2)
+p. b .1
+Beispiel. Der im vorangegangenen Beispiel
+angeführte Mast erhalte Druckbleche von b= 200 mm
+Breite und l= 600 mm Länge. Es folgt dann, dass der
+Mast
+HF. (6000+ 100) 500
+h
+: 200 -f
+20000.200.600
+= 1470 mm
+tief eingesetzt werden muss.
+In der Praxis wird man diese Werthe noch etwas
+grösser nehmen, um gegen alle Fälle geschützt zu sein.
+Gusseiserne Maste wird man überhaupt selten zu
+verwenden trachten, da Gussfehler in den meisten
+Fällen die Bechnung illusorisch machen.
+KLEINE NIITTHEILUNGEN.
+Verschiedenes.
+Leber Versuche clor Telegraphie ohne Draht hat der
+Norddeutsche Lloyd dem Nautischen Vereine
+folgenden Bericht zugehen lassen: ..Die durch uns eingerichteten
+Stationen für drahtlose Telegraphie nach dem System Marconi
+auf der Insel Borkum und dem Feuerschiff „Borkum Riff" sind
+nach längeren Versuchen am 15. Mai der Oeffentlichkeit über­
+geben worden. Ein Tag- und Nachtbetrieb hat sich leider wegen
+Mangels an geschultem Personale noch nicht sofort einrichten
+lassen und werden daher bis auf Weiteres Meldungen von in der
+Nähe des Feuerschiffes passirenden Schiffen nur in der Zeit von
+6 Uhr früh bis 8 Uhr abends aufgenommen und nach der Insel
+Borkum weitergegeben. Auf der Insel Borkum ist in etwa 50 m
+Abstand vom Leuchtfeuerthurm für die Ems ein 130 Fuss hoher
+Mast errichtet, von dessen Spitze zwei isolirte Drähte nach den
+Marconi-Instrumenten, welche in einem abgekleideten Raum im
+Feuerthurm Aufstellung gefunden haben, geleitet sind. Der Gross­
+mast des Feuerschiffes ist vermittelst einer aufgebrachten Stenge
+auf 100 Fuss erhöht worden. Mit diesen Höhen ist es dem Führer
+unseres Dampfers „Kaiser Wilhelm der Grosse“, welches Schiff
+ebenfalls mit den Marconi’schen Instrumenten ausgerüstet ist und
+den Grossmast zur Befestigung der Leitungsdrähte benutzt, ge­
+lungen, eine Verbindung mit der Insel Borkum bis auf 29 See­
+meilen und mit dem Feuerschiff bis auf 31 Seemeilen zu erreichen.
+Mit drahtloser Telegraphie nach dom System Schäfer wurden
+vor einiger Zeit ebenfalls Versuche angestellt. Zu diesem Zwecke
+war auf dem Riesenkrahn des neuen Kaiserdocks in Bremerhaven
+eine kleine Stenge errichtet und am Fusse dieses Krahns ein
+Deckhaus aufgestellt, in welchem die Instrumente untergebracht
+waren. Die zur Verfügung stehende Höhe betrug 150 Fuss. An
+Bord unseres lenders „Seeadler“ war der Mast vermittelst einer
+aufgebrachten Stenge auf 100 Fuss erhöht. Mit diesen Höhen
+gelang es, eine gute drahtlose Verbindung bis zum Rothesand-
+Feuerthurm, Entfernung 25 Seemeilen in der Luftlinie, zu er-
+reichen. Weitere Versueho mit drahtloser Telegraphie nach dem
+System Schäfer werden unternommen. Für diese Versuche ist in
+der Nähe der neuen Wartehalle des Norddeutschen Lloyd in
+Bremerhaven ein 200 Fuss hoher Mast errichtet und vermittelst
+einer neuen Stenge der Mast auf dem Tender „Seeadler“ auf
+150 Fuss erhöht. Wir hoffen mit diesen Höhen eine gute drahtlose
+Verständigung bis zum Weser-Aussenfeuerschiff, Entfernung
+32-5 Seemeilen in der Luftlinie, zu erreichen.“
+Schutzvorrichtung gegen Ueberfahrenwerden durch
+Strassenb ahnen. In der „Ztg. d. Ver. d. Eisenb.-Verw.“ Nr. 74,
+1900 wird nach dem „Eis. Journ.“ eine Vorrichtung beschrieben,
+wie sie an den Wagen der Strassenbahn in Nancy angebracht ist
+zum Schutz gegen das Ueberfahrenwerden. Es heisst dort: An
+sämmtlichen Motorwagen sind vorn und hinten aufklappbare
+Schutzvorrichtungen angebracht; diese bestehen aus zwei in der
+Höhe von ungefähr 50 cm vom Wagen ausgehenden, seitlich ge­
+bogenen Eisenstücken, die an ihrem vorderen Ende durch eine
+starke runde Eisenstange verbunden sind. Diese Eisenstange liegt,
+wenn die ”V orrichtung herabgeklappt ist, unmittelbar über dom
+Schienengeleise. Die Seitentheile und die Stange sind durch
+elastische Stahlbänder verbunden, so dass das Ganze ein concav
+gebogenes elastisches Gestell bildet. Eine auf oder zwischen den
+Schienen befindliche Person wird beim Heranfahren des Wagens
+auf dieses Gestell geworfen und durch den Wagen so lange mit­
+geführt, bis er zum Stehen gebracht worden ist. Die seitwärts an
+den Wagen angebrachten, bis unmittelbar über das Strassenpflaster
+reichenden Eisenbänder verhindern, dass von der Seite her jemand
+unter den Wagen geratlien kann.
+Erste allgemeine Ausstellung für die gesammte Liclit-
+ludustrie, Wien, Garteubansiile, November 1900. Der Fortschritt,
+den die Errungenschaften und Erfahrungen der modernen Technik
+und der praktischen Wissenschaft in den einzelnen Zweigen der
+Lichterzeugung und der Lichtversorgung in den letzten Jahren
+zu verzeichnen haben, ist ein mächtiger, und täglich mehren sich
+auf diesem Gebiete Erfindungen, Neuerungen und Verbesserungen.
+Es dürfte daher thatsächlich ein Bedürfnis nach einer Heerschau
+des praktischen Beleuchtungsweson sein und diesen Zweck, die
+Beleuchtungsindustrie vorzuführen, soll die ersteallgemeine
+Ausstellung für die gesammte Lichtindustrie,
+.die in der Zeit vom I.—30. November in Wien in den Garten­
+bausälen statthat, erfüllen.
+Dem Ehren-Comite dieser Exposition gehören u. A. an:
+Sr. Excellonz der Statthalter Erich Graf Kielmansegg, Hof­
+rath A. v. Waltenhofen, Prof. Nernst, Prof. Z i c k 1 e r,
+Prof. Loos.
+Nachstehend die Gruppen-Eintheilung.
+I. Historische Entwickelung des Boleuchtungswesens.
+II. Das Licht im Dienste der Religion und des Cultus. Kirehen-
+. Beleuchtung.
+III. Die Beleuchtung der Städte, öffentlicher Etablissements und
+Institute.
+IV. Die Haus- und AVohnungsbeleuchtung.
+V. Die Lichtverwendung in Lehranstalten, Kranken- und Cur-
+häusern. Hygiene des Lichtes. Das Licht als Heilmittel.
+VI. Die Fabriks-Beleuchtung.
+VII. Die Beleuchtung der Verkehrsmittel, der Eisenbahn-Waggons,
+der Schiffe und der See.
+VIII. Das Licht in seiner Anwendung für militärische, maritime
+Kriegs- und Marinezwecke.
+IX. Das Licht im Dienste der photographischen Reproduction.
+X. Die Beleuchtungsvorrichtungen bei nächtlichen Arbeiten,
+Feuer- und Wässergefahr.
+XI. Die Bergwerksbeleuchtung.
+XII. Beleuchtung zu decorativen Zwecken.
+XIII. Diverses.
+XIV. Die Literatur des Beleuchtungswesens.
+Das Ausstellungs-Comite hat sein Bureau: Wien, I., Loth­
+ringerstrasse 15.
+Eröffnung des meteorologischen Observatoriums in
+O-Gyalla. In Ö-Gyalla, wo sich die grösste ungarische Sternwarte
+und das Institut für Meteorologie und Erdmagnetismus befinden,
+wurde am 30. v. M. das neue Observatorium dieser letzteren An-
+
+Seite 498.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 41.
+stalt mit grosser Feierlichkeit eröffnet. Das Observatorium wurde
+zwar zum Tlieile aus Staatsmitteln erbaut, verdankt aber seine
+Errichtung doch den grossen materiellen Opfern, welche der
+Instituts-Director, Ministerialrath und Reichstags-Abgeordneter
+Dr. Nicolaus v. Konkoly seit Jahren dafür gebracht hat. Die
+Eröffnungsfeier wurde in Anwesenheit des Äckerbauministers
+Dr. Darany i, zahlreicher Functioniire seines Ressorts und Gästen
+aus wissenschaftlichen Kreisen vollzogen. Aus Wien war der
+Director der meteorologischen Reichsanstalt, Dr. Perntne r, er­
+schienen. Das neue Observatorium fand den ungeteilten Beifall
+aller Fachmänner.
+Die Elektricitiits-Actien-Gesellschaft vorm. W. Lahmeyer
+& Co. in Frankfurt a. M. theilt uns mit, dass sie auf der
+Pariser Weltausstellung für das in Gruppe V, Classe 23 aus­
+gestellte Maschinenaggrogat einer Hoc lispannungs-
+Drehstrom-Dynamo von 1000 Kw Leistung bei 5000 V
+Spannung und einer Gleichstrom-Dyn am o von 350 Kv>
+Leistung bei 500 V Spannung mit zugehöriger Erregermaschine
+die höchste Auszeichnung, den Grand Prix, ferner für die in
+Gruppe VI, Classe 28 (Ausstellung deutscher Ingenieurwerke aus­
+gestellten Pläne und Photographien der von uns er­
+richteten Central-Anlagen: Charlottenburg, Essen an der
+Ruhr, Gersthofen, Kübel in der Schweiz, S i n a i a in
+Rumänien, Wangen in der Schweiz ebenfalls die höchste Aus­
+zeichnung, den Grand Prix erhalten hat. Den Mitarbeitern
+wurden 2 goldene und 2 silberne Medaillen zu theil.
+Ausgeführte und projectirte Anlagen
+Oesterreich-Ungarn,
+a) Oesterreich.
+Oberliollahrunn. (Anordnung der Tracenrevision
+und Stationscommission der e 1 e k t r i s c h e n Kl ein­
+bahn von Oberhollabrunn nach Unter- Stinke n-
+brunn.) Das k. k. Eisenbahnministerium hat unterm 12. Sep­
+tember die k. k Statthalterei in Wien beauftragt, hinsichtlich des
+von Curt Baue r, Ingenieur in Wien, vorgelegten generellen
+Projectes für eine schmalspurige, mit elektrischer Kraft zu be­
+treibende Kleinbahn von Oberhollabrunn nach Unter-Stinkenbrunn
+im Sinne der bestehenden Vorschriften die Tracenrevision in
+Verbindung- mit der Stationscommission einzuleiten.
+Raibl. (Bewilligung zur Vornahme tech­
+nischer Vorarbeiten für eine schmalspurige
+Kleinbahn von Tarvis nach Raibl mit eventueller
+Fortsetzung bis zumRaiblerSee.) Das k.k. Eisenbahn­
+ministerium hat der Generaldirection der Grafen Hugo, Lazy,
+Arthur II e n c k e 1 von Donnersmark in Carlshof die Be­
+willigung zur Vornahme technischer Vorarbeiten für eine schmal­
+spurige Kleinbahn mit elektrischem Betrieb von Tarvis nach Raibl
+mit eventueller Fortsetzung bis zum Raibler See im Sinne der
+bestehenden Normen auf die Dauer eines Jahres ertheilt.
+Rosenhaiu bei Schluckenau. Von der Gemeinde Rosenhain
+wurde ein Vertrag mit dem Elektricitätswerk Hermann Bach­
+stein in Neusalza, betreffend die Einrichtung der elektrischen
+Beleuchtung durch Anschluss an das bereits in den benachbarten
+sächsischen Orten bestehende Leitungsnetz der genannten elek­
+trischen Centrale abgeschlossen.
+b) Ungarn,
+Budapest. (Technische U e b e r p r Ii f u n g der
+elektrischen Linien der Budapester Strasse n-
+bahn-Aetien-Gesellschaft.) Der ungarische Handels­
+minister hat die technische Ueberprüfung der elektrischen Linien
+der Budapester Strassenbahn-Actien-Gesellschaft, und zwar sowohl
+bezüglich der alten, auf elektrischen Betrieb umgestalteten Pferde­
+balmlinien, als auch der seitdem gebauten und eröffneten neuen
+elektrischen Linien, sowie deren Einrichtungen und Ausrüstungen
+angeordnet und als Tag des Beginnens der betreffenden Arbeiten
+den 16. October 1. J., als Zusammenkunftsort der Commission
+aber die Localitäten der Direction der Budapester Strassenbahn-
+Actien-Gesellschaft in Budapest (V., Leopoldsring 22) bestimmt.
+M.
+(Administrative Begehung der Linie Ste­
+phanionstrass e—Bellevue der Pozsonyer städti­
+schen elektrischen Eisenbahn.) Der ungarische
+Handelsminister hat die administrative Begehung der von der
+Stephanienstrassenlinie der Pozsonyer städtischen elektrischen
+Eisenbahn abzweigend bis zum Ausflugsort Bellevue projectirteu
+elektrischen Flügelbahn auf den 1. October 1. J. anberaumt
+und als Ort der Zusammenkunft der Begohungseommission das
+Rathhaus der kgl. Freistadt Pozsony bestimmt. M.
+(Entscheidung bezüglich des Preises der
+Perronkarten auf den Wagen der Budapester
+Strassenbahn.) Die Budapester Strassenbahngesellschaft hat
+auf den Perrons ihrer nach Ujpest und Köbanya verkehrenden
+Wagen bisher den für die erste Classe bestimmten Fahrpreis oin-
+gehoben. Auf diesfalls erfolgten Recurs hat die Generalver­
+sammlung der Haupt- und Residenzstadt Budapest bestimmt, dass
+auf dem vorderen Perron (beim Wagenführer) der Preis der
+III. Classe, auf dem hinteren Perron (beim* Conducteur) aber der
+Preis der I. Classe einzuheben sei. (Auf den aufgenannten Linien
+verkehrenden elektrischen Wagen sind nur Plätze für I. und
+III. Classo vorhanden.) Der kgl. ungarische Minister hat den Be­
+schluss der Generalversammlung bestätigt. M.
+Bekes-Csaba. (Verlängerung der Concession
+für die Vorarbeiten der Bekes-Csaba-Bekeser
+elektrischen Vicinalbahn.) Der ungarische Handels­
+minister hat die der Actiengesellschaft für elek­
+trische und communicationelle Unternehmungen
+(Reszvenytarsasag villamos ös közlekeddsi vallalatok szämara) in
+Budapest für die Vorarbeiten der von der Station Bekes-Csaba
+der kgi. ung. Staatsbahnen über die Vasutigasse und Hauptplatz
+der Stadt Bekes-Csaba bis zur Bekeserstrasse und von hier fort­
+setzungsweise entlang der Bekeser Kunststrasse über das Intra-
+villan der Grossgemeinde Bekes bis zur Station Biikes der
+Puszta-Földvär-Bekeser Vicinalbahn projectirten normalspurigen
+elektrischen Vicinalbahn ertheilte Concession auf die Dauer eines
+weiteren Jahres erstreckt. M.
+Fiume. (Eisenbahnp roj e c t e.) Der kgl. ungarische
+Handelsminister hat der Direction der Äctiengesellschaft der
+Fiumaner Strasseneisenbahnen mit elektrischem Betriebe (Actien­
+gesellschaft „Fiumei villamos közuti vasut-reszveny-tärsasäg“) in
+Fiume und Ümgebung die Bewilligung zur Vornahme technischer
+Vorarbeiten a) für eine Fortsetzung ihrer Betriebslinie zur Tor­
+pedofabrik in Fiume, von dort bis zur österreichisch-ungarischen
+Landesgrenze nächst Volosca; b) für eine von ihrer Betriebslinie
+zum Fiumaner Holzhafen, und zwar von der dortigen Brücke
+abzweigende, auf croatischem Gebiete über Susak, Podvesice und
+Podbenice bis Martinschitza führende normalsp urige Strassen-
+eisenbahn mit elektrischem Betriebe (Oberleitung) auf die Dauer
+eines Jahres ertheilt.
+Deutschland.
+Berlin. Die landespolizeiliche Verfügung, betreffend die
+Beseitigung des Aceumulatorenbetriebes, vom
+26. v. M., worüber wir im Heft 39, Seite 475 berichtet haben,
+hat folgenden Wortlaut: „Seine Majestät der Kaiser und König
+haben anzuordnen geruht, dass der ßetriob der hiesigen Strassen-
+balinen der Grossen Berliner Strassenbahn mit Accumulatoren
+wegen der Unzulänglichkeit und Unwirtlischaftlichkeit dieses
+Betriebes zu beseitigen und durch unmittelbare Zuführung des
+elektrischen Stromes zu ersetzen sei. Im Aufträge des Herrn
+Ministers der öffentlichen Arbeiten wird die Direction der Grossen
+Berliner Strassenbahn daher hierdurch im Einverständnis mit der
+hiesigen Königlichen Eisenbahn-Direction veranlasst, innerhalb
+einer Frist von längstens zweieinhalb Jahren den Betrieb mittelst
+Accumulatoren einzustellen und durch Betrieb mittelst oberirdischer
+Stromzuführung zu ersetzen, für folgende Strecken jedoch die
+unterirdische Stromzuführung zur Anwendung zu
+bringen: 1. Auf dem Potsdamer Platz, von dort über die König-
+grätzerstrasse, über den Platz vor dem Brandenburger Thor durch
+die Sommerstrasse, durch die Strassen Reichstags-Ufer, Roon-,
+Bismarck- und Moltkestrasse; 2. auf dem Schlossplätze von der
+Schleusenbrücke bis zur Kurfürstenbrücke, ausschliesslich jedoch
+dieser Brücken; 3. auf dem Auguste-Victoria-Platze vom Kur­
+fürstendamm an längs der Kaiser Wilhelm-Gedächtniskirche im
+Zuge der Kantstrasse; 4. hinter der Hedwigskirche, von der
+Französischen Strasse an bis zum Opernplatz, über diesen durch
+das Kastanienwäldchen bis zur Ecke mit dem königlichen Finanz-
+Ministerium; 5. auf dem Grossen Stern etc.“— Im Weiteren
+werden noch die Bedingungen in Aussicht gestellt, welche zum
+Schutze des Physikalischen Instituts für die Strecken auf der
+Neuen Wilhelmstrasse, der Marschall-Brücke, dem Schiffbauer­
+damm, der Dorotheen- und Luisenstrasse vorgeschrieben -werden
+sollen. Zum Schluss wird der Direction aufgegoben, die ober­
+irdische Stromzuführung „binnen längstens drei Monaten“ her-
+stellen zu lassen, während die unterirdischen Stromzuführungs-
+Anlagen spätestens innerhalb 21/2 Jahren vollendet werden sollen.
+Die Projocte müssen so rechtzeitig eingereicht werden, dass die
+Innehaltung der Fristen keinen Schwierigkeiten begegnet.— Die
+
+Nr. 41.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 499.
+Verfügung ist inzwischen auch dem Magistrat mitgetlieilt und
+dieser von der Direction der Grossen Berliner Strassenbahn um
+die nach§ 6 des Kleinbahn-Gesetzes erforderliche Zustimmung
+angegangen worden. Die letztere ist schon deshalb nothwendig,
+weil durch die landespolizeiliche Verfügung der zwischen Stadt­
+gemeinde und Strassenbahn-Gesellsohaft abgeschlossene Vertrag,
+der nur Oberleitungs- und Accumulatorenbetrieb vorsieht, ab­
+geändert und durch Einbauen der Stromzuführungscanäle an den
+vorgeschriebenen Punkten städtischer Grund und Boden in An­
+spruch genommen wird. Die Stadtgemeinde dürfte ihre Zustimmung
+— wohl oder übel— alsbald ertheilen, da dieselbe ja bekanntlich
+(nach§ 7 des Kleinbahn-Gesetzes) durch die höheren Instanzen
+ergänzt werden kann, was hier zweifellos geschehen würde.
+Patentnachrichten.
+Mitgetheilt von Ingenieur
+Victor Monath,
+WIEN, I. Jasomirgotts.trasse Nr. 4.
+Auszüge aus Patentschriften,
+Hartmann& Braun in Frankfurt a. M.-Bockenheim.— Astati­
+sches Wattmeter für Gleich- und Wechselstrom.— Classe 21,
+Nr. 111.015 vom 19. Juli 1899.
+Dieses Wattmeter besteht aus einem einzigen festen Haupt­
+stromfeld und einem astatischen Spulensystem, welches in Bezug
+auf dieses Hauptstromfeld symmetrisch so angeordnet ist, dass
+alle Einzelspulen gleichzeitig den Ort der geringsten Induction
+durch das feste Solenoid durchlaufen. Dabei wird das astatische
+Spulensystem von dem festen durch 8 erzeugten Felde derartig
+beeinflusst, dass, sei es infolge der verschiedenen Lage, sei es
+infolge der verschiedenen Form und Dimensionirung der Einzol-
+spulen, auf die eine derselben— die wirksame s l— ein sehr
+kräftiges, auf die andere dagegen— die Astatirungsspule w—
+oder das ihr entsprechende Spulenpaar ein ganz schwaches Dreh­
+moment ausgeübt wird. Fig. 1 zeigt eine Ausführungsform, Fig. 2
+und 3 zwei andere Anordnungen des astatischen Spulensystems.
+Fig. 2.
+Elektricitäts-Actiengesellscliaft vormals Schlickert& Co. in
+Nürnberg.— Schaltwerk für veränderbare Widerstände.—
+Classe 21, Nr. 108.368 vom 10. Mai 1898.
+Der Erfinder bezweckt unter Vereinfachung der Bauart
+und unter Verwendung von verhältnismässig wenig Stromschluss­
+stücken und Abzweigungen eine grosse Anzahl feiner Wider­
+standsstufen bei regelbaren Widerständen zu erzielen. Dies wird
+durch ein Schaltwerk für veränderbare Widerstände erreicht,
+welche aus einer Hauptgruppe d und einer zur Bildung der
+Unterabtbeilungen bestimmten Hilfsgruppe e bestehen. Die Kurbeln
+beider Gruppen sind miteinander zwangläufig verbunden. Das
+wesentliche Merkmal der Erfindung besteht darin, dass mit der
+Schleifbürste a der Hauptgruppe eine Hilfsschleifbürste b starr
+verbunden ist, welche die Hilfsgruppe mit dem jedesmal zuletzt
+ausgeschalteten Abtheil der Hauptgrnppe parallel und beide mit
+den übrigen Widerständen der Hanptgruppe hintereinander schaltet.
+Hierauf kann die Regelung in den Grenzen eines Abtheils der
+Hauptgruppe durch Abschaltung der parallel geschalteten Theile
+der Hauptgruppe bewirkt werden. (Fig. 4.)
+Sydney Howe Short in Cleveland, Ohio (V. St. A.)— Regler
+für elektrische Motoren mit Stromunterbrechung durch be­
+sonderen Schalter.— Classe 21, Nr. 108.373 vom 10. August 1897.
+Der Regler für elektrische Motoren ist mit einem Strom­
+unterbrecher ausgestattet, welcher bei Vorwärtsdrohung der
+Trommel den Stromkreis schliesst, ehe der Regler in Wirkung
+tritt. Bei der Weiterdrehung der Trommel nach jeder beliebigen
+Stellung zur Erzeugung der Stromänderungen bleibt der Unter­
+brecher geschlossen. Bei Beginn der Rückwärtsdrehung des
+Reglers dagegen wird der Strom durch den Unterbrecher geöffnet.
+Bei der weiteren Rückwärtsbewegung verbleibt der Unterbrecher
+in dieser Oeffnungsstellung.
+Eine Ausführungsform ist derart gestaltet, dass auf der
+Reglerwelle ae ein fest damit verbundenes Schaltrad 6 mit einer
+Anzahl einseitiger, gleichgerichteter Zähne und mit einem ein­
+zelnen, in entgegengesetzter Richtung einseitigen Zahn c ange­
+bracht ist. Ferner ist ein zwei Klinken de aufnahmerider Arm f
+angeordnet, welcher durch ein Gestänge q k mit dem Stromunter­
+brecher i verbunden ist. Bei Beginn der Drohung der Regler­
+welle a durch die Handkurbel lc in der einen oder anderen
+Richtung wird die eine oder die andere Klinke d, bezw. e von
+den Zähnen, bezw. von dem Einzelzahn c des Schaltrades erfasst.
+Die betreffende Klinke bewegt dann den Stromunterbrecher und
+wird dann durch einen Anschlag 1, bezw. m vom Schaltrade ab­
+gehoben, ehe die Schaltung durch den Regler erfolgt. (Fig. 5.)
+Sächsische Accumulatorenwerke, Actlcngcsellscliaft in Dresden.
+— Polklemme für elektrische Batterien.— Classe 21,
+Nr. 109.002 vom 16. November 1898. (Zusatz zum Patente
+Nr. 106.232 vom 19. Juli 1898).
+Die Polklemme unterscheidet sich von der des Haupt­
+patentes dadurch, dass der Stöpsel mit einem ringförmigen An­
+satz A versehen ist, der in die Oelschicht H taucht und so die
+Contactfläche von allen Seiten gasdicht und säuredicht abschliesst.
+(Fig- 6-)
+Deutsch-Russische Elektricitätsziihlcr-Gcsellschaft in. b. H. in
+Berlin.— Vorrichtung zur Anzeige des Gangunterschiedes
+von Uhr- oder Laufwerken.— Classc 21, Nr. 110.683 vom
+14. Juni 1899.
+Fig. 7.
+Durch entsprechende, in demselben Sinne umlaufende und
+auf einander schleifende Theile a b der beiden Uhrwerke c d wird
+jedes Mal, nachdem die eine Uhr die andere um einen bestimmten
+z. B. einer Verbrauchseinheit entsprechenden Weg überholt hat,
+mittelst elektrischen Stromschlusses oder mechanischer Auslösung
+die Fortschaltung eines Zählwerkes e um je eine Einheit bewirkt.
+Eine rückläufige Gegeneinandorverschiebung der in demselben
+Sinne umlaufenden Theile der beiden Uhrwerke und die damit
+verbundene theilweise Vernichtung des aufgolaufenen Gangunter-
+schiedos kann durch eine Sperrung der beiden Uhrwerke gegen
+einander verhütet worden. Die Figur zeigt die mechanische Fort­
+schaltung des Zählwerkes. (Fig. 7.)
+
+Seite 500.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 41.
+Maurice Hutin und Maurice Leblanc in Paris.— Verfahren
+zur Umwandlung' von Wechselströmen beliebiger Spannung' in
+Gleichströme von ebenfalls beliebig'er Spannung' und umge­
+kehrt.— Classe 21, Nr. 108.920 vom 4. Hecember 1898; (Zu­
+satz zum Patente 78.825 vom 6. October 1892).
+Das Verfahren nach Patent 78.825 wird zur Umformung
+von einphasigem Wechselstrom constanter Spannung in Gleich­
+strom constanter Spannung und umgekehrt mittelst des Wechsel­
+zahl- und Spannungsumformers des Hauptpatentes derart abge­
+ändert, dass die Kraftlinien im Eisenkern der einen Phase wie
+beim Hauptpatent durch den umzuwandelnden, bezw. erzeugten
+AVechselstrom, die Kraftlinien im Eisenkern der anderen Phase
+dagegen statt durch einen zweiten gegen den ersten in der Phase
+verschobenen Strom durch einen in einer Unterbrechung des
+Kernes der zweiten Phase zwischen den Enden des Kernes syn­
+chron umlaufenden Feldmagneten erzeugt werden. Dieser Feld­
+magnet wird durch zwei Wickelungen, von denen die eine in
+Reihe, die andere im Nebenschluss zum Gleichstromkreise liegt,
+derart erregt, dass, die von der einen Wickelung erzeugten Pole
+mitten zwischen die von der anderen Wickelung erzeugten Pole
+fallen, während der Feldmagnet gleichzeitig der Wirkung von
+zwei mit ihrer Achse senkrecht zur Verbindungslinie der Kern­
+enden gerichteten Pole unterworfen wird, welche durch einen
+vom Wechselstromkreis im Nebenschluss abgezweigte gegebenen­
+falls tränsformirten Strom erzeugt werden.
+Geschäftliche und finanzielle Nachrichten.
+Stettiner Elektricitätswerke. Aus dem Berichte der
+Directum für das Jahr 1899/1900 ist zu ersehen, dass das Unter-
+nehmen sich auch in dem abgelaufenen zehnten Geschäftsjahr in
+befriedigender Weise weiter entwickelt hat und ist es haupt­
+sächlich die Centrale Stettin, welche hierbei in günstiger Weise
+mitgewirkt hat. Im Anschluss an das Kabelnetz wurden im Laufe
+des Jahres installirt: 4724 Glühlampen (i. Vorj. 8078), 79 Bogen­
+lampen. (i. Vorj. 140), 37 Motoren (i. Vorj. 27), so dass am
+30. Juni 1900 insgesammt 36.935 Glühlampen (am 30. Juni 1899
+32.211), 1251 Bogenlampen (am 30. Juni i. Vorj. 1172), 180 Mo­
+toren (am 30. Juni i. Vorj. ,143), letztere mit einer Leistung von
+rot. 390 PS installirt waren. Infolge neuer Anschlüsse an das
+Kabelnetz war eine Erweiterung desselben erforderlich, und zwar
+betrug die Länge der neu verlegten Kabel 16.999 m mit 72 neuen
+Hausanschlüssen, welche einen Kostenaufwand von 92.949 Mk.
+erfuhren. Die Gesammtlänge des Kabelnetzes beträgt 178.152 m.
+Die Treppenbeleuchtung hat auch im verflossenen Jahre einen
+guten^Zuwaclis erfahren. Es wurden in 65 Häusern 439 Lampen
+mit 7o Gontactuhren und 81 Minutenwerken neu angeschlossen,
+welche am Schlüsse des Jahres mit 32.823 Mk. zur Verrechnung
+kommen. Die Strassenbeleuchtung erfuhr einen Zugang durch vier
+Stück neu aufgestellte Candelaber mit Bogenlampen. Die Cen-
+* v?" &1' eifenh. agen musste infolge mehrfacher neuer
+Anschlüsse ihre Betriebsmittel wiederum durch einen Zugang von
+7095 Mk. vergrössern. Der Centralenbetrieb in Stettin ergab einen
+Ueberschuss von 347.666 Mk. gegen 293.904 Mk. im Vorjahre.
+, Ma S istrat ZU machenden Abführungen betragen
+92.0o4 Mk. (88.339 Mk. im Vorj.). Die General-Unkosten haben
+sich im verflossenen Geschäftsjahre um 15.807 Mk. gegen die-
+Vorjahres erhöht. Die Abschreibungen betragen
+S e S en 89.488 Mk. im Vorjahre. In der am 11. Mai 1900
+stattgehabten ausserordentlichen Generalversammlung wurde be­
+schlossen, das Grundcapital der Gesellschaft von 3,000.000 Mk.
+auf 4,000.000 Mk. zu erhöhen, durch Ausgabe von 1000 Stück
+neuer Actien k 1000 Mk., welche auf den Inhaber lauten und für
+das Geschäftsjahr 1900/1901 halbe Dividende erhalten. Bei Ueber-
+nahme der Actien wurden 50/ sowie 20% Agio eingezahlt; die
+Zahlung des Restbetrages von 50% erfolgt am 15. December 1900
+und werden alsdann die neuen Actien gegen Rückgabe der
+Interimsscheine ausgegeben. Aus dom Erträgnisse des Stromabsatzes
+der Lentrale Stettin ergibt sich zuzüglich des Vortrages im vorigen
+Jahre von 4127 Mk. ein Rohgewinn von 499.633 Mk., welchem an
+Unkosten, Zinsen, Effecten und Abschreibungen 195.223 Mk.
+gegenuberstehen, so dass sich ein Reingewinn von 304.410 Mk.
+ergibt, dessen Vertheilung in folgender Weise vorgeschlagen wird:
+Erneuerungsfonds 11.872 Mk., Tantiemen 29.254 Mk., 8% Divi-
+d end e 240.000 Mk., Gewinn- Antheil Magistrat 20.821 Mk.,
+GewinnWortrag pro 1900/1901 2463 Mk. Obwohl die Dividende
+gegen lejenige des Vorjahres nicht erhöht werden konnte, so
+geht aus dem Vorstehenden doch hervor, dass die Ursachen nicht
+e wa duich einen Rückgang im Stromconsum (derselbe weist in
+der Brutto-Einnahme 90.000 Mk. mehr auf als im vergangenen
+Jahre) hervorgerufen, sondern nur in den erhöhten Unkosten zu
+suchen sind. Ebenso haben die grossen Umbauten und Neu­
+anschaffungen in der Maschinenstation störend auf den Betrieb
+gewirkt, was für die Zukunft fortfällt, da die Station jetzt voll­
+ständig ansgebaut und ein besser geordneter Betrieb' aufrecht
+eilialten werden kann. Die ausserordentliche Generalversammlung
+vom 11, Mai 1900 hat die Mittel zum Bau einer zweiten Strom-
+eizeugungsstation in der Unterwiek bewilligt, ebenso die­
+jenigen zur Umwandlung der Gebrauchsspannung von 110 auf
+220 V. Die hiezu erforderlichen Arbeiten gehen'Hund in Hand
+und werden zusammen ausgeführt; sie sollen im Herbst 1902
+unter Umständen aber auch erst im Herbst 1903 beendet sein’
+welcher Termin von dem mehr oder weniger starken Zuwachs an
+der Stromlieferung der nächsten beiden Jahre abhängig ist. Die
+Ausdehnung des Kabelnetzes auf das Grabower Gebiet ist
+tiir den nächsten Sommer in Aussicht genommen und hängt noch
+von dem Abschluss der Verhandlungen mit den Behörden ab. Die
+Aufträge im neuen Geschäftsjahre gehen in derselben Weise
+voraii wie bisher und werden voraussichtlich keine Aenderung
+erfahren und es steht zu erwarten, dass das nächste Jahr wieder
+ein recht lebhaftes Geschäft bringen wird.
+Deutsche Kabelwerke, Actiengesellschaft. In der am
+j7. v. M. stattgehabten Generalversammlung wurde der Abschluss
+für 1899/ l90 0 genehmigt und die Entlastung ertheilt. Von dem
+veitilgbaren Reingewinn von 242.636 Mk. werden dem
+Reservefonds 12.131 Mk., einer Specialreserve 25.000 Mk. und der
+Krankenunterstützungscasse 1000 Mk. zugeführt. An Tantiemen
+erhalten die Directoren 19.577 Mk., der Aufsichtsrath 7695 Mk.
+und die Beamten 7500 Mk. Für eine D i v i d e n d e von 8%
+werden 160.000 Mk. verwendet und der Rest von 9731 Mk. auf
+neue Rechnung vorgetragen. Die ausscheidenden Aufsichtsraths-
+mitglieder, Bürgermeister K 1 ü t z er und Commercienrath
+. m® r werden wieder- und au Stelle des eine Wiederwahl
+ablehnenden Herrn Alexander Chrambach Herr Bergrath
+b a c h s e neugewählt. Ueber die Aussichten für das laufende
+Geschäftsjahr theilte die Direktion mit, dass die Fabrik gut be­
+schäftigt sei, die Umsätze sich erhöht hätten und dass, wenn nicht
+unvorhergesehene Zwischenfälle eintreten, auf eine gleiche Divi­
+dende wie in diesem Jahre zu rechnen sei.
+M etall-Marktbericht vonB randeis, Goldschmidt
+“ !r ?■> London, 28. September. Kupfer: Die Nachfrage für
+raifinirte Sorten zu letztwöchigen Preisen hält an und wurden
+gute Verkäufe bethätigt. Dagegen war der Markt für Standard-
+Kupier wieder ziemlich lustlos und hat der Preis weiter nach­
+gegeben. Wir notiren: Standard Kupfer per Casse 72 Pf. St. 12 sh.
+J^ S ^'® d., Standard Kupfer per 3 Monate
+73 Pt. St. 5 sh. bis 73 Pf. St. 10 sh. English Tough je nach
+Marke 76 Pf. St. 5 sh. bis 76 Pf. St. 10 sh., English Best Selected
+je nach Marke 79 Pf. St. bis 79 Pf. St. 10 d. American and
+English Cathoden je nach Marke 77 Pf. St. bis 77 Pf. St. 5 sh.
+American and English Electro in cakes, ingots and wirebars ie
+nach Marke 77 Pf. St. 10 sh. bis 77 Pf. St. 15 d.— Ku p fer­
+sul p hat wird in erster Hand fest auf 25 Pf. St. gehalten. In
+zweiter Hand ist schon billiger anzukommen, doch sind die Vor-
+lathe nicht bedeutend.— Zinn: setzte sehr flau an und wurde
+Montag zu 123 Pf. St. per 3 Monate gehandelt. Energische
+speculative Käufe jedoch brachten den Preis bis Donnerstag
+wieder auf 128 Pf. St. 10 sh. per 3 Monate und 133 Pf. St. Casse“
+Seitdem verflaute sich der Dreimonats-Preis bis 126 Pf. St. 5 sh.,
+während Casse und October prompt nicht nachgaben und die
+Unterprämie_ zeitweilig 6 Pf. St. betrug. Heute hat sich dieses
+Verhältnis wieder etwas ausgeglichen. Die Banca Auction verlief
+zum Durchschnitt von 771/2 Fl. Wir notiren: Straits Zinn per
+kis 131 Pf. St. 10 sh., Straits Zinn per 3 Monate
+i? i, 1 .’„ -^9 sh. bis 127 Pf. St. Austral Zinn ie nach Marke
+131 Pf. St. 10 sh. bis 132 Pf. St. Englisches Lammzinn 134 Pf. St.
+bis 135 Pf. St. 1 sh., Bancazinn in Holland 771/2 fl., Billiton in
+Holland 771/4 A-— Antimo n: fest 37 Pf. St. 10 sh. bis 38 Pf. St.
+Zink: berührte 19 Pf. St. 3 sh. 9 d. und schliesst schwach
+ZU— Blei: sehr fest. Käufer 17 Pf. St. 18 sh. 9 d.
+— Quecksilber: mehr gefragt 9 Pf. St. 2 sh. 6 d. in erster Hand’
+die zweite Hand hält keine Vorräthe.— Silber: fest zu 293/ib-
+- -— Dieser Nummer liegt ein Prospect betreffend „Ueber
+Land und Meer“, Deutsche Illustrirte Zeitung, bei, den wir der
+Beachtung unserer verehr!. Leser hiermit angelegentlich empfehlen.
+Schluss der Redaction: 2. October 1900.
+„ ...,, ._. Verantwortlicher Redacteur: Dr. J. Sahulka.— Selbstverlag des Elektrotechnischen Vereint
+missionsver ag ei pie agen&Schuri ch, Wien.- Alleinige Inseraten-Aufnahmebei Haasenstein& Vogler (Otto Maasa), Wien und Prac
+Druck von R. Spies& Co., Wien. c
+

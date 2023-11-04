@@ -1,0 +1,1762 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 16. WIEN, 15. April 1900. XYIII. Jahrgang.
+Bemerkungen der lledaction: Ein Nachdruck aus dem redactionellen Theile der Zeitschrift ist nur unter der Quellenangabe
+r Z. f. E. Wien“ und bei Originalartikeln überdies nur mit Genehmigung der Redaction gestaltet.
+Die Einsendung von Originalarbeiten ist erwünscht und werden dieselben nach dem. in der Redactionsordnung festgesetzten Tarife
+lionorirt.. Die Anzahl der vom Autor event. gewünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Manuscripte bekannt gegeben werden.
+INHALT:
+Rundschau .* 185
+Schaltungsanordnung für gesonderten Anruf mehrerer in eine
+gemeinsame Doppelleitung- geschalteter Telephonstationen.
+Von Emil Müller 186
+Hughes-Apparate mit Elektro-Motor-Antrieb 190
+Die Eloktromobil-CJoncurrenzen in Berlin 190
+Kleine Mittheilungen.
+Verschiedenes 191
+Patentnachrichten 192
+Geschäftliche und finanzielle Nachrichten 194
+Rundschau.
+Die steigende Benützung des .elektrischen Stromes
+für motorische Zwecke wird auch in Oesterreich in
+baldiger Zeit ein Bedürfnis nach sogenannten Tarif­
+zählern, d. i. Elektricitfttsmessern mit zweifachem Tarife,
+hervorrufeil *). Nach den Bestimmungen der Ver­
+ordnung des Handelsministeriums vom 3. Mai 1894.
+R.-G.-Bl. Nr. 82, muss gemäss Abschnitt III der
+Elektricitätsmesser auf einem deutlich bezifferten und
+mit der gewählten Einheit: Amperestunden, Wattstunden,
+Kilowattstunden, Pferdekraftstunden bezeiehneten Ziffer-
+blatte die gemessene Quantität in verlässlicher Weise
+direct ab zu lesen gestatten. Gemäss dieser Ver­
+ordnung wären daher derzeit Zähler mit doppeltem
+Tarife in Oesterreich zur Messung der gewerblich ab­
+gegebenen elektrischen Quantität nicht zulässig und
+würde eine Nachtragsverordnung betreffs deren Zu­
+lässigkeitserklärung erforderlich sein. Die Zähler mit
+zweifachem Tarife sind entweder mit zwei Zählkreis­
+reihen (Zifferblättern) versehen, wobei zu bestimmten,
+beliebig einstellbaren Zeiten mittelst eines im Zähler
+angebrachten Uhrwerkes die Umschaltung von einem
+Zählwerke auf das andere erfolgt und jedes Zähl­
+werk während der Zeit, als es eingeschaltet ist,
+die verbrauchte elektrische Quantität in Hektowatt-
+stunden etc. richtig messen soll, so dass die gesammte
+verbrauchte Energie gleich ist der Summe der von
+beiden Zählwerken angegebenen Energien; die Be­
+rechnung des zu zahlenden Preises kann für beide
+Zifferblätter nach beliebigem Tarife erfolgen. Diese
+Zähler können auch so eingerichtet sein, dass zur Zeit
+der stärkeren Beanspruchung der Centrale beide Zähl­
+werke die verbrauchten Hektowattstunden gleichzeitig
+richtig registriren; das eine Zählwerk zeigt dann
+die im Ganzen, das andere die lediglich während
+der Abendstunden verbrauchten Hektowattstunden
+separat an; für die letzteren wird bei Berechnung
+des Preises ein Zusatztarif festgesetzt. Bei der
+zweiten Art der Zähler mit doppeltem Tarif, welche
+nur ein Zählwerk haben, wird entweder von der Cen­
+trale aus mit Benützung einer separaten Leitung oder
+durch ein im Zähler angebrachtes Uhrwerk zu be­
+stimmten Zeiten der Zähler derart beeinflusst, dass die
+Registrirung während jenes Theiles der Tageszeit, wo
+die Centrale schwach belastet ist, im reducirten Maasse
+=<) Vergleiche „Z. f. E.“ 1900 pag. 158, Referat von
+Dr. K usminsky.
+erfolgt. Es kann zu diesem Zwecke der Widerstand
+des Nebenschlusses in bestimmtem Maasse vergrössert,
+eine andere Uebersetzung zwischen den beweglichen
+Theilen des Zählers und den Zählscheiben eingeschaltet
+werden oder bei Motorzählern ein zusätzlicher
+Bremsmagnet erregt werden etc. Bei dieser zweiten
+Art von Zählern erfolgt die Berechnung des zu zahlen­
+den Preises nur nach einem Tarife; es findet jedoch
+während der Zeit, während welcher die Centrale
+schwach belastet ist, eine Registrirung der consumirten
+Elektricitätsmenge im reducirten Maasse statt, so dass
+z. B. eine thatsächlich verbrauchte Hektowattstunde
+nicht als Einheit an der letzten Zählscheibe registrirt
+wird, sondern nur als drei Viertel der Einheit, wenn
+die Reduction in diesem Maasse stattfindet; aus diesem
+Grunde kann man die Zähler wohl auch als solche
+mit doppeltem Tarife bezeichnen. Bei der zweiten Art
+von Zählern kann man nur die Tageszeiten beliebig
+wählen und während des Jahres abändern, während
+welcher der Zähler nach verschiedenem Maasse registriren
+soll, nicht aber die Tarife. Die an dem gemeinschaft­
+lichen Zählwerke ab gelesene Quantität, welche nicht
+die -thatsächlich verbrauchte Quantität vorstellt, ist
+mit dem Einheitspreise zu multipliciren, um die Kosten
+zu erhalten. In Amerika werden, wie auch im Referate
+des Herrn Dr. Kusminsky bemerkt ist, diese Tarif­
+zähler zum Theile so eingerichtet, dass an dem Ziifer-
+blatte direct der zu zahlende Betrag abgelesen werden
+kann. Eine derartige Einrichtung, welche ähnlich ist
+der Taxametereinrichtung bei Lohnwagen, wobei eben­
+falls nicht die Kilometerzahl, sondern der zu zahlende
+Preis angezeigt wird, ist keinesfalls empfehlenswert!:.
+Der einen Lohnwagen Benützende hat nicht Zeit und
+Gelegenheit, aus der etwa angezeigten Kilometerzahl
+sich den Fahrpreis zu berechnen, dagegen hat der­
+jenige, welcher elektrischen Strom consumirt, nur ein­
+mal im Monate die Berechnung der Kosten zu machen.
+Es würde sowohl die Fabrieation der Zähler als auch
+deren Aichung ausserordentlich erschwert werden, wenn
+das Zählwerk für Ablesung der zu zahlenden Kronen
+und Heller eingerichtet wäre, da die Tarife in den
+einzelnen Städten sehr verschieden sind.
+In den Fällen, in welchen gegenwärtig in Oester­
+reich an Consumenten während der Tagesstunden Strom
+zu billigerem Tarife abgegeben wird, als in den Abend­
+stunden, werden in der Regel zwei Zähler zur Regi­
+strirung der verbrauchten elektrischen Energie benützt,
+wobei durch ein separates Uhrwerk zu festgesetzten
+
+Seite 186.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 16.
+Zeitpunkten die Vertauschung der Zähler, bezw. Um­
+schaltung derselben erfolgt. In diesem Falle hat man
+auch an zwei Zählwerken die Ablesungen zu machen,
+welche für sich die IlektoWattstunden richtig regi-
+striren. Es erscheint nur als eine Vereinfachung, wenn
+an Stelle der beiden getrennten Zähler und des sepa­
+raten Uhrwerkes ein Zähler mit doppeltem Tarif der
+ersten Art, welcher zwei Zählwerke besitzt, angewendet
+würde. Da auf jedem Zählwerke die verbrauchte
+Quantität richtig registrirt wird, kann wohl gegen die
+Zulässigkeit derartiger Zähler kein Bedenken bestehen.
+Eine diesbezügliche Verordnung könnte etwa lauten:
+„Zähler, welche auf zwei Zifferblättern die zu ver­
+schiedenen Tageszeiten verbrauchte elektrische Quantität
+in den gewählten Einheiten (Amperestunden, Hekto­
+wattstunden etc.) registriren, oder welche auf einem
+Zifferblatte die während der ganzen Tageszeit auf dem
+anderen Zifferblatte die während eines Theiles der
+Zeit verbrauchte elektrische Quantität in den ge­
+wählten Einheiten registriren, wobei die beiden Zähl­
+werke eventuell auf einer gemeinschaftlichen Platte
+angeordnet sein können, werden zur Aiehung und
+Stempelung zugelassen, soferne sie die übrigen in
+der citirten Verordnung angegebenen Eigenschaften
+haben“. In diesem Falle ist es auch ganz überflüssig,
+am Zähler eine Vorrichtung anzubringen, welche an­
+zeigt, nach welchem Tarife der Zähler registrirt, weil
+der Consument unmittelbar an den Zählwerken ersieht,
+welches derselben, bezw. ob beide registriren.
+Wenn gegen die Zulässigkeit dieser Art von
+Zählern kein Bedenken besteht, so kann wohl auch
+gegen die Zulässigkeit der zweiten Art von Zählern
+kein Einwand erhoben werden. Bei den ersteren erfolgt
+die Registrirung der elektrischen Quantitäten in richtiger
+Weise auf zwei Zählwerken, die Berechnung der Kosten
+aber nach verschiedenem Tarife. Bei der zweiten Art
+von Zählern erfolgt während einer gewissen Zeit
+(Abendstunden) die Registrirung der elektrischen
+Quantität auf dem einen Zifferblatte ebenfalls in
+richtiger Weise, während der restlichen Tageszeit auf
+demselben Zifferblatte in reducirtem Maasse.' Der
+Effect ist in beiden Fällen derselbe und kann eine
+Schwierigkeit nur in der Form gefunden werden, wie
+solche Zähler als zulässig erklärt werden sollen. Jeden­
+falls müsste in diesem Falle am Zähler selbst jeweilig
+ersichtlich sein, ob derselbe nach höherem oder niederem
+Tarif registrirt und müsste das Maass angegeben sein,
+nach welchem die Reduction der Angaben erfolgt. Die
+Form, in welcher die Zulässigkeit derartiger Zähler
+ausgesprochen würde, könnte etwa lauten: „Zähler,
+welche auf einem einzigen Zifferblatte die zu ver­
+schiedenen Tageszeiten verbrauchte Quantität in der
+Weise registriren, dass die während eines Theiles
+der Tageszeit verbrauchte Quantität in den ge­
+wählten Einheiten (Ampere-, Hektowattstunden etc.),
+dagegen die während der übrigen Tageszeit ver­
+brauchte Quantität in reducirtem Maasse registrirt
+wird, werden, wenn das Maass der Reduction am
+Zähler angegeben und überdies jeweilig ersichtlich
+ist, ob die verbrauchte elektrische Quantität direct
+oder nach reducirtem Maasse registrirt wird, zur
+Aichung und Stempelung zugelassen, sofern sie die in
+der citirten Ministerial -Verordnung geforderten Eigen­
+schaften haben.“*)
+'*) Vom Zähler-Comi16 des Elektrotechnischen
+Vereines wurden diese beiden von Dr. 8 ah ul k a eingebrachten
+In Deutschland wurde, wie wir in einem Artikel
+in der „E. T. Z.“ 1900, pag. 143, entnehmen das Gesetz,
+betreffend die Einführung der elektrischen Maass­
+einheiten, am 1. Juli 1898 erlassen. Ein Theil des
+Gesetzes bezieht sich auf denVerkauf der elektrischen
+Energie; die diesbezüglichen Paragraphe lauten:
+§. ti. Boi der gewerbsmässigen Abgabe elektrischer Arbeit
+dürfen Messwerkzeuge, sofern sie nach den Lieferungsbedin­
+gungen zur Bestimmung der Vergütung dienen sollen, nur ver­
+wendet werden, wenn ihre Angaben auf den gesetzlichen Ein­
+heiten beruhen. Der Gebrauch unrichtiger Messgeräthe ist verboten.
+Der Bundesrath hat nach Anhörung der physikalisch-technischen
+Reichsanstalt die äussersten Grenzen der zu duldenden Ab­
+weichungen von der Richtigkeit festzusetzon. Der Bundesrath ist
+ermächtigt, Vorschriften darüber zu erlassen, inwieweit die im
+Absätze 1 bezeichneten Messwerkzeuge amtlich beglaubigt oder
+einer wiederkehrenden amtlichen Ueberwachung unterworfen sein
+sollen.
+§ 12. Wer bei der gewerbsmässigen Abgabe elektrischer
+Arbeit den Bestimmungen in§ 6 oder den auf Grund derselben
+ergehenden Verordnungen zuwiderhandelt, wird mit Geldstrafe
+bis zu 100 Mk. oder mit Haft bis zu vier Wochen bestraft. Neben
+der Strafe kann auf Einziehung der vorschriftswidrigen oder un­
+richtigen Messwerkzeuge erkannt werden.
+§ 13. Dieses Gesetz tritt mit den Bestimmungen in §§ 6 und
+12 am 1. Jänner 1902, im Uebrigen am Tage seiner Verkündi­
+gung in Kraft.
+In der „E. T. Z.“ ist eine Kritik von F. Uppen-
+born, sowie ein Auszug aus einer Broschüre von
+Geheimrath W. Kohlrausch veröffentlicht. Nach
+dem citirten Artikel erscheint die Genauigkeit der
+Zähler als eine im allgemeinen schlechte, die Ab­
+weichung der Constante derselben bei Variation der
+Belastung zwischen 10 und 100% im allgemeinen gross
+ist. Von 11.141 in deutschen Elektricitätswerken unter­
+suchten Zählern sollen 2624 einen Leerlauf gezeigt
+haben, bei Belastungsänderungen zwischen 10 und 100%
+der Normallast soll die Abweichung der Constante bei
+3375 Zählern4%, bei 1179 Zählern 10%, bei 481 Zählern
+20%, bei 133 Zählern 40% betragen haben. Wir
+können nach den Erfahrungen, welche in Oesterreich
+an tausenden behördlich geaichten Zählern gemacht
+wurden, behaupten, dass die Genauigkeit der Zähler
+bei der ersten Aichung eine weit bessere ist und dass
+die Aichung nicht an der Verwendungsstelle vorge­
+nommen werden muss. Wie die Zähler nach längerer
+Benützungsdauer beschaffen sind, kann allerdings erst
+auf Grund der Ergebnisse der Nacheichungen fest­
+gestellt werden, keinesfalls kann jedoch, wenn sich bei
+einem Zählersysteme die Constante im Laufe der Zeit
+ändert, daraus auf eine strafbare Handlung des Elek-
+tricitätslicferanten geschlossen werden. 8.
+Schaltungsanordnung für gesonderten Anruf mehrerer
+in eine gemeinsame Doppelleitung geschalteter Telephon­
+stationen.
+Wenn mehrere Telephonstationen in eine ge­
+meinsame Leitung— sei es hintereinander oder vor-
+tlieilhafter in Brücke— geschaltet werden, so hat dies
+zur Folge, dass die Anrufsignale in sämmtlichen
+Stationen wahrgenommen werden und dementsprechend
+die einzelnen Theilnehmer nach Uebereinkunft sich bei
+dem der betreffenden Stationen zukommenden Glocken­
+signale (1, 2, 3... n-maligem Läuten) zu melden
+haben.
+Vorschläge, ebenso die von demselben früher gemachten, in der
+„Z. f. E.“ 1900 auf pag. 122 veröffentlichten Vorschläge einstimmig
+angenommen; den letzteren Vorschlägen haben auch alle inter-
+essirten Firmen zugestimmt.
+
+Nr. 16.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 187.
+Um dem Hauptübelstande dieser Betriebsart, d. i.
+dem Anspreclien sämmtlicher Wecker in allen Stationen
+abzulielfen, wurde von J. A. Barrett eine sinnreiche
+Schaltanordnung angegeben, welche H. S. W e b b im
+Februarhefte 1900 des „American Electrician“ ausführ­
+lich beschreibt.
+In diesem Systeme werden polarisirte Wecker
+verwendet, welche auf jedem der beiden Eisenkerne
+eine Wickelung, bezw. zwei Wickelungen besitzen.
+A
+Eisenkernen m m verbunden, während das andere Ende
+durch eine Armatur aus weichem Eisen» gebildet wird.
+Wenn 8 und N den Süd-, bezw. Nordpol des per­
+manenten Magnets M darstellt, so ist klar, dass die
+unteren Enden der beiden Kerne südliche Polarität
+zeigen werden, während der den Kernen gegenüber­
+stehende Theil der Armatur nördliche Polarität auf­
+weisen wird. Die Armatur wird daher im normalen
+Zustande von beiden Kernen angezogen.
+Die beiden Kerne sind mit Spulen versehen,
+welche so geschaltet sind, dass durch eine gewisse
+Combination der Stromkreise behufs Bethätigung nur
+eines Weckers die normalen Südpole der unteren Enden
+umgekehrt, d. h. in Nordpole verwandelt werden, was
+zur Folge hat, dass die Armatur abgestossen wird.
+Fig. I.
+Das Princip der Schaltung ist aus der Fig. 1 er­
+sichtlich. A und B seien zwei metallische Leitungen,
+welche mit den bezeichneten Erdleitungen drei Strom­
+kreise zwischen S und C repräsentiren.
+Diese Stromkreise können nun, wie folgt, combinirt
+werden.
+Zunächst kann ein Strom in zwei Richtungen
+über A gesendet werden (ein positiver und ein nega­
+tiver), indem man die Erde als Rückleitung benützt
+und B ausgeschaltet lässt. Hiedurch ist man in der
+Lage, zwei Signale zu geben.
+In ähnlicher Weise kann ein Strom in zweifacher
+Richtung über B gesendet werden, ohne A zu benützen,
+wodurch man zwei weitere Signale erhält. Je
+zwei weitere ergeben sich durch Hintereinander­
+schaltung der Leitungen A und B bei Ausschaltung
+von E, bezw. durch Parallelschaltung von A und B
+und Benützung der Erde als Rückleitung.
+Es residtiren daraus im ganzen acht Combi-,
+nationen, welche in der nebenstehenden Tabelle zu­
+sammengestellt sind.
+Stro m
+Linie A
+Linie B
+Erdo
++
+0
+0
++
++
++
++
+0
+0
++
+Das Princip des in jeder Station verwendeten
+polarisirten Weckers ist durch die Fig. 2 veran­
+schaulicht.
+Fig. 2.
+In dieser Figur stellt M einen permanenten Stab­
+magneten dar; ein Ende desselben ist mit zwei weichen J
+Fig. 3..
+Um eine solche Abstossung der Armatur hervor­
+zubringen, genügt es nicht, die Polarität nur eines
+Kernes umzukehren oder den Magnetismus beider Kerne
+zu schwächen, sondern es muss die Polarität beider
+Kerne zugleich umgekehrt werden.
+Die praktische Form des verwendeten Weckers
+zeigen die Fig. 3 und 4.
+H H sind die Elektromagnete, von denen jeder
+aus einem weichen Eisenkerne besteht, der mit einer
+Spule, bezw. mit zwei Spulen versehen wird; m 2 sind
+ein eisernes Joch, an welchem beide Kerne und das
+Stidende des permanenten Magnets M befestigt ist.
+n ist eine Eisenarmatur, welche durch den Zapfen n 2
+und das Lager n 4 mit dem Nordpole des permanenten
+Magnets verbunden ist.
+
+Seite 188.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 16.
+Auf diese Weise erhalten die Kerne und Arma­
+turen jene Polaritäten, die aus der Fig. 2 er­
+sichtlich sind.
+Die Spannung der flachen Feder n 3 wirkt der
+normalen Anziehung zwischen den Armaturen und den
+Kernen entgegen, so dass mit Hilfe derselben und der
+Schraube n 6 die Empfindlichkeit des Weckers regulirt
+werden kann. Die vorerwähnte Feder ist jedoch so
+gespannt, dass ihre Wirkung dem Ansprechen der
+Armatur gegenüber den abstossenden Kräften die er­
+forderliche Exactheit verleiht und die Rückkehr der
+letzteren in die Normallage nicht hindert, wenn die
+normale Polarität der Kerne wieder hergestellt wird.
+Wenn nun ein Strom die Spulen in einer solchen
+Richtung durchsetzt, dass die Polarität der beiden
+Kerne umgekehrt wird, so wird der an der Armatur
+befestigte Hammer an die eine Glockensehale an­
+schlagen; wenn der Strom unterbrochen wird, kehrt
+die Armatur in ihre ursprüngliche Lage zurück, wo­
+durch der Hammer an die andere Glockenschale an­
+schlägt.
+Auf diese Weise kann ein continuirliches Läuten
+des Weckers durch abwechselndes Schliessen und
+Oefl’nen des Stromes hei derselben besonderen Combi-
+nation der Stromkreise erzielt werden.
+Fig. 5 zeigt einen Stromkreis mit 8 Theilnehmern.
+O ist die Centrale, Z, Z 2, Z 3 etc. sind die Tkeil-
+nehmerstationen.
+Sämmtliche Theilnehmerstationen sind unter­
+einander und mit der Centrale durch die Hauptleitungen
+A und B verbunden; ausserdem ist in jeder Theil-
+nehmerstation hei E 2 und in der Centrale bei E eine
+Verbindung mit der Erde hergestellt.
+In der Centrale befindet sich ein gewöhnlicher
+Wechselstromgenerator G 2, wie er zur Bethätigung von
+Wechselstromweckern verwendet wird.
+Derselbe liefert den Strom für die Spulen eines
+kleinen polarisirten Relais D, welches so angeordnet
+ist, dass es den Strom einer Batterie oder sonstigen
+Gleichstromquelle G bei X schliesst und unterbricht.
+In der Centrale befindet sich ferner ein Satz von
+8 Signaltastern.
+Der Taster 1 entspricht dem Theilnehmer Z, der
+Taster 2 dem Theilnehmer Z 2 etc., so dass beim Schliessen
+irgend eines Tasters nur die zugehörige Theilnehmer-
+station aufgerufen wird.
+Beim Schliessen des Tasters 1 wird nämlich vom
+positiven Pole der Stromquelle ein Strom über y und
+v in die Hauptleitung A gesendet, während der negative
+Pol der ersteren über z und e mit der geerdeten
+Leitung C in Verbindung gebracht wird. Infolgedessen
+fliesst positiver Strom in die Leitung A.
+Beim Niederdrücken des Tasters 2 fliesst, wie
+aus der Figur leicht entnommen werden kann, negativer
+Strom nach A, während der positive Pol der Strom­
+quelle an Erde gelegt wird.
+Ein ähnlicher Vorgang vollzieht sich beim Schliessen
+der Taster 3 und 4, jedoch mit dem Unterschiede, dass
+die betreffenden Ströme die Leitung B durchfliessen.
+Die Taster 5 und 6 haben keine Verbindung mit
+der Erde und sind durch die Zweigleitungen v und r
+so mit den beiden Hauptleitungen A und B verbunden,
+dass heim Schliessen des Tasters 5 ein positiver Strom
+über A fliesst und über B zum negativen Pole zurück­
+kehrt, während heim Schliessen des Tasters 6 ein Strom
+die beiden Hauptleitungen in entgegengesetzter Richtung
+durchsetzt.
+Durch Bethätigung der Taster 7 und 8 ist man
+in der Lage, einerseits (Taster 7) positiven Strom durch
+die parallel geschalteten Hauptleitungen A und B zu
+senden, welcher seinen Rückweg durch den geerdeten
+Draht C findet, während andererseits mit Hilfe des
+Tasters 8 die Stromrichtung in den beiden wie vorher
+geschalteten Leitungen A und B umgekehrt wird, indem
+dieselben mit dem negativen Pole der Stromquelle ver­
+bunden werden und der positive Pol der letzteren an
+Erde gelegt wird.
+Durch die in Fig. 5 angegebenen Schaltungen ist
+man daher in der Lage, durch Verwendung ent­
+sprechender Taster Ströme von solchen Richtungen in
+die Hauptleitungen zu senden, wie dies in der um­
+stehenden Tabelle angegeben wurde.
+In den beiden Stationen Z und Z 2 sind die Kerne
+der polarisirten Wecker mit zwei Spülen Sätzen 3 und 4
+bewickelt.
+Der eine Spulensatz 3, dessen Wickelungen so
+gewählt sind, dass ein Strom beide Kerne in der glei­
+chen Richtung umfliesst, ist mit der Leitung A und der
+Erde E 2 verbunden, während der andere auf den beiden
+Kernen befindliche Spulensatz 4, der an die Leitung B
+und die Erde E 2 angeschlossen wird, über beide Kerne
+in entgegengesetzter Richtung gewickelt ist.
+Der einzige Unterschied zwischen den beiden
+Stationen Z und Z 2 besteht darin, dass durch die Ver­
+schiedenheit in der Bewickelung der Spulen ein Strom
+in den Spulen 3 die normale Polarität der Kerne m
+in Z umkehrt, während er jene der Kerne in Z 2 ver­
+stärken wird und umgekehrt.
+Dasselbe gilt von den Apparaten in den Stationen
+Z 3 und Z 1, jedoch mit dem Unterschiede, dass in diesen
+Stationen der Spulensatz 3 zwischen der Leitung B
+und der Erde E 2 geschaltet ist, während der Spulen­
+satz 4, dessen Windungen über beide Kerne in ent­
+gegengesetzter Richtung angeordnet sind, an die Leitung A
+und die Erde E 2 angelegt wird.
+In Z 5 und Z ü ist nur je ein Spulensatz 3 an­
+geordnet, bestehend aus über beide Kerne in derselben
+Richtung gewickelten Drähten; doch haben die Bewicke­
+lungen der Spulen 3 in Z fl die entgegengesetzte Rich­
+tung zu jenen des Satzes 3 in Z ö.
+Ein Strom, der von der Leitung Ä kommend
+in Z 5 beide Spulen hintereinander durchfiiesst und
+
+Nr. Iß.
+Zeitschrift für Elektrotechnik.
+Seite 189’.
+durch B zurückkehrt, wird die Polarität beider Kerne
+umkehren und den Wecker bethätigen; in Z 11 jedoch
+wird derselbe Strom beim Durchfliessen der hinter­
+einander geschalteten Spulen die normale Polarität der
+beiden Kerne verstärken und daher den Wecker in 7ß
+nicht zum Ansprechen bringen.
+In ähnlicher Weise wird ein Strom, welcher in Zß
+den Wecker zu bethätigen imstande ist, dies in ZA
+nicht bewirken können.
+In jeder der beiden letzten Stationen 7 und 8
+befindet sich gleichfalls nur ein Satz von Spulen,
+welche solche Wickelungen besitzen, dass ein positiver
+Strom, welcher die parallel geschalteten Leitungen
+A und B und die Erde durchsetzt, auf den Wecker
+der Station 7 wirken wird, während ein durch den so
+gebildeten Stromkreis gesendeter Strom in entgegen­
+gesetzter Richtung nur im Wecker der Station 8 wahr­
+nehmbar ist.
+•
+Jener Strom, der in der Station 7 die Polarität
+der Kerne umkehrt und so den Wecker zum Ansprechen
+bringt, wird die Station 8, indem er die Polarität der
+Kerne verstärkt, nicht afficiren.
+In ähnlicher Weise wird ein Strom, der in der
+Station 8 den Wecker bethätigt, dies in der Station 7
+nicht thun.
+Jener Strom, welcher die Apparate in der Station Z
+zu beeinflussen imstande sein wird, indem er die Pola­
+rität beider Kerne umkehrt, wird auf jene in Z 2 keine
+Wirkung äussern, weil er die normale Poalrität dieser
+Kerne zu verstärken trachtet. Auch wird in den Sta­
+tionen ZA oder ZA keine Wirkung wahrnehmbar sein,
+weil daselbst, obwohl beide Kerne vom Strome umflossen
+werden, die Polarität nur eines Kernes umgekehrt wird.
+Aber auch die Wecker der übrigen 4 Stationen
+bleiben unwirksam, da von dem in Rede stehenden
+Strome in jeder derselben die Bewickelung nur eines
+Kernes durchflossen wird und daher die übrigen
+Kerne in keiner wie immer gearteten Weise beeinflusst
+werden. Wenn dieselbe Ueberlegung auf die Ströme,
+welche die Wecker in Z 2, ZA und Z 4 bethätigen, an­
+gewendet wird, ist leicht einzusehen, dass diese Strüma
+die Glocken in keiner anderen Station zum Ansprechen
+bringen können.
+Ein Strom, welcher beide Leitungen A und B
+hintereinander durchfliesst und je nach seiner Richtung
+die Wecker in ZA. bezw. 7ß bethätigt, neutralisirt seine
+eigene Wirkung in den Stationen Z bis Z 4, indem er
+beim Passiren des einen Spulensatzes die Polarität der
+Kerne umkehrt, während durch den andern Spulensatz
+die normale Polarität des einen Kernes verstärkt, jene
+des anderep umgekehrt wird, so dass die combinirte
+Wirkung den Anker nicht abstossen wird. Weiters ist
+leicht einzusehen, dass bezüglich der Stationen Z‘ und ZA
+diese Ströme die Polarität eines Kernes umzukehren
+bestrebt sind, während sie jene des anderen Kernes
+verstärken werden.
+Diese Stationen werden also nicht ansprechen.
+Schliesslich wird der Strom, der in den parallel
+geschalteten Leitungen A und B circulirt und die
+Wecker TA oder TA beeinflusst, in keiner anderen Sta­
+tion eine Wirkung hervorbringen; er wird nicht,
+wie leicht einzusehen ist, durch die Spulensätze irgend
+einer Station in einer solchen Weise fliessen, dass er
+gleichzeitig eine Umkehrung der Polarität der betreffen­
+den Kerne veranlassen kann.
+Gegenwärtig sind die meisten Telephon-Centralen
+zum Zwecke des Anrufes nur mit Wechselstromquellen
+ausgestattet und es erscheint sehr zweckmässig, den
+Rufstrom für das beschriebene Schaltungssystem zu
+verwenden.
+Dies kann bei vier Stationen angewendet werden.
+Die verwendeten Apparate müssten so construirt
+sein, wie sie in den Stationen Z, Z 3, ZA und ZA der
+Fig. 5 dargestellt wurden.
+Die zugehörigen Taster 1, 3, 5 und 7 werden in
+gleicher Weise wie früher in der Centrale angeordnet,
+woselbst die Klemmen des Wechselstromgenerators G 2
+direct mit den Leitungen 7 und J verbunden werden.
+Die Batterie G und das polarisirte Relais D
+können entfallen. Es ist leicht einzusehen, dass ein
+Wechselstrom, der den durch die Leitung A und die
+Erde gebildeten Stromkreis durchfliesst, nur die Station Z
+bethätigen wird.
+Für den Anruf der Station ZA ist ein Strom in
+der Leitung B erforderlich, für die Station ZA ein
+solcher in beiden Leitungen A und B in Hintereinander­
+schaltung, für die Station ZA schliesslich ein Strom
+durch A und B in Parallelschaltung und die Erde als
+Rückleitung.
+Je nach Wahl der betreffenden Stromkreiscombi-
+nation wird stets nur eine Station ansprechen, während
+die übrigen drei unbeeinflusst bleiben.
+Barrett findet es für die Praxis zweckmässiger,
+behufs Unterbrechung des direeten Stromes dasSchliessen
+und Oeffnen des Stromkreises anstatt in den Tastern
+der Centrale in jeder Theilnehmerstation vorzunehmen,
+so dass ein continuirlicher Strom von der Centrale
+gesendet werden kann, wenn irgend ein Taster
+geschlossen wird.
+Für diesen Zweck kann der Stromunterbrecher
+einer gewöhnlichen Vibrationsglocke angewendet wer­
+den, doch hat Barrett eine Anordnung angegeben,
+welche ermöglicht, dass gleichzeitig mit der Unter­
+brechung ein Nebenschluss angelegt wird.
+Ein solches Arrangement, welches nach Ansicht
+Barrett’s vorzuziehen ist, ist in der Fig. 6 veran­
+schaulicht.
+Jeder Wecker ist mit einem im normalen Zustande
+offenen Nebenschlüsse zu einer Spule, bezw. zu beiden
+Spulen, die sich auf den Kernen befinden, versehen;
+ausserdem wird ein Vibrator angewendet, welcher in
+der Weise automatisch wirkt, dass er den Nebenschluss ein-
+
+Seite 190.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK!. Nr. Iß.
+schaltet und dadurch den Stromkreis der Spulen kurz-
+schliesst, wenn die Armatur abgestossen wird.
+So wird der wirksame Strom von den Spulen
+zurückgehalten, ohne dass der Stromkreis unterbrochen
+wird; hiedurch wird erzielt, dass die Kerne ihre nor­
+male Polarität wiedererhalten, die Armatur angezogen,
+der Shunt geöffnet und der Strom den Spulen wieder
+zufliessen wird.
+Dieser Vorgang, welcher sich schnell und exact
+vollzieht, wird so lange wiederholt, als derselbe Taster
+in der Centrale 0 geschlossen bleibt.
+Während auf diese Weise der Strom— wie ver­
+langt— in den wirksamen Spulen unterbrochen wird,
+ist dies bei den Strömen in den Hauptleitungen nicht
+der Fall und verlaufen dieselben beinahe continuirlich.
+Die Taster K in der Fig. 6 sind genau so an­
+geordnet wie jene, in der Fig. 5; der einzige Unter­
+schied in den Apparaten der Centrale zwischen den
+Systemen in Fig. 5 und 6 besteht darin, dass weder
+eine Wechselstromquelle G 2 noch ein polarisirtes Relais D
+für das letztbeschriebene System nothwendig ist.
+Barrett hat mit beiden Systemen günstige
+Resultate erzielt, indem er den Magnetbewickelungen
+in jeder Station 1000 Ohm Widerstand gibt; dieselben
+sind so anzuordnen, dass in den Weckern der ersten
+vier Stationen je vier Wickelungen a 250 Ohm und in
+den übrigen je zwei Wickelungen ä 500 Ohm verwendet
+werden. Ob.-Ing. Emil Müller.
+Hughes-Apparate mit Elektro-Motor-Antrieb.
+Versuche, Hughes-Apparate durch Motoren an­
+zutreiben, wurden natürlich schon seit längerer Zeit von
+verschiedenen Verwaltungen durchgeführt.
+Es lag zunächst nahe, den Beamten von dem
+lästigen und ermüdenden Aufziehen des Gewichtes
+mittelst des Fusstrittes zu befreien, daher waren die ersten
+Einrichtungen derart durchgeführt, dass dem Motor
+der Aufzug des Gewichtes übertragen wurde. Der Idughes-
+Betrieb selbst erfolgte, so wie vordem, durch den
+Gewichtszug.
+Die Ein- und Ausschaltung des Elektro-Motors
+geschah hiebei in der Regel automatisch.
+Den Bemühungen der maassgebenden technischen
+Organe der österr. Post- und Telegraphen-Central-Ver-
+waltung ist es gelungen, das Gewicht vollständig zu
+eliminiren, und die Hughes-Apparate direct durch
+Elektro-Motoren anzutreiben.
+Die Fussböden von grösseren Apparatsälen, in
+welchen eine Anzahl von Hughes-Apparaten im Betriebe
+ist, sind infolge der stets pendelnden, auf- und ab­
+gehenden Gewichte in steter Schwingung. Dieser Uebel-
+stand ist beim directen Motorantrieb des Apparates
+vollkommen eliminirt- Der Fortfall des Gewichtes hat
+also auch den Vortheil, dass bei der Fussboden-Con-
+struction für solche Apparatsäle auf diese nicht unbe­
+trächtliche, zeitweilig in fortwährender Bewegung be­
+findliche Gewichtslast keine Rücksicht genommen
+werden muss.
+Nach einer nahezu zweijährigen Beobachtung
+der durch Elektro-Motoren direct angetriebenen Hughes-
+Apparate zeigten sich, vornehmlich am ersten Trieb­
+rade, Deformationen der Zähne, die schliesslich auch
+zum Bruche derselben führten. Die Stösse, welche das
+erste Zahnrad des Triebwerkes beim Anlassen des
+Elektro-Motors erleidet, bilden die Ursache dieser un­
+angenehmen Erscheinung. Die noch ruhende todte Masse
+des Centrifugal-Regulators, ob er nun vertikal, oder
+horizontal arrangirt ist, kann beim Angehen des Apparates
+diesem Uebel nicht abhelfen. Durch Vorschaltwider­
+stände könnte zwar eine Bremsung, daher ein succes-
+sives Anlassen des Motors erzielt werden; es müssten
+aber wieder complicirte Einrichtungen getroffen werden,
+um den Beamten zum langsamen Abschalten der Wider­
+stände zu veranlassen.
+Durch eine sehr einfache und wirksame Einrich­
+tung hat die Firma Vereinigte Telephon- und Tele-
+graphen-Fabrik Czeija, Nissl& Co., Wien, den mehr-
+erwähnten Uebelstand vollkommen beseitigt.
+Bei den ursprünglichen Einrichtungen greift der
+Stahltrieb, welcher auf der vom Motor angetriebenen
+Achse sitzt, in ein auf der ersten Apparatachse befind­
+liches Zahnrad ein. Dieses Zahnrad nun musste die
+Stösse vornehmlich bei Ingangsetzung des Motors auf­
+nehmen.•
+Bei dem jetzigen Arrangement sind 2 Zahnräder
+nebeneinander angeordnet, die elastisch gekuppelt
+werden. Ein Zahnrad ist lose auf der Achse, das zweite
+fest. Das lose sitzende Rad ist mit dem festen durch
+eine entsprechend starke Spiralfeder verbunden. In einer
+Nuth der Seitenfläche des losen Rades liegt eine Stahl­
+spirale. In diese Nuth reicht auch der in der Seiten­
+fläche des festsitzenden Rades angebrachte Stift. Der erste
+Stahltrieb greift in das lose Rad ein. Bei der Inbetrieb­
+setzung wird die Spiralfeder etwas zusammengedrückt
+(gespannt) und dann erst die Bewegung mittelst des
+festen Rades, welches hierauf mitgenommen wird, auf
+das übrige Räderwerk übertragen.
+Diese elastische Kupplung hat sich als vortreff­
+lich erwiesen, und bietet überdies Gewähr für einen
+stets gleichmässigen, ruhigen Gang des Apparates.
+Die sämmtlichen in dem k. k. Central-Telegraphen-
+Amte in Wien in Verwendung stehenden, durch Elektro-
+Motoren angetriebenen Hughes-Apparate sind Erzeug­
+nisse der Firma Vereinigte Telephon- und
+Telegraphen-Fabrik Czeija, Nissl& Co.
+Die Elektromobil-Concurrenzen in Berlin.
+(Die Durchführ ungsbestim m nnge n.)
+Wie bekannt, veranstaltet der Mitteleuropäische Motor­
+wagen-Verein einen Wettbewerb für Elektromobile, und zwar in
+Berlin in der Zeit vom 17. bis 23. April. Zu diesem Wettbewerbe
+bat der Berliner Stadtelektriker, Dr. Martin Kall mann, die Be­
+dingungen ausgearbeitet, welche in den nächsten Tagen an die In­
+teressenten zur Versendung gelangen werden.
+Ein Wettbewerb von Elektromobilen hat, wie erinnerlich,
+im September vorigen Jahres anlässlich der internationalen Motor­
+wagen-Ausstellung in Berlin stattgefunden. Wenngleich diese
+Concurrenz wenigstens hinsichtlich der Bedingungen des Fährbe­
+triebes ein ungefähres Bild der Leistungsfähigkeit der Elektro­
+technik ergeben hat, so konnte doch infolge der Kürze der
+sowohl zur Vorbereitung, wie zur Durchführung zur Verfügung
+gestandenen Zeit über die Qualität der Accumulatoren und die
+Grenzen der Leistungsfähigkeit der Elektromobile genügend um­
+fangreiches Zahlenmaterial nicht gesammelt worden. Gerade in
+dieser Hinsicht aber soll der bevorstehende Wettbewerb ein­
+gehende und einwandfreie Erfahrungen liefern.
+Bezüglich der geplanten Durchführung der Concurrenzen
+sind wir in der Lage, über die wichtigsten Bestimmungen des
+Programms, orientirende Mittheilungen zu machen.
+Das umfassende Programm der Prüfungen und des Wett­
+bewerbes für Elektromobile gliedert sich in vier Hauptpunkte:
+I. Normale Lade- und Entladeversuche;
+II. aussergewöhnlich grosse, unter ungünstigen Verhält­
+nissen vorkommenclo Lade und Entladebeanspruchung;
+III. normale Fahrtversuche;
+
+Nr. 16.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite l9l.
+IV. aussergewöhnliche, jedoch unter ungünstigen Betriebs-
+Verhältnissen vorkommende; Fahrtleistungen.
+Der erste Hauptpunkt zerfällt in die beiden Einzelversuche:
+A. Prüfung bei normaler Fahrt mit voller Ladung bis zu
+circa drei Viertel der angegebenen Capacität, hierauf Entladung
+des restlichen Viertels der Capacität im Ruhezustände und
+B. Normale Entladung der Batterie im Ruhezustände des
+Automobils bis zum Verbleiben eines wahrscheinlichen Restes
+dor Capacität, welcher, für eine Fahrt von 15 km unter normalen
+Verhältnissen ausreichen muss.
+Die Prüfung A repräsentirt denjenigen Fall des praktischen
+Betriebes, wo Automobile aus dem vollen Ladezustande heraus
+grössere Bruchtheile der Capacität auf längeren Fahrtstrecken ohne
+erschwerende Umstände abgegeben haben, und der Führer
+schliesslich nach den Angaben des Fabrikanten in der Lage sein
+muss, sich über den Rest der verbliebenen Capacität zu orientiren,
+um zu wissen, ob und welche Leistungen er ohne Ueberschreitung
+der Capacitätsgrenze seinem Gefährte mit gutem Gewissen zu-
+muthen darf.
+Die Prüfung B entspricht demjenigen Fall der Praxis, wo
+nachweislich (denn es- wird in ruhendem Zustande unter Control­
+apparaten entladen), eine bestimmte Anzahl von Amperestunden
+von der Batterie hergegeben wurde und der Wagenführer,, wenn
+die Angaben des Fabrikanten zutreffen, unter allen Umständen
+aut die noch für circa 15 km ausreichende Capacität rechnen
+musste. Ein eclatanter Beweis für eine Minderleistung wird in
+einem etwaigen Zurückbleiben des Automobils oder gar im Stecken­
+bleiben des Wagens, infolge völliger Erschöpfung der Batterie,
+erbracht sein.
+Im zweiten Hauptpunkte des Programmes handelt es sich
+A. Um die hochstzulässige Entladung der Batterie während
+der Fahrt und im Ruhezustände,
+B. um die Ladung mit höchstzulässiger Stromstärke in
+kürzester Zeit und Prüfung der hieraus sich ergebenden Entlade­
+leistung.
+Durch den Versuch A soll die Leistungsfähigkeit der
+Batterie für den Fall ungünstiger Terrain- und sonstiger Ver­
+hältnisse dargelegt werden, wobei an Steigungen, ungünstigen
+Boden etc. gedacht ist. Der Stromverbrauch steigt hiebei erfahrungs-
+gemäss leicht auf etwa das Dreifache des Normalen, abgesehen
+von dor Qualität der Radreifen und der Leistungsfähigkeit des
+Motors. Es soll hiedurch der Beweis erbracht werden, ob der
+Wagenführer sich auf die vom Fabrikanten g-arantirte Capacität
+(entsprechend Kilometer) verlassen kann, für den Fall, dass mit
+der höchsten Entladestromstärke auf schlechtester Strasse— oven-
+tuell bei ungünstigstem Wetter— gefahren werden muss.
+Der Versuch B soll denjenigen Fall der Praxis darstellen,
+wo nur eine geringe Frist zur Wiederladung der Automobile ge­
+geben ist und gleichsam die Schnellladung eines Elektromobils
+während einer kurzen Haltezeit erfolgen muss. Auch hiebei soll con-
+statirt werden, ob die Fahrtleistungen für derartige aussergewöhnlich
+ungünstige Fälle den seitens der Firma angegebenen beziehungs­
+weise garantirten Ziffern entsprechen, und auf welche Strecken
+mit einer circa einviertelstündigen Wiederladung im ungünstigsten
+Falle der Führer des Wagens doch immerhin mit Sicherheit
+rechnen kann, um zum Beispiel nur im Notbfallo in sein Depot
+ohne allzu tiefe Entladung der Batterie zurückzugelangen.
+Die normalen Fahrtversuche (3. Hauptpunkt) gliedern sich
+a) in Fahrten unter im Wesentlichen normalen Verhält­
+nissen mit verschiedenen Geschwindigkeiten und Ermittelung des
+Wirthschaftlichkeitsgrades;
+l>) in besondere Fahrtversuche, darunter Fahrt in Curyen
+und Fahrten in Steigungen und im Gefälle.
+Die ersteren (normalen) Fahrten werden im Wesentlichen
+ähnlich der am 28. September 1899 am Schlüsse der Inter­
+nationalen Motorwagen- Ausstellung in Berlin vorgenommenen
+Versuchsfahrt der Elektromobile durchgeführt werden. Die bezüg­
+lichen Bestimmungen sind für weitere Kreise von besonderem
+Interesse, weshalb wir die wichtigsten Momente daraus hervor­
+heben wollen.
+Die Wagen werden aus dem Entladezustande am Start
+vorschriftsmässig geladen, wobei der Ladeconsuin nach Messern
+und Controlinstrumenten notirt wird. Hierauf wird die gemein­
+schaftliche Versuchsfahrt in langer Kette auf einer vorher be­
+stimmten Traee vorgenommen. Die gesammto Strecke wird eine
+Schleife darstellen, welche am Startplatz wiederum endigt und
+insgesammt. 30 km lang ist.
+Die Wagen, welche sämmtlich von Commissären begleitet
+werden und mit Volt-, Ampöre- und eventuell Cyclo-Metern oder
+sonstigen Registrirapparaten ausgerüstet sind; durchfahren zunächst
+in geringem Abstand von einander eine Strecke von circa 8 km
+Länge mit etwa 8 km Geschwindigkeit per Stunde.
+Hierauf findet ein Wettfahren über eine 12 km lange Strecke
+statt, derart, dass die Wagen, nach Zurücklegung von d um vom
+zweiten Start ab gerechnet, umkehren und bis zum zweiten Start
+wiederum mit höchster Geschwindigkeit zurückfahren.
+Sodann wird zum ersten Start auf einem anderen Wege
+als vorher über die restlichen circa lu km möglichst in Reihe mit
+circa 15 km Geschwindigkeit per Stunde zurückgefahren. Die
+Fahrt wird sich sowohl auf der ersten langsamen Fahrtstrecke,
+wie auf der zweiten Geschwindigkeitstour und der dritten Strassen-
+tempostrecke thunlichst zur Hälfte auf Asphalt- und Kopfstein­
+pflaster abspielen.
+Die Beurtheilung erfolgt für die erste, zweite und dritte
+Strecke nach Maassgabe des Verbrauches per Kilometer und Tonne
+Gesammtgewicht, Nutzgewicht und Accumulatorengewieht. Ferner
+für die zweite Strecke nach dem Geschwindigkeitsresultat im
+absoluten Maasse und nach dem Geschwindigkeitsresultat im
+relativen Maasse, nämlich bezogen auf die Geschwindigkeit im
+Verhältnisse zur aufgewandten■ elektrischen Energie in Kilowatt
+per Tonne.
+Nach Rückkehr der Wagen an den Start wird dor Zustand
+der Batterie unter entsprechender, hiezu erforderlicher, wenige
+Minuten dauernder Entladung bei normaler Stromstärke durch
+einen Widerstand in ruhendem Zustande geprüft und die relative
+Leistung in Rücksicht auf die während der vorhergegangenen
+Fahrt verbrauchte Strommenge im Vergleiche zu der angegebenen
+Capacität der weiteren Beurtheilung zugrunde gelegt.
+Diese Fahrtversuche, welche, wie erwähnt, auch in Stei­
+gungen und im Gefälle auszuführen sein werden, sollen ein Bild
+von der Leistungsfähigkeit der Elektromobile für die gewöhn­
+lichen im Strassenbetriebe vorkommenden Anforderungen dar­
+stellen. Es ist hieboi der Wirthschaftliohkeitsfactor von ganz
+besonderer Bedeutung, das heisst, die Grösse des Eloktricitäfs-
+verbrauches in Wattstunde per Tonne und Kilometer.
+Aber auch das Verhältnis der Zugkräfte bei der Fahrt in
+der Steigung gegenüber der Fahrt im Niveau und die Mehr­
+leistung des Motors bei höchster Beanspruchung gegenüber den
+normal an denselben gestellten Anforderungen kommen in Be­
+tracht. Ferner sind die Sicherheit und Bequemlichkeit der Lenkung
+und Bremsung sowie der Geschwindigkeitsregulirung von Be­
+deutung, und es muss auch von einem Gefährte, welches den
+Bedürfnissen des Verkehres in einer grossen Stadt genügen soll,
+verlangt werden, dass ein Wiederanfahren nach vorherigem Halten
+in mittlerer Steigung anstandslos und sicher sich bewerk­
+stelligen lässt.
+Wie aus obigen Darlegungen hervorgeht, berücksichtigt
+das Programm der bevorstehenden Wettbewerbe und Prüfungen
+von Elektromobilen in Berlin, für welche auch schon österreichische
+Firmen ihre Betheiligung in Aussicht gestellt haben, die haupt­
+sächlichen Anforderungen, welche im täglichen Motorwagen­
+betriebe einer Grossstadt an Accumulatoren-Wagen herantreten
+und denen dieselben unter allen Umständen gewachsen sein
+müssen, wenn überhaupt das Elektromobil als Factor von Be­
+deutung im täglichen Strassenverkehr in Frage kommen soll.
+Die rein sportlichen Gesichtspunkte und die Bedingungeil,
+welchen ein blosses Luxus-Fuhrwerk zu genügen hat, treten
+daher, wie auch Dr. K a I 1 in a n n in seinem „programmatischen
+Entwürfe“ ausdrücklich hervorhebt, hinter den verkelirstechnischen
+Aufgaben, welchen ein als Grundlage nutzbringender Verkehre
+Unternehmungen dienendes Vehikel, zum Beispiel eine elektrische
+Droschke, zu genügen hat, erheblich zurück.
+Die Veranstaltung der Elektromobil-Concurrenzen in Berlin
+ist nach alledem ein ausserordentlich dankenswerthes Unternehmen
+von weittragender Bedeutung, und es darf daher den aus den
+Wettbewerben und Prüfungen sich ergebenden Resultaten mit
+Interesse entgegengesehen werden. („Allgem. Automobil-Ztg. 1.
+Nr. 12.)
+KLEINE MITTHEILUNGEN.
+Verschiedenes.
+Kiipferstatistik. Als Ergänzung unserer diesbezüglichen
+Mittheilung im Heft 12, Seite 148, entnehmen wir dem citirten
+Berichte noch nachstehende interessante Ausführungen über die
+Entwickelung der Weltproduction dos Kupfers. Bei Beginn dos
+vorigen Jahrhunderts war die Weltproduction etwa 9000 t jähr­
+lich; für das Jahr 1899 ermittelten .wir 463.000 L Seit 1885, wo
+sio Z25.000 t war, hat sie sich mithin verdoppelt, seit 1880, wo
+nur erst 153.959 t erzeugt sind, sogar verdreifacht. Die Preise
+waren trotzdem vielfach bei kleineren und stagnirenden Produc-
+tionen niedriger als zu den Zeiten, wo die Production rasch auf­
+wärts schnellte. Wir möchten an der Hand der Statistik des
+
+Seite 192.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Kr. 14
+letzten Jahrzehnts behaupten, dass die Production sich jährlich
+uni 5 bis 10 o /° jedesmal gegen das Vorjahr steigerte, dass aber
+trotzdem gleichzeitig die sichtbaren europäischen Vorräthe herab-
+giengen— visible supply— (1889: 93.400 t, 1899: 17.517 0 nns
+lehrt, dass der Verbrauch noch im schnelleren Schritt zugenommen
+hatte. Wirthschaftlich hoch interessant ist es, dass einestheils
+die Energie und der Unternehmungsgeist der Menschen in einem
+einzigen Jahrhundert die Kupferproduction von circa 9000 t jähr­
+lich auf 463.000 t steigern konnte. Nicht minder beachtenswerth
+ist es, zu sehen, wie alte Bergwerke, die lange Zeit in früheren
+Jahrhunderten ergiebig waren, ganz zum Erliegen kommen (ins­
+besondere Grossbritannien); in der alten Welt ist es von den
+alten Fundorten nur der. Mansfeld’sche Bergbau (Deutschland),
+der sich auf eine immerhin Achtung gebietende Höhe steigerte,
+während in Spanien und Portugal, wo seit phönicisch-römischer
+Zeit alles vernachlässigt war, erst ausländischer (nicht heimischer)
+Einfluss den Bergbau hochbrachte, im Uebrigen aber die Kupfer-
+Weltversorgung zu mehr als dreiviertel jetzt 1900 ausserhalb
+Europas sich vollzieht. Die Statistik des Jahrhunderts lehrt uns
+ferner, dass jeder Bergbau nur für bestimmte Epochen in er­
+giebiger Mächtigkeit vorhält. Grossbritannien, das boi Beginn
+des Jahrhunderts und früher zwei Drittel der Weltversorgung
+lieferte ist jetzt ganz versiegt, Schweden und Norwegen war
+trotz der vielen altbekannten Lagerstätten zu keiner Zeit ein
+Grossproducent, während Chili, das erst 1831 neu in die Reihe
+der umfassenden Producenten rückte, nach 25 Jahren den Höhe­
+punkt schon erreicht hatte, und nach weiteren 25 Jahren nur
+noch die Hälfte von damals erzeugte. Ob und wie lange Nord­
+amerika die Production noch steigern kann, ist schwer voraus­
+zusagen; nüchterne Beurtheiler müssen aber voraussehen, dass,
+wenn auch für absehbare Zeit noch keine Anzeichen vorliegen,
+doch eines Tages mit dem Herabgehen jener enormen Erzeugung
+zu rechnen ist. Es entstehen allerdings nicht nur in Nordamerika,
+sondern auch sonst in allen Welttheilen noue Kupferbergwerke,
+doch muss mit der Thatsache gerechnet werden, dass gerade
+nach allen Erfahrungen viele sanguinische Hoffnungen, besonders
+im Bergbau, sich als trügerisch erweisen; meist sind überdies
+jene Fundorte, wo man von sehr hohem Kupfergehalt spricht,
+diejenigen, die nie einen ergiebigen Bergbau liefern. Ohne uns
+irgendwie in das Gebiet der Prophezeihungen zu begeben, ist danach
+wohl mit Sicherheit anzunehmen, dass wir in der nächsten Zeit
+wohl noch mit Productionssteigerungen zu rechnen haben, dass
+aber nachgerade manches mächtige Bergwerk seinen Erzbestand
+abbauen wird und dass andere in die Stelle rücken werden, dass
+es aber übertrieben sein wird, von einer zukünftigen Zufuhr, die
+weit über das Maass des Bedarfs hinausgeht, zu reden. Die Ge­
+schichte des verflossenen Jahrhundert, das uns eine vierzigfache
+Steigerung lieferte— der. wohl zweifellos im neuen Jahrhundert,
+gerade weil wir jetzt durch vorzügliche Technik schneller als
+früher die Erzbestände abbauen, keine abermalige nur annähernd
+ähnliche Steigerung folgen wird —■ lehrt uns, dass gemeinsam der
+Verbrauch und die Erzeugung in überraschender Weise sich
+harmonisch entwickeln. Die grösste Kupferanhäufung war wohl
+die zur Zeit des Zusammenbruchs des Secretan’schen Kupfer-
+syndicats 1888/89, welche; 180.000 t aufwies; auch dies war nur
+etwa dreiviertel der damaligen Jaliresproduction; jene unver­
+nünftige Anhäufung konnte nur in dem Zusammenbruch der
+Preise von 80 Pf. St. auf 37 Pf. St., enden. Dieser niedrige Preis
+wirkte dann wohlthuend für die gesammte Industrie und konnte
+sie sieh seitdem allmählich zu ihrem jetzigen Umfang emporarbeiten.
+Trotz der letzthin erheblich gesteigerten Preise war zu keiner
+Zeit der letzten zwanzig Jahre der Weltvorrath kleiner als gerade
+jetzt, was die nachfolgende Berechnung klarlegen wird. Dem­
+gemäss lassen wir nachfolgende Aufstellung zur Vergleichung
+des Verbrauchs der vier hauptsächlichsten Verbrauchsländer,
+Deutschland, Frankreich, England und Nordamerika, für 1893 bis
+1899 im Verhältnis zur Jahresproduction folgen:
+Deutschland. ..
+Frankreich
+England
+Nordamerika...
+1893 1894
+t t
+60.513 62.955
+33.886 31.837
+96.615 90.069
+77.433 94.511
+1895 1896
+t t
+70.349 85.371
+40.323 49.007
+91.084 115.557
+108.000 93.698
+268.447 t 279.372 t 309.756 t 343.633 t
+1897
+t
+Deutschland 96.385
+Frankreich 58.366
+England 110.210
+Nordamerika .... 90.000
+1898 1899
+t t
+101.518 102.618
+54.569 56.341
+105.816 88.624
+115.935 162.000
+377.8381 409.583 t
+354.961 1
+Die Production betrug:
+1893 1894 1895 1896
+t t t t
+303.530 324.405 335.105 373.208
+1897 1898 1899
+t t t
+396.728 424.126 tax. 463.000
+Die vier genannten Hauptverbrauchsländer verbrauchten
+1899 409.583 t. und Hessen nach unserer Berechnung aus der
+Production von 463.000/ nur 53.417/ unverfügt. Rechnen wir
+gegen diese 53.417 t den Verbrauch von Oesterreich-Ungarn
+= 18.770 t, Russland= 21.424 I, Italien= 12.369 t, total= 52.563 i,
+so würde für Holland, Belgien, Skandinavien, Schweiz, Spanien etc.
+fast absolut der ganze Bedarf aus den Invisiblo supplies ent­
+nommen sein müssen. Mindestens sind doch 15.0001 für diese
+letztgenannten vier Länder zu schätzen, wobei die übrige grosse
+weite Welt noch hinzuzukommen hätte.
+Einführung drahtloser Telegraphie. Wie wir dem Ge­
+schäftsberichte des Norddeutschen Lloyd in B r e m e n
+entnehmen, beschloss die Gesellschaft, um den Dampfern die
+Möglichkeit zu geben, auf See untereinander und mit Stationen
+drahtloser Telegraphie an der Küste in Verbindung zu treten,
+die Ein f ü hr ung drahtloser T o 1 egr ap h i e an Bord
+der grossen Passagierdampfer; zunächst ist der Schnelldampfer
+„Kaiser Wilhelm der Grosse“ damit ausgestattet. Gleichzeitig hat
+der Lloyd von der Regierung die Ermächtigung erhalten, auf
+dem Feuerschiff „Borkum“ und der Insel Borkum Apparate für
+drahtlose Telegraphie aufzustellen, welche demnächst in Thätigkeit
+treten werden, so dass es den das Feuerschiff passirenden Schiffen
+weiterhin möglich sein wird, sich von dort melden zu lassen.
+Societe des Electriciens. Die Monatssitzung der Societe
+des Electriciens hat am 4. April unter dem Vorsitze des Herrn
+Sartiaux wegen Verhinderung des Herrn V i o 11 e stattgefunden.
+Diese Sitzung ist den Berichten des Generalsecretärs über die
+Geschäftsführung im Jahre 1899 gewidmet gewesen, ln den
+darauffolgenden Wahlen wurden zum Präsidenten für 1901—1902
+Herr Hillairet, zu Vicepräsidenten die Herren B o ch et
+und Leblanc, zu Schriftführern die Herren A n n a gnat und
+Lori n, zum Cassaverwalter L. V i o 1 e t gewählt.
+Herr Villard hielt einen Vortrag über die Itathoden-
+und Röntgenstrahlen. Herr Prof. Mascart wird im Jahre 1900
+den Vorsitz führen.
+Patentnaclirichten.
+Aufgebote.
+Wien, am 1. April 1900.
+Patontclasse.
+10. Jebsen Peter, Fabriksbesitzer in Dale bei Bruvik (Nor­
+wegen).— Verfahren zu m Verkohlen von T o r f,
+gekennzeichnet durch Erhitzung des Torfes mittelst elektrischer
+Heizkörper, die innerhalb der das Torfmaterial aufnehmenden
+Behälter oder Retorten angebracht sind— Umwandlung des
+Privilegiums 46/3977 mit der Priorität vom 3. April 1896.
+— Jebsen Peter in Dale bei Bruvik (Norwegen).— Ver­
+fahren zur Herstellung v o n T orfkohle n
+mittelst des elektrischen Stromes: Der Torf
+wird zwecks Erhitzung als Widerstand in einen elektrischen
+Stromkreis eingeschaltet.— Umwandlung des Privilegiums
+47/3195 mit der Priorität vom 8. Juni 1897.
+20. S i e m o n s& Halske, Firma in Wien.— Elektrischer
+Stationsanzeiger: Für Hin- und Rückfahrt sind zwei
+Elektromagnete mit Schaltwerken für das Zeichenband ange­
+ordnet, welche selbstthätig durch einen vom Triebwerk durch
+Reibung mitgenommenen Hebel entsprechend eingeschaltet
+werden und deren Stromkreis nach erfolgter genügender Weiter-
+selialtung durch ein selbstthätiges Umschaltewerk unterbrochen
+wird, wobei die Stromzuführung über ein Unterbrechungsrad
+und über Stifte, welche an zwei von einander isolirten, mittelst
+eines Differentialgetriebes von einer Wagenachse bewegten
+Scheiben angeordnet sind und sich an einen federnden Hebel
+anlegen, erfolgt.— Angemeldet am 19. Mai 1899.
+21 a. Cerebotani Luigi Dr., Professor in München und
+Silber m a n n Albert, Fabrikant in Berlin. —• Typ e n-
+drucktelegraph: Auf einer von einem Uhrwerk getrie­
+benen, mit einem Hemmungs- und einem Kupplungsrade ver-
+
+Nr. 16.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 193.
+Pateutclasßo.
+sehenon Wolle sitzt eine dreh- und verschiebbare Hülse mit
+starr befestigten Scheiben und dom Typenrade. Beim Nieder­
+drücken einer Taste des Senders erfolgt unter Vermittlung
+zweier Elektromagnete und des Hemmungsrades die Ein­
+stellung der Type und unter Vermittlung des Ankers zweier
+von einer Localbatterie erregter Magnete" die An- bezw. Ent­
+kupplung der Hülse und Welle.— Angemeldet am 2. Mai 1899.
+21 a. Telephon-Apparat-FabrikFr. Welles in Berlin.
+— Klinke für F e r n sp r e c h-Ver mi 111 un g säm t er:
+Die Klinkenfedern sind von einander, sowie von den Anschluss­
+schienen der Prüfungsringe und der Grundplatte durch Isolir-
+streifon, die durchlaufend sind, getrennt, wobei die Anschluss­
+schiene mit ihrem vorderen Theil rechtwinkelig zu den Klinken­
+federn und in der Mittellinie zwischen zwei benachbarten
+Klinken liegt, während das hintere Ende in Bezug auf die
+Grundplatte flach liegt. Die Grundplatte trägt Aussparungen,
+wodurch es möglich ist, sehr schmale Klinkenstreifen zu
+verwenden.— Angemeldet am 6. Juli 1899 mit der Priorität
+des D. R. P. Nr. 106154, d. i. vom 22. Juni 1898.
+21 o. Johnson Edward Ilibberd, Elektriker in New-York.—
+Verfahren zur Erzeugung bewehrter Kabel
+u n d V o r r i c h t u n g hiezu: Das unbewehrte Kabel wird
+sammt den Metallstreifen durch eine mit schraubenförmigen
+Nuten versehene Anpressungsform gezogen. Die hiezu dienende
+Maschine besteht aus einer Vorschub Vorrichtung, bei welcher
+dio Metallstreifen zwischen am Umfange mit Nuten, bozw.
+Rippen versehenen Walzen hindurchgeführt werden und aus
+zwoi mit gleicher Geschwindigkeit sich drehenden Rahmen mit
+Rollen für das armirte und nichtarmirte Kabel. Um die
+Geschwindigkeit des Rahmens mit jener der Umpressungs­
+vorrichtung in Ueberoinstimmig zu erhalten, ist eine Vorrich­
+tung vorhanden, um einen Hilfsmotor mit dem Rahmen zu
+kuppeln, bezw. loszukuppeln; es geschieht dies mittelst einer
+elektrisch bethätigten Klinke.— Angemeldet am 29. Mai 1899.
+48. Chemische Fabrik auf A c t i e n (v o rm. E. Sche-
+r i n g), Fa. in Berlin, als Cessionärin des Dr. E. Courant in
+Berlin.— Elektrolyt für cyankalische Bäder,
+bestehend aus dem mit schwefliger Säure behandelten Cyan-
+kalium-Doppelsalz des nioderzuschlagenden Metalles.— Ange­
+meldet am 13. September 1899 mit der Priorität des D. R. P.
+Nr. 105299, d. i. vom 10. September 1898.
+— Marino Quintin, Ingenieur in Brüssel.— Verfahren
+zur Herstellung von kohlensaure M o t a 11 s a 1 z e
+enthaltenden Elektrolyten: Kohlensäure Metall­
+salze, erhalten durch Vermischen eines Metallsalzes mit der
+Hälfte seines Gewichtes Alkali-Carbonat, werden in Wasser
+odor Glycerin in Gegenwart von organischen Säuren und
+Chloriiren oder von organischen Säuren und alkalischen Salzen
+aufgelöst.— Angemeldet am 27. October 1899.
+Patentrecht.
+Entscheidung des Patentamtes (Anm.-Abtli. III)
+vom 21. October 1899, Z. 8632.
+Einrichtungen, deren in der Beschreibung angegebene
+Wirkungsweise den physikalischen Gesetzen widerspricht, eignen
+sich nicht zur Erlangung des Erfindungsschutzes.
+G r ii n d e:
+Die Beschreibung zu der Patentanmeldung des K. V. in K.,
+betreffend einen elektrischen Mobilwagen mit Accumulatoren-
+Botriob, bezieht sich ausschliesslich auf ein Betriebssystem für
+Eisenbahnen, welches darin bestehen soll, dass durch den Luft­
+widerstand, welchen der fahrende Zug erzeugt, ein an einem
+Fahrzeuge angebrachter Windmotor bewegt, von diesem eine
+Dynamo getrieben, durch diese eine von zwei Accumulatoren-
+batterien geladen, durch die andere geladene Batterie die zum
+Antriebe des Fahrzeuges dienenden Elektromotoren betrieben
+werden sollen. In dieser Reihe der Vorgänge wäre ein perpe-
+t u u m mobile gegeben und muss sohin der Inhalt der gegen­
+ständlichen Beschreibung als den bestehenden physikalischen
+Gesetzen widersprechend und daher unverständlich angesehen,
+daher diese Beschreibung als den Anforderungen des§ 52 Pat.-
+Ges. nicht entsprechend angesehen werden.
+Da dieser Mangel von dom Anmelder auch durch die vor-
+gelogte ergänzende Beschreibung nicht behoben wurde, musste
+dio Anmeldung zurückgewiesen werden.
+Entscheidung des Patentamtes (Anm. -Abth. III)
+vom 9. December 1899, Z. 5141.
+Angebliche Ergebnisse noch nicht abgeschlossener Versuche
+können, weil dieselben weder auf eine dio Benützung durch
+Sachverständige ermöglichende Weise beschrieben werden können
+noch eine gewerbliche Anwendung zulassen, nicht zum Patent­
+schutze angemeldet werden.
+Markenschutz.
+Erkenntnis dos Verwaltungsgerichtsliofos vom
+27. September 1899, Z. 7849.
+Das Markensclratzgesctz verleiht ein ausschliessliches
+Gebrauchsrecht an einem registrirten besonderen Waarenzeichen
+und daher die Befugnis, den Gebrauch aller, von dem gewöhn­
+lichen Käufer der betreffenden Waaren nur bei besonderer Auf­
+merksamkeit unterscheidbarer Variationen dieses Zeichens zu
+inliibiren, nicht aber ein Recht an dem Bfldzeichon in abstracto,
+d. i. an dem durch dasselbe dargestellten begrifflichen Objoct.
+BeiderBeurtheilung der Unterscheidbarkeit zweier Waaren­
+zeichen rechnet das Markenschutzgesetz zwar nicht mit einem
+besonderen Grad von Aufmerksamkeit odor Intelligenz, aber auch
+nicht mit einem besonderen Grad der U n achtsamkoit oder
+Nicht intelligenz des Käufers.
+Durch die Registrirung einer das Bild eines Löwen ent­
+haltenden und thatsächlich im Verkehr „Löwenmarke“ genannten
+Marke wird kein Rocht auf den Namen „Löwenmarke“ oder auf
+Löschung irgend einer anderen, nach dem Gesammtoindrnck ver­
+schiedenen, aber im Verkehre ebenfalls „Löwenmarke“ genannten
+Marke erworben.
+Mitgetheilt von Ingenieur
+Victor Monath,
+WIEN, I. Jasomirgottstrasse Nr. 4.
+Deutsche P atentanmeldunge n.*)
+Classe.
+20. Eine selbstthätig wirkende Vorrichtung zum Schalten von
+Widerständen beim Bremsen elektrischer Motorwagen durch
+Kurzschluss.— Jean Schneider, Mülhausen i. E. 12./5.
+1899.
+21. Schaltungsweise für Drehstrommotoren zur Erzielung zweier
+verschiedener Geschwindigkeiten; Zusatz z. Pat. 109.986.—
+Max K1 o s s, Charlottenburg. 30./11. 1899.
+„ Sammlerelektrode.— Edwin Lyman L o b d e 11, Chicago,
+‘ V. St. A. 23./5. 1899.
+„ Glühlampe mit geradlinigem Glühfaden. —■ Th. W u 1 f f,
+Bromberg. 16/2. 1899.
+22. Verfahren zur Herstellung von Mineralfarben und Farblacken
+durch Elektrolyse.— Herman C. Woltereck, New-York.
+30./1. 1899.
+1. Elektrische Antriebs vorrichtung für hydraulische Sotzinasehinon.
+— Max Tschiers e, Dortmund. 23./9. 1899.
+20. Sicherungsvorrichtung für unterirdische Stromzuführungs-Au-
+lagen elektrischer Bahnen mit Theilleitcrbetricb.— Eie k-
+tricitäts-Actien- Gesellschaft vorm. Schlickert
+& Co., Nürnberg. 24./1L 1899.
+„ Stromabnehmer für elektrische Bahnen mit oberirdischer
+Stromzuführung.— Siemens& Halsko, Actien-Go-
+sellschaft, Berlin. 19./8. 1899.
+„ Stromabnehmer für elektrische Bahnen mit oberirdischer
+Stromzuführung.— Siemens& H a 1 s k e, Actien-Go-
+Seilschaft, Berlin. 19./9. 1899.
+„ Elektromagnetische Weichenstellvorrichtung.— J. V o s o 1 y,
+Weinberge bei Prag. 24./6. 1899.
+21. Feuerfester Glühkörper für elektrische Bogonlampon.— Emilo
+Bonhivers, Seine, Frankr. 6./7. 1899.
+20. SolbstthätigerFernsprechumschalter.— TelosforGlazo e wski,
+Zürich. 14./2. 1898.
+21. Hebelschalter mit einer sich nur während der Ausschaltung
+spannenden Feder.— R. W. Hofstede C r u 11, Borne, Holland.
+22./10. 1898.
+„ Eloktrolytischer Stromrichtungswähler odor Cöndeusator.—
+Charles Pollak, Frankfurt a. M. 13./1. 1899.
+„ Einbau von Sammlerelektroden in den Batteriebehältor unter
+Verwendung von Stützscheiben.— Charles P o 11 a k, Paum,
+Frankr. 2./8. 1899.
+*) Die Anmeldungen bleiben nach der Vorprüfung acht Wochen öffentlich
+aufgelegt. Nach§ 24 des Patent-Gesetzes kann innerhalb dieser Zeit Einspruch
+gegen die Anmeldung wegen Mangel der Neuheit oder widerrechtlicher Entnahme
+erhoben werden. Das obige Bureau besorgt Abschriften der Anmeldungen und
+übernimmt die Vertretung in allen Einspruchs-Angelegenheiten.
+
+Seite 194.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 16.
+Geschäftliche und finanzielle Nachrichten.
+Elektricitiits-Acticu-Gesellschaft vormals Kolben& Co.,
+Prag. Wie wir dem Rechenschaftsberichte) für das Jahr 1899
+entnehmen, war infolge der bedeutenden Vergrösserung der
+Fabriksanlagen eine wesentlich gesteigerte Production möglich,
+so dass im Berichtsjahre der Umfang der ausgeführten Anlagen
+dem Werthe nach etwa das aVafacho betrug. Die Lieferungen be­
+trugen: im Jahre 1899 1,033.600 d., im Jahre 1898 416.600 fl.,
+im Jahre 1897 94.500 fl. Aus diesen Ziffern ist ersichtlich, in
+welchem Maasse die Leistungsfähigkeit des Vysocaner Fabriks-
+Etablissements sich vergrößert hat. Die in das Jahr 1900 her-
+übergenommenen, noch nicht effectuirten Aufträge betrugen
+503.400 fl.
+Im Laufe des Jahres 1899 wurden in erster Linie die
+maschinellen Einrichtungen zur Herstellung grosser Dynamos und
+Motoren vermehrt xmd vervollkommt.— Es wurde eine neue
+Kleinmechanische-Werkstätte für die Fabrication von Apparaten
+eingerichtet und in Betrieb gesetzt, die Magazins- und Speditions­
+einrichtungen wurden durch Neubauten vorgrössert und in zweck­
+mässiger AVeise eingerichtet.
+Da die rechtzeitige Beschaffung von grösseren Stahlguss­
+stücken, welche für den Bau von Dynamos in erster Linie wichtig
+sind, im Vorjahre sehr grosse Schwierigkeiten bereitete, so
+entschloss sich die Verwaltung zur Errichtung einer eigenen
+Stalilgiesserei, welche nunmehr seit einem halben Jahre im Be­
+triebe ist und deren Products dem bisher verwendeten Material
+in jeder Beziehung gleichwerthig sind. An grösseren Elektricitäts-
+werken hat die Firma im Betriobsjahre ausgeführt: Das Elektri­
+citätswerk der Stadt Prag, das Elektricitätswerk der Stadt Kladno
+und die elektrisch-maschinelle Einrichtung des Elektricitätswerkes
+am Semmering, die elektrische Bahncentrale in Krementschug
+(Südrussland), sowie eine Anzahl kleinerer Elektricitätsworke.—
+Ausserdem wurde eine grosse Zahl von Kraftübertragungs- und
+Vdrtheilungsanlagen nach dem Drehstromsystem, sowie eine Anzahl
+von Einzelanlagen für elektrische Beleuchtung sowohl in Oester­
+reich, als auch im Auslande ausgeführt.
+Besondere Aufmerksamkeit wurde dem Gross-Dynamobau
+gewidmet und es war die Firma in der Lage, die tausend-
+pferdigen Dynamomaschinen für das Elektricitätswerk der
+Stadt Prag, jede in einem Gewichte von 65.000 kg, in ihren
+eigenen Giessereien und Maschinenbauwerkstätten vollständig
+herzustellen.— Besonders reger Nachfrage erfreuten sich im
+laufenden Jahre auch die von der Firma als Specialität fabricirten
+elektrisch betriebenen Laufkrahne und Aufzüge, von denen im
+Jahre 1899 55 Stück für Lasten bis zu 50 Tonnen sowohl für
+das Inland, als auch für das Ausland abgeliefert wurden.
+An der Pariser AVeltausstellung wird sich die Firma durch
+Beistellung einer vollständigen Drehstrom-Kraftvertheilungsanlage
+von 1000 PS bei 3000 Volt Spannung, welche dem Kraftnetz der
+Ausstellung Strom abgeben wird, betheiligen.
+Zu erwähnen ist noch, dass neben der Societe Decauville
+in Paris, welche das Recht der Fabrication unserer AVechscl- und
+Drehstrommaschinen und Motoren erworben hatte, heuer ein
+ähnlicher Fabricationsvertrag mit der Elektricitäts-Actien-Gesell-
+schaft Maarssen bei Utrecht in Holland abgeschlossen wurde.
+Der Verwaltungsrath beantragt folgende Apftheilung des
+Reingewinnes per 173.146 fl., zuzüglich des Gewinnvortrages vom
+Vorjahre per 2.868 fl., in Summa 176.014 fl.: dem Erhaltungs­
+fonds 35.470 fl., dem Reservefonds 8.657 fl., an Dividende
+5o/o vom Actiencapitale de 2,000.000 fl., 100.000 fl., an Tantieme
+dem Vorwaltungsrathe 4.353 fl., an Superdividende lo/ 0 vom
+Actiencapitale 20.000 fl., an Remuneration dom Aufsichtsrathe
+750 fl., dom Arboiter-Unterstiitzungsfonds 1.000 fl. und den Rest
+per 5.784 fl. als Vortrag auf neue Rechnung.
+Metall-Max-ktbericlit von Brandeis, Goldschmidt
+& Co., London, 6. April. Kupfer: Unser Standard Markt war
+zu Anfang der AVoclie etwas vernachlässigt. Zum Schlüsse jedoch
+stellte sich wieder mehr Nachfrage für Cassawaare ein und wurde
+heute bis 78 Pfd. St. 17 sh. 6 d. bezahlt. AVir notiren: Standard
+Kupfer per Casse 78 Pfd. St. 17 sh. 6 d. bis 79 Pfd. St. 5 sh.,
+Standard Kupfer per 3 Monate 77 Pfd. St. 5 sh. bis 77 Pfd. St.
+10 sh., English Tough je nach Marke 81 Pfd. St. bis 81 Pfd. St.
+5 sh, English Best Selected je nach Marke 82 Pfd. St. bis 82 Pfd. St.
+10 sh., American und English Cathodos 79 Pfd. St. bis 79 Pfd. St.
+10 sh., American und English Electro in Cakes, Ingots und AVire-
+bars je nach Marke 79 Pfd. St. 10 sh. bis 80 Pfd. St.— Zinn
+begann fest zu 140 Pfd. St. Casse und 139 Pfd. St. 10 sh. per
+3 Monate, wurde jedoch von interessirter Seite bis 137 Pfd. St.
+Casse und 136 Pfd. St. per 3 Monate deprimirt. AVir schliesson:
+Straits per Casse 135 Pfd. St. 15 sh. bis 136 Pfd. St., Straits
+per 3 Monate 135 Pfd. St. bis 135 Pfd. St. 10 sh., Australzinn
+per Casse 136 Pfd. St. 10 sh. bis 136 Pfd. St. 15 sh., Englisches
+Lammzinn 140 Pfd. St. bis 141 Pfd. St., Bancazinn in Holland
+84 fl. bis 81 l U fl-i Billitonzinn in Holland 81 fl.— Zink: fest,
+22 Pfd. ex ship.— Blei: besser ä 16 Pfd. St. 15 sh.—
+Quecksilber: unverändert zu 9 Pfd. St. 12 sh. 6 d.
+Die Oesterreicliisclie Union- ElektricitÜts- Gesellschaft
+Wien theilt uns mit, dass sie für Mähren und Schlesien mit
+I. April 1900 in Mähr.-Ostrau, Katharinahaus, unter der Leitung
+des Ingenieurs Herrn Josef Riedel, ein eigenes Ingenieurbureau
+etablirt hat.
+Gesellschaft für elektrische Industrie, Wien. Die Direction
+der Gesellschaft für elektrische Industrie hat dem Venvaltungs-
+rathe in seiner Sitzung vom 6. d. M. die Bilanz für die erste
+Gosehäftsepoche vom 30. Juni 1898 bis 31. December 18^9 vor­
+gelegt. Die Betriebseinnahmen betragon 109.083 fl., dio Regie
+15.968 fl., die Projectirungskosten 2211 fl., so dass ein Ueberschuss
+von 90.902 fl. verbleibt, von welchem zunächst 7424 fl. zu Amor­
+tisationen und Erneuerungen, und 15.000 fl. als Stouerreservo
+verwendet worden, so dass zur Verfügung der Generalversamm­
+lung 68.478 fl. verbleiben. Der Verwaltungsrath hat beschlossen,
+der Generalversammlung den Antrag zu stellen, 5% hievon, d. i.
+3423 fl., dem Reservefonds zu überweisen, 60.000 fl., d. i. 12 fl.
+per Actie oder 6% als Divido n d e auszuzahlen und den Rest
+per 5054 fl. auf neue Rechnung vorzutragen.
+Gas-, Elektricitäts- und Wasserwerke der Stadt Köln.
+AVir entnehmen dem Berichte über den Betrieb der Elektrieitäts-
+werke der Stadt Köln in dem Jahre vom 1. April 1898 bis
+31. März 1899 folgendes:
+Im Berichtsjahre 1898/99 betrug die nutzbare S t r o m-
+abgabe 15,476.268 Hektowattstunden gegen 11,867.674 llokto-
+wattstunden im Vorjahre, dio Zunahme belief sich daher aut
+3,608.594 Hoktowattstunden oder 30'41% gegenüber 38'41°/o im
+Jahre 1897/1998.
+Diese Zunahme vertheilt sich in der Hauptsache wie folgt:
+Verbrauch der Privaten zu Beleuchtungszwecken mit
+788.627 Hektowattstunden= 10-7 1<%, Verbrauch der Privaten zu
+Kraftzwecken mit 743.170 Hektowattstnndon= 33%, öffentliche
+Strassenbeleuclitung mit 455.317 Hektowattstnnden= 25'590/q,
+während der neue städtische Hafen, der im Berichtsjahre eröffnet
+worden ist, im ganzen einen Verbrauch an Kraftstrom zum Betriebe
+der hydraulischen Krahno von 1,616.878 Ilektowattstnnden aufzu­
+weisen hatte.
+Aln 31. März 1899 waren an der Leitung 3125-7 Kilowatt­
+stunden angeschlossen.
+Die höchste Gesammtleistung der vorhandenen vier Licht­
+maschinen beträgt 1600KW, so dass, wie im vergangenen Jahre,
+auch im kommenden AVInter alle vier Maschinen zeitweise ohne
+Reserve arbeiten müssen.
+Die Fertigstellung des im Bau begriffenen, für eine Höchst­
+leistung' von 9000 K IV berechneten neuen Elektricitäts­
+werkes hat sich durch verspätete Lieferungen derart verzögert,
+dass die Inbetriebsetzung der ersten beiden Maschinensätze von
+zusammen 2000 KW Leistung erst Anfang des Jahres 1900 zu er­
+warten steht.
+Das Leitungsnetz erhielt einen Zuwachs von 5503-82m
+Speise- und Netzleitungen, 726-20 m Anschlussleitungen, 508-5 in
+Hochstrombogenlichtleitungen, 216-52 m Telephonkabel und zwei
+Schaltstellen, wofür 79.525 Alk. verausgabt wurden. Für Trans­
+formatoren kamen 51.692 Mk. und für Elektricitätszähler 15.332 Alk.
+zur Ausgabe, während die Anlagen zur öffentlichen Beleuchtung
+II. 187 Alk. Kosten verursachten.
+Alit dem im Berichtsjahre für das neue Elektricitätswerk
+aufgewandten Betrag von 208.227 Mk. kamen im ganzen 394.945 Mk.
+für Neuanlagen zur Ausgabe.
+Zur Deckung der Kosten für dio neuen Aufwendungen
+wurde aus einer Anleihe ein Betrag von 970.000 Alk. dem Elelt-
+tricitätswerke überwiesen und ausserdem aus dem Betriebs­
+überschuss dem Erneuerungsfonds 150.000 Alk. zugeführt, während
+in den beiden früheren Jahren 125.000 und 100.000 Alk. dazu
+verwandt worden sind.
+Der Betriebsüberschuss belief sich auf 455.774 Alk.,
+während im Etat 424.133 Alk. eingesetzt waren, so dass sich der­
+selbe um 31.641 Alk. höher stellte. Nach Abzug von Zinsen und
+Tilgung in Höhe von 101.770 und 150.000 Alk. zur Dotirung des
+Ernouerungsfonds konnten an die Stadtcassa 204.005 Alk. ab­
+geführt werden, 54.141 Alk. mehr als nach dem Etat vorge­
+sehen war.
+Auf die einzelnen Alonate des Berichtsjahres verthoilt sich
+die nutzbare Stromabgabe, die mittlere Zahl der stromver­
+brauchenden Vorrichtungen in Normallampen ausgedrückt, die
+durchschnittliche monatliche Benutzungsdauer, der Bronnmaterial­
+verbrauch und die Leistung der Lichtmaschinen wie folgt:
+
+Nr. 16.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 195.
+1898/99
+Monat
+Nutzbar abge­
+gebene Hektowatt­
+stunden
+April
+Mai ......
+Juni
+Juli
+August...
+September
+October. ..
+November
+December.
+Jänner
+Februar ..,
+März
+928.980
+853.544
+806.335
+826.730
+901.873
+1,111.348
+1,693.137
+1,719.638
+2,087.871
+1,844.088
+1,440.53 t
+1,362.193
+Mittlern Zahl der .....
+atromverbrauehen'i en Durchschnittliche
+Vorrichtungen in I Benutsnngadauer in
+Normallampen
+Stunden
+54.588
+56.187
+57.648
+57.188
+56.620
+57.144
+59.292
+60.108
+60.365
+60.988
+61.428
+61.868
+Im ganzen ....
+Mittlere Benutzungsdauer eines an-
+geschlossenen Hektowatts
+Durchschnittlich
+15,476.268
+59.138
+31-04
+30- 38
+27- 97
+28- 91
+31- 86
+38-69
+53-74
+57-21
+69-17
+60-47
+46-90
+44-04
+523-38
+Brennmaterial­
+verbrauch
+im ganzen
+in Kohlen aus­
+gedrückt
+kg*Y
+356.565
+341.960
+350.750
+379.200
+396.200
+420.400
+473.200
+519.850
+598.500
+609.000
+641.400
+597.925
+5,684.950
+Betriebsstunden
+der 4 Maschinen
+ä 600 FS
+zusammen
+1.037-75
+1.167-50
+1.161-25
+1.202-25
+1.217-00
+1.188-25
+1.347-75
+1.361-25
+1.472-75
+1.418-25
+1.234-75
+1.309-50
+15.118-25
+Durchschnittlich
+nutzbar abgegebene
+Hektowattstanden
+pro 100 kg Kohlen
+261
+250
+230
+218
+228
+264
+337
+331
+349
+303
+225
+228
+272
+*) Die verbrauchten Steinkohlen sind magere Förderkohlen mit durchschnittlich achtfacher Verdampfung.
+Der Coaks, bezw. Coaksabfall ist aus den Kölner Gaswerken.
+Der Heizwerih der Steinkohlen ist gleich demjenigen des Coaks und der Kohlonhriketts, verhält sich jedoch zu demjenigen des Coaksahfalls wie 2:1.
+Die grösste Beanspruchung der Anlage fand am 16. De­
+cember 1898, abends zwischen 6 und 7 Ulir statt und die Nutz­
+leistung betrag 1,125.600 IT, entsprechend einem Anschlusswerth von
+1,125.600
+jrjj— 22.512 Normallampen. Der Gesammt- Anschluss-
+werth betrug an diesem Tage in Normallampen 61.729, so dass
+36-47o/ 0 desselben an diesem Tage gleichzeitig in Benutzung
+waren.
+Im Jahre vorher betrug die grösste Nutzleistung 955.800 W,
+,, 955.800
+entsprechend= 19.116 Normallampen, bei dem Gesammt-
+Ansehlusswerth von 44.831 Normallampen also= 42-64:
+• Privat-Anlagen u.W erkstättenbetrieb
+Abnahme-Gebüren
+Elektricitäts-Miethen
+verschiedene Erzeugnisse
+Zusammen....
+Bleiben Netto-Erzeugungskostcn
+Die Gesammteinnahme für Strom betrug
+Hiervon ab die Erzeugungskosten
+Bleibt Betriebsüberschuss
+Davon ab für Zinsen und Tilgung
+so dass ein Ueberschuss verbleibt von
+Hiervon entfallen auf:
+den Erneuerangsfonds
+Ablieferung an die Stadt
+60.796
+23.938
+14.002
+7.833
+1.815
+8.161
+3.285
+19.141
+11.041
+18.473
+7.276
+6.520
+4.500
+186.787
+11.968
+5.247
+18.025
+1.067
+36.309
+150.477
+606.252
+150.477
+455.774
+101.769
+354.004
+150.000
+204.004
+43
+72
+44
+93
+12
+71
+85
+54
+27
+41
+09
+81
+00
+32
+49
+83
+87
+3-93
+1-55
+0-90
+0-51
+0-12
+0-53
+0-21
+P24
+0-71
+1-19
+0-47
+0-42
+0-29
+12-07
+0-77
+0-34
+1-16
+007
+2-34
+9-73
+39-17
+9-73
+29-44
+6-57
+22-87
+9-69
+13-18
+Elektrische Licht- und Kraftanlagen A.-G. in Berlin.
+Die Gesellschaft hat sich bei dem mit 2,000.000 Mk. Actien-
+capital neu gegründeten Unternehmen Voigt& Haeffner A.-G.
+betlieiligt, welches mit dem Sitz in Frankfurt a. M. errichtet
+worden ist, um dio von der Firma Voigt& Haeffner in
+Bockenheim bei Frankfurt a. M. betriebene Fabrik von
+
+Seite 196.
+ZEITSCHRIFT FITE ELEKTROTECHNIK.
+Nr. 16.
+Schalt-, Sicherungs- und Regulirvorrichtungen und anderen elektro­
+technischen Artikeln weiter zu betreiben. Don Vorstand der
+neuen Gesellschaft bilden die seitherigen Inhaber der umgewan-
+delten Firma, die Herren Heinrich Voigt und Ad. H a e f f n e r.
+Den ersten Aufsichtsrath bilden die Herren W. S e e f r i d,
+Director der Frankfurter Filiale der Deutschen Bank, Fritz
+Jordan, Director der Elektricitäts-A.-G. vormals Lahmayer
+& Co. und Regierungsrath a. D. K e m m a nn, Director der Elek­
+trischen Licht- und Kraftanlagen A.-G.
+Posener Strassenbalm. In der am 3. d. M. stattgehabten
+Generalversammlung wurde der Jahresabschluss genehmigt. Aus
+dem Geschäftsberichte ist hervorzuheben, dass das abgelaufene
+Geschäftsjahr sich in jeder Beziehung sehr zufriedenstellend ge­
+staltet hat. Die gesammte Gleislänge des Netzes beträgt 17.440
+Kilometer. Die Kraftstation hat erweitert werden müssen nicht
+allein wegen der Ausdehnung des Bahnbetriebes, sondern auch
+infolge der fortschreitenden Nachfrage für Stromabgabe zu Be-
+ieuchtungs- und gewerblichen Zwecken. Die Einnahmen für
+Stromabgaben betrugen 8213 Mk. (gegen 449 Mk. im Vorjahre)
+und die Einnahmen aus dem Bahnbetriebe zuzüglich der vertrags-
+mässigen Zuschüsse von den Vororten mit 12.000 Mk. 424.443 Mk.
+(gegen 340.206 Mk. in 1898). Der Reingewinn stellt sich auf
+182.600 Mk. Hiervon wurden 8668 Mk. dem Reservefonds über­
+wiesen, 4046 Mk. in den Amortisationsfonds der Kraftstation
+gelegt, 6085 Mk. Tantieme an den Aufsichtsrath, 2250 Mk. Tantieme
+an den Vorstand gezahlt. 9<>/ 0 Dividende mit 112.500 M.
+vertheilt und 6050 Mk. auf neue Rechnung vorgetragen. Die Ge­
+neralversammlung genehmigte die vorgeschlagene Dividende und
+ertheilte Entlastung. Die bisherigen Mitglieder des Aufsichts-
+rathes, die sämmtlich ausschieden, wurden wiedergewählt. Endlich
+wurde beschlossen, das Grundcapital um 500.000 Mark auf 2 Mil­
+lionen Mark zu erhöhen. Die neuen Actien, die vom 1. Juli d. J.
+ab an der Dividende theilnelimen, werden den Besitzern alter
+Actien zum Curse von 103% im Verhältnis von 3 zu 1 zum
+Bezüge angeboten. Die neuen Mittel werden zur Abstossung der
+Creditoren, die mit 263.385 Mk. in der Bilanz aufgeführt sind, zur
+Bestreitung der Kosten für die geplanten Erweiterungsbauten
+und zur Zahlung der Dividende gebraucht.
+Remsclieider Strassenbahu-Gesellschaft. Nach dem Ge­
+schäftsbericht stieg der Verkehr von 1,638.724 Personen im Vor­
+jahre und einer Einnahme von 205.216 Mk. auf 1,728.270 Personen
+mit 219.250 M. Einnahme. Die gefahrenen Wagenkilometer sind
+dabei durch den Betrieb der Strecke Vieringhausen—Güldenwerth
+von 463.065 Mk. auf 496.063 Mk. gestiegen, so dass die Zahl der
+auf den Wagenkilometer beförderten Personen mit 3'48 (i. V. 3'45)
+Personen und desgleichen die Einnahme für den Wagenkilometer
+mit 44T9 Pf. (i. V. 44'32 Pf.) etwas nachgelassen hat. Die Kraft­
+abgabe stieg von 374.185 KWSt. mit 58.073 Mk. auf 530.818 KWSt.
+mit 82.794 Mk. Es wurden neu angeschlossen 33 Motore mit
+276 PS., so dass Ende 1899 insgesammt installirt waren 133 Mo­
+tore mit 1016 PS. und ausserdem 162 Lampen. Trotz der höheren
+Einnahmen ist die Rentabilität des Unternehmens gegen das
+Vorjahr insofern gesunken, als bei ähnlichen Abschreibungen wie
+im Vorjahre nur noch die Vertheilung einer Dividende von
+4o/o möglich ist. Dieses ungünstige Ergebnis ist in erster Linie
+aiif die stetig wachsenden Betriebsabgaben zurückzuführen, die
+sich auf 200.441 Mk. stellten gegen 160.566 Mk. im Vorjahre. Ferner
+wurde das Erträgnis durch die Verzinsung und Abschreibung der
+umfangreichen Neuanlagen der letzten Zeit ungünstig beeinflusst.
+Für das laufende Jahr sind umfangreieho Vergrüssernngen und Er­
+weiterungen geplant und theilweise schon vorbereitet. Zur Deckung
+der Kosten wurde die Aufnahme einer 41/2% Anleihe von 550-000 M.
+beschlossen. Dass durch die umfangreichen Neu- und Erweite­
+rungsbauten der nächsten Zoit die Rentabilität des Unternehmens
+noch weiter ungünstig, beeinflusst werden wird, unterliegt nach
+dem Berichtkaum einem Zweifel. Bei 66.236 Mk. Abschreibungen
+verbleibt ein Reingewinn von 45.428 Mk. zu folgender Ver­
+wendung: Rücklage 2271 Mk., Tantiemen 1942 Mk., 4% Dividende
+gleich 4Ö.000 Mk., Pensionseasse 1000 Mk. und Erneuerungsbestand
+215 M.
+Elektricitiitswerke Liegnitz. Der Verkehr auf der Strassen-
+bahn hat sich im verflossenen Jahre, wie der Geschäftsbericht
+mittheilt, nicht in gehofftem Maasse entwickelt. Es wurden be­
+fördert 800.782 Personen (i. V. 859.290), im ganzen also in diesem
+Jahre 58.508 Personen weniger als im Vorjahre, trotzdem im
+letzteren der Betrieb erst am 21. Januar eröffnet wurde, dieser
+Monat also mit 2/3 ausfällt. Berücksichtigt man auch, dass in
+der ersten Zeit die Bahn vielfach nicht zur Befriedigung eines
+Bedürfnisses, sondern lediglich aus Neugier benutzt worden ist,
+so zeigen doch andererseits die Frequenzzahlen, dass die Witte­
+rung immer noch einen entschiedenen Einfluss auf die Benutzung
+der Bahn ausübt.' Nachdem die langwierigen Verhandlungen der
+Elektricitäts-Gesellschaft Felix Singer& Co.
+Aetiengesellschaft, welche das Licht- und Kraftwerk für die Ge­
+sellschaft herzüstellen hatte, mit den städtischen Behörden zu
+Ende geführt waren, konnte Anfang v. J. die Firma mit dem
+Bau endlich anfangen. Der allgemeine Aufschwung der Industrie
+machte sich dabei insofern bemerkbar, als schleunige Lieferungen
+der erforderlichen Maste etc. nicht zu erlangen waren; es konnte
+infolge dessen das Lichtwerk erst am 14. August mit 10 Bogen-
+und 139 Glühlampen eröffnet werden. Inzwischen ist bis zum
+Jahresschluss im ganzen ein Strom-Aequivalent von 2553 Glüh­
+lampen an das Lichtnetz angeschlossen; hiezu tritt noch ein
+Aequivalent von 783 16kerzigen Glühlampen für Kraftzwecke,
+welche an das Bahnnetz angeschlossen sind. Die sämmtliclien
+Anschlüsse entsprechen somit einem Strom-Aequivalent von 3336
+Glühlampen zu 16N.-K. Ein Strom-Aequivalent von etwa 255 Glüh­
+lampen ist in diesem Jahre bereits neu angeschlossen, und noch
+liegen Anmeldungen auf den Anschluss von einem Strom-Aequi­
+valent von etwa 623 Glühlampen vor. Da vielfach über zu hohen
+Preis des Stromes zu Lichtzwecken geklagt wird, wurde der
+Strompreis vom 1. Mai 1900 ab von 70 auf 60 Pf. pro KWStd.
+herabgesetzt. Da nun am 14. December er. erst seitens der
+Stadt die im Vertrag mit derselben vorgesehene Abnahme der
+Gesammt-Anlage erfolgte, hatte die Gesellschaft mit Schluss des
+Jahres das Licht- und Kraftwerk der Erbauerin, der Elektricitäts-
+Gesellschaft Felix Singer& Co. Aetien-Gesellschaft, noch nicht
+abgenommen. Die Pächterin weist folgende Einnahmen nach: Fahr­
+einnahmen 77.095 Mk., Einnahme aus der Licht-und Kraftabgabe
+12.320 Mk., Einnahmen aus Installationen 1884 Mk., Einnahmen an
+Zinsen 12.083 Mk., div. Einnahmen 1144 Mk., zusammen 104.526 Mk.
+Davon 35% betragen 36.584 Mk. Die Ausgaben incl. 15.120 Mk.
+Ueberweisung an den Amortisationsfonds, 6949 Mk. an
+den Erneuerungsfonds und 1500 Mk. Tantiemen betragen
+31.882 Mk. Es bleibt demnach ein Reingewinn von 4702 Mk.
+Die Pächterin garantirt laut Vertrag, dass der Ueberschuss auch
+für folgende Zuweisungen ausreicht: Betriebs-Reservefonds 5%
+die 4702 Mk., Reingewinn 235 Mk., 4o/ 0 Dividende de 1,600.000 Mk.
+64.000 Mk., zusammen 64.235 Mk. Es beträgt der zu leistende
+Zuschuss der Gesellschaft Felix S i n g e r& Co., demnach
+59.533 Mk. Der bisher mit der Elektricitäts-Gesellschaft Felix
+Singer& Co. A.-G. bestehende Pacht- und Garantievertrag ist
+durch gegenseitiges Uebereinkommen am 31. December 1899 für
+erloschen erklärt und mit allen seinen wesentlichen Rechten und
+Pflichten von der Berliner Bank übernommen worden, jedoch
+mit der Massnahme, dass der Betrieb seit dem 1. Januar 1900
+wieder in die Hände der Gesellschaft übergegangen ist. Der be­
+treffende Vertrag mit der Berliner Bank wird der Generalver­
+sammlung zur Genehmigung vorgelegt.
+Gemeinde Wien- Städtisches Elektricitätswerk. Der
+Wiener Gemeinderath hat genehmigt, dass für die zur Erzeugung
+elektrischer Kraft für Beleuchtungs- und andero Zwecke bestimmte
+Centrale sofort um die Verleihung der gewerberechtlichen
+Concossion eingeschritten, dass nach Erthoilung dieser Concession
+die handelsgerichtliche Registrirung der Firma „Gemeinde
+Wien-Städtischos Elektricitätswer k“ erwirkt
+wird, und dass mit der Firmazeichnung einzeln der Bürgermeister
+und jeder der beiden Vicebürgermeister betraut werden.
+Accumnlatoren-Werke System Pollak, A.-G., Zweig­
+niederlassung Wien, Fabrik Liesing bei Wien. Die Gesellschaft
+hat in Prag ein Ingenieur-Bureau errichtet und Herrn Ingenieur
+Johannes Tasche k, Prag, Jerusalemgasse 14, mit der Ver­
+tretung für Böhmen betraut.
+Vereinsnachrichten.
+Mit dem Vortrage am 11. d. M. wurde die
+Vortrags-Saison 1899/1900 geschlossen.
+Ueber die in Aussicht genommenen Excursionen
+erhalten die P. T. Mitglieder Verständigung sowohl
+mittelst Correspondenzkarten, als auch durch die
+Zeitschrift. T. .' T.,.
+Die Vereinsleitung.
+o
+Schluss der Redaction: 9. April 1900.
+... Verantwortlicher Redacteur: Dr. J. Sahulka.— Selbstverlag des Elektrotechnischen Vereines,
+mmissionsverlag bei Spielhagen&Sch ur ich, Wien.— Alleinige Inseraten-Aufnahme bei Haasenstein& Vogler (Otto Maass), Wien und Prag.
+Druck von R. Spies 4 Co., Wien.
+

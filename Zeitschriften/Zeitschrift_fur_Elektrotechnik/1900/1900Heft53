@@ -1,0 +1,1212 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Verej*fe$' Scf
+Heft 53.
+WIEN, 30. December 19<
+bi Sml
+Bemerkungen (ler Iledaction: Ein Nachdruck aus dem redaclionellen Theile
+„Z. f. E. Wien“ und bei Originalartikeln überdies nur mit Genehmigung der Bedactiü
+Die Einsendung von Originalarbeiten ist erwünscht und iverden dieselben nach def)
+honorirt. Die Anzahl der vom Autor event. gewünschten Separatabdrücke, welche zum SelbstTc
+Manuscripte bekanntgegeben werden.
+;i%m. Jahrgang.
+t
+tst Mur unter der Quellenangabe
+der liedgetionsordnimg festgesetzten Tarif»
+Tse berechnet iverden, wolle stets am
+INHALT:
+Üebertragung elektrischer Stromwellen in Kabeln und über
+lange Luftleitungen. Von M. J. Pup in 633
+Zur Statistik der elektrischen Yicinalbabnen in Ungarn im
+Jahre 1899. 635
+Vollbahnen mit elektrischem Betriebe. Vortrag des Maschinen­
+ingenieurs Koloman v. Kändo im Ungar. Ingenieur-
+und Architektenverein in Budapest 63G
+Kleine Mittheilungen.
+Geschäftliche und finanzielle Nachrichten 639
+Vereinsnachrichten 640
+Uebertragung elektrischer Stromwelien in Kabeln und
+über lange Luftleitungen.
+Von M. J. Pupin.*)
+Die Uebertragung elektrischer Energie mittelst
+Drahtleitungen
+erfolgt in Form elektrischer Wellen,
+wenn Sende- und Empfangsstation von einander weit
+genug entfernt sind, um die Entwickelung solcher zu
+gestatten. Eine solche Uebertragung findet statt beim
+Telegraphieren und Telephonieren über grosse Ent­
+fernungen, jedoch nicht, wenigstens in messbarer Weise
+nicht, bei der Kraftübertragung mittelst Wechselströme
+auf die Entfernungen, über welche bis jetzt elektrische
+Energie übertragen wurde.
+Die Fortpflanzungsgeschwindigkeit elektrischer
+Wellen von der Periodenzahl der Telephönströme in
+Leitungsdrähten variiert innerhalb weiter Grenzen, von
+der Lichtgeschwindigkeit an bis zu wenigen Centi-
+metern; sie ist eben abhängig von der Inductanz,
+Widerstand und Capacität der Linie und bestimmt die
+Wellenlänge, welche die charakteristische Constante der
+Fortpflanzung elektrischer Wellen ist.
+Eine zweite Constante, welche mit der Wellenlänge
+die Ausbreitung elektrischer Wellen vollständig definiert,
+ist die Dämpfungsconstante (attenuation con-
+stant). Ihre physikalische Bedeutung ist leicht klar ge­
+macht. Während die elektrischen Wellen sich fortpflanzen,
+verlieren sie an Energie; Strom- und Spannungsam­
+plituden werden daher stetig kleiner. Ist ü die Stromam-
+plidute am Sendeorte, U B die in der Entfernung s von
+ihm, dann gilt für die Dämpfungsconstante [3 die
+Definitionsgleichung
+U a- ß s
+lT= e
+wo e
+die Basis
+Für ß
+der
+natürlichen Logarithmen ist.
+Beziehung:
+selbst ergibt die Rechnung die nachstehende
+fh c
+V U+ Ii d— pL
+wobei i, R, C Inductanz, Widerstand und Capacität
+der Leitung pro Längeneinheit bedeuten, p die Perioden­
+zahl ist. Es wird gewöhnlich behauptet, dass von der
+Capacität der Leitung, indem sie gleichsam wie ein Shunt
+*) Auszug aus einem Vortrage in dem „American Institute
+of Electrieal Engineers“, 19. Mai 1900.
+wirkt, dieUrsache aller Störungen herrillire, denen die
+Uebertragung elektrischer Wellen ausgesetzt ist, das ist
+aber nicht der Fall. Die Inductanz und Capacität einer
+Leitung bedingt lediglich die Ansammlung von Energie
+im Medium, was gewiss ein Nachtheil, aber kein Ver­
+lust ist, sie kann wieder gewonnen werden. Ein Verlust
+von Energie rührt einzig und allein von der unvoll­
+kommenen Leitung her; Inductanz und Capacität
+nehmen indirect auf die Grösse dieses Verlustes Einfluss.
+Erwägen wir die Art dieser Regelung. Wenn das
+ein Element ds des Leitungsdrahtes umgebende Medium
+an magnetischer Energie die Menge d W enthält, dann
+muss ein Strom x in jenem Element fliessen, gegeben
+durch die Gleichung
+d W:
+■ L x 2 d s
+Der 0 h m’sche Verlust d II beträgt dann
+d II— Rx 2 ds.
+Nehmen wir an, wir erhöhen L auf n 2 L, dann
+muss, soll dieselbe Energie dW in dem umgebenden
+Raume angesammelt werden wie früher, ein Strom von
+der Stärke
+x
+durch die Leitung fliessen. Dann ist
+der 0 h m’sche Verlust
+d H 1=
+d II
+Es folgt daraus, dass während der Uebertragung
+einer gegebenen Energiemenge über einen Leitungs­
+draht der Energieverlust umso kleiner sein wird, je
+grösser die Inductanz ist, weil zur Uebertragung einer
+gegebenen Energiemenge Ströme von geringerer Stärke
+erforderlich sind. Durch Erhöhung der Selbstinduction
+wird also der Nutzeffect einer Kraftübertragung ebenso
+erhöht, wie durch Vergrösserung der Leitungsfähigkeit
+des Drahtes.
+Ein anderer wichtiger Vortheil, den die vermehrte
+Inductanz nach sich zieht, ist folgender: Der Ausdruck
+für ß zeigt die Abhängigkeit desselben, bezw. der
+Dämpfung von der Wechselzahl. Die Folge davon ist
+die, dass bei der Uebertragung von Telephonströmen,
+denen nebst der Grundwelle noch die harmonischen
+Oberwellen beigemischt sind, diese Theilwellen in ver­
+schiedener Weise gedämpft werden, wodurch die an-
+kommende resultierende Welle in ihrer Gestalt ver-
+
+Seite 634.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 63.
+ändert sein wird im Vergleich mit der ausgesandten.
+Hohe Inductanz verhindert dies; denn, wenn L gross
+ist im Vergleich zu B, dann wird
+ß ist sodann unabhängig von der Periodenzahl und dies
+die wahre Ursache der Verbesserung der Luftüber­
+tragung mit Leitern von hoher Selbstinduction.
+Wie soll nun eine Telephonleitung construiert
+werden, damit sie hohe Selbstinduction habe? Das
+blosse Einschalten von Drosselspulen genügt nicht; es
+treten hiebei Reflexionserscheinungen auf, die störend
+wirken; es muss das Einschalten von Drosselspulen an
+bestimmten Punkten erfolgen. Eine Antwort hier­
+auf gibt uns die Lösung der Aufgabe: Unter
+welchen Bedingungen sind die un­
+gleichartigen Leiter (d. h. Leiter mit in
+Serie geschalteten Drosselspulen) äquivalent
+gleichartigen Leitern? Bezeichnen wir mit l
+die Distanz, die zwei aufeinanderfolgende, in die
+Leitung eingeschaltete Drosselspulen trennt, und mitX
+die Länge der elektrischen Welle. Wir definieren nun
+den Winkel  durch die Gleich uns'
+$ l
+Der Winkel  soll die Winkel distanz
+genannt werden. Es ergibt sich dann, dass ein un­
+gleichartiger Leiter umso ähnlicher einem gleichartigen
+.., sin d>
+ist, je mehr —-— sieh dem— nähert.
+2 2
+fl 1 ist, wie die vorstehende Gleichung lehrt, ver­
+kehrt proportional der Wellenlänge, so dass für eine
+gegebene Entfernung der Anschaltpunkte der Drossel­
+spulen der Grad der Aehnlichkeit zwischen gleichar­
+tigen und ungleichartigen Leitern, wie er oben definiert
+wurde, umso kleiner ist, je kleiner die Länge der elek­
+trischen Welle ist. Wenn diese Welle kein einfaches
+harmonisches Gesetz befolgt, sondern complex ist, wie
+z. B. bei Telephonströmen, dann wird die Wirkung des
+Leiters für die verschiedenen Componenten dieser
+Welle eine verschiedene. Je ähnlicher aber der un­
+gleichartige Leiter für die Theilwelle mit der höchsten
+Periodenzahl und sonach mit der kleinsten WAllenlänge
+einem gleichartigen Leiter ist, dann wird dies umso­
+mehr für die Componenten mit geringer Wechselzahl
+gelten und so auch für die eomplexe Welle.
+Wir wollen noch in anderer Weise den hier auf-
+gestellten Begriff der Aequivalenz zwischen einem un­
+gleichartigen und einem gleichartigen Leiter deutlich
+machen, für eine Welle von gegebener Frequenz ist
+die Länge derselben wird die eingangs definierte
+Dämpfungsconstante p, um sie in ihrem weiteren Ver­
+laufe verfolgen zu können, von ausschlaggebender
+Bedeutung. Wenn eine Welle gegebener Wechselzahl
+dieselbe Wellenlänge und Dämpfungsconstante in einem
+ungleichartigen Leiter hat, wie in dem entsprechenden
+gleichartigen, dann sind die zwei Leiter bezüglich
+dieser Welle äquivalent. Differieren diese beiden Con-
+stanten, sagen wir um 3%, dann besteht zwischen den
+Leitern eine bis auf 3% angenäherte Aequivalenz.
+. Betrachten wir nun das folgende numerische
+Beispiel: Eine Doppelleitung, wie sie für Telephonkabel
+angewendet wird, hat eine Länge von 250 engl. Meilen.
+Seien die Constanten derselben die folgenden:
+Inductanz= 0
+Widerstand= 9 £2
+Capacität= 0‘074 mf.
+Nach den von der New York Telephone Co. ge-
+handhabten Normen ist dieses Telephonkabel bis zu
+einer Länge von 39 engl. Meilen für die telephonische
+Correspondenz verwendbar. Wir wollen aber das Doppelte
+annehmen und dafür eine etwas schlechtere Corre­
+spondenz eintauschen. Aus Versuchen ergibt sich, dass
+thatsächlich durch ein Kabel dieser Art, jedoch von
+einer Länge von 125 Meilen, keine Lautübertragung
+möglich ist. Es soll nun durch Einschaltung von Drossel­
+spulen in äquidistanten Punkten eine Abnahme der
+Dämpfung und zugleich der Verzerrung bewirkt werden.
+Für diesen Fall ist zu setzen
+wenn wir p L im Vergleich zu B als gross voraus­
+setzen.
+Sagen wir, dass ß= 0'015 sein soll und nehmen
+wir an, dass durch die Einschaltung der Drossel­
+spulen 9 £2 per engl. Meile eingeschaltet werden, dann
+ist B— 18 £2; mit diesem Werth von Jß und dem von C
+ergibt die Formel für den Selbstinductionscoefficienten
+den Werth 0 056 henry. Der Dämpfungsfactor für die
+ganze Kabellänge von 250 engl. Meilen, würde dann
+ca. nämlich= e^ d.h.sein; 2 1 /2%des abgesendeten
+Stromes würde am Empfangsorte anlangen; das genügt
+aber für telephonische Zwecke. Berechnen wir aber den
+Dämpfungsfactor für die Leitung ohne die Drossel­
+spulen für eine Weehselzahl von 600 pro sec. Dann
+finden wir, dass der Strom am Empfangsorte 6000 fach
+kleiner als hei dem Kabel mit den Inductionsspulen.
+Der nächste Schritt ist die Wellenlänge zu finden,
+für die kleinste Periodenzahl, die in der Telephonie
+vorkommt, und für einen Leiter, dessen Inductanz
+9056 h, Widerstand— 18 £2 und Capacität= 0'074 mf
+ist. 750 Wechsel pro Sec. ist erfahrungsgemäss die
+höchste Wechselzahl, die für die telephonische Ueber-
+tragung in Betracht kommt. Die dieser Wechselzahl
+entsprechende Weilenlänge für einen gleichartigen Leiter
+lässt sich aus der Formel
+0*2~
+P V‘2 LC= 14-0 en S 1- Meilen
+ermitteln.
+Nehmen wir nun an, wir schalten eine Drossel­
+spule vom Ohm’schen Widerstande= 9 £2 und von
+der Inductanz— 0‘056 h in die Leitung ein. Die so
+erlangte Winkeldistanz  wird, da l= 1 ist, gegeben
+2 TC
+sein durch. Der Aehnlichkeitsgrad dieses ungleich­
+artigen Leiters zu dem ihm correspondierenden gleich­
+artigen Leiter wird bestimmt durch das Verhältnis
+von sin ----- zu— —. Nun unterscheidet sich sin
+14-6 14-6 14'6
+von Wl ß Um wcru 'o er Ms ic/o des Werthes von
+daher ist bei der oben angenommenen Wechselzahl
+von 750 pro Secunde die Wellenlänge und Dämpfungs­
+constante für den ungleichartigen Leiter von Wellen-
+
+Nr. 53.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK..
+Seite 635.
+länge und Dämpfungsconstante des entsjorechenden
+gleichartigen Leiters um weniger als l°/ 0 verschieden.
+Eine solche Verschiedenheit kann kein Versuch auf­
+decken, auch das Ohr wird dies nicht wahrnehmen.
+Wir können daher mit vollster Beruhigung sagen, dass
+ein solch ungleichartiger Leiter dieser Art mit Drossel­
+spulen, deren Widerstand 9 Q und Selbstinductions-
+coefficient= 0'056 h sind und die in Entfernungen einer
+englischen Meile angeordnet werden, einem gleichartigen
+Leiter fast vollständig äquivalent ist, so dass die
+Stromwelle unverzerrt in der Empfangsstation anlangen
+wird.
+Wir wollen nun beifügen, dass in dem Falle
+eines submarinen Kabels von 2000 engl. Meilen etwa
+die Dämpfungsconstante ß viel kleiner sein müsse, als
+oben angenommen wurde, um einen angemessenen
+Dämpfungsfactor c ~~ ß s zu erhalten. Die Oapacität pro
+Meile eines Unterseekabels ist ungefähr 4mal so gross,
+als die Capacität des oben beschriebenen Telephon­
+kabels. Es wird daher sowohl wegen der grossen Länge,
+wie auch der grösseren Capacität die Inductanz pro
+Meile viel grösser sein müssen als in dem eben er­
+wähnten Falle. Hohe Inductanz und grosse Capacität
+geben aber eine sehr kurze Wellenlänge. Wenn wir
+z. B. in dem Falle, dass die Capacität sechsmal so
+gross ist, eine sechsmal grössere Inductanz einschalten,
+dann wird die Wellenlänge für die angenommene
+Wechselzahl von 750 per Secunde nur 14-6:6= 2-43
+engl. Meilen betragen. Die Drosselspulen werden daher
+in ein Sechstel der vorerriehteten Distanz zur Erzielung
+desselben Effectes einzuschalten sein.
+Zur Erprobung der eben erlangten Resultate
+wurde nun ein sogenanntes künstliches Kabel construiert.
+dessen Constante mit den im Beispiele angegebenen
+übereinstimmten. Das Kabel bestand aus 250 Theilen,
+jeder Theil bestand aus einem Blatt paraffiniertem Papier,
+auf dessen beiden Seiten Staniolstreifen mäander­
+förmig aufgeklebt waren; der Widerstand eines solchen
+Streifens betrug 9 ß. Die Capacität des von den beiden
+Streifen gebildeten Condensators ca. CK)74 mf. 250
+solche Papierblätter hintereinander geschaltet, stellen
+daher ein Kabel von 250 Meilen Länge vor. Diese
+einzelnen Blätter wurden nun so verbunden, wie dies
+Fig. 1 andsutet.
+Hierin bedeuten A, /i, (7, D und A t. B u C 1: D 1 die
+Belegungen der paraffinierten Papierblätter, o, 6, c die
+Primärwickelungen, oq, b u q die Secundärwickelungen
+der Inductionsspulen. Der Selbstinductions-Coefficient
+einer solchen Spule betrug 0-030 lienry, der gegen­
+seitige Inductionscoefficient 0-028 henry, in der Weise
+untereinander verbunden, wie dies Fig. 1 angibt, wirkt
+diese Inductionsspule wie eine Drosselspule von einem
+Selbstinduetions-Coefficienten= 0-058 h.
+Die Versuche ergaben nun, dass über das ganze
+künstliche Kabel die telephonische Correspondenz eine
+ungehinderte war; wurden jedoch die Inductionsspulen
+ausgeschaltet, dann war wohl ein Gespräch über
+50 engl. Meilen möglich, unmöglich jedoch über
+112 Meilen.
+Um nun die Wirkung innerer Reflexionen auf
+die telephonische Uebertragung kennen zu lernen,
+wurden die Inductionsspulen in Gruppen zu je zehn
+verbunden und jede Gruppe in Entfernungen von
+10 engl. Meilen in die Leitung eingeschaltet. Eine tele­
+phonische Verständigung war in diesem Falle ganz
+unmöglich. Schaltete man die Spulen zu je fünf in die
+Leitung in Entfernungen von 5 engl. Meilen ein, dann
+konnte man über eine Distanz von 100 engl. Meilen
+gerade noch telephonieren, aber nicht so gut wie in
+dem Falle, wenn die Inductionsspulen abgeschaltet,
+bezw. kurz geschlossen waren. Man musste den Mund
+an den Transmitter anlegen, sehr langsam und zwar
+mit lauter Stimme sprechen, sonst konnte man nichts
+verstehen. Waren aber die Inductionsspulen in Ent­
+fernungen von einer engl. Meile angeschlossen, dann
+konnte man sich von dem Mikrophon auch entfernt
+aufstellen; dennoch wurde das Gespräch am Empfangs­
+orte deutlich vernommen.
+Die bei diesen Versuchen verwendeten Inductions­
+spulen hatten keinen Eisenkern. Spulen mit Eisenkern
+müssen in besonderer Weise construiert sein; die Ver­
+wendung solcher Spulen käme insbesondere bei Unter­
+grund- und Unterseekabeln in Betracht, weil sie ein
+kleineres Volumen einnehmen; bei Ueberlandleitungen
+genügen die Spulen ohne Eisenkern. K.
+Zur Statistik der elektrischen Vicinalbahnen in Ungarn
+im Jahre 1899.*)
+Bis vor Kurzem wurde in Ungarn die Elektricität,
+als Betriebskraft bei Eisenbahnen, vorwiegend nur bei
+den Kleinbahnen (Gemeinde- und Strassenbahnen) ver­
+wendet; im Jahre 1899 beginnt jedoch auch auf dem
+Gebiete des Baues und insbesondere bei Projectierung
+von Vicinalbahnen (Bahnen zweiten Ranges,
+welche auf Grund des Vicinaibahngesetzes concessioniert
+werden) eine erfreuliche Thätigkeit sich zu entfalten.
+Bei den Hauptbahnen (Bahnen ersten Ranges) ist man
+diesbezüglich noch nicht über einige Versuche hinaus­
+gekommen; zu diesen zählen die Experimente, welche
+clie Budapester Firma „G a n z& C o., Eisengiesserei
+und Maschinenfabrik, betreffend die directe Ver­
+wendung von Hochspannungsstrom auf ihrer auf der
+O-Budäer Schiffswerfteninsel erbauten Probebabn ver­
+folgt und worüber wir an anderer Stelle dieser Nummer
+ausführlich berichten.
+Die erste und im J a h re 1899 auch die
+einzige, dem allgemeinen Verkehr üb er-
+*) Vei-gl. H. 24, S. 296 ex 1900.
+Die Red.
+
+Seite 636.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 53.
+ge bene elektrische Vieinalbahn in
+Ungarn ist die 7‘835 km (bezw. sammt der mit der
+Budapester Strassenbahn-Actiengesellsckaft gemein­
+schaftlich benützten 0840 Tim langen Peagestrecke
+8‘675 km) lange Budapest-Budafoker elek­
+trische Vicinalbahn, welche am 19. Sep-
+t e m ber 1899 eröffnet wurde.
+Diese Bahn hat während der Periode vom 19. Sep­
+tember bis Ende December 1899 bei einer Leistung
+von zurückgelegten 106.785 Wagenkilometern 186.885
+Personen befördert, d. h. pro Bahnkilometer durch­
+schnittlich 21.543, per Wagenkilometer aber 1749
+Personen.
+Die Einnahmen aus dem Personenverkehr haben
+fl. 20.913 ergeben, d. h. per Bahnkilometer durch­
+schnittlich fl. 2411, per Wagenkilometer hingegen
+fl. 19.56.
+Die verschiedenen Einnahmen einbezogen, betragen
+die Gesammteinnahmen fl. 20.999, denen fl. 19.876 als
+Betriebsausgaben gegenüberstehen, so dass der Ueber-
+schuss sich nur auf fl. 1123 belief.
+Das Actiencapital der Bahn beträgt fl. 1,330.000,
+wovon aber als eingezahlt nur fl. 399.000 in der Bilanz
+des Jahres 1899 rechnungsmässig nachgewiesen werden.
+Im Jahre 1899 wurde die Umgestaltung der
+Budapest-Szt. Lürinczer Vicinalbahn
+auf elektrischen Betrieb, bezw. die Ergänzung
+des Netzes derselben (Verlängerung bis zur Szarvas-
+csärda, Lörinczigasse-Flügellinie) begonnen, inzwischen
+auch beendet; so auch der Ausbau der 24'2 km langen
+Szathmar-Erd öder Vicinalbahn, auf deren
+im Intravillan der Stadt Szathmär liegenden Linien
+der elektrische Betrieb eingeführt werden wird, in An­
+griff genommen (ein Theil dieser elektrischen Linien
+ist heute bereits dem öffentlichen Verkehre übergeben).
+Im Stadium der Ooncessionierung,
+bezw. der Concessionsverhandlung, be­
+fanden s i c h E n d e 1899 di e folgenden elek­
+trischen Vicinalbahnen:
+d) Bereits administrativ
+Bahnen:
+1. Aradhegyaljäer elektrische
+2. Budapest—Budakeszer elektrische..
+3. Budapest—Föther elektrische ....
+Budapest—Pdczeler elektrische
+Debreczen—Nagyvarader elektrische
+Esztergom—Parkänynänaer elektrische
+Herkulesbader elektrische ....
+Kecskemet—Laj osmizse— Kerbkegyhäzaer
+elektrische
+Kolozsvär-Umgebung elektrische...
+Miskolcz—Hämorer elektrische.
+Miskolcz—Tapolczaer elektrische..
+Modor-Senkvicz-Modorer elektrische.
+Moson—Magyarövarer elektrische..
+14. Nyiregyhaza—Söstöer elektrische..
+15. Pozsony—Hainburger elektrische
+16. S. A. Ujhely—Sarospataker elektrische
+Tatraer elektrische
+Zombor—Apatiner elektrische ....
+egangene
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+17.
+18.
+Zusammen
+19.
+b) Noch nicht begangene Bahnen:
+Dernöthaler elektrische 13'
+20. Hiivüsvölgy—Märiaremetder elektrische
+Zusammen
+39-
+5
+11
+20
+67
+7
+5
+30
+29
+9
+6
+4'
+7'
+8
+4'
+26
+14'
+18
+0 km
+4„
+0
+4
+1
+0
+5
+313-1 km
+0 km
+5„
+15'5 km
+Ueber die elektrischen Kleinbahnen
+gedenken wir demnächst die entsprechenden Mit­
+theilungen zu machen; wir beschränken uns daher hier
+blos auf die Notiz, dass auch auf dem Gebiete dieser
+Stadt- und Gemeinde- (Strassen)-bahnen eine erfreuliche
+Tendenz zu beobachten ist. M.
+Vollbahnen mit elektrischem Betriebe.
+Vortrag des Maschinen-Tngenieurs Kolom.an von Käiido im
+Ungarischen Ingenieur- und Architektenvereine in Budapest.
+Hie elektrische Traction auf Voilbahnen muss heute be­
+reits als eine actuelle Frage bezeichnet worden.
+Die Frage ist jedoch nicht, wie dies noch vor Jahren zu
+erwarten stand, infolge der steigenden Bequemlichkeitsanfordc-
+rungen des Publicums, sondern vielmehr durch ihre technischen
+und ökonomischen Vortheile actuell geworden, welche Vortheilo
+dio elektrische Traction zufolge der rapiden Fortschritte ihrer
+technischen Entwickelung schon heuto in vielen Fällen der ge­
+wöhnlichen Dampftraction gegenüber motiviert und wünschonswerth
+erscheinen lassen.
+Von diesen Vorthoilen sind jene, welche das Publicum am
+nächsten interessieren, in erster Reihe das Wegbleiben des,
+schädlichen Kohlenrauches und die gehoffte wesentliche Steigerung
+der Fahrgeschwindigkeit.
+Es könne so Manchem seltsam erscheinen, dass, trotzdem
+bei den vor Jahren gemachten einschlägigen\ Studien und Pro-
+jecten grösstenthoils die Erreichung oinor gesteigerten Geschwin­
+digkeit ins Auge gefasst wurde, von den boiden vorgenannten
+Vorthoilen vorläufig der erste, nämlich das Wegfallen des lästigen
+Kohlenrauches, sich als der wichtigere erwiesen hat.
+Gerade dieser Vortheil diente als Beweggrund für die erste
+Anwendung der elektrischen Traction in grossem Stile, nämlich
+auf der Bahn Baltimore und Ohio, wo der in dem langen Tunnel
+von Baltimore sich ansammelnde Rauch eine andere Lösung als
+die der gewöhnlichen Dampftraction erforderte.
+Aber auch in Europa gibt es zahlreiche, den Verhältnissen
+der Baltimore- und Ohiohahn ähnliche Fälle, wo nämlich in
+langen und beim Bahnbau schwer vermeidlichen Tunnels
+mit starken Steigungen infolge des grossen Verkehrs der
+Rauch sich derart ansammelt, dass dio bei dem Locomotiv-
+personal auftretenden Erstickungsfälle Verkehrsstörungen, ja so­
+gar Eisenbahnunfälle verursachen können, wie dies in dem
+Tunnel Giovi zwischen Turin und Genua vor ungefähr einem
+Jahre thatsächlich geschehen ist.
+Was die Steigerung der Geschwindigkeit im Wege der
+elektrischen Traction anbelangt, so ist dieser Vortheil heute noch
+von rein akademischem Werth, denn bei den bisher durchge-
+ftihrton Versuchen sind die mittelst Dampflocomotiven erziolten
+Fahrgeschwindigkeiten nicht einmal erreicht, geschweige denn
+überflügelt worden. Es unterliegt keinem Zweifel, dass die elek­
+trische Traction einerseits durch den Umstand, dass die Elektro­
+motoren keine hin- und hergehenden Massen besitzen und hie­
+durch eines der Hindernisse, welche der Steigerung der Ge­
+schwindigkeit entgegenstehon, nämlich die schädlichen Bewegungen
+der Locoinotiven, entfällt, und andererseits durch den Um­
+stand, dass die Leistungsfähigkeit der elektrischen Locomotivon
+im Verhältnisse zu ihrem Gewichte grösser ist, als diejenige der
+Dampflocomotiven, zur Steigerung der Zuggeschwindigkeit bei­
+tragen wird;
+Insbesondere in einem Lande, wie z. B. in Italien, wo
+Kohlenbergwerke überhaupt nicht vorhanden sind und nur Lignit
+von sehr minderer Qualität iin Lande selbst bekommen werden
+kann, welches Material für die Heizung von Locomotiven unge­
+eignet ist, wo hingegen eine rohe Wasserkraft von mehr als
+anderthalb Millionen verlässlichen Pferdekräften unausgenützt
+den Eisenbahnlinien entlang brach liegt, muss die Einführung der
+elektrischen Traction als eine hochwichtige national-ökonomische,
+ja sogar strategische Frage bezeichnet werden, denn nur durch
+die Nutzbarmachung der vorhandenen Wasserkräfte kann der
+Eisenbahnverkehr des Landes von den Conjuncturen der Kolilen-
+production des Auslandes unabhängig gemacht werden.
+Die Idee der Verwerthüng des in den Wasserkräften
+brachliegenden Nationalcapitals war es, welche die italienische
+Regierung bewog, schon im Jahre 1897 die beiden grossen Eisen­
+bahn-Gesellschaften des Landes, nämlich die Societä italiana pei­
+le strade ferrate Meridionali und die Strade formte del Medi-
+terraneo aufzufordern, sie mögen die Frage der Umgestaltung
+der Bahntraction auf elektrischen Betrieb einem gründlichen
+Studium unterziehen, um dann in Bezug auf nach dieser Richtung
+
+Nr. 53.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 637.
+hin durchzuföhrende, gross angelegte Versuche ihre Vorschläge
+unterbreiten zu können.
+Es handelte sich demnach in diesem Falle keineswegs da­
+rum, durch Anwendung der elektrischen Traction auf einzelnen,
+regeren Verkehr aufweisenden kurzen Strecken einen tramway­
+artigen Verkehr probeweise ins Leben zu rufen, so wie dies in
+Amerika und neuestens auch in Frankreich erfolgt ist, noch da­
+rum, auf einer geraden Strecke versuchsweise Züge bei Ge­
+schwindigkeiten von 150 oder 200 hm verkehren zu lassen, son­
+dern es ist die Aufgabe gestellt worden, dass ein elektrisches
+Tractionssystem ausgearbeitet werde, welches geeignet sei, im
+allgemeinen die heutige Dampftraction auf Vollbahnen zu ersetzen.
+Bei dem ersten, in grossem Massstabe durchgeführten Ver­
+suche wurde wohl die Anzahl der Züge auf der bezeichneten
+Strecke vergrössert und deren Capacität vermindert, wodurch
+ein dem tramwayartigen Verkehr zuneigender Fahrplan geschaffen
+wurde, doch auch hier mussten bereits beim Anschlüsse an die
+übrigen Eisenbahnlinien die Anforderungen der ordentlichen Voll­
+bahnen voll berücksichtigt und das System derart ausgearbeitet
+werden, dass dasselbe auch auf internationalen Verkehrslinien
+entspreche.
+Die eine der vorerwähnten Eisenbahngesöllschaften, die
+Societä italiana per la strade ferrate Meridonali hatte ihrerseits
+die Budapester Firma Ganz& Comp, eingeladen, die Frage im
+Einvernehmen mit ihr zu studieren.
+Die Frage der elektrischen Traction von Eisenbahnen, von
+dem Gesichtspunkte des Elektrotechnikers betrachtet, ist nichts
+anderes, als ein specieller Fall der elektrischen Kraftübertragung.
+Als technisches Problem wird dieselbe durch zwei Factoren be­
+stimmt: durch die Entfernung und durch die zu übertragende
+Energie.
+Ein Vergleich zwischen der elektrischen Traction von
+Trambahnen mit jener von Vollbahnen ergibt einen bedeutenden
+Abstand zwischen beiden: In Bezug auf Entfernung stehen 10
+bis 20 hm beim Trambahnbetrieb mehreren hundert Kilometern
+beim Vollbahnbetriebe gegenüber und in Bezug auf den Kraft­
+bedarf sind an Stelle der beim Trambahnbetriebe erforderlichen
+20—30 PS mehrere hundert Pferdekräfte per Zug der Vollbahnen
+in Betracht zu ziehen.
+Für industrielle Kraftübertragung auf grosse Entfernungen
+ist schon seit längerer Zeit wegen der Einfachheit der Wechsel­
+strommotoren und wegen der Leichtigkeit, mit der man
+Wechselstrommotoren für hohe Spannungen bauen kann, dem
+Wechselstrom der unbedingte Vorzug über den Gleichstrom ein­
+geräumt worden. Heute z. B. denkt Niemand mehr daran,
+grössere Kraftübertragungen mittelst 500 Voltigen Gleichstrom
+auszuführen.
+Seltsam genug ist es, dass der Wechselstrom für Tractions-
+zwecke bisher nur vereinzelt, und eine höhere Spannung als
+750 V überhaupt nicht zur Verwendung gelangt ist. Die Ursache
+dieses Umstandes dürfte ausser der Lebensgefährlichkeit der
+hohen Spannung hauptsächlich darin zu suchen sein, dass man
+bisher auf längeren Hauptlinien,’ wenn sie mittelst elektrischer
+Traction betrieben werden sollten, meistens, wenn auch mit
+schweren Zügen, doch nur einen tramwayartigen Verkehr ab­
+wickelte. Es war demnach möglich, auch längere Linien in der
+Weise mit Strom zu versorgen, dass man für kurze Streckeu-
+thoile je eine separate und unabhängige Stromerzougungs-Centrale
+errichtete. Solche Centralen aber, weiche, gleichviel, ob sie nun
+durch Dampfkraft, oder anstatt durch Dampfmaschinen mittelst
+Motoren angetrieben werden, aus einer gemeinschaftlichen grossen
+Centrale mit hochgespanntem Wechselstrom gespeist sind, ver­
+leihen der Anlage dennoch den Charakter einzelner, in sich ge­
+schlossener, von einander unabhängiger Strockenthoile. Ein
+solches System ist nur dort verwendbar, wo der Verkehr eine
+genügende Frequenz aufweist und die Zugscinheiten klein sind,
+so dass die Belastung der Streckoncontrale eine annähernd gleich-
+mässige ist (indem auf jeden Streckentheil je ein oder mehrere
+in Bewegung befindliche Züge entfallen), und die maximale Be­
+lastung, mit Rücksicht auf die kleinen Zugseinheiten, nicht allzu
+gross ist.
+Sobald man aber unter Zugrundelegung dieses Systems
+den Verkehr von Eisenbahnlinien mit Vollbahncharakter ab­
+wickeln will, stellt sich heraus, dass die schweren Lastzüge,
+ferner die durchgehenden internationalen Züge eine tramway­
+artige Auflösung des ganzen Verkehres nicht gestatten und das
+Ablassen von grossen, mehrere hundert Pferdekräfte an Kraft­
+bedarf beanspruchenden Zugseinheiten in grösseren Intervallen
+erfordern. Daraus folgt, dass die durchschnittliche Belastung der
+Streckencentralen von den momentanen maximalen Belastungen
+wesentlich mehr abweicht als bei Tramway- oder bei Vollbahncen­
+tralen mit tramwayartigem Verkehre.
+Um diesen Unterschied ziffermässig zu illustrieren, wurden
+die Stromconsuindaten von drei interurbanen Tramways, d. i. der
+Budapest-Budafoker, Budapest-Ujpest Rakospalotaer und Buda-
+pest-Szent Lörinczer Bahn aufgenommen, und geht aus den Er­
+gebnissen hervor, dass die Verhältniszahl des maximalen Strom-
+stosses zur mittleren Belastung der Centrale zwischen P7 bis 2’9
+variiert.
+Auch bei diesen Verhältnissen sind in der Anordnung der
+Centrale Specialmassrogeln nothwendig, um die ungünstigen
+Folgen dieser Veränderlichkeit der Belastung zu paralysieren,
+auf welche Massregoln noch später zurückgekommen werden wird.
+Viel ungünstiger gestalten sich die Verhältnisse bei einem
+Betrieb mit Vollbahncharakter, wo bei einem Verkehre, wie z. B.
+der Vorkehr auf der Streche Budapost-Vacs, also bei einem ver­
+hältnismässig regen Verkehre, für eine Strockencentralo für 15 km
+Linienlänge die Verhältuiszahl auf 7 steigt.
+Wenn man nun diese Strockoncentrale den vorerwähnten
+maximalen Belastungen entsprechend dimensionieren wollte, so
+würde dieselbe ganz bedeutend grösser werden, als dies durch
+die durchschnittliche Belastung bedingt erscheint, wodurch die
+volle Ausnützung der Anlage verhindert, die Oekonomie derselben
+ungünstig beeinflusst und die Investitionskosten sieh so hoch
+stellen würden, dass dadurch die Anwendung der elektrischen
+Traction unmöglich wäre.
+In solchen Fällen ist es nun unbedingt nothwondig, anstatt
+eines „steifen“ Systems ein anderes, elastischeres zu wählen, und
+ein solches erhält man, wenn man Accumulatoren-Puft'erbatterion
+verwendet. Die Anlage- und Erhaltungskosten solchor grosser
+Batterien würden indessen die Rentabilität einer derartigen An­
+lage sehr ungünstig beeinflussen.
+Eine viel billigere Lösung gibt die Anwendung von
+Wechselstrom-Transformatoren infolge der grossen Ueberlastungs-
+fähigkeit der letzteren. In einem durchgerechneten Falle würde
+die Batterie circa K 170.000— ohne den dazugehörigen Wechsel-
+strom-Gleichstrom-Umformer— kosten, wogegen ein gleich­
+wertiger Wechselstrom-Transformator nur circa Iv 24.000 kostet.
+Noch viel günstigere Resultate erhält man, wenn auch in
+der Contactleitung statt Strömen von niedriger Spannung, solche
+von bedeutend höheren Potentialen zur Anwendung gebracht
+werden. Durch die hoho Spannung kann der Rayon je einer
+Station wesentlich vergrössert, die durchschnittliche Leistung der
+Unterstationen— da dieselben grössere Streckentheilo versorgen
+können— vermehrt und derart das Verhältnis der maximalen
+zur durchschnittlichen Belastung wesentlich günstiger gestaltet
+werden, was sowohl die Betriebsökonomie erhöht, als auch die
+Investitionskosten um ein Beträchtliches vermindert.
+Die Leitungsquerschnitte für dieselbe zu übertragende
+Energie bei derselben Distanz und bei demselben percentuellen
+Arbeitsverluste in der Leitung sind nämlich bei verschiedenen
+Spannungen dem Quadrate der Stromstärken direct proportional.
+Wenn wir nun 3000VoltigenDreiphasenstrom mit 700Voltigen Gleich­
+strom vergleichen, so sehen wir, dass der Gesammtquersehnitt
+der Leitungen bei gleicher Energieübertragung, gleicher Distanz
+und gleichem percentuellen Arbeitsvorlusto in der Leitung
+zehnmal so gross ist bei Verwendung von 700 Voltigein Gleichstrom,
+als bei Benützung eines 3000 Voltigen Droiphasenstromes, oder
+aber: eine Leitung von gleichem Querschnitt vorausgesetzt, wird
+die Entfernung der Stromerzeugungsstationen bei demselben per­
+centuellen Energieverluste für die Abgabe einer gleich grossen
+Energiemenge bei 3000 V Mehrphasen-Wechselstrom zehnmal so
+gross gewählt werden können, als bei 700 Voltigem Gleichstromo.
+Dieser Vergleich liefert für die Anwendung des hochgespannten
+Mehrphasenstromes so günstige Ergebnisse, dass auch in Fällen,
+wo dio Anwendung von Gleichstrom möglich wäre, wogen der
+beträchtlichen Kostenersparnis bei der Leitunganlage die Ver­
+wendung von hochgespanntem Wechselstrom unbedingt empfohlen
+werden kann.
+Eines der bisher bestandenen Hindernisse für die Ver­
+wendung von hochgespannten Strömen zu Tractionszwecken war
+die Gefährlichkeit derselben für das Leben derjenigen, die mit
+stromführenden Theilen in unmittelbare Berührung kommen
+konnten, denn es ist eine nicht zu leugnende Thatsache, dass
+hochgespannter Strom, mit dem menschlichen Organismus in
+Berührung kommend, eventuell auch von tödtlicher Wirkung
+sein kann.
+Die Frage der Verwendbarkeit von hochgespannten Strömen
+zu Tractionszwecken wird nun, von dem Gesichtspunkte der per­
+sönlichen und Betriebssicherheit betrachtet, in überaus interessanter
+Weise durch jene Expertise beleuchtet, welche anlässlich der Con-
+cessionierung der Burgdorf-Thuner Bahn seitens der schweize­
+rischen Bundesregierung von den hiezu aufgeforderten drei Fach­
+männern von europäischem Rufe, den Herren Gisbert Kapp,
+
+Seite 638.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 53.
+Professor Weber und Sylvanus T li o m p s o n, abgegeben
+wurde. Hie drei genannten Capaeitäten haben, voneinander voll­
+kommen unabhängig, sich übereinstimmend dahin geäussert, dass
+die Anwendung von hochgespannten Strömen für Tractionszwecke
+durchaus zulässig und rathsam ist.
+Besonders interessant ist in dieser Hinsicht die von Pro­
+fessor Weber abgegebene Expertise, welche an der Hand einer
+Reihe von Versuchen den Beweis erbringt, dass der elektrische
+Strom unter gewissen Verhältnissen sogar unter 100 V schon
+lebensgefährlich sein kann, dass hingegen unter günstigen Um­
+ständen auch ein Strom von 3000 V Spannung nicht unbedingt
+lebensgefährlich ist.
+Hie Folgerung, welche aus den Ergebnissen dieser Versuche
+gezogen wird, ist die, dass eine Begrenzung der Spannungen mit
+Rücksicht auf deren Lebensgefährlichkeit keineswegs begründet
+wäre, dagegen stimmt das Gutachten aller drei Experten in dem
+Punkte überein, dass gegen die Gefahren der hochgespannten
+Ströme sowohl das Betriebspersonal als auch die Passagiere durch
+zweckentsprechende Construction und richtige Ausführung ge­
+schützt werden müssen und können.
+Das Misstrauen des grossen Publicums und bis zu einem
+gewissen Grade selbst der Fachleute gegenüber der Eloktricität
+und insbesondere gegenüber der lebensgefährlichen Elektricität,
+muss auf die Räthselhaftigkeit des Blitzschlages und auf die voll­
+kommene Unberechenbarkeit seines Weges zurückgeführt werden.
+Gewissermassen dieser Naturerscheinung ähnliche, ebenso
+räthselhafte Erscheinungen treten manchmal auf, wenn zufolge
+eines Isolationsfehlers der Strom durch schwachleitende Gegen­
+stände, wie z. B. feuchtes Holz oder feuchte Mauern, seinen
+Weg nimmt.
+In solchen Fällen kann man elektrische Schläge auch durch
+die Berührung solcher Gegenstände erhalten, welche entweder
+selbst Nichtleiter sind oder, wenigstens anscheinend, mit der
+Contactleitung in keiner leitenden Verbindung stehen. Solche
+Schläge können ganz unversehens erfolgen und sind gerade
+deshalb gefährlich.
+Ein solches Umherstreifen der Elektricität ist nur dadurch
+möglich, dass der betreffende Gegenstand entweder selbst ein
+schlechter Leiter ist oder aber mit der Erde in schlechter leitender
+yerbindung steht, denn die Erde, dieser grosse Condensator, wenn
+sie einmal mit irgend einem elektrischen Strom führenden Gegen­
+stände in gutleitenden Contact geräth, lässt die in demselben
+anfgespeicherte Elektricität— sei es auch die grösste praktisch
+erzeugbare Elektricitätsmenge— sofort in sich selbst verschwinden.
+Wenn man demnach einen Gegenstand mit der Erde in
+gut leitenden Contact zu bringen imstande ist, so wird dadurch
+unmöglich gemacht, dass derselbe elektrische Spannung erhalte
+und dadurch für die Menschenleben gefährlich werden könne.
+Hiese Erfahrung gibt den Schlüssel des Problems in die
+Hand, Motoren und Apparate, welche mit hochgespanntem Strome
+gespeist werden, in Bahnwaggons unterzubringen, und zwar
+derart, dass dieselben weder für das reisende Publicum, noch
+auch für das Betriebspersonal auch nur die geringste Gefahr in
+sich bergen.
+Hies ist nun in vollem Maasse erreichbar, wenn man die
+Hochspannung führenden Theile ausser mit einer, dieselben um­
+gebenden Isolierhülle, noch mit einem ununterbrochenen, und
+zwar guten Leiter, mit einer geschlossenen Metallhülle, verkleidet,
+welche an mehreren Stellen mit dem Untergestell des Wagen­
+kastens und auf diese Weise auch mit den Schienen leitend ver­
+bunden ist. Biese Sicherheitsvorrichtung müsse ferner auch auf
+sämmtliche Metallbestandtheile des Wagens, insbesondere aber
+auf den Deckel des Wagenkastens ausgedehnt und dessen Metall­
+hülle gleichfalls mit der Erde in■ leitende Verbindung gebracht
+werden. Solange nun die Isolation unverletzt ist, bietet schon
+diese allein vollkommenen Schutz gegen die Wirkungen der hoch­
+gespannten Ströme. Hie Metallhülle soll erst dann in Wirksamkeit
+treten, wenn der Isolation eine Beschädigung zugestossen und
+dadurch solche Bestandtheile von hochgespanntem Strom durch­
+flossen werden sollten, welche für die Passagiere oder für das
+Betriebspersonal zugänglich sind. In solchen Fällen dient nun die
+Metallhülle gewissermassen als ein „Blitzableiter“, durch welchen
+der Strom in das Untergestell geleitet wird und —• da dasselbe
+mit der Erde eine gute leitende Verbindung besitzt— ist es
+unmöglich, dass selbst im Falle eines Isolationsfehlers irgend ein
+den Passagieren oder dem Betriebspersonal zugänglicher Bestand-
+' heil hochgespannten Strom führen kann. Hie gut leitende Ver­
+bindung des Wagendeckels und sämmtlicher übrigen Metalltheile
+des Wagens mit den Rädern und demzufolge mit den Schienen
+bietet den in dem Wagen Befindlichen auch für den Fall, dass
+der Leitungsdraht der Linie reissen und auf den Wagen fallen
+sollte, vollkommene Sicherheit, denn zu Folge der gut leitenden I
+Verbindung dor Metallhülle mit der Erde wird der betreffende
+schadhafte Theil der Leitung mit der Erde kurzgeschlossen, die
+nächste Bleisicherung schmilzt aus und der betreffende be­
+schädigte Theil der Leitung wird hiedurch ^momentan und auto­
+matisch stromlos.
+Es soll hier noch erwähnt werden, dass die Apparate der
+Wagoneinrichtung voneinander vollkommen getrennt sind, derart,
+dass blos ein Minimum der Manipulationen mittelst hochgespannten
+Stromes geschieht, nämlich blos das Einschalten des Motors. Für
+diesen Zweck ist ein kräftig construierter Ausschalter vorgesehen,
+der in einem gusseisernen Kasten eingeschlossen ist, welch
+letzterer nur mit Hilfe eines Schlüssels geöffnet werden kann;
+der Schlüssel aber steckt in einer Vorrichtung, welche— mittelst
+comprimierter Luft betrieben— zum Emporheben, bezw. Herab­
+lassen der stromabnehmenden Contactvorriehtung dient, und es
+kann der Schlüssel aus der vorerwähnten Vorrichtung nur dann
+herausgenommen werden, wenn die Stromabnahmevorrichtung
+herabgelassen ist. Her Kasten des Primärausschalters kann dem­
+nach blos dann geöffnet werden, wenn der ganze Wagen zuvor
+stromlos geworden ist. Andererseits kann die Contaetvorrichtung
+zu dem Leitungsdraht der Linie mit Hilfe der vorerwähnten
+Hebevorrichtung nur dann emporgehoben werden, wenn zuvor
+der Schlüssel dos Kastens, in welchem der Hochspannungs-Aus­
+schalter eingeschlossen ist, wieder in die Vorrichtung zurück­
+gesteckt worden ist.
+Auf diese Weise wird verhindert, dass das Betriebspersonal
+im Falle einer Betriebsstörung, in der Verwirrung seine Instruc­
+tionen ausser Acht lassend, daran vergessen könnte, die Contaet­
+vorrichtung herabzulassen, bevor noch der Kasten des Hoch­
+spannungs-Ausschalters geöffnet wurde. Solange der Hochspannungs-
+Ausschalter (und dieser ist der einzige Hochspannung führende
+Apparat auf dem ganzen Wagen) geschlossen ist, solange ist es
+absolut unmöglich, mit irgend welchen Hochspannung führenden
+Theilen in Berührung zu kommen, denn die ununterbrochene
+Metallhülle, welche sich von der Contaetvorrichtung bis zu dem
+Ausschalter und von dem Ausschalter bis zu dem Motor erstreckt,
+kann ohne vorhergehende vollkommene Demontierung der Apparate
+nicht geöffnet werden, während die einzige Stelle, wo die Metall­
+hülle behufs Revision einen Zugang gestattet,— nämlich bei dem
+Hochspannungs-Ausschalter— in der Weise abgeschlossen ist,
+dass man zu derselben, solange der Ausschalter Strom führt,
+nicht hinzukommen kann.
+Noch eine Frage kann in Bezug auf die Betriebssicherheit
+in Betracht kommen, nämlich das Reissen eines Leitungsdrahtes
+der Linie. Fällt das abgerissene Brahtende auf den Wagen, so
+wird, wie schon im Vorhergehenden erläutert, durch Vermittlung
+der Erdleitung des Wagendeckels ein Kurzschluss entstehen und
+durch Ausschmelzen der nächsten Bleisicherung der betreffende
+Streckentheil einfach ausgeschältet werden. Hasselbe geschieht
+auch, falls das abgerissene Brahtende die Schienen berühren
+sollte. Hie einzige Gefahr, welche sich hiebei ergeben könnte,
+wäre für den Fall zu befürchten, dass ein solches abgerissenes
+Drahtende von Personen, die den Bahnkörper passieren, berührt
+wird, bevor noch der Draht mit den Schienen in Berührung ge­
+kommen ist. Wenn man jedoch bedenkt, dass tausende Kilometer
+von hochgespannten stromführenden Leitungen entlang frequen­
+tierter Landstrassen montiert sind und dass das Publicum bereits
+gewöhnt ist, sich solchen Leitungen gegenüber misstrauisch zu
+verhalten, schliesslich, dass auf dem Bahnkörper ausser den An­
+gestellten der Bahn ohnehin Niemand verkehren darf, die Bahn­
+angestellten aber für solche unvorhergesehene Fälle mit den
+entsprechenden Instructionen versehen sein können, so ist es voll­
+kommen gerechtfertigt, zu sagen, dass die sehr geringe Möglich­
+keit einer solchen Gefahr keinen Grund zur Nichtanwendung von
+hochgespannten Strömen bilden kann.
+Das Reissen der Drähte könnte höchstens- bei Weg­
+kreuzungen gefährlich werden; an solchen Stellen aber kann man
+ja die schon seit langer Zeit bestbewährten Special-Sicherheits­
+aufhängungen verwenden, welche im Falle des Reissens eines
+Drahtes automatisch einen Kurzschluss verursachen, die nächsten
+Bleisicherungen ausschmelzen und hiedurch die ganze Strecken-
+section aus dem Stromkreise der Leitungslinie ausschalten. Des­
+gleichen ist auf den Stationen für die Sicherheit des Publicums
+in ausreichenderWeise vorgesorgt, indem das ganze Leitungsnetz
+der Station sich beständig im stromlosen Zustande befindet.
+Erst unmittelbar vor Ankunft des Zuges wird jene Linie,
+auf welcher der kommende Zug einfahren muss, eingeschaltet,
+um sofort nach Ankunft und Stillstand des Zuges wieder aus­
+geschaltet zu werden. Bei Abfahrt des Zuges wird dasselbe Vor­
+gehen befolgt, indem die Leitung der Station solange stromlos
+bleibt, bis der Zug die Erlaubnis zur Abfahrt erhalten hat, und
+auch dann nur solange eingeschaltet wird, bis der Zug die Station
+
+Nr. 53.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 639.
+verlassen hat. Hiedurch wird eine so vollkommene Sicherheit des
+Betriebes erzielt., dass, wenn auch trotz der entsprechenden Auf­
+sicht und Instandhaltung der Leitungen ausnahmsweise an einer
+Stelle das Reissen des Leitungsdrahtes Vorkommen sollte, dies
+unter Strom nur zu einer Zeit geschehen kann, wenn der Verkehr
+im Bereiche der betreffenden Leitung ohnehin— auch schon
+wegen des in Bewegung befindlichen Zuges— verboten und
+demnach ausgeschlossen ist.
+Die Grenze, bis zu welcher die Steigerung der Spannung
+motiviert ist und was überhaupt als Grenze betrachtet werden
+kann, zeigt die Berechnung, dass für die heutigen Betriebsver­
+hältnisse der Bahnen eine Steigerung der Spannung über 3000
+bis 5000 V in Bezug auf die Contactvorrichtung und auf die
+Oekonomie der Contactleitungen keine so grossen Vortheile mehr
+bringt, welche die Constructionsscliwierigkeiten von Motoren und
+Apparaten für so hohe Spannungen aufwiegen würden.
+Es gibt wohl eine Anordnung, wo die Contactdrahtspannung
+in Wechselstrom-Transformatoren, welche auf dem Zuge selbst
+untergebracht sind, auf eine niedrigere reduciert -wird, das ist
+aber keine Lösung, sondern nur eine Umgehung der Aufgabe
+und hat den Nachtheil, dass ein Hauptvortheil der elektrischen
+Traction, nämlich die Leichtigkeit der motorischen Einrichtung
+der Züge preisgegeben wird. Je grösser die Geschwindigkeit der
+Züge, umsomehr macht das Gewicht der mitgeschleppten Trans­
+formatoren aus und bei Geschwindigkeiten, welche die heutige
+Schnellzugsgeschwindigkeit überflügeln sollten, könnte die Mit­
+schleppung der Transformatoren im Endresultate das Gewicht
+der Züge selbst um 10—20/ erhöhen, was naturgemäss eine Er­
+höhung der erforderlichen Zugkraft und hiermit der Installations­
+und Betriebskosten involviert.
+Wenn auch nicht in unmittelbarem Zusammenhänge mit der
+Frage der Verwendbarkeit hochgespannter Wechselströme für
+Tractionszwecke stehend, machen es dennoch die infolge der
+Hochspannung sich ergebenden kleinen Stromintensitäten möglich,
+dass auf den Stationen die Leitungen der verschiedenen Linien-
+sectionen in Combination mit der Central-Weichenstellvorrichtung
+und dem Blocksignalsystem voneinander unabhängig ein- und
+ausgeschaltet werden können und auf diese Weise zur absoluten
+Blockierung der Station verwendbar sind, indem an den beiden
+Enden der Station je eine Liniensection von einigen hundert
+Metern Länge mit Hilfe eines besonderen Ausschalters aus dem
+Stromkreise ein- und ausgeschaltet werden kann, jedoch derartig
+mit dem Klinkenwerke der Central-Weichenstellvorrichtung com-
+biniert, dass die betreffende blockierende Section nur dann ein­
+geschaltet werden kann, wenn behufs Einfahrt des Zuges die
+richtige Weichenstellung schon erfolgt ist.
+Eine solche, auf frequentierten Stationen etwas complicirte
+Leitungseinrichtung ist bei Anwendung von elektrischen Strömen
+niedriger Spannung zufolge der kostspieligen grossen Leitungs­
+querschnitte und wegen der grossen, schwer zu handhabenden
+Ausschalter in vielen Fällen unausführbar oder nur mit sehr
+grossem Kostenaufwande zu erreichen, während bei Hochspannung
+die kleinen Stromintensitäten die Verwendung leichter und dünner
+Luftleitungen und ganz einfacher Ausschalter zulassen und auf
+diese Weise eine sichere und billige Lösung des Problems zur
+Folge haben.
+Zum plötzlichen Anhalten des Zuges auf der Blockstation
+ist an dem Motorwagen eine Vorrichtung angebracht, welche im
+Momente der Stromuntorbrechung, bezw. im Momente, wo der
+Zug in den Bereich einer stromlosen Liniensection gelangt, die
+Westinghouse-Bremse automatisch in Function setzt. Dieselbe
+Vorrichtung bringt den Zug im Falle des Reissens eines Leitungs­
+drahtes oder im Falle der Entgleisung der Contactvorrichtung
+ebenfalls automatisch zum Stillstände und verhindert derart, dass
+der Zug vermöge seiner lebendigen Kraft weiterlaufe und die
+Leitung beschädige.
+Die erste Anwendung der hier auseinandergesetzten Prin-
+cipien der elektrischen Traction auf Vollbahnen wird auf den
+Valtellinalinien des adriatischen Netzes der Societä italiana pei­
+le strade ferrate Meridionali erfolgen, wo eine 106 km lange
+Linie, welche derzeit mit Dampf betrieben wird, zwischen den
+Städten Lecco—Colico—Sondrio —Chiavenna auf elektrischen
+Betrieb umgestaltet wird. (Verordnungsblatt f. Eisenb. u. Schiff­
+fahrt Nr. 143, 1900.)
+Geschäftliche und finanzielle Nachrichten.
+Siemens& Halske, Actien-Gesellschaft in Berlin. Der
+Geschäftsbericht für 1899/1900 führt aus, dass der Umsatz sich
+gegen denjenigen des Vorjahres um rund 15% erhöhte; es ist
+damit im Vergleiche zu dem Geschäftsjahre 1896/97, in welchem
+die Umwandlung der Firma in die Form der Actiengesellschaft
+stattfand, um rund 60% gewachsen. Die facturierten Lieferungen
+ausschliesslich der Lieferungen der Werke der Gesellschaft unter­
+einander und für eigenen Bedarf, beliefen sich im verflossenen
+Jahre, u. zw. ohne den Umsatz der Gesellschaften Siemens
+Brothers& Co. Limited London und Russische Elektrotechnische
+Werke Siemens& Halske Actiengesellschaft St. Petersburg-, auf
+84 Millionen Mark.
+Zu den financiellen Betheiligungen sind im Wesentlichen
+nur hinzugekommen die Antheile an der A b w ä r m e-Kraft-
+maschinen-Gesellschaft, welche die Verwerthung von
+Patenten zur Ausnützung des Abdampfes durch Kaltdampfmotoren
+übernommen hat, sowie an der Deutschen Kraftgas-
+Ges ellschaft, welche die Nutzbarmachung der Hochofengase
+durch patentierte Gasmotoren zur Erzeugung elektrischer Kraft be­
+treibt. Die geringfügigen Betheiligungen an C a r b i d f a b r i k e n
+sind mit Rücksicht auf die gegenwärtige Lage dieses Industrie­
+zweiges bis auf minimale Beträge abgeschrieben.
+Nachdem im Laufe des verflossenen Geschäftsjahres die
+neuen Werkstätten des Wiener Werkes für den D y n a m o-
+und Motorenbau bezogen sind, und die neue Gelbgiesserei
+auf dem Kabelwerksgrundstück bei Westend-Berlin in Betrieb
+genommen ist, bleiben im neuen Geschäftsjahre nur noch der
+Neubau der Werkstätten für die Abtheilung für Eisenbahn­
+sicherungswesen und die Erweiterungsbauten für die Lichtkohlen­
+fabrik zu vollenden. Die Gesellschaft besitzt dann nicht allein
+umfangreiche, den neuesten Anforderungen entsprechende Fabri-
+cations-Einrichtungen, sondern erfreut sich auch einer ausser­
+ordentlichen Vielseitigkeit der -Fabricationsthätiglceit und sie darf,
+so ausgerüstet, auch weniger günstigen Geschäftsjahren mit Ruhe
+entgegensehen. Diese Erweiterungen der Anlagen, sowie die An­
+sprüche, welche das Anwachsen des Geschäftsumfanges an die
+Mittel stellte, endlich die im Interesse eines engeren Zusammon-
+arbeitens mit den Schwesterfirmen in England und Russland
+erwünschte dauernde Bethoiligung an deren Actiencapital ver-
+anlassten die Erhöhung der Betriebsmittel. Es wurde gemäss
+Aufsicbtsrathbeschlusses vom 30. Jänner 1900 eine neue 4%%
+Anleihe in Höhe von 10 Millionen Mark ausgegeben, und das
+Actiencapital gemäss Beschluss der Generalversammlung vom
+19. April 1900 um 9% Millionen Mark auf 54,500.000 Mk. erhöht.
+Im Einzelnen ist über die Geschäftsthätigkeit
+im verflossenen Jahre zu berichten, dass der Bau von 25 Elok-
+tricitätsworken im In- und Auslande vollendet wurde und ausser­
+dem das Kabelnetz für verschiedene andere Elektricitätswerke
+von der Gesellschaft geliefert und verlegt wurde. Woitero 17
+Centralen und umfangreiche Theillieferungen für fernere fünf
+Centralen sind neu in Auftrag gegeben und zum Theil in Aus­
+führung begriffen. Von sonstigen bei der Gesellschaft bestellten
+grösseren Anlagen für Licht- und Kraftzwecke sind zu erwähnen
+solche für Staatsbahnhöfe— in Süddeutschland, München und
+Karlsruhe —, Kriegs- und Handelsschiffe, Staats- und Privat­
+werften. Zahlreiche Aufträge auf dem Gebiete der Kraftüber­
+tragung flössen der Gesellschaft von der Grossindustrie, besonders
+auch von Berg- und Hüttenwerken zu, bei denen die Wasser-
+haltungs-, Ventilator- und Fördermaschinen-Anlagen sich be­
+währten. Zur Verwerthung von Abgasen wurden verschiedene
+grössere Anlagen in Auftrag gegeben. Der Umsatz in den paten­
+tierten elektrisch betriebenen Gesteinbohrmaschinen der Gesell­
+schaft hat sich gegen das Vorjahr fast verdoppelt.
+An der Verbesserung der Construction für elektrische
+Schleppschiffahrt wird fortgesetzt weiter gearbeitet. Lobhaft war
+das Geschäft in Krahnmotoren. Auf den Bau von Kleinmotoren
+für gewerbliche Zwecke hat sich die Gesellschaft in grösserem
+Umfange als bisher, eingerichtet. Starke Entwickelung hat die
+Abtheilung für Installationsmaterial zu verzeichnen. Sehr leistungs­
+fähige Ausschalter und Sicherungen für Hochspannung wurden
+neu eingeführt. Die Bogenlampenfabrication hat sich durch Ein­
+führung der Differential-Seillampe weiter entwickelt. Die Schalt­
+anlagen sind durch Einführung billiger Strom- und Spannungs­
+transformatoren bereichert und verbessert worden. Die beiden
+Kabelwerke der Gesellschaft hier und in Wien, waren gut
+beschäftigt; doch machte sich infolge der scharfen Concurronz,
+namentlich auch der neu entstandenen Kabelwerke, ein Druck
+auf die Preise recht bemerkbar. Das Gebiet der Elektrochemie
+fruchtbarer auszugestalten, blieb die Verwaltung bemüht.
+Im Bahn bau war die Gesellschaft reichlich mit Arboit
+versehen, und die noch vorliegenden Aufträge reichen weit über
+das laufende Geschäftsjahr hinaus. Vollendet wurden im Berichts­
+jahre die Umwandlungen und Ausbauten der Grossen Cassoler
+Strassenbahn, der städtischen Trambahn in Frankfurt a. M. und
+der Bndapestc r Strassenbahn, der Neubau der Strassen­
+bahn in Haarlem, sowie Linien der Societä Anoniina Elettricitä
+Alta Italia in Turin und der städtischen Strassenbahnen in
+
+Seite 640.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 53.
+M.-Gladbach-Kheydt, die Fortführung der Pankower Strassenbahn
+bis zur Mittelstrasse in Berlin, endlich Erweiterungen der
+Strassenbahnen in Bahia, Basel und Mülhausen i. E. Im Bau
+befinden sich die umfangreichen Umwandlungen und Neuanlagen
+der Bau- und Betriebsgesellschaft für städtische
+Strassenbahnen in Wien und der Grazer Tramway-
+Gesellschaft, die Erweiterungen der Bochum-Gelsenkirchener
+und der Hagener Strassenbahn-Gesellschaft, sodann die Querbahn­
+linie der Grossen Casselor Strassenbahn, die städtische Strassen­
+bahn in Bielefeld, die Umwandlung weiterer Linien der Berlin-
+Charlottenburger Strassenbahn und der Ausbau der elektrischen
+Strassenbahn in Hof i. B. Der Umbau des Netzes der Kjöben-
+havnske Sporvej in Kopenhagen ist in Angriff genommen. Ausser
+mehr oder minder grossen Zulieferungen an Wagen und elek­
+trischen Wagenausrüstungen für im Betriebe stehende elektrisclio
+Strassenbahnen in Madrid, Warschau, Amsterdam, Köln, Königs­
+berg, Olmütz und für die Budapest© r Stadtbahn
+Actien-Gesel lschaft wurde der Gesellschaft im vergan­
+genen Jahre die gesammte elektrische Ausrüstung für den Um-
+und Ausbau der städtischen Strassenbahnen in Mannheim und
+Freiburg i. Br., sowie für die Wiesbadener Strassenbahn, ferner
+für die elektrische Strassenbahn in Terni und endlich der Ausbau
+der Oberleitung der städtischen Strassenbahn in Bern übertragen.
+In L emberg erfolgt durch die Gesellschaft die Vergrösserung
+des Bahnkraftwerkes und der Ausbau eines Kabelnetzes behufs
+Einbeziehung der öffentlichen und privaten Beleuchtung. Mit den
+Städten Salzburg und Laibach wurden die Verträge be­
+treffend Ausführung der Strassenbahnen endgiltig abgeschlossen.
+Während die Anwendung des Accumulatorenbet’riebes auf den
+Strassenbahnen weitere Fortschritte nicht zu erzielen vermochte,
+hat das System der unterirdischen Stromzuführuug
+erheblich an Bedeutung gewonnen. Es gelangt neuerdings auch
+in Wien in grösserem Umfange durch uns zur Anwendung.
+In Budapest kam die von der Gesellschaft seit dem Jahre 1885
+verhandelte elektrische Viaductbahn am Donauquai im Anschluss
+an die dort bereits seit 1888 im Betriebe stehenden Strassen­
+bahnen mit unterirdischer Stromzuführung zum Ausbau und
+wurde bereits dem Betriebe übergeben. Die in Gemeinschaft mit
+der Preussischen Staatseisenbahn-Verwaltung durchgeführten Ver­
+suche mit einem elektrisch betriebenen Zuge auf der Wann­
+see bahn bei Berlin sind inzwischen aufgenommen wordmyi#'
+Die entsprechenden in Gemeinschaft mit dem k. k. Eisenbahn­
+ministerium in Wien vorbereiteten Versuche mit einem elektris&lujn
+Zuge für die Wiener Stadtbahn werden in allernächster
+Zeit beginnen. Für die von der Studiengesellschaft für elektrische
+Schnellbahnen beabsichtigten grösseren Versuche ist die Gesellschaft
+mit den Vorbereitungen beschäftigt. Von den Entwürfen für
+elektrischen Betrieb auf Vollbahnen nahm im vergangenen Jahre
+derjenige der Südholländischen Bahngesellschaft, für eine neue,
+mit einer Geschwindigkeit von 50 hm in der Stunde betriebene,
+unmittelbare Verbindungslinie zwischen den Städten Rotterdam—
+Haag—Scheveningen, feste Gestalt an. Die Gesellschaft erhielt^«
+für die elektrische Ausrüstung dieser Bahn den Auftrags
+Die Berliner elektrische Hochbahn von dpi'
+Warschauer Brücke nach dem Noliendorfplatz wurde, was d'en-.
+eigentlichen Bahnkörper anbetrifft, mit Ausnahme einiger Strecken
+bis auf das Verlegen des Überbaues und der sonstigen Ausrüstung?-“
+im Wesentlichen fertiggestellt. Die Abzweigung bis zum Pots­
+damer Platz wurde, sobald die Zustimmung der Stadt Berlin für
+die Endigung des Tunnels unter der Königgrätzorstrasse vorlag,
+kräftig in Angriff genommen. Die westliche Strecke vom Nollen-
+dorfplatz bis zum Zoologischen Garten wurde endlich als Unter­
+pflasterbahn im Planfeststellungsverfahren endgiltig genehmigt,
+so dass am Schlüsse des Geschäftsjahres schon der Bau vor­
+bereitet werden konnte. Auch die Abtheilungen für
+Schwachstrom-Apparate fanden ungeachtet des grossen
+Wettbewerbes auf diesem Gebiete, gute Beschäftigung; doch
+war es bei Submissionen häufig nicht möglich, auskömmliche
+Preise zu erzielen. Die vervollkommneten Apparate für Tele­
+graphie,. Teleplionie und Signalwesen, sowie Messinstrumente
+haben sich inzwischen gut eingeführt. Von der deutschen, wie
+von ausländischen Marinebehörden lief eine bedeutende Anzahl
+von Aufträgen auf die elektrischen Schiffscommando-
+und Zeichenübertragungsapparate des Systems
+der Gesellschaft ein. Das Vielfachschaltsysjtem der Gesellschaft
+für lelephoncentralen findet seitens der Reichspostverwaltung
+günstige Beurtheilung. Nach Vollendung des Amtes 3 in Berlin,
+welches für 14.000 Theilnehmer eingerichtet und zunächst für
+7000 ausgebaut ist, wurde der Gesellschaft der Bau des neuen
+für die gleiche Theilnehmerzahl vorgesehenen Amtes 4 in Berlin
+übertragen. Die von der Gesellschaft für Rechnung der brasi­
+lianischen Elektricitätsgesollschaft erbaute Telephon-Centrale in
+Rio de Janeiro wurde weiter ausgebaut, und der Betrieb der­
+selben durch die genannte Gesellschaft am 1. Januar 1900 über­
+nommen.
+Die Abtheilung für Eisenbahnsicherungswesen, sowie das
+Glühlampenwerk arbeiteten ebenfalls zufriedenstellend.
+Das von der Gesellschaft im Verein mit der von ihr ge­
+gründete chinesischen Elektricitäts-Gesellschaft in Peking errichtete
+Elektricitätswerk zur Beleuchtung der Gesandtschaften, sowie die
+von der Gesellschaft erbaute elektrische Bahn Peking—Ma-Chia-Pu
+sind während der Belagerung von Grund aus zerstört worden.
+Der Krieg in Transvaal hat eine Einschränkung, aber
+keine Unterbrechung des Betriebes der von der Gesellschaft für
+die Rand Central Electric Works in Johannesburg erbauten
+Licht- und Kraft-Centrale herbeigeführt.
+Die dauernden Betheiligungen umfassen den Besitz an
+Actien von Siemens Bros.& Co. Ltd. in London und
+der Russischen Elektrotechnischen W erke
+Siemens& Halske in St. Petersburg, sowie die Be­
+theiligung an anderen, der Geschäftsthätigkeit verwandten,
+bewährten und einträglichen Fabrikunternehmen. Die Legung
+des achten von ihr hergestellten transatlantischen U n t e r-
+Seekabels ist ohne Zwischenfall erfolgt.
+Von den Beständen an Fabrikaten entfallen in den hiesigen
+und Wiener Werken 5,980.007 Mk. auf Vorrathslager,
+13,582.142 Mk. auf bestellte, in Arbeit befindliche Fabrikate,
+3,329.763 Mk. auf bestellte, in Ausführung begriffene Anlagen
+einschliesslich Bahnbauten.
+Der Pensions-, Wittwen- und Waisen-Casse für Beamte
+und Arbeiter sind 617.088 Mk. zugeführt, während an Pensionen
+und Unterstützungen 179.337 Mk. gezahlt wurden, so dass der
+Bestand am 31. Juli 1900 2,529.216 Mk. betrug. Der für Unter­
+stützungenbestimmte Dispositionsfonds erhöhte sich auf 631.418 Mk.
+Für Gratificationen an Angestellte und Arbeiter der Gesellschaft
+wird beantragt 390.000 Mk. zu verwenden. Der erzielte G e-
+schäftsgewinn beträgt 9,700.519 Mk. (i. V. 8,533.694 Mk.)
+dazu der Gewinnvortrag aus dem Vorjahre 1,361.098 Mk. (i. V.
+1,318.258 Mk.), zusammen 11,062.617 Mk. (i. V. 9,851.953 Mk.).
+Nach Abzug der Handlungskosten, Zinsen und Abschreibungen
+im Betrage von 4,000.702 Mk. (i. V. 3,558.526 Mk.), wovon auf
+"Abschreibungen 2,211.947 Mk. (i. V. 2,203.550 Mk.) entfallen,
+“verbleibt ein Reingewinn von 7,061.914 Mk. (i. V. 6,293.426 Mk.).
+Hiervon werden 284.990 Mk. (i. V. 248.758 Mk.) dem Re­
+servefonds überwiesen. Die Dividende auf das alte Actien-
+capital von 45,00.000 Mk. beträgt 10o/ 0= 4,500.000 Mk. (i. V.
+10%= 4,000.000 Mk. auf 40,000.000 Mk.). Auf die jungen Actien
+im Betrage von 9,500.000 Mk. werden 4% Dividende= 380.000
+Mk. vertheilt (i. V. 4%= 200.000 Mk. auf 5,000.000 Mk. Actien).
+Der Aufsichtsrath erhält an Tantieme 119.741 Mk. (i. V. 107.750
+Mk.). Auf neue Rechnung werden 1,387.182 Mk. vorgetragen.
+Actiengesellschaft „Elektrische Kraft“ in Petersburg.
+Die Gesellschaft, die sich die Versorgung der Naphta-Unter-
+nehmungen in Baku mit elektrischem Strom zur Aufgabe gemacht
+hat und an der die A. E.-G. in Berlin stärker betheiligt ist, er­
+zielte iip ersten Betriebsjahr einen Reingewinn von 133.678 Rubel.
+Nach Deckung der satzungsmässigen Erfordernise bleiben hiervon
+120.000 Rubel verfügbar, die laut Beschlusses der Hauptversamm­
+lung voll zu Abschreibungen verwandt werden. Auf das Actien-
+capital von 4,000.000 Rubel sind bisher 3,200.000 Rubel einge­
+zahlt. Hiervon erforderten die Anlagen bis jetzt 14,000.000 Rubel,
+während der Rest noch haar vorhanden ist. Trotzdem wurde
+beschlossen, das Actiencapital durch Ausgabe von 8000 neuen
+Actien um 2,000.000 Rubel zu erhöhen, und da wegen der un­
+günstigen Verhältnisse des Geldmarktes das Geschäft vorläufig
+verschoben werden muss, wurde die Verwaltung ermächtigt,
+schwebende Schulden bis zum Betrage von 2,000.000 Rubel auf­
+zunehmen. Die Centralstation der Gesellschaft ist auf 7000 PS
+berechnet. Die Station befindet sich unmittelbar am Ufer des
+Kaspisees in der Vorstadt Bjely-Gorodok. Die Leitung von hier
+bis zu den Naphtafeldorn beträgt 9 Werst. Auf den letzteren
+befinden sich 6 Unterstationen.
+Vereinsnachrichten.
+Der Feiertage wegen findet die nächste Vereins*
+versammlung am 9. Jänner 1901 statt.
+Die Vereinsleitung-.
+Schluss der Redäction: 22. December 1900.
+Verantwortlich®!' Redacteur: Dr. J. Sahulka.— Selbstverlag des Elektrotechnischen Vereines.
+Commissionsverlag bei Spielhagen&Schurich, Wien.— Alleinige Inseraten-Aufnahme bei Haasenstein& Vogler (Otto Maass), WienundPrag.
+Druck von R. Sp ies& Co., Wien.
+

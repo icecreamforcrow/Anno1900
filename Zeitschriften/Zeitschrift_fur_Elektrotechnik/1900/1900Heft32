@@ -1,0 +1,2000 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 32. WIEK, 5. August 1900. XVIII. Jahrgang.
+Jiemei Jetniffen der Redaction: Ein Nachdruck aus dem redactionellen Theile der Zeitschrift ist nur unter der Quellenangabe
+./• &•' rvicn 11 und bei Originalartikeln überdies nur mit Genehmigung der Hedaclion gestattet.
+, Ihe Einsendung von Originalarbeiten ist erwünscht und werden dieselben nach dem in der Redactionsordnung festgesetzten Tarife
+iOnomt. Die Anzahl der vom Autor event. gewünschten Separatabdriiclce, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Alanuscnpte bekanntgegeben werden.
+INHALT:
+Berechnung von asynchronen Wechselstrommotoren. Von
+J. Fischer-Hinnen (Fortsetzung) 381
+Verkehr der ungarischen Eisenbahnen mit elektrischem Be­
+triebe im 1. Quartal 1900 388
+Kleine Mittheilungen.
+Verschiedenes 389
+Ausgeführte und projectirte Anlagen 389
+Patentnachrichten 392
+Geschäftliche und finanzielle Nachrichten 392
+Berechnung von asynchronen Wechselstrommotoren.
+Von J. Fisclier-Hiunen,
+Director der Firma F r. K r i z 1 k in Prag-Karolinenthal.
+(Fortsetzung.)
+II.
+Verhalten der SXotoren beim Betrieb.
+1) Strenungscoefflcient.
+Der Streuungscoefficient o ist, wie wiederholt her­
+vorgehoben wurde, nicht für alle Belastungen der
+nämliche, sondern hängt sehr vom Sättigungsgrade des
+Eisens ab. Wenn es schon ziemlich schwer fällt, den
+Leerlaufwerth dieser Grösse mit einiger Sicherheit zum
+Voraus zu berechnen, so ist es ohne vorherige Versuche
+geradezu unmöglich die Aenderungen auch nur an­
+nähernd vorauszusagen, welche derselbe mit zunehmen­
+der Belastung erfahren wird. Je nach der Art der Blech-
+eonstruetion resj>. der Sättigung in den Zacken kann
+derselbe mit der Belastung ab- oder sogar zunehmen.
+Für gewöhnlich tritt allerdings das erstere ein, ins­
+besondere wenn die Nuthen geschlossen sind. Nach
+meiner Erfahrung nimmt die Streuung gewöhn­
+lich nur ab bis etwa zu jenem Punkte, welcher
+der maximalen Zugkraft entspricht und fällt
+eigentümlicherweise am grössten beim An­
+lassen ohne Widerstand aus. Der Grund hiefür
+mag wohl darin liegen, dass  a beim Anlassen
+ziemlich klein ist, wodurch der magnetische Wider­
+stand des Streufeldes rascher abnimmt, als derjenige
+des Hauptfeldes: Verglichen mit dem Leerlaufwerthe
+dürfte die Zunahme des Streuungscoefficienten beim
+Anlassen ungefähr 50- 100% betragen.
+Um dieser Verschiedenheit Rücksicht zu tragen,
+werden wir in Zukunft die Bezeichnung'
+o
+a 1 für die Normalbelastung
+o" für das Anlassen
+o"' für die Maximalbelastung
+anwenden und analog x J, x", z", z‘" u. s. w. schreiben.
+Die Veränderlichkeit der Grösse <7 kann leicht
+durch Versuch ermittelt werden. Um beispielsweise den
+Leerlaufwerth festzustellen, verbindet man nach
+einander die Feld- und Armaturwickelung mit der
+äusseren Leitung und misst die Spannung primär und
+secundär beim geöffneten secundären Stromkreise.
+Beim ersten Versuch sei 7£j die primäre und E 2 die
+secundäre Spannung.
+Beim zweiten Versuch sei E.f die primäre und Ef
+die secundäre Spannung.
+Nach Gleichung (21) ist dann für geöffneten se­
+cundären Stromkreis, also x= 0
+Lj>_ Ä" 2 m 1 <7, 1
+Lj N 1 K 1 m 2 q 2 Vj
+Lj 1 __ Aj R\ ?n 2 q 2]
+desgleichen
+Ef i' 2 k 2 m 1 q 1 v 2
+— und durch
+Multiplication der beiden Gleichungen.
+E 2 Ef 1 1
+Lj Ef
+■ oder o=l
+1-
+E 2 Ef
+Ei E 2
+A 11 m e r k u 11 g: Da der Leerlaufstrom immer ziemlich
+gross ist, muss bei einer genauen Rechnung von E x und Vf der
+Ohm’sche Verlust in Abzug gebracht werden.
+Die behandelte Methode gilt für stromlose Arma­
+tur: Um den Streuungscoefficienten hei be­
+liebiger Belastung festzustellen, wird auf nach­
+stehende Weise verfahren:
+Man legt abwechslungsweise die Armatur und
+Feldwickelung an die äussere Leitung, wobei die se-
+cundäre Wickelung kurz geschlossen wird und misst
+nun die primäre und secundäre Stromstärke. Die Arma­
+tur muss selbstverständlich festgehalten werden und die
+primäre Spannung wird am Besten durch die Erregung
+des Generators oder durch einen besonderen Transfor­
+mator derart reducirt, dass sich die gewünschte primäre
+Stromstärke ergibt. Beim zweiten Versuch hat man
+selbstverständlich darauf zu achten dass angenähert die
+gleichen Verhältnisse wie beim ersten vorhanden sind.
+Es sei beim ersten Versuch
+Jj die primäre Stromstärke
+J 2„ secundäre„
+Es sei beim zweiten Versuch
+J 2„ primäre„
+Jf„ secundäre„
+Dann ist nach Gleichung (24). in welcher
+ohneweiters gleich 1 gesetzt werden darf,
+1+
+J 2 Jf
+Jj J 2
+•Lj /*.•) Zf,‘ q 2 Aj]
+•Lj V 'll L'2 v 2
+(V __ L 2 lt 2 (f A 7 2 1
+Jf A j V q 2 Aj■ v
+1 .1
+>der o=l—
+ferner
+und schliesslich
+Jo-E
+1-
+'2 ,J i
+J\ J2
+
+Seite 382.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 32.
+Die hervorragende Rolle, welche der Streüungs-
+coefficient bei allen Formeln spielt, legt die Versuchung
+nahe, denselben auf rechnerische Weise abzuleiten.
+Daran ist nun nicht zu denken, denn erstens würden
+die Formeln, falls man allen Streuungen Rücksicht
+tragen wollte, viel zu unhandlich, und überdies könnte
+selbst die sorgfältigste Rechnung keine grösseren An­
+sprüche auf Genauigkeit machen als eine blosse
+Schätzung. Begnügt man sich dagegen mit Verhältnis­
+zahlen, so kann man den Eisenwiderstand vernach­
+lässigen und desgleichen auch die gegenseitige In-
+duction an den Stirnflächen, die ohnehin nicht be­
+deutend sein kann, da sich die Spulen fast unter 90°
+kreuzen. Die Formeln werden dann erheblich einfacher.
+Wir zerlegen zunächst die totale Selbstinduction
+in folgende einzelne Inductionen:
+E s, gebildet durch das nützliche Feld und gleich
+dem Ausdrucke in Gleichung (13);
+E s '. erzeugt durch die Streuung an und in den
+Zacken;
+E s ", hervorgerufen durch die Streuung längs den
+Stirnflächen.
+Aus diesen drei Grössen ergibt sich der Streuungs-
+coefficient
+v= 1+
+Es bedeute noch
+E'+ ES
+Es
+A die gesammte Leitungsfähigkeit des Streufeldes
+einer einzelnen Zacke,
+/,= t— die mittl. Länge einer Stirnverbindung,
+1 p ö
+im Mittel= 4'2— für den rotirenden Theil und
+r
+-= 6— für den feststehenden Theil.
+V
+d den Durchmesser des rund gedachten Draht­
+bündels. gebildet aus ——— Drähten,
+p m
+dj den Durchmesser der äussersten Streulinien,
+welche das Eisenblech tangiren. Die darüber hinaus­
+gehenden Kraftlinien kommen nicht mehr in Betracht,
+da sie beide Wickelungen schneiden.
+Dann ist
+E a
+2-c Kk k‘ 7
+“ÜF 2~
+A 2
+Dl
+m q-. p-
+r"—
+also
+A/=
+2-e
+2- c
+1CÜ-
+v D
+A 2
+4%
+10 in q 2 A'
+A 2
+JA,
+10 8' p
+v= 1
+in 2 q 2 p
+J
+(o-l+ 0-92 log 10 ~j-).
+2 5« p
+K k k‘ y D l
+k 1-26 A+
++ TD(o-l+ 0-92log 10 A).
+Diese Gleichung zeigt zunächst, dass der Streuungs-
+coefficient einer bestimmten Maschine stark zunimmt
+wenn man die Polzahl vergrössert. Nimmt man ferner
+an. eine Anzahl Motoren verschieden grosser Leistung
+seien derart construirt, dass sie alle gleiche Polbreite
+und gleiche Zahl Nutlien pro Pol besitzen, so hängt
+der StreuungscoSfficient nahezu ausschliesslich von der
+Luftdistanz 8 ab. Damit also der Streuungscoefficient
+bei den grösseren Motoren nicht zu gross ausfällt, muss
+entweder die Polbreite oder die Nuthenzahl entsprechend
+erhöht werden.
+2) Erregerstroin.
+Der Erregerstrom i 0 hängt zwar ebenfalls vom
+Streuungscoefficienten ab, jedoch in weit geringerem
+Maasse, so dass wir ihn, ohne einen allzu grossen Fehler
+zu machen, als constant annehmen können.
+3) Reilumgsverlust.
+Der Reibungsverlust von asynchronen Motoren ist
+im allgemeinen grösser, als man anzunehmen geneigt
+ist, was wohl dem geringen Luftabstand und den bei
+den geringsten Unregelmässigkeiten entstehenden grossen
+magnetischen Zugkräften zuzuschreiben ist. Wo nähere
+Anhaltspunkte fehlen, mag für die Grösse (1- s) die
+nachstehende Tabelle IX benützt werden.
+TABELLE IX.
+Approximative Werthe des mechanischen
+Wirkungsgrades (1—?).
+PS
+10
+25
+50
+100
+150
+Leerlauf..
+Normal..
+Anlassen..
+0-94
+0-92
+0-82
+0-95
+0-93
+0-85
+0-96
+0-94
+0-88
+0-97
+094
+0-90
+0-97
+0-95
+0-92
+4) Zugkraft.
+Es handelt sich darum, die Zugkraft für alle vor­
+handenen Schlüpfungen von <7= 0 bis <7=1 zu entwerfen.
+Der Motor habe folgende Daten:
+cos ip= 0‘86 bei voller Belastung, <7= 0-08, e= 0’025j
+s'= 0'025, 1— s=0- 93, und der Nutzeffect C= 0'8ß.
+Die erste Aufgabe besteht augenscheinlich darin,
+für y passende Annahmen zu machen, da diese Grösse
+in allen Formeln wiederkehrt. Die Rechnung braucht
+übrigens nicht mit peinlicher Sorgfalt ausgeführt zu
+werden, indem y, sobald es grösser als 50 wird, und
+zwar ist es fast immer der Fall, die übrigen Grössen
+nur sehr wenig beeinflusst. Nach Voraussetzung ist
+Wl ojj Ij (7, 1 t/j
+II j /l, J>£ *0
+Approximativ finden sich bei ausgeführten Ma­
+schinen ungefähr die in Tabelle X enthaltenen Ver­
+hältnisse von -j- vor Für C= 0-8G und cos^= 0'86
+wäre beispielsweise *°= 0- 45 und -y-= 0'333 und
+1 J j
+hieraus y=— .—-—=120 oder rund 100.
+J 0-025 0-333
+Wir können nunmehr mit ziemlich grosser Ge­
+nauigkeit berechnen, und zwar benützen wir hiefür die
+Gleichung (33). Es ist
+|f
+a.- 2 1— <7
+1+ a;- A
+(1—s) (1—s') cos
+= 0 975.0-975.0-80= 0-817.
+Für </=100 und <;= 0'08 gibt hiefür Tabelle VI a:'= 2"4
+
+Nr. 32.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 383.
+TABELLE X.
+Approximative Werthe von~ und -y-
+J1 1
+Nutz­
+effect
+ff
+anrenommin
+0-7
+0'75
+0-8
+0-82
+0 84
+0 86
+0-88
+0 90
+0-92
+0-7 0 75 0-8
+0-05 005
+0-658
+1-343
+0 601
+1-144
+0-530
+0 947
+0 655
+1-248
+0-597
+1-060
+0-06
+0-651
+1-162
+0-587
+0-979
+0-521 0-506
+0-868 0-790
+0 490
+0-853
+0-480
+0-781
+0-460
+0-702
+0-445
+0-757
+0-436
+0-692
+0-415
+0-618
+0-82
+0-06
+0 648
+1 130
+0-581
+0-944
+0 84 0-86 I 0-88 0 90
+0-O7 0-07
+0-645
+1-097
+0-575
+0-913
+0-497
+0-758
+0-487
+0-724
+0-450
+0 670
+0-403
+0-586
+0-438
+0-638
+0-390
+0-553
+0-642
+1-065
+0-569
+0-883
+0-475
+0691
+0-425
+0-603
+0-08
+0-638
+1-037
+0'563
+0-853
+0-462
+0'655
+0-410
+0-568
+0-08
+0-634
+1-007
+0'556
+0-823
+0448
+0-623
+0-92
+0-09
+0-630
+0-978
+0-550
+0-797
+0 435
+0-591
+0-394
+0-533
+0"375
+0-497
+0-375
+0-518
+0-357 0-338
+0-482 0-447
+0-317
+0-410
+0-400
+0-665
+0-364
+0-592
+0-330
+0-524
+0-390
+0 605
+0 354
+0-537
+0-370
+0-538
+0-360
+0-511
+0-348
+0-481
+0-333
+0-450
+0-316
+0-417
+0-297
+0 384
+0335
+0-476
+0-325
+0-450
+0-321
+0 475
+0-305
+0-424
+0-300
+0-466
+0-293
+0 424
+0-280
+0-380
+0-296
+0-401
+0-313
+0 423
+0-298
+0-394
+0-284
+0-367
+0-285
+0-377
+0-270
+0-348
+0-270
+0-353
+0-260
+0-336
+Die in der Tabelle X enthaltenen Verhältnisse
+—~ sind wie gesagt nur für eine erste Annäherung
+-A
+zu benützen. Genauer wäre nach Gleichung (31)
+2 0— 1' worin wir den Ausdruck
+1 (l-ff)x- .'(1— a')(l—9‘)
+x
+(l-<0
+Ä
+aus
+iü-
+1
+Tabelle V einsetzen. Für <;'= 0,03 ist dann
+1
+1
+2-04 0-93. 0-97
+statt 045 und umgekehrt wäre
+a- J '-'-
+= 0-543
+ä >n
+•. i 0 C cos f 0"025.0"543.0"86.0'86
+100.
+Unsere frühere Annahme stimmt daher ziemlich gut.
+Nachdem wir auf diese Weise den Werth von x‘
+ermittelt haben, können wir nunmehr die Curve
+der Zugkräfte für alle Schlüpfungen an Hand der
+Gleichung (30) bestimmen, u. zw. genügt es, blos den
+Ausdruck ——— auszurechnen, da die übrigen Grössen
+constant oder nahezu constant bleiben. Eine Correctur
+ist übrigens leicht nachträglich anzubringen. Für die
+praktische, in Frage kommende Belastungsgrenze, das
+heisst für die Belastungen zwischen Leerlauf und
+maximaler Zugkraft, kann dieser Ausdruck aus der
+Tabelle V entnommen werden, wobei man für eine
+sorgfältige Rechnung darauf Rücksicht zu nehmen hat,
+dass ff mit der Belastung ein wenig abnimmt. Für
+grössere Schlüpfungen empfiehlt es sich allerdings, zu
+der Formel (30) zurückzugreifen.
+Beim Anlaufen ohne Widerstand ist
+2-4
+g 0-03
+: 80.
+ff' dürfte ungefähr gleich 0T4 sein. Die einzelnen
+Werthe, graphisch aufgetragen, ergeben die charakte­
+ristische Curve (Fig. 18).-
+Damit der Motor anlaufen kann, muss der an der
+Riemenscheibe angehängte Widerstand, oder falls leer
+angelaufen wird, der Reibungswiderstand der Lager
+kleiner als die Anzugkraft ac (Fig. 18) sein. Die
+Tourenzahl wird dann vom Moment des Einschaltens
+an gerechnet rasch ansteigen, bis die Zugkraft, welche
+ebenfalls anfänglich zunimmt, nach Erreichung des
+maximalen Werthes wieder auf einen Werth gleich
+dem zu überwindenden Widerstande zurücksinkt. Ein
+stabiler Gang des Motors ist natürlich nur jenseits des
+maximalen Werthes b denkbar, d. b. in jener Region,
+für welche einer Zunahme der Geschwindigkeit eine
+Abnahme der Zugkräfte entspricht. Aus der Fig. 18,
+wie übrigens aus der Tabelle V, geht hervor, dass die
+Zugkräfte in erster Annäherung ziemlich proportional
+den Schlüpfungen zunehmen, unter der Voraussetzung,
+dass der Streuungs-Coefficient den Werth a= 0'06—04
+nicht überschreitet.
+Gebricht es an der Zeit, die Curve in ihrem ganzen
+Umfange zu entwerfen, so genügt es auch vollständig,
+die drei hauptsächlichen Punkte für Normalbelastung,
+Maximalbelastung und Anlassen zu berechnen.
+Zugkraft beim Anlassen ohne Widerstand.
+Ersetzt man abwechslungsweise x in Gleichung (30)
+durch x" und x' so erhält man
+^.Anlassen 1 (1 J y
+und Zähler und Nenner mit g multiplicirt und A aus
+Gleichung (31) herübernimmt.
+ZAnU-= 1/4(1-O (1- *") (1- 9‘)-,. 2 35)
+1 -*, j.n,& U
+Z,
+X 6
+*o (1— <*")
+: //2
+(i
+1.,*,., Fr,
+— ist nach Voraussetzung gleich——.
+X lü 2 i>2 9 W 1
+Man sieht also, dass die Anzugkraft umso grösser
+ausfällt, je grösser der Widerstand der Armatur ge­
+wählt wird.
+Eliminiren wir noch x' mit Hilfe der Gleichung (31),
+indem wir A im Mittel gleich 142 annehmen, so erhält
+die Gleichung (35) die ebenfalls sehr bequeme Form
+y
+■''Anlassen
+y
+^'normal
+i 2 (i— 0(i— O,
+approx. 0-8 g‘
+n" 2
+(I ff')»
+Für den eben behandelten Motor ist beispielsweise
+1— ff' •— 0-92,
+1— ff"= 0-86,
+ff"-= 044,
+1— ss'= 0-93.
+1— z" == 0-85,
+1— g'= 0 97, daher
+Z A nin8Ben_ Q.g. 0 '03.0’543 2 .- ^‘r^.O-OS.0'85 0-97 2 =0-212.
+Z,
+^normal
+0-14 2
+I
+
+Seite 384.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 32.
+Die genaue Rechnung nach Gleichung (30) ergibt
+hieftir 0218.
+Diese Anzugskraft ist allerdings nicht sehr gross;
+würde es sich jedoch darum handeln, eine grosse An­
+zugskraft beim Anlassen zu entwickeln ohne Benützung
+von Schleifringen, so müsste die Schlüpfung und das
+Verhältnis~ etwas grösser genommen werden. Für
+g= 0'07 und -y-= 0- 6 beträgt z. B. die Zugkraft beim
+Anlassen ca. 44% der normalen Zugkraft. Wir sehen
+jedoch sofort, dass dadurch nöthigerweise der Nutz­
+effect und der Leistungsfactor etwas abnehmen müssen.
+Maximale Zugkraft.
+Um die maximale Zugkraft aus der Gleichung (30)
+resp. (31) zu erhalten, lassen wir den Differential-
+quotienten zu Null werden. In diesem Falle wird
+"'2
+y 2
+= angenähert
+1 “I 9
+y 2
+1
+][ O'" 2
+37)
+Ist y grösser als 35— 40, was ja fast immer zutrifft,
+so darf man gegenüber o" 2 vernachlässigen und es
+wird dann nach 37) einfach x“ 1— Dies in Gleichung (31)
+eingesetzt, ergibt
+Aai io_ (1 *'") (1 a "0 (1— ff')
+7 7'
+/v nnrmal -*
+V
+38)
+[ 1+ (‘+ ?^)J
+(Siehe Tafel XI.)
+Für (1—s"')=0'9, (1—ff')= 0-96 und i’"y= 6
+im Mittel wird approximativ
+Z max L (1— n"‘)
+- 0-36 f
+^normal J
+. 39)
+Diese Gleichung ist jedoch nur approximativ. Für
+die genauere Rechnung wird man sieh besser an die
+Gleichung (38) halten, deren Werthe aus der Tabelle XI
+entnommen werden können. In dieser Tabelle ist
+(1— g) (1— <P") im Mittel= 0'86 gesetzt.
+TABELLE XI.
+Werthe von a. (Siehe Gleichung 38.)
+y={
+20
+35
+50
+75
+100
+150
+0-04 0 05 0-06 0-07 0 08
+353
+5-44
+6‘59
+7- 73
+8- 36
+907
+3- 24
+4- 66
+5- 47
+6- 23
+6-64
+7’ 10
+3- 06
+4- 18
+4- 80
+5- 34
+5'65
+6- C0
+2-68
+3-45
+3- 82
+415
+4- 34
+4-50
+0-09 0-10 0-12 0-14
+2- 52
+3- 15
+3-50
+3-72
+3- 86
+4- 01
+2-37
+2- 90
+3- 16
+3-38
+3-48
+3-60
+2-08
+2-47
+2-64
+2-80
+2-88
+2-95
+Auf unser Beispiel angewendet, sei n‘= 0‘08;
+nehmen wir noch o'"= 0-06, so gibt die Tabelle XI
+A= 5'65 und wir hätten also
+= 5-65.0-543= 3-07.
+^normal
+Der Motor wird also erst bei einer drei­
+fachen Normalbelastung aus dem Tritt fallen.
+Die vereinfachte Formel
+0-36.0-543.0-94
+gibt
+hiefür
+0-06
+= 3-06.
+Wäre dagegen
+y= 35, so würde der Motor schon
+dem
+Belastung
+aus
+bei einer 4-18.0-543= 2- 27 fachen
+Tritt fallen.
+Es mag hier noch ein zweites Beispiel von einem Motor
+mit grosser Streuung Platz finden. Es sei hier n‘"= 04 2,
+c'= 0-14, y= 100, s= 0-028, e'= 0’022, 1— s'= 0’93
+und cj= 0'03. Der Motor soll einen cos <p= 0’78 haben.
+Es handelt sich nun darum, die Grösse x zu be­
+stimmen
+%
+1
+(33) ist
+welche uns dann mit Hilfe der Gleichung (31)
+das Verhältnis von% auszurcclmen erlaubt.
+Nach Gleichung
+(1
+4r
+-f a-2' a— C 1— s) (1— s 0 cos cp=
+= 0-972.0-978.0-78= 0-74
+Tabelle VI zeigt, dass hiefür a-=2'6 zu nehmen ist.
+Umgekehrt ergibt Tabelle V für x— 2-6, r/= O' l 4 und
+y= 100
+(1—% x
+— 1“ in Gleichung (31) eingesetzt
+1
+= 1-9 und
+f o
+— 0-573.
+geringe
+I 1-9.0-93.0-97
+Der betreffende Motor wird daher schon bei einer
+2- 88.0'573= P68 fachen Normalbelastung aus dem Tritt
+fallen, was entschieden unzulässig ist.
+Der einzige Weg, die Stabilität dieses Motors zu
+den Leerlaufstrom zu erhöhen;
+dadurch der ohnehin schon sehr
+Leistungsfactor noch mehr verringert.
+Diese beiden Beispiele mögen genügen, um die
+Bezug auf
+Je besser also
+ist, umso
+Ueber-
+mit Sicherheit
+Streuungs­
+erhöhen, besteht darin,
+doch wird
+Bedeutung des Streuungseoefficienten mit
+die Stabilität des Motors klarzulegen,
+ein Motor hinsichtlich
+geringere Sicherheit bietet er bei
+lastungen. Insbesondere aber lässt sich
+des Leistungsfactors
+allfälligen
+coefficienten
+unverwendbar ist.
+dass ein Motor
+grösser als 042
+mit einem
+für praktische Zwecke
+Anlassen mit Widerstand im secundären
+Stromkreise.
+g uq L 2
+Nach Voraussetzung ist
+x-
+R 0
+Dieses Ver­
+hältnis bleibt unverändert, wenn wir Zähler und Nenner
+mit einer gleichen Zahl multipliciren. Mit anderen
+Worten: Vergrössert man z. B. den Widerstand
+des Ankers durch Vorschalten von Widerstand
+aut das dreifache, so erhält man den früheren
+Werth von x und somit auch die gleiche Zugkraft,
+Stromstärke und Phasenverschiebung bei drei­
+mal grösserer Schlüpfung. Um also für diesen
+Fall die neuen Curven aufzuzeichnen, genügt es, die
+Abscissen der ursprünglichen Curve (Fig. 18) mit 3, oder
+falls eine andere Zahl gewählt wird, mit der betreffen­
+den Zahl zu multipliciren.
+Es bedeute g die Schlüpfung, welche der Motor
+bei kurzgeschlossenem Widerstand und normaler Zug­
+kraft einnimmt; r den Widerstand, welcher der Armatur
+
+Nr. 32.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 385.
+vorzuschalten ist, damit der Motor mit normaler Zug­
+kraft anlauft, so wäre nach Fig. 19
+r+K 2= 1
+F 2 9
+oder
+Fig. 19.
+Ein Blick auf die Fig. 19 zeigt, dass die nämliche
+Zugkraft bei zwei verschiedenen Schlüpfungen g und g 0
+eintritt; die erste entspricht dem aufsteigenden
+Theile der Curve, die zweite dem abfallenden.
+Da im ersten Falle der vorgeschaltete Widerstand
+kleiner ausfällt, so hätte man offenbar ein Interesse,
+mit dem kleinen Widerstand anzulaufen, u. z. umso
+mehr als dadurch die Zugkraft im Anfang noch etwas
+zunimmt. Dabei darf aber nicht übersehen werden,
+dass der Anlassstrom in diesem Falle bedeutend grösser
+wird. Das Anlassen auf dem aufsteigenden Theile der
+Curve ist daher nur bei kleinen Motoren zu empfehlen,
+bei welchen man mit einem einzigen Widerstand ohne
+Unterabtheilungen auskommen will und den man gewöhn­
+lich an der Armatur selbst anbringt. Läuft man dagegen
+im abfallenden Theile der Curve an, so muss die An­
+zugskraft immer etwas grösser sein als die endgiltige
+Zugkraft Die Anlassstromstärke kann hiebei sehr
+wenig von der normalen verschieden sein und die nor­
+male Geschwindigkeit wird durch successives Aus­
+schalten von Widerstand erreicht.
+Um die Eintheilung des Vorsehaltwiderstandes
+vorzunehmen, kann die von Görges (Elektrotech­
+nische Zeitschrift, 22. November 1894) angegebene
+Methode benützt werden, welche der Vollständigkeit
+halber hier resumirt werden soll.
+Mit Bezug auf Fig. 20 bedeute
+g u p 2, g 3 ,--- die Schlüpfungen für die verschiedenen
+Contactstellen,
+Z max= die maximale Zugkraft, mit der angelassen
+werden soll,
+Z= die Zugkraft, welche man nach Ausschalten aller
+Widerstände erreichen will,
+n= die Anzahl Widerstände pro Phase Es sei ferner
+die Voraussetzung gemacht, dass die Curve im abfallen­
+den Theile nahezu gerade sei, so dass man
+' An a\-
+~j~~
+setzen darf. Dann ist
+9i=9^
+92= 9i X= 9
+9p=9? *=9 y
+<7„+ i=i= <7 X n+ 1
+Hieraus folgt
+n -f 1
+Je weniger also die Anlaufstromstärke von
+der normalen Stromstärke verschieden sein soll,
+umso grösser muss die Zahl der Widerstände
+gewählt werden. Mit Rücksicht auf die Grösse des
+Anlassapparates— die Gesammtzahl der Contacte
+beträgt natürlich 3 n— wird es wohl kaum möglich
+sein, n grösser als 20— 30 zu nehmen.
+Bedeutet wie früher i? 2 den Armaturwiderstand
+und Kj, ß 2, ß 3,... ß n die verschiedenen Vorschaltwider­
+stände in umgekehrter Reihenfolge, wie diese vorge­
+schaltet werden, so ist
+1=
+Zrr
+= A ß 2— ß 2= ß 2 0-— 1)
+n+ ''2= >. 2= *2 O' 2- !)
+U+ r,+ r 8= V ß 2- ß 2= ß 2 (X*- 1)
+Sr= >ß 2 —ß 2= ß 2 (V- 1)
+und daraus r 1— ß 2 (X•
+n n r 2= ^2 0'
+1)
+1)X
+= Ä,(X-1)X*
+; n =ß 2 (x— i) v
+42)
+
+beite 386,
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 32.
+Anzahl der Contacte
+tC LO tO LO LO 10 LO t-Jiv-Jt-JI i—11(—1U>>
+03 O 1 4^ W IO H O sD 00 •*'1 C. Ol^ 03 LO>
+OCDOO^ÄOi^ODLO)-*
+h-‘O^C000  iM- 1 CH Oi H H iMO K) ÜI
+ocooit-yuoojtoosHaxifficöOioaiootfiocör-^MKJO
+I^CJiCCCSCJiOiOOMOSLCOOöUCOOOvIOiai^OIKltOMHIW(-I
+iMW^-lOtOOOJCDD^^^OODCC^MHWÜnr^O^lMO
+^icc rt^oocwiMoooooow'D-üJ^aooooooo^iM^o
+Do;^o:oia)CDC»oioo <1 LO i—' C)( CD CD O
+)MO D Vl CO LO q Ü< >1 y <1 03 D <1 o o
+LOCDOC^WIOtOHH
+HOOJCOD^O^hCOOJI^WIOHw
+300:iOÜJ^H O LO o
+H Vl O' lt- IO LC l— 1 I—•
+HCOaOOOO^O- O H 00 OS©
+O» 03 LC I—■
+<1^05^05005010051001
+OlCDOMMOOOCDCD05-•
+^OhojhOJODOiWIOH
+0005 05^00CO M a 4- 03 0 0
+X Ot w LO M
+CDO^OOOIO p3 IC ►- O CD GO <1
+4-^03 03 03 LClOL0L0‘—‘— ^-H-‘h-
+ü 1 i- 1 vl I- O CD Ol 03 r— CD <1 O* 4*- 03
+LO h 4. o X^ 1 Oi IO i— 11 00 4^ i—•
+Oirf^O 3— Crf^LO— CD tfc- Ci LO t-*
+CC4^f%4^0303COGirh-t%C003>—©
+OCO'ICiOiOi^
+O ^1 03 33 <| o 03
+<1 Oi M IC Oi O CK
+O Ci 4^— <1 Ci 03
+Qi 03 LC Qi Oi Oi
+03 -1 **• LO l—i
+*'ll4‘Oi-‘HC103l-‘
+L0l-‘OC3<I03l4-00
+i- Ci X M 03 LD Ol
+Qi O O 4- LC LO O
+C3 X iMC m
+XX<I^03Ci03H
+CD030-IOCOC3X
+03 00 4^0103 01-0
+Cit—* LO CD O O
+LO CD l-* rf*. 00 CD
+i— 1 00 CC oi M o Ol
+O Ol CD OI LO O
+©©©©©©©
+O O O O O O O
+o o o o o© o
+Q
+zu
+Der
+erwarten
+gesummte
+war,
+Vorselialtwiderstand ist, wie
+ibliängig von der Anzahl der
+Contactstellen. Sehr bequem für den practischen
+Gebrauch ist die Tabelle XII, aus welcher die Ver­
+hältnisse -},~
+(erste Colonne) für die verschiedenen
+Grössen X, n und <j (zweite Colonne) direct
+werden können. Ein Beispiel mag den
+erläutern.
+abgelesen
+Gebrauch
+Fig. 21.
+Beispiel. Die Schlüpfung eines bestimmten
+Motors bei ausgeschaltetem Widerstande sei q— —-—
+J 30-28
+Angenommen, der Anlassstrom dürfe höchstens 30%
+grösser als der Normalstrom sein X (= 1-3), so gibt
+hiefür die Tabelle XII X"+ 1=—= 30‘28.« -f-]= 13
+g
+oder n= 12. Dann ist nach Tabelle XII
+D= %C'-— 1)= 0‘3 7?2
+r 2=% (X— 1) X= 0-3.1-3%
+r 3=% (X— 1) X 2= 0-3. 1-69%
+r 4=% (X— 1) X3= 0-3.2-197%
+r i2—% (X— 1) X 11= 0-3.1 7’92% und der Gesammt-
+widerstand
+?' =- 7? 2 (X“— 1) =(23-298— 1)%.
+Anmerkung: Genau gesprochen, stellt X nicht das
+Verhältnis der 8 tr o ms tärke u n d Zugkräfte dar, son­
+dern allein nur das Verh ä 1 tn i s —— == -'.Trotzdem ist es
+g x
+leicht möglich, der wirklichen Stromstärke Rechnung zu tragen,
+ohne dass dadurch die Rechnung viel complicirter wird.
+Es sei beispielsweise bei Normalgang x= 2, a= 0 08,
+»/= 50, dann ist J in Verhältniszahl ausgedrückt nach Tabelle IV
+J= 213. Angenommen, der Anlassstrom dürfe 50"/o höher als bei
+normalem Gang sein, d. h, .7=1- 5. 2-13.3-2, so gibt dafür
+Tabelle IV= 3 4. I)ie Zugkräfte verhalten sich in diesem Falle
+2*575 3*4
+nach Tabelle V wie—_.= 1-53 statt 1-5 und X ist=—=
+1 0/4 2
+==17 statt 1'5 zu setzen.
+Wäre der Unterschied zwischen dem maximalen und nor­
+malen Strom kleiner, so würde auch dieser Fehler kleiner aus-
+fallen.
+
+Nr. 32.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite" 387.
+Automatisches Anlassen von Motoren (Patent
+Kr i z i k— F i s c h e r- H i n n e n).
+Das Anlassen kann auch vollständig automatisch
+geschehen, indem man in den Secundärstromkreis einen
+Widerstand und parallel dazu eine Selbstinductionsspule
+(siehe Fig. 21) von relativ geringerem Ohm'schen
+Verlust einschaltet. Da die Periodenzahl des Secundär-
+stromes umgekehrt proportional mit der Tourenzahl
+ahnimmt, so wird auch die Selbstinduction der Spule
+in gleichem Maasse abnehmen, so dass hei normalem
+Gange der Vorschalt widerstand nahezu kurz ge­
+schlossen ist.
+Selbstverständlich muss die Spule derart disponirt
+sein, dass ihre Selhstinduction bei normalem Gange
+möglichst klein gegenüber derjenigen der Armatur ist.
+Es bedeute
+R den Vorschaltwiderstand.
+r„ Ohm’schen Widerstand der Spule und
+io 2 L deren Selhstinduction,
+so ist der scheinbare Widerstand des ganzen
+Systemes
+„_ R (r 2 -|- Iß) -f r ß 3_
+R'=
+(B -f r)2+ tf
+approx.
+1+
+TW
+ß
+und die scheinbare Selhstinduction
+Wo
+w 2 T,. B 3
+(K+ r) a 4. W 2 2 jß
+approx.
+ß
+, ß \2
+i+lx
+indem nach Voraussetzung r sehr klein gegenüber ß
+sein muss.
+Eine Ableitung dieser Formeln muss hier unter­
+bleiben; sie findet sich übrigens in jedem Lehrbuche
+der Wechselstromlehre.
+Die grösste Wirkung heim Anlassen wird erreicht,
+wenn man ß= w 2 L macht für w 2= w x. In diesem
+Falle wird
+-f
+"-T
+Geschwindigkeitsreguliru ng mittels Wider­
+stand im secundiiren Stromkreise.
+Es bedeute wie früher
+g— die Schlüpfung hei kurzgeschlossenem Wider­
+stande,
+g'„ Schlüpfung hei vorgeschaltetem Wider­
+stande,
+v und v‘ die entsprechenden Geschwindigkeiten, so
+ergibt sich
+1- 9‘
+v 1-
+r■, g‘ R‘i+ r
+ferner ist—— 1
+-9 9 fh
+aus diesen beiden Gleichungen ergibt sich der vorge­
+schaltete Widerstand für eine beliebige Tourenzahl
+r =B,
+43)
+5) Leistungsfactor (cos 
+woraus sich x nur ziemlich schwer berechnen lässt.
+(Siehe übrigens die nachstehende Tabelle XIII.) Nimmt
+man dagegen—— 0
+in die einfachere Form x= -—iiher. worin x offenbar
+V«
+etwas zu gross ist, jedoch für die Berechnung des cos cp
+ohne bedeutenden Einfluss ist, da, wie gesagt, die Curve
+nur langsam gegen die Abscissenachse abfällt. Dies in
+Gleichung (33) eingesetzt, ergibt angenähert
+gtgcu—— v an, so geht die obige Gleichung
+c°s cpmax= angenähert ——. —-
+1 T" 17 (1
+0-96
+-S)(l— £')
+45).
+Wir können übrigens dieses Verhältnis noch ge­
+nauer erhalten. Schreibt man nämlich
+COS 'Prnax
+(1— s) (1 £')
+46),
+so können die Werthe von C und dementsprechend x
+direct aus Tabelle XIII abgelesen werden.
+TABELLE XIII.
+Werthe von x und C für cos
+0 04
+0-06
+0 08
+0-10
+0 12
+0 14
+20‘
+y= 35
+V= 50
+O—
+x=
+O=
+C=
+I*
+y= 100
+I n=
+*=“ C-
+2 705
+0 792
+3-160
+0-834
+3-440
+0-854
+3-! 90
+0 888
+5 000
+0-940
+2 622
+0-773
+3 000
+0-814
+3-230
+0-831
+3- 580
+0-859
+4- 100
+0-887
+2 530
+0-753
+2 840
+0-789
+3-010
+0-808
+3-245
+0 828
+2-443
+0-733
+2-690
+0- 765
+2-810
+0-780
+2-980
+0-798
+3-530 3 710
+0-851
+0-818
+2 363
+0 709
+2-560
+0-738
+2-650
+0-756
+2-746
+0-769
+2-880
+0-785
+2-275
+0-688
+2-432
+0-713
+2-500
+0-729
+2-582
+0-740
+2-670
+0-764
+Beispiel: Wie gross ist der maximal erreichbare cos <p
+für einen Motor von nachstehenden Daten:
+£= 0-035, e'= 0-03, a= 0-06',-^-= 0-4;
+
+Seite 388.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 32
+0-035— 7I ’°
+= 0-90
+daraus folgt nach Früherem
+■h 1
+y- i 0 e- o-4
+für y= 50 wäre nach Tabelle XIII 0= 0 831 und
+für y= 100 0= 0-859. Der wirkliche
+Werth liegt zwischen beiden und beträgt ungefähr
+0 815
+C= 0-345, also cos tfmax=^_ o-035) (1— 0'03)
+Nach der approx. Gleichung (45) wäre
+0-9* 0^ o-91
+COS 
+y= 20
+y= 35
+y= so
+y= 100
+y=»
+0-492
+0-395
+0-349
+0 284
+0-219
+0 525
+0-426
+0 383
+0-330
+0-275
+0-559
+0-464
+0-425
+0-372
+0 334
+0-586 0 620 0-671
+0-504 0 547 0-593
+0-470 0-513 0-558
+0-416 0-466 1 0-516
+0-386 0 440 0-496
+auch
+Soll der Motor bei normaler Belastung
+gleich den grössten cos cp erhalten, so hat es augen­
+scheinlich keinen Zweck, den Leerlaufstrom unter der
+angegebenen Zahl zu halten; bei Motoren dagegen,
+welche nur zeitweise voll belastet werden, liegt es im
+Interesse einer günstigen Ausnützung der Anlage, den
+maximalen Leistungsfactor schon bei einer geringeren
+Belastung zu erreichen. Man wird also in diesem Falle
+den Leerlaufstrom etwas kleiner halten müssen.
+(Fortsetzung folgt.)
+Sw
+,5«
+5
+I g«
+.g brW
+ö J.2
+© rC
+rQ
+cccococi^H-dir
+-h »C lO CD CO »O H Tb
+os r> oa tH ci o 05 oi
+00 rH Tb Ö »b Tb CD cb
+CO CO r-t o >—I T—t
+tH Tjl 35 (M
+0-1 o
+CD OO
+CO Tb
+00 Dl O Ol Ol r—l t> *0
+CO O CM CM t> CO CO CM
+t> 05 l> 00 CO 1"; Tb »G
+05* r-i 00 CM Tb r-j CM Tb
+rH H rl 05 CM CO
+Tb CO H
+CO »O 05 -b Tb
+CO^
+_CCL_
+t'« I> 00
+CO Tb O
+t>
+Ol
+H9U0S
+*p- T oj9q
+iimf optrj siq
+.louu-gp-iuioA
+t> rJJ 05
+0Ö cd (M O^ Tb
+00 O CM H 1
+00 00 io o
+—< »o M »O
+tJI CO I> CO
+Tb rH
+O —I
+© Dl
+05 CM*
+CO 00
+Tb CM CD H H i—l 05
+00 CD
+1> D-
+00 (M
+i—l (M i© O
+»H Tb CD O
+CO Tb CO vH
+Tb CM Tb c
+lO CO
+CM
+O O COH -^co
+t* IO o o »o —<
+rH Ol ©Tb 05 CD
+CO CO Ö CO
+H CO
+CD CO CM
+•^lOOOHCO^^HCOCOH
+I t> OÖ CO
+\d CD O I>
+CO 00 CO Tb Ol 00 l>
+O CO Dl 05 iO -b r-<
+L>© h iO H i CO
+05 CM H
+O 00 co
+05 Dl Dl
+CO CO* lö
+Dl
+_ O© »O rH
+O pp rH »O 00
+cb CD 05* Ö 05*
+GO CD iO 1>
+05 o: IO co t>
+l> 05 05
+00 Tft rH
+Tb
+ib
+p Dl
+CD CD
+O p 05
+Tb CD t>
+rH Dl
+Dl Ö
+c3
+fl
+c3
+rO
+fl
+H CQ
+fl cS
+AZ -Q
+CÖ 4H
+.Q "2
+4-3 Cu
+'ö fl?
+öS CC
+bß
+fl
+fl .23 *Ö
+A=2 U H
+ (M CD Ol CO D Ol O CD (M CO 05 D
+COCOnO-tMCODlOCOCDTtl*
+T(i 1>^ O CO CO CO'
+Ö Dl »b CO CD
+1(5 CO
+Dl
+05 H Tf 00 COh* O CD 05 N Dl (M O lO
+i0 05C0O00OC0 01C005 1'^H'05O
+O Dl CD CD l> O I>^ ffl t» t H 03 05 CO O
+m ö »b co* cb cö i> oö oö ib cb »b
+Ol »O CD 35 tH Dl
+CD Dl
+IH Dl *H O CO 1—1
+Tb CO GO CO O rH 05
+iO p 00 tH p p rO
+cb cb l> -H 05 05
+GO lO CO CD lO Dl iD
+HO 05 H CD tO lO 00 DI CD CD O
+t> »O »D
+lO CD GO
+CM 05 00
+rH Tb Ö
+Dl Dl CD
+c3
+|
+O
+O p CD
+Ö rH CD
+fl oe
+fl wo
+C3
+pq^
+©^
+Ad^
+© M
+©
+3©
+rb U
+'"©©
+"c3 >■
+fl$
+o 6
+5®
+oo E-i
+IO CO» 00 05 O rH IN
+l) Eröffnet am 7. November 1899.
+21 Eröffnet am 28. April 1900. (3‘2km).
+3) Vom 1. August an elektrischer Betrieb.
+
+Nr.-32.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 389.
+KLEINE MITTHEILUNGEN.
+Verschiedenes.
+Fried. Krupp in Essen. Dem Jahresberichte der Handels­
+kammer Essen entnehmen wir über die Krupp’sche Gussstahl-
+fabrik folgende Angaben. Im Jahre 1899 waren daselbst i n
+Thätigkeit: 17 diverse Oefen, Schmiedefeuer etc., 400 diverse
+Werkzeug- und Arbeitsmaschinen, 132 Dampfhämmer von 100
+bis 50.000 kii Fallgewicht mit zusammen 269.125 kg Fallgewicht, 30
+hydr.Pressen, darunter zwei von je 5000/, eine von 2000 und eine von
+12001 Druckkraft, 316 stehende Dampfkessel, 497 Dampfmaschinen
+von 2 bis 3500 PS mit zusammen 41.213 PS, 558 Krahne von
+400 bis 150.000 leg Tragfähigkeit mit zusammen 5,963.150 kg
+Tragfähigkeit. Im Jahre 1899 wurden verbraucht an Kohlen
+und Coaks in der Gussstahlfabrik 952.365 t (im Durchschnitt
+pro Arbeitstag 3174/, oder 8 Eisenbahnzüge ä 40 Wagen von 10 t),
+auf den übrigen Werken und eigonen Dampfern etc. 622.118 t, also
+im ganzen in allen Betrieben der Firma 1,570.483 t oder rund
+5000 t pro Tag. Der Verbrauch an W a s s e r auf der Gussstahl­
+fabrik war im Jahre 1899 15,018.156 m», was ungefähr dem
+Wasserverbrauch der Stadt Frankfurt a. M. entspricht. Die
+Länge der Leitungen zur Vertheilung des Wassers betrug
+171-59 km Erdleitungen, 106-48 km Leitungen innerhalb der
+Gebäude mit 1468 Wasserschiebern innerhalb der Leitung, 451
+Hydranten, 604 Feuerhähnen. Der Verbrauch an Leuchtgas
+auf der Gussstahlfabrik in Essen betrug im Jahre 1899
+18,836.050 mV (Verbrauch der Stadt Charlottenburg 17,417.400 m'i)
+für 2596 Strassenflammen, 41.745 Flammen in den Werkstätten.
+Die Gesammtlänge der Erdleitung betrug 9459 km, die Gesammt-
+länge der inneren Leitungen 234-77 km. Das Elektricitäts-
+werk der Gussstahlfabrik in Essen hat 3 Maschinenhäuser mit
+6 Vertheilungsstationen, 26'85 km unterirdisch verlegte Kabel
+und 90 km oberirdisch verlegte Lichtkabel, und speist 877 Bogen­
+lampen, 6724 Glühlampen und 179 Elektromotoren. Zur Vermit­
+telung des Verkehres auf der Gussstahlfabrik in Essen dienen
+unter anderem ein normalspuriges Eisenbahnnetz mit directem
+Geleisanschluss an die Stationen der Staatsbahn Essen-Haupt­
+bahnhof, Essen Nord und Bergeborbeck (der Verkehr mit diesen drei
+Stationen geschieht zur Zeit durch täglich 150 Züge) mit ca. 58 km
+Geleisen, 16 Tender-Locomotiven und 707 Wagen; ferner ein
+schmalspuriges Eisenbahnnetz mit 44 km Geleisen, 26 Loco-
+motiven und 1209 Wagen. Das Telegrap liennetz der
+Gussstahlfabrik in Essen enthält 31 Stationen mit 58 Morse-
+Apparaten und 81 km Leitung. Dasselbe ist in Verbindung mit
+dom Kaiserlichen Telegraphenamt in Essen. Der telegraphische
+Verkehr zwischen der Fabrik und dem Telegraphenamt belief
+sich im Jahre 1899 auf 22.787 abgegebene und angekommene
+Telegramme. Das Fernsprechnetz enthält 328 Stationen
+mit 335 Fernsprechern und 320 km Leitung. Die Arbeiter-
+colonicn der Gussstahlfabrik in Essen umfassen die Colonien
+Baumhof, Nordhof, Westend, Kronenberg, Friedrichshof, Scheder-
+hof, Alfredshof, Altenhof (für invalide und pensionirte Arbeiter)
+mit 4210 Familienwohnungen für Arbeiter. Die Gesammtzahl
+der von der Firma Fried. Krupp bis 1. April 1900 errichteten
+Familienwohnungen beträgt 4853. Nach der Aufnahme vom
+1. April 1900 betrug die Gesammtzahl der auf den
+Krupp'sehen W erken beschäftigten Personen ein­
+schliesslich 3559 Beamten: 46.679. Von diesen entfallen auf die
+Gussstahlfabrik Essen 27.462, das Grusonwerk in Buckau 3475,
+dio Germania in Berlin und Kiel 3450, die Kohlenzechen 6164,
+die Hüttenwerke, Schiessplatz Moppen etc. 6128.
+Das Technikum Mittweida, ein unter Staatsaufsicht
+stehendes höheres technisches Institut zur Ausbildung von Elektro-
+und Maschinen-Ingenieuren, Technikern und Werkmeistern,
+zählte im 33. Schuljahre 2734 Besucher. Der Unterricht in der
+Elektrotechnik ist auch in den letzten Jahren erweitert und wird
+durch reichhaltige Sammlungen, Laboratorien, Werkstätten und
+Maschinenanlagen unterstützt. Das Wintersemester beginnt am
+16. October, und es finden die Aufnahmen für den am 25. Sep­
+tember beginnenden unentgeltlichen Vorunterricht von Anfang
+September an wochentäglieh statt. Ausführliches Programm mit
+Bericht wird kostenlos vonrSecretariat des Technikum Mittweida
+(Königreich Sachsen) abgegeben. Das Technikum Mittweida
+erhielt anlässlich der Sächs.-Thür. Ausstellung zu Leipzig die
+höchste Auszeichnung, die Königl. Sächsische Staatsmedaille,
+„für hervorragende Leistungen im technischen Unterrichtswesen“.
+Ausgeführte und projectirte Anlagen
+Oesterreich-Ungarn.
+a) Oesterreich.
+Bi-fum. (Concessionsbedingnisse für das
+Netz normalspuriger Kleinbahnen mit e 1 ektri-
+I schem Betriebe in Brünn und Umgebung.) Wir
+entnehmen der diesbezüglichen amtlichen Kundmachung Folgendes:
+Das im Gebiete der Landeshauptstadt Brünn und deren Um­
+gebung einerseits durch entsprechende Umgestaltung der be­
+stehenden Strassenbahnlinion und andererseits durch Anlage von
+neuen Bahnlinien herzustellende Netz von Kleinbahnen ist thoils
+eingcleisig, theils zweigeleisig und mit einer Spurweite von
+1-435 m auszuführen.
+Die bisher bestandenen Linien haben sowohl dem Personen­
+ais auch dem Frachtenverkehre zu dienen, während die neuen
+Linien lediglich für den Personenverkehr eingerichtet
+werden sollen. Der Personenverkehr hat auf allen Linien mit
+elektrischer Kraft, der Frachtenverkehr auf den hiefiir
+bestimmten Linien mit Dampfkraft zu erfolgen.
+Bei Störungen im elektrischen Betriebe und bei iibor-
+g-rossem Andrange des fahrenden Publicums an Sonn- und Feier­
+tagen können auch für den Personenverkehr auf den bisher be­
+standenen Linien unter den vom k. k. Eisenbahnministerium fest­
+zusetzenden Modalitäten Dampfmotore verwendet werden.
+Die grösste zulässige Fahrgesc h w i n d i g k ei t auf
+dem gegenständlichen Kleinbahnnotze wird vorläufig wio folgt
+festgesetzt:
+Für Strecken innerhalb des geschlossen verbauten Stadt­
+gebietes mit 12 km per Stunde; für Strecken ausserhalb desselben
+mit 16 lern per Stunde; für Strecken auf eigenem Unterbau mit
+25 km per Stunde., In den engen Tlieilen der Fordinandsgasse
+und der Krapfengasso darf die Maximalfahrgeschwindigkeit jedoch
+nur 7 km per Stunde betragen.
+Das k. k. Eisenbahnministerium behält sich übrigens er­
+forderlichen Falles vor, weitero Bestimmungen über dio Ver­
+minderung dieser Fahrgesclnvindigkeit in einzelnen Thoilstreckon,
+insbesondere auch bei eventuellem Nachtverkehre nach Massgabe
+der localen Verhältnisse zu treffen.
+T i- a c e. Das Kleinbahnnetz umfasst:
+A. Die bestehenden Strassenbahnlinien, welche unter ent­
+sprechender Umgestaltung für den Personenverkehr mit
+elektrischer Kraft und für den Frachtenvorkohr mit Dampf­
+kraft eingerichtet werden sollen, u. zw.:
+I. Schreibwald—Karthaus;
+II. Ugartestrasse—Centralfriedhof.
+B. Die für den Personenverkehr neu herzustellenden, sohin
+lediglich elektrisch zu betreibenden Linien, u. zw.;
+III. Kröna— Ferdinandsgasse— Grosser Platz— Lazansky-
+Platz— Eichhorngasse— Tivoligasse— Getreidemarkt—
+—Lazansky-Platz:
+IV. Zeile—Grosser Platz;
+V. Kröna—Dornichg-asse—Kumrowitz, und
+VI. Getreidemarkt—Altbriinner Badhaus.
+Die circa 7-8 km lange, theils ein-, theils zwoigoleisige
+Linie I beginnt mit der nächst dem Schreibwahle liegenden
+gleichnamigen Station, führt vorerst eingeleisig auf eigonom Unter­
+bau neben der Schreibw-aldstrasse, hierauf auf dieser Strasse und
+durch die Ugartestrasse, woselbst die in beiderseitiger Goleise-
+verbindung stehende Linie II abzweigt. Von dieser Abzweigung
+an zieht die Linie I zweigeloisig durch die Ugartestrasse, dio
+AVawrastrasse und die Skenetstrasse, bei dem Bahnhofe der
+k. k. priv. Kaiser Ferdinands-Nordbahn vorbei, wobei dieselbo in
+einem Theile von der Linie III mitbenützt wird. Im weiteren
+Verlaufe tritt die Linie I in den Bahnring ein, führt beim Bahn­
+hofe der priv. Oesterr.-ungar. Staatseisenbahn-Gesellschaft vorüber,
+durch die Pilgramgasse, kreuzt am Ende derselben die in ent­
+sprechende Geleiseverbindung zu bringende Linie IV im Niveau
+und gelangt durch die Basteigasse, die Schwedengasse und dio
+Neugasse bis vor die Einmündung der Lösselgasse. Von da ab
+wieder nur eingeleisig, benützt die Linie I auch weiterhin dio
+Neugasse, führt beim Militär-Montursdepöt vorbei, kreuzt die
+Schleppbahn zu demselben im Niveau, gelangt schliesslich in die
+Briinnerstrasse und endet mit der beim Gasthause Semilasso
+bestehenden Station Karthaus.
+Von der Linie I zweigen mehrere, blos dem Frachten­
+verkehre dienende Geleise ab, u. zw. in km 1-4/6 zum Altbriinner
+Brauhause, in 1cm 2- 2/3 zur Fabrik Aron& Jakob Beer Söhne,
+in km 3- 6/7 in den Bahnhof der priv. Oesterr.-ungar. Staats­
+eisenbahn-Gesellschaft, in km 6'6/7 zur Emailwaarenfabrik der
+Aetiengesellschaft der Emaillirwerko und Metallwaarenfabriken
+„Austria“,'in der Lösselgasse zur Maschinenfabrik der Actien-
+gesellsehaft für Maschinenbau vormals Brand& Lhuillier,
+zur Malzfabrik F. Morgenstern& Sohn und zur Moravia-
+Brauerei.
+Die circa 2-3 km lange eingeleisige Linie II zweigt von der
+Linie I in der Ugartestrasse ab und führt durch die Bürger­
+gasse, woselbst ein Frachtengeleise zur Bäuerischen Zuckerfabrik
+
+Seite 390.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 32.
+abzweigt, kreuzt dieses letztere im Niveau, benützt die bestehende
+gewölbte Strassenbrücke über den Schwarzafluss, gelangt sodann
+in dio Wienergasse und in dieser, sowie auf der Wiener Reichs­
+strasse hinziehend, zum Centralfriedhof, woselbst die Linie mit
+der neu herzustcllonden Haltestelle Ober-Gerspitz endet.
+Die circa 4'7 km lange, thcils ein-, tlieils. zweigeleisige
+Linie III beginnt nächst dem neuen städtischen Schlachthause,
+unterfährt den im Zuge der Vlarapasslinie der priv. Oesterr-
+ungar. Staatseisenbalm-Gesellschaft liegenden Viaduct, führt zwei-
+geloisig durch die Floischmarktgasse, übersetzt hiebei das Scldepp-
+geleise, welches von der Uforbahn der vorgenannten Hauptbahn
+zur Maschinenfabrik Krackhardt führt, im Niveau, gelangt
+sodann in den Strassenzug Kröna, benützt die bestehende ge­
+wölbte Brücke über den Zwitta-Mühlgarten, unterfährt den im
+Zuge der Linie Brünn—Prag der priv. Oestorr.-ungar.'Staats-
+cisenbalm-Gesellschaft liegenden gewölbten Krönaviaduct, vor
+welchem die Linie V unmittelbar abzweigt und gelan.t zur
+Linie I, welche auf eine kurze Strecke mitbenützt wird.
+Im weiteren Verlaufe tritt die Linie III in die Ferdinands­
+gasse ein, zieht eingeleisig durch diese Gasse zum Grossen Platz
+und kreuzt daselbst die in entsprechende Geleiseverbindung zu
+bringende Lmio IV im Niveau.
+Vom Grossen Platze, woselbst die Linie wieder zweigeleisig
+wird, führt dieselbe durch die neu zu eröffnende Kirchengasse
+zum Lazansky-Platze, durchzieht denselben und hierauf dio Giskra-
+und Herlthgasse. Von hier angefangen wird die Linie III abermals
+eingeleisig und führt über den Ratwitzplatz in die Einhorngasse;
+am Ende derselben tritt dio Linie mittelst scharfen Bogens in die
+Tivoligasse über, durchzieht den Getreidemarkt und gelangt,
+wieder zweigeleisig werdend, durch die Thalgasse und die Jodok­
+strasse zum Lazansky-Platze zurück, woselbst sie in den vorhin
+beschriebenen Theil der Linie III wieder einmündet.
+Die circa P9 km lange, thoils ein-, theils zweigeleisigo Linie IV
+beginnt nächst der Obrowitzer Zwittabrücke und führt in dem
+Strassenzuge „Zeile“ und durch den breiteren Theil der Krapfen­
+gasse in zweigeleisiger Anlage bis zum Theater.
+Von da ab wird die Linie IV eingoleisig, kreuzt dio in
+entsprechende Geloiseverbindung zu bringende Linie I im Niveau
+und zieht durch den engeren Theil der Krapfengasse weiter bis
+zum Endpunkte am Grossen Platze, woselbst sie in entsprechende
+Goloiseverbindung mit der im Niveau gekreuzten Linie III ge­
+bracht wird.
+Die circa P5 km lange Linie V zweigt von der Linie III
+unmittelbar vor der Unterfahrung des Kröna-Viaductes ab, führt
+eine kurze Strecke in zweigeleisigcr Anlage und sodann durch­
+wegs eingeleisig durch dio Dornichgasse, benützt die zu reeon-
+struirende Findeisbrücke über den Schwarzmühlbach, unterfährt
+die im Zuge der Vlarapasslinie der priv. Oesterr.-ungar. Staats­
+eisenbahn-Gesellschaft liegende eiserne Brücke, gelangt schliess­
+lich auf die Klobouker Bezirksstrasse und endet im Orte
+Kumrowitz.
+Die genauere Tracenfeststellung- der Linie VI vom Go-
+treidemarkt über den Kolsterplatz zum Altbrünner Badhause
+bleibt bis nach Vorlage des bezüglichen Detailprojectes Vor­
+behalten.
+Aonderungen der im Vorstehenden festgesetzten Bahntracen
+können nur mit Genehmigung des k. k. Eisenbahnministeriums
+vorgenommen werden.
+Ob erbau. Bei den Linien I und II ist im allgemeinen ein
+Oberbau mit Flussstahlschienen auf Holzquerschwollen nach
+System XX der k. k. Staatsbahnen auszuführen.
+In den in Pflasterstrassen liegenden Theilen dieser Linien,
+sowie in den in Schotterstrassen befindlichen Theilstrecken der­
+selben, woselbst die Strassenseite gewechselt wird oder ein-
+intindende Strassen gekreuzt werden, ist das Geleise aus zwei
+Paaren der obbezeichneten Schienen zu bilden, von welchen eine
+als Fahrschiene, die andere als Leitschiene zu dienen hat. Diese
+gekuppelten Schienen sind auf Unterlagsplatten aufzubringen und
+durch gusseiserne Einlagen mit Schraubenbolzen mit einander zu
+verbinden.
+Bei den Linien III, IV und V ist ein Rillenschienenoberbau
+mit Flussstahlschienen von mindestens 42"3 kg Gewicht per
+laufendes Meter unter Anwendung von eisernen Spurstangen
+auszuführen.
+Die Inanspruchnahme der Schienen darf bei allen drei
+Oberbaugattungon in keinem Falle 1000 kg per Quadratcentimeter
+der Querschnittsfläche der Schiene übersteigen.
+Elektrotechnische Betriebseinrichtungen. 1. Die
+maschinelle und elektrotechnische Anlage der Kraftstation, welche
+zur Vermeidung jeder nachbarlichen Belästigung thunliehst in all­
+seitig freistehenden Gebäuden untergebracht worden soll, ist für
+eino derartige Leistungsfähigkeit zu bomessen, dass dio verfüg­
+bare Strommenge nicht allein zur Abwickelung des stärksten
+Bahnverkehres, sondern auch zur Speisung der jeweiligen Be­
+leuchtungsanlagen für Bahnzwecke genügt.
+Ausserdem muss auch für entsprechende Reservegarnituren
+vorgesorgt sein, so dass jede Betriebsunterbrechung ausgeschlossen
+bleibt. Als Reserve kann auch eine entsprechend eingeschaltete
+Accumulatorenbatterie in Verwendung kommen.
+Dio Verwendung von Accumulatoron für Bahnzwecke ist
+an besondere noch zu erlassende Vorschriften gebunden.
+2. Die Zuführung des Stromes zum Motorwagen erfolgt
+durch Contactleitungen, welche, wenn dieselben oberhalb des
+Strassenplanums angebracht worden, in einem Höhenabstande von
+mindestens 5 5 m geführt werden müssen.
+Für die Speiseleitungen gelten, im Falle dieselben als
+Luftleitungen ausgeführt werden, die gleichen Normen.
+Wenn dio Stromzuführung unterhalb oder im Niveau des
+Strassenplanums bewerkstelligt werden soll, wird von Fall zu
+Fall über die Zulässigkeit der projoctirten Anlage und das Detail
+ihrer Ausführungsweise entschieden werden.
+Die im Strassenkörper versenkten Leitungen sind im
+allgemeinen mindestens 0'3 vi unter das Strassenniveau zu
+verlogen.
+3. Die oberirdischen Fernleitungen, Speiseleitungen und
+Contactleitungen sind in derartiger. Entfernung von bestehenden
+Gebäuden, sonstigen bestehenden Objecten, Bäumen oder dorgl.
+anzulegen und mit einer derart entsprechenden Isolation auszu
+rüsten, dass die neuo Anlage nicht durch Unberufene erreicht
+werden kann und durch dioselbe wedor die Anrainer irgendwie
+belästigt, noch bereits bestehende elektrotechnische Anlagen in
+ihrem Betriebe gestört werden. Insbesondere sind auch alle an
+Gebäuden angebrachten Mauerhaken oder sonstigen ßefestigungs-
+mittel mit doppelter Isolation und mit Schalldämpfern zu ver­
+sehen.
+Zwischen den Stromleitungen und bestehenden parallel
+laufenden Telegraphen- oder Telephonleitungen ist ein zur Ver­
+meidung von Induetionen genügender Abstand einzuhalten.
+Kreuzungen elektrischer Leitungen sind thunlichst recht-
+winkelig durchzuführen und genügt im allgemeinen ein loth-
+rechter Abstand von 1 m zwischen denselben.
+Ueberhaupt sind bestehende Telegraphen-, Telephon- und
+andere elektrische Leitungen nach den Anordnungen der compe-
+tenten Behörden gegen die Einwirkung der neu projectirton
+Stromleitungen zu schützen, erforderlichen Falles entsprechend
+zu verlegen oder durch Rückleitungen zu ergänzen.
+Gegen die Gefahr bringenden Folgen des Abreissens der
+einen oder anderen Gattung Leitungen ist mittelst Anbringung
+entsprechender Sicherheitsnetze oder auf andere Weise vorzu­
+sorgen.
+4. Werden stellenweise für Fernleitungen oder Speiso­
+leitungen in dio Erde gelegte Kabel benützt, so müssen dieselben
+gut isolirt und mit Blei und Eisen armirt sein; auch muss
+zwischen derartigen Kabeln und den Grundmauern der Gebäude
+oder sonstigen Objecten ein Abstand von mindestens 1 m vor­
+bleiben, damit bei Vornahme von Reparaturen an den Gebäuden
+oder an den Kabeln keine Beschädigungen derselben Vor­
+kommen.
+Alle abnormalen Anlagen (bei Canälen, Brücken etc.) untor­
+liegen einer besonderen Genehmigung.
+5. Bei Anwendung einer vom Erdboden nicht isolirten
+Rückleitung (Eisenbahnschienen, eiserne Träger, eiserne Rohre,
+Drahtseile etc.), muss für die Continuität dieser metallischen
+Rückleitung durch entsprechende elektrische Ueberbrückung aller
+Unterbrechungen, als Schienenstösse u. s. w., gesorgt werden. In
+dieser Rückleitung ist der Querschnittswiderstand nicht grösser,
+der Gesammtwiderstand aber bedeutend geringer als in der Hin­
+leitung zu bemessen, damit keine Ausströmungen durch die
+Erde stattfinden, weiche anderweitige Interessenten schädigen
+oder belästigen könnten.
+Weiters ist auch für die vollkommene Continuität der
+Rückleitung durch die Räder und Schienen mittelst entsprechender
+Reinhaltung der letzteren vorzusorgen.
+6. Die Querschnitte der Leitungen in der Kraftstation und
+innerhalb der einzelnen elektrischen Sectionen sind mit Rück­
+sichtnahme auf den stärksten Verkehr, bezw. die intensivste Be­
+leuchtung der Bahn derart zu bemessen, dass weder in den
+Leitungen, noch in den eingeschalteten künstlichen Widerständen
+übermässige Temperaturerhöhungen hervorgerufen werden.
+Die in den Kupfcrleitungen von verschiedenen Querschnitt­
+flächen in Quadratmillimetern zulässigen Betriebsstromstärken in
+Amperes unterliegen nachstehenden Begrenzungen:
+
+Nr. 32.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 391.
+Querschnitt in
+Quadrat­
+millimetern
+Betriebsstrom­
+stärke
+in Amperes
+Querschnitt in
+Quadrat­
+millimetern
+Betriebsstrom­
+stärke
+in Amperes
+l'O
+1’5
+2‘5
+5-0
+10
+15
+4
+G
+10
+18
+30
+40
+25
+50
+100
+200
+300
+500
+60
+100
+170
+290
+400
+600
+Für Zwischenwertlie ist geradlinig zu interpoliren.
+Bei Widerständen, welche zum Glühen kommen können,
+bei funkengebenden Schaltvorrichtungen u. s. w. ist der Feuers­
+gefahr vorzubeugen.
+Im allgemeinen ist gegen übermässige Stromstärken, bezw.
+Temperaturerhöhungen mittelst Anbringung von automatischen
+Ansschaltvorrichtungen, bezw. Abschmelzsicherungen vorzusorgen.
+Bei denselben muss die Ausschalt-, bezw. Abschmelzstrom-
+stärke in leicht lesbarer Weise stets aufgeschrieben, bezw. ein­
+gestempelt sein; das letztere sowohl in den auswechselbaren, als
+auch in den nicht auswechselbaren Anschlusstheilen. Die Aus­
+schalt-, bezw. Abschmelzstromstärke darf das Zweifache der
+Betriebsstromstärke nicht übersteigen.
+7. In allen Betriebsleitungen, welche in den dem Publicum
+und dem nicht elektrotechnisch gebildeten Bahnbetriebspersonale
+zugänglichen Oertlichkeiten angelegt werden, darf die Spannungs­
+differenz zwischen den Hin- und Rückleitungen die Grenze von
+500 V bei Gleichströmen, bezw. von 250 V bei Wechselströmen
+nicht übersteigen.
+In allen solchen Oertlichkeiten dürfen blanke Leitungen
+nur derart angebracht sein, dass sie durch Unberufene nicht
+erreicht werden können.
+Innerhalb der gedeckten Räume der Gebäude jeder Art
+und solcher Oertlichkeiten, wo sich leicht entzündbare Gase ent­
+wickeln, dürfen keine blanken Leitungen angebracht werden.
+Für Fernleitungen, sowie für alle Stromerzeugungs­
+maschinen, Schaltapparate, Transformatoren, Messvorrichtungen
+u. s. w., sind höhere Spannungen zulässig, doch muss für eine
+entsprechende Isolation, sowie durch Anbringung wirksamer
+Schutzvorrichtungen dafür gesorgt werden, dass sowohl die
+^ Sicherheit des Personales, als auch Unberufener nicht gefährdet
+werden kann.
+Solche Leitungen sind mit Rückleitungon zu versehen und
+derart anzulegen, dass Inductionswirkungen thunliehst vermieden
+werden.
+8. Die ganze Anlage, sowie die Motorwagen, sind mit ent­
+sprechenden Blitzschutzvorrichtungen zu versehen.
+9. Die elektrische und motorische Einrichtung der Fahr­
+betriebsmittel ist thunlichst ausserhalb des Wagenkastens, jeden­
+falls aber derart anzubringen, dass die Fahrgäste mit strom-
+führenden Theilen nicht in Berührung kommen können.
+Die für die Leitung der Bewegungen des Wagens zu
+construirenden Schaltkurbeln, ferner die Nothausschalter, sowie
+alle anderen oberhalb dos Fussbodonplanums befindlichen
+Apparate und Leitungen, welche zu Motorzwecken dienen,
+sollen derart eingerichtet sein, dass sowohl Fehlgriffe durch das
+Bedienungspersonal, als auch eine Bethätigung durch Unberufene
+soviel als thunlich ausgeschlossen bleiben.
+insbesondere sollen die zu handhabenden Kurbeln, Hobeln,
+Griffe u. s. w. nur dann aufgesteckt oder abgenommen werden
+können, wenn die Einrichtung stromlos gestellt ist.
+10. Die elektromotorisch ausgerüsteten Fahrbetriebsmittel
+müssen ausser mit den übrigen vorgeschriebonen Bremsvor­
+richtungen auch auf rein elektrischem Wege mittelst eines einzigen
+Griffes rasch und sicher gebremst werden können.
+Die elektrische Bremsvorrichtung ist mit hinreichend
+vielen, entsprechend abgestuften Schaltstellen auszurüsten, damit
+dioselbe sowohl als Ilaltebremso, wie auch insbesondere als
+Gebrauchsbremse benutzt werden kann. Dieselbe darf in
+ihrem Stromwege weder Abschmelzsicherungen, noch automatische
+Maximalausschalter haben und muss das ganze Gewicht des
+Motorwagens als Adhäsionsgewicht ausnützen.
+Werden auch Anhängewagen verwendet, so sind dieselben
+in die elektrische Bremsung mit einzubeziehen.
+i I. Die Endpunkte des Bahnnetzes sind nach Bedarf
+unter einander und mit der Kraftstation in telephonische Ver­
+bindung zu bringen.
+An Fahrbetriebsmitteln sind für den Betrieb
+mit elektrischer Kraft mindestens neu anzuschaffen:
+41 zweiachsige Motorwagen mit zwei Motoren von min­
+destens je 37 Pferdekräften Leistungsfähigkeit mit einem Fassungs­
+raume für mindestens 34 Personen;
+12 zweiachsige Anhängewagen mit einem Fassungsraume
+für mindestens 28 Personen;
+endlich sind 16 zweiachsige Anhängewagen aus vorhan­
+denen, für den elektrischen Betrieb umzugestaltenden Personen­
+wagen beizustellen.
+Alle Fahrbetriebsmittel haben derart kräftige Handbremsen
+zu erhalten, dass diese letzteren allein bei einer Geschwindigkeit
+von 12 km per Stunde den Stillstand der Fahrbetriebsmittel auf
+10m Länge bewirken können.
+Ferner muss es möglich sein, mittelst nur zweier Griffe
+die Wirkungen der elektrischen Bremse und der Handbremse zu
+vereinigen, um auf diese Weise den Wagen fast augenblicklich
+bis zum Gleiten bremsen zu können. Damit dies aueh bei un
+günstigem Schienenzustande ermöglicht wird, ist eine gut func-
+tionirende Sandstreuung einzurichten und ist für entsprechende
+Sanddepöts längs der Strecke vorzusorgen.
+Für den Betrieb mit Dampfkraft sind aus dem vorhandenen
+Fahrparke mindestens 4 Locomotiven in vollständig betriebsfähigem
+Zustande beizustellen.
+Als Ftyierungsmaterial für die Locomotiven ist ausschliess­
+lich Coaks zu verwenden. Der Aschen- und Rauchkasten der
+Locomotiven muss derart verschliessbar gemacht sein, dass ein
+Herausfallen von glimmenden Coaksstücken oder ein Entfliegen
+von Funken sicher vermieden wird.
+Berück s i c h t i g u n g inländische r W e r k e. Alle
+für den Bau des Bahnnetzes erforderlichen Materialien, darunter
+auch die Oberbaumaterialien, eisernen Brücken nnd die Leitungs-
+bestandtbeile, ferner die Ausrüstung und Einrichtung der elek­
+trischen Kraftstation, sowie die Fahrbetriebsmittel sind ausschliess­
+lich aus inländischen Werken oder Fabriken zu beschaffen:
+(Bestätigung des Betriebsleiters der Brünner
+elektrischen Strassenbahnen.) Das k. k Eisenbalm­
+ministerium hat über Antrag der Oesterreichischen
+Ünion-Elektricitäts-Gesellschaft (System Thomson-
+Houston) in Wien den Egon von Lenz als verantwortlichen-
+Betriebsleiter des gesammten Brünner Strassenbahn-Unternohmens
+mit dem Titel eines Direktors bestätigt, dagegen die Verwendung
+des Ingenieurs Otto Jäsclike als verantwortlichen Betriebs­
+techniker betreffs des maschinellen und elektrotechnischen Theiles
+des Brünner Betriebes nur bis zum 1. October als provisorischen
+Betriebsleiter gestattet nnd die Betrauung des Ingenieurs Ludwig
+Streicher mit der Bauleitung genehmigend zur Kenntnis ge­
+nommen.
+b) Ungarn.
+Budapest. (Tech nisc h-p olizeiliche Begehung
+der auf elektrischen Betrieb u m g estaltet e n
+Budapcst-Szentlör inczer-Vicin alba h n.) Nachdem
+die in Folge der Umstaltung der Budapost-Szontlörinczer
+V i c i n a 1 b a h n auf elektrischen Betriob nothwendig gewordenen
+Arbeiten nunmehr beendet sind, hat der ungarische Handels­
+minister die technisch-polizeiliche Begehung der erwähnten Um-
+staltungsarboiten angeordnet. Die mit der Begehung betraute
+Commission, welche am 26. Juli 1. J. ihres Amtes waltete, hat
+die Aufgabe, die von der jetzigen Endstation der Vicinalbahn
+in der Orczystrasse in Budapest, wo die Begehung beginnt, bis
+zur Grenze der Gemarkung der Haupt- und Residenzstadt Buda­
+pest führende zweigeleisigo Hauptlinie, das von der Grenze
+bis zum Endpunkte führende rechtsseitige Geleise, die
+Verbindung mit der Budapest-Lajosmizser Vicinalbahn, und
+endlich die Central-Stroinerzeugungsanlage vom technischen und
+polizeilichen Standpunkte aus zu überprüfen. Es sei noch be­
+merkt,,, dass dio Bahn in Hinkunft die Firma: „Budapest-
+Szentlörinczer elektrische Vicinalbah n u führt.
+M.
+(Budapester Kabelbah n.) Das Munieipium der
+Haupt- u. Residenzstadt Budapest gab in seiner die Linienführung
+der Budapester Kabelbahn behandelnden und dem kön. un­
+garischen Handelsminister vorgelogten Beschlüsse dio Erklärung
+ab, dass es der Hinüberführung der vom Egyhüzplatz auf den
+Szcchenyiberg projectirten Kabelbahn auf das linke Ufer der
+Donau vom Standpunkte der Interessen des allgemeinen Ver­
+kehrs principiell nicht nur nichts im Woge steht, sondern die­
+selbe überhaupt als wünschenswerth erachte. Die Lösung der
+Frage glaubt es derart herbeizuführen, dass die Kabelbahn über
+dio 'neue im Baue befindliche Donaubrücke geführt, sodann auf
+der linksufrigen Brückenauffahrt geleitet, mit den Geleisen der
+
+Seite 392.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 32.
+Budapester elektrischen Stadtbahn verbunden werde. Zugleich
+ersucht das Municipium den kön. ung. Handelsminister, dass es
+von den Projectanten einen entsprechenden Plan einverlange.
+Der Minister hat das Municipium verständigt, dass es sich einer
+richtigen Lösung der Frage keineswegs verschliesse, bevor er aber hin­
+sichtlich des in Antrag gebrachten Anschlusses einen Beschluss
+fasst, wünscht er, in Anbetracht dessen, dass sowohl vom Stand­
+punkte der Interessen des allgemeinen Verkehres, als auch der
+Lebensfähigkeit der Kabelbahnunternehmung es wünschenswerth
+erscheint, den Endpunkt der Bahn auf den alten Kegyiplatz, als
+auf den Brennpunkt des sehr lebhaften Verkehres der innern
+Stadt zu verlegen, sich vorher darüber zu informiren, ob nicht
+eine zweckentsprechende Lösung der Frage möglich wäre. Der
+Minister forderte also die Kabelbahnunternehmung auf, dass die­
+selbe die auf der Pester Seite der Stadt zu bewerkstelligende
+Anlage der Anschlussgeleise, beziehungsweise die Linienführung
+auf dem linken Ufer der Donau anbelangend, das erwähnte Ziel
+vor Augen haltend, alternative Pläne ausarbeiten lasse und die­
+selben im Wege des Municipiums ihm vorlege. M.
+Patentnachriehten.
+Mitgetheilt von Ingenieur
+Victor Monath,
+WIEN, I. Jasomirgottstrasse Nr. 4.
+Liste der jüngst ert heilten österreichischen Patente
+Classe
+21.Pat.-Nr. 1835. Gray’scher Copiertelegraph.— Firma: The
+Gray National Telautograph Company in New-
+York. l./ll. 1899.
+„ Pat.-Nr. 1839. Schaltungsanordnung zur selbstthätigen elek­
+trischen Schusszeichengabe für Fernsprechämter.— Firma:
+Siemens& Halske in Wien. 15./2. 1900.
+„ Pat -Nr. 1830. Ausschalter für hochgespannte Ströme.— Karl
+Fat t in ge r, Monteur in Wien. 15./4. 1900.
+„ Pat.-Nr. 1836. Elektricitätszähler für mehrfache Tarife.—
+Dr. Hermann A r o n, Professor und Geheimer Regierungs*
+rath in Berlin. 1./3. 1900.
+„ Pat -Nr. 1829. Klemmvorrichtung für Bogenlampen.— Walter
+Claude Johnson, Elektrotechniker in Blackheath, Grafschaft
+Kent (England). 15./4. 1900.
+„ Pat.-Nr. 1841. Vorrichtung zum Fernschalten von elektrischen
+Lampen.— Victor K a rm i n, Ingenieur in Wien. 15./4. 1900.
+„ Pat.-Nr. 1823. Thermobatterie.— Josef Mathias, Telegraphen-
+secretär in Stuttgart. 1./2. 1900.
+26. Pat.-Nr. 1808. Elektrischer Gasfernzünder.— Carl Franzen,
+Civil-Ingenieur in Köln a. Rh. 15./4. 1900.
+39. Pat.-Nr. 1805. Verfahren zur Herstellung von Guttapercha­
+ersatz für elektrische Isolationszwecke.— Adolf Gentzseh,
+Mineraloge in Wien. 15./4. 1900.
+40. Pat.-Nr. 1809. Ausgestaltung an elektrolytischen Zersetzungs­
+apparaten.— Aluminium Industrie- ActiengeseIl­
+se h a f t in Neuhausen (Schweiz)— 28./12. 1896. Umwandlung
+des Privilegiums vom 28. 12. 1896.
+48. Pat.-Nr. 1775. Verfahren zur Herstellung von kohlensaure
+Metallsalze enthaltenden Elektrolyten.— Quintin Mat in o,
+Ingenieur in Brüssel. 1./4. 1900.
+74. Pat.-Nr. 1770. Contactstöpsel für elektrische Wecker.— Wil­
+helm Hausmann, Kaufmann in Königshütte (O. S.) und
+Hermann Ritter, Uhrmacher in Kattowitz, O. S. (Preussen).
+1./4. 1900.
+„ Pat.-Nr. 1832. Taster für Ilaustelegraphen.— Firma: Heinrich
+Krätschmer in Korbach (N.-Oe.) 1./4. 1900.
+Auszüge aus Patentschriften.
+Compagnie Electro-Metallurgique des Procetles Gin et Lelenx
+in Paris.— Behandlung von Kupfer-, Nickel-, Kobalt-, Blei-
+and Silber-Erzen im elektrischen Ofen.— Classe 40, Nr. 108.940
+vom 24. Februar 1899.
+In einem elektrischen Ofen sind die Elektroden aus einem
+solchen Metallgebildet, dass dessen Verbindungswärme mit den Me­
+talloiden grösser ist als die der in dem Erze enthaltenen Metalle.
+Hier dient der Strom, der ein Gleich- oder Wechselstrom sein
+kann, nur zur Erzeugung einer für die Reaction nöthigen Tem­
+peratur. Die Substituirung des Metalles der Elektroden vollzieht
+sich dann von selbst, ohne dass der Strom einem anderen Zwecke
+als der Ilervorrufung und Erleichterung dieser Reaction dient, und
+um die Stetigkeit in den Operationen zu ermöglichen.
+Geschäftliche und finanzielle Nachrichten.
+Die Actieiigescllschaft „Elektrische Balm Lieben-
+Wysotsclian“ hielt am 23. v. M. ihre Generalversammlung ab.
+Anwesend waren acht Actionäre, welche 108 Stimmen mit einem
+Capital von 782.000 K vertraten. Der Concessionär Herr Ingenieur
+K f i z i k erstattete den Bericht über die eingeleiteten Schritte
+betreffend die Gründung der Actiengesellschaft. Der Bericht
+wurde genehmigt. In den Verwaltungsrath wurden gewählt die
+Herren Franz Kf i z i k, E.-S c hl e i f er, Direetor der böhmischen
+Industriebank, Dr. Wladimir Skarda, Advocat, Victor
+Troltsc h, Bahndirector, Johann S e d 1 a k, Grundbesitzer,
+Gottlieb S t a n e k, Ingenieur, ferner für die Landesbank Herr
+Director Loätak und Ingenieur Kaftan. Der Verwaltungs­
+rath wurde von der Generalversammlung einstimmig ermächtigt,
+dass er die Uebernahme der Objecte der Bahn nach dem In­
+ventar durchführe und hieffir 1885 St ick Actien dom Concessionär
+Herrn Ingenieur K f i z i k übergebe.
+Direct United States Cable Company, Limited. In der
+dieser Tage abgehaltenen Generalversammlung constatirto der
+Vorsitzende, dass die Einnahmen während des mit dom 30. Juni
+1900 beendeten Betriebsjahres sich auf 109.004 Pfd. St. bezifferten,
+wovon nach Abzug der Betriebsausgaben ein Saldo zum Belaufe
+von 68.081 Pfd. St. verblieben. Davon seien 42.497 Pfd. St. als
+Dividende vertheilt und 25.000 Pfd. St. dem Reservefonds zu­
+geführt worden. Nach Inbetriebnahme des Deutschen Kabels
+würden 13 Kabel über den Atlantic führen und sobald die Ab­
+kürzungslinie Neuschottland- Azoren gelegt sei, würden 14
+Atlantickabel vorhanden sein. Bis jetzt habe der Deposchenver-
+kehr nach Deutschland noch keine Aenderung aufzuweisen, da
+die nach Deutschland bestimmten Telegramme noch immer
+über die Kabel der Gesellschaft gegangen und dann von Valencia
+nach Deutschland über das Britische Kabel weiter befördert
+seien, man könne aber nicht darauf rechnen, dass das immer so
+bleiben werde, und deshalb habe man seitens der Direction
+schon mannigfache Verhandlungen angeknüpft, als deren Er­
+gebnis aller Voraussicht nach das Interesse der zum Pool ge­
+hörenden Gesellschaften gewahrt bleiben werde.
+Rand Central Electric Works. Der Betrieb der Anlagen,
+die von Siemens& Halske geliefert worden sind, wurde,
+wie der Jahresbericht für 1899 ausführt, durch den Krieg em­
+pfindlich gestört. Die Einnahmen beliefen sich auf 50.674 Pfd. St.
+gegen 43.208 Pfd. St. im Jahre 1898, und wäre ohne den Krieg
+wohl noch um 10.000 bis 15.000 Pfd. St. höher gewesen, da die
+Betriebskraft von 1846 auf 2219 FS stieg. Die Kosten be­
+trugen 49.834 Pfd. St. gegen 48.951 Pfd. St. im Vorjahre, so dass
+ein Gewinn von 839 Pfd. St. verbleibt gegen einen Verlust
+von 5742 Pfd. St. im Vorjahre. Nach den Bestimmungen des
+Contractes haben Siemens& Halske eine Summe von
+29.244 Pfd. St. zu zahlen, wovon aber 7371 Pfd. St. in Abzug
+kommen sollen für Verluste durch den Krieg. Aus dem Rest
+von 21.872 Pfd. St. sollen den Bestimmungen des Contractes ge­
+mäss 71/40/0 Dividende vertheilt werden.
+De röste rreichi sch-ungarische Kupfer markt, im Jalire 1899.
+Die Kupferproduction der Welt betrug 1899 470.866 t, sie hat sich
+seit 1896 um rund 100.000 t vermehrt, während sich die Durch­
+schnittspreise in dieser Zeit von 42 auf 73 Pfd. St. per Tonne
+erhöhten. An der Spitze der Kupferproduction steht Amerika mit,
+262.206 t, also mehr als die Hälfte der Weltproduction, dann folgt
+Spanien mit 53.720 t, Japan mit 27.269 f, Chile mit 25.000 und
+das Deutsche Reich mit 23.360 t. Die Production Oesterreichs
+beträgt 915, die Ungarns 590 t. Nach Oesterreich-Ungarn betrug
+die Einfuhr 174.426 Mtr-Ctr. und stellt sich der Durchnittspreis
+auf 184 Kronen gegen 135 Kronen des Vorjahres per Mtr.-Ctr.,
+also, um 40 Percent höher. Die Ursache dieser beträchtlichen
+Preissteigerung, welche eine bedeutende Capitalsvermehrung der
+einzelnen Industrien bewirkte, liegt in der Vereinigung der be­
+deutendsten Productionen in einer Hand, in dem nordamerikanischen
+Trust, welchem nahezu alle grösseren Kupferwerke angehören.
+Die Baisse-Speculationen in England bleiben stets ohne Erfolg,
+die hohen Preise werden willig gezahlt und bekunden die Notli-
+wendigkeit, mit weiteren Erhöhungen rechnen zu müssen und die
+Aufnahmsfähigkeit des zu theueren Preisen importirten Materials.
+Oestorreich-Ungarn mit seiner geringen Kupferproduction
+war hauptsächlich auf den Import angewiesen und bezog aus
+Amerika 65.533 Mtr.-Ctr. Neben dieser Post sind noch die Bezüge
+aus England mit 26.032, aus Deutschland mit 46.690, aus Japan
+mit 8681 Mtr.-Ctr. zu,erwähnen. Ausgeführt wurden 5536 gegen
+1728 Mtr.-Ctr. im Vorjahre, in welcher Ausfuhr das in Witkowitz
+erzeugte Elektrolytknpfer eine beträchtliche Stelle einnimmt.
+Schluss der Redaction: 31. Juli 1900.
+Verantwortlicher Redacteur: Dr. J. Sahulka. —- Selbstverlag des Elektrotechnischen Vereines.
+Commissionsverlag bei Spielhag en& Sch ur i ch, Wien.— Alleinige Inseraten-Aufnahmebei Haasenstein& Vogler (Otto Maass), Wien und Prag
+Druck von R. Spies& Co., Wien.
+

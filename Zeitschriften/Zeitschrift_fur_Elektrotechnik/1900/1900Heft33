@@ -1,0 +1,1753 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 88. WIEN, 12. August 1900. XYIII. Jahrgang.
+Bemerkungen der Redaction: Ein Nachdruck ans dem redactionellen Theile der Zeitschrift ist nur unter der Quellenangabe
+„Z. f. E. Wien“ und bei Originalartikeln überdies nur mit Genehmigung der Redaction gestattet.
+Die Einsendung von Origmalarbeiten ist erwünscht und werden dieselben nach dem in der Redactionsordnung festgesetzten Tarife
+honorirt. Die Anzahl der vom Autor event. gewünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Manuscripte bekanntgegeben werden.
+INHALT:
+Rundschau 393
+lieber die Grossoberflächcnplatte (System Wehrlin) der Accu-
+mulatoren-Fabrik Wüste& Rupprecht, Baden und Wien,
+und ihre Anwendbarkeit für Pufferbatterien 395
+Berechnung von asynchronen Wechselstrommotoren. Von
+J. Fischer-Hinnen (Schluss) 397
+Kleine Mittheilungen.
+Verschiedenes
+Ausgeführto und projectirte Anlagen ....
+Patentnachrichten
+Personalnachrichten
+403
+403
+404
+404
+Rundschau.
+In der Welt aus Stellung Paris 1900 ist auf
+elektrotechnischem Gebiete viel Neues und
+Sehenswerthes ausgestellt und möge anlässlich des am
+18. August beginnenden Elektrotechniker-Congresses auf
+einige hervorragende und besonders interessante Obj ecte
+hingewiesen werden; eine ausführliche Beschreibung und
+ein Hinweis auf andere ebenfalls sehr interessante Ob­
+jecte wird in einigen später zur Veröffentlichung ge­
+langenden Artikeln enthalten sein. Da fast jeder der
+Aussteller Neuheiten in seiner Specialausstellung auf­
+zuweisen hat, kann der gegenwärtige Hinweis nicht
+als ein umfassender angesehen werden. Die Objecte
+befinden sich theils im Elektricitätsgebäude am Champ
+de Mars, theils in Vincennes, theils an den verschie­
+denen Stellen des Ausstellungsraumes.
+Unter den in Classe 23 (Erzeugung und mechani­
+sche Anwendung der Elektricität) gehörigen Objecten
+erregen die im Palais d’Electricitö aufgestellten Dampf­
+dynamos sowohl durch die Grösse ihrer Leistungen
+von tausend bis mehrere tausend Kilowatt als auch
+durch ihre technischen Details besondere Aufmerksam­
+keit. Bezüglich des Antriebes fallen uns nicht blos die
+durch Parsons- und Lavalturbinen angetriebenen Dy­
+namos, sondern auch einige Dynamos zu 1000 KW
+Leistung auf, welche von eincylindrigen Dampf­
+maschinen angetrieben werden. Derartige Dampf­
+dynamos mögen wohl nur für solche Wechselstrom-
+Centralen geeignet sein, welche blos während weniger
+Stunden am Abend eine starke Belastung haben,
+so dass die Eincylinder-Dampfmaschine während des
+ganzen Tages weniger Dampf verbraucht als eine
+Compound-Dampfmaschine. In der englischen Abthei­
+lung ist eine von Eobey& Co. ausgestellte, mit
+einer Parsons-Turbine direct gekuppelte Gleichstrom­
+dynamo zu sehen, welche 3000 Touren pro Minute
+macht; daselbst ist auch eine vierpolige Wechselstrom-
+maschine von 2000 F, 250 A direct von einer Parsons-
+Turbine angetrieben. In der österreichischen Abtheilung
+sind in der Ausstellung von Siemens& Halske,
+Actiengesellschaft in Wien, zwei auf gemeinschaftlicher
+Achse montirte Gleichstrommaschinen, von denen jede
+zwei Gleichstromspannungen gibt, so dass die beiden
+Dynamos ein Fünfleitersystemnetz mit Strom versorgen,
+besonders hervorzuheben, ebenso eine selbsterregende
+Drehstromdynamo. Die Gleichstromdynamos für zwei
+Spannungen haben zwei Ankerwickelungen. Die eine
+ist in gewöhnlicher Art mit einem Collector verbunden,
+von welchem mittelst zweier Bürsten 220 F Gleichstrom
+abgenommen wird; die andere Wickelung ist in ent­
+sprechenden Punkten aufgeschnitten und zu einer Sechs­
+phasenstromwickelung mit Knotenpunkt gruppirt, deren
+Endpunkte an entsprechenden Stellen an die erste
+Ankerwickelung angeschlossen sind, während der Knoten­
+punkt mit einem Schleifringe verbunden ist, welcher
+im Vereine mit jeder Collectorbürste die halbe Spannung,
+d. i. 110F liefert. In ähnlicher Weise ist auch die
+selbsterregende Drehstromdynamo beschaffen. Ein von
+derselben Firma ansgestellter achtpoliger Drehstrom-
+Gleichstrom-Umformer von 500 KW Leistung erregt
+sowohl durch seine Kleinheit, als auch durch die hohe
+Tourenzahl (600 pro Minute, d. i. 30 m Umfangsge­
+schwindigkeit) allgemeine Aufmerksamkeit. Als Anlasser
+dient ein sechspoliger, auf derselben Achse montirter
+asynchroner Drehstrommotor. Die Ausstellung von
+Siemens& Halske in Wien ist ebenso wie die
+von Ganz& Co. in Budapest, von F r. K f i z i k in
+Prag und von der V er einigten Elektricität s-
+Actiengesellsckaft in Wien, ausserordentlich
+reichhaltig und wird demnächst ausführlich besjn’ochen
+werden. Eine von der Societö l’Eclairage Elec-
+trique ausgestellte Dynamo liefert Strom von 30.000F
+Spannung. Unter den vielen ausgestellten Drehstrom­
+maschinen ist die 1200/iW-Dynamo von Ganz& Co.
+und die 1000K W-Dynamo der E 1 e k t r.-A c t.-G e s.
+vorm. Kolben& Co. wegen ihrer constructiven
+Details besonders bemerkenswerth, ebenso die von der
+Elektr.-Aet.-Ges. Helios in Köln ausgestellte mono­
+cyclische Dynamo, welche 2000 KW Einphasenstrom
+oder 3000 K W Zweiphasenstrom liefern kann; eine
+von der Allgemeinen Elektricitäts-Ge­
+sellschaft in Berlin ausgestellte 3000 KIF-Dreh-
+stromdynamo befindet sich in einem an das Elek­
+tricitätsgebäude angrenzenden Pavillon, ist jedoch nicht in
+Betrieb. Sehr reichhaltig und schön sind die Ausstellungen
+der Schweizer Firmen: Maschinenfabrik Oerlikon,
+von Brown, Boveri& Co. in Baden und der
+Compagnie de l’Indus.trie El ectr i que und
+sei speciell auf die Gleichstrommaschinen für sehr hohe
+Spannung, System Thury, der letzteren Firma ver­
+wiesen.
+Die von A. Grammont ausgestellte Drehstrom­
+dynamo ist mit einer von M. H ü t i n ersonnenen
+
+Suite 394.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 33.
+Erregerdynamo versehen, welche so beschaffen ist,
+dass die Drehstromdynamo für beliebige Belastungs­
+änderungen, gleichgiltig, ob die Belastung inductiv
+oder inductionslos ist, vollkommen compoundirt wird.
+Die Erregerdynamo besteht aus einem Gleichstrom­
+anker, welcher von zwei Feldmagnetkränzen umschlossen
+ist. Jeder der beiden letzteren ist mit einem Dreh­
+stromwickelungssystemversehen; das eine ist im Neben­
+schluss zwischen die Klemmen der Drehstromdynamo
+geschaltet, während das andere von Strömen durch­
+flossen ist, welche den von der Drehstromdynamo ab­
+gegebenen Strömen proportional sind. In dem Anker
+der Erregerdynamo entstehen daher nebeneinander
+zwei Drehfelder, welche zufolge einer bestimmten An­
+ordnung der Feldmagnetwickelungen gegen einander um
+einen Winkel versetzt sind. Durch diese Anordnung
+kann erreicht werden, dass von den Bürsten Gleich­
+strom abgenommen wird, dessen Stärke sich entsprechend
+der Belastung der Drehstromdynamo so ändert, dass
+dieselbe compoundirt wird.— Auf eine andere Art
+erreicht B o u c h erot die Compoundirung der Dreh­
+stromdynamos, wobei die Erregerdynamo ein Drehfeld
+besitzt, welches durch Ströme erzeugt wird, die den
+von der Drehstromdynamo abgegebenen Strömen pro­
+portional sind; wenn die Rotationsgeschwindigkeit des
+Ankers, welcher die gewöhnliche Form hat, in be­
+stimmtem Verhältnisse steht zu der des Drehfeldes
+kann von den Bürsten Gleichstrom abgenommen werden!
+Die Firma B r e g u e t hat eine Dreiphasendynamo für
+2200 F, 220 A ausgestellt, welche mit einer Erreger­
+maschine nach Bo u che rot versehen ist. Die letztere
+sitzt auf der Achse der Drehstromdynamo und macht
+daher wie diese 250 Touren; die Feldmagnetwickelung
+der Erregerdynamo ist aber so ausgeführt, dass das
+eizeugte Drehfeld 500 Touren im entgegengesetzten
+Sinne macht.
+Mehrere der ausgestellten Dynamos sind mit Ein­
+richtungen zur Verringerung oder Aufhebung der
+Ankerrückwirkung auf den Feldmagneten versehen.
+Diese Einrichtungen bestehen zumeist in bestimmten
+hoi men der Polschuhe oder in Anordnungen von
+Zwischenpolen in den neutralen Zonen. Die grosse von
+der Compagnie Farcot ausgestellte Zweiphasendynamo
+von 2 X 200 KW Leistung ist mit einer besonderen,
+von Leblanc ersonnenen Einrichtung versehen. Die
+Feldmagnetpole sind parallel zur Achse der Dynamo
+von Kupferbolzen durchsetzt; die Bolzen aller Magnet­
+pole sind durch zwei starke Kupferringe leitend ver­
+bunden. Die in diesen Ringen und Bolzen entstehenden
+Inductionsströme verhindern die Ankerrückwirkung.
+Untei den Wechselstrom- und Drehstrommotoren
+ist ein von Ingenieur M. Deri in der österreichischen
+Abtheilung ausgestellter Einphasenstrommotor besonders
+hervorzuheben, welcher mit veränderter Polzahl an­
+gelassen wird; *) ebendaselbst ist auch von Döri ein
+neuei Einphasenstrom- Gleichstrom- Umformer aus­
+gestellt, bei welchem sowohl Feldmagnet als Anker
+lmgförmig sind, und die Ankerrückwirkung durch
+eine ringsum am Feldmagneten angebrachte Com-
+pensationswickelung, welche vom abgegebenen Gleich­
+ströme durchflossen ist, vollkommen beseitigt wird.
+Unter den Umformern sei noch der von der Firma
+Bröguet ausgestellte Gleichstrom-Umformer hervor­
+gehoben, welcher Gleichstrom von 150 V empfängt und
+*) Z. f. E. 1899. H. 25.
+denselben in Gleichstrom von constanter Stärke 50 A
+und veränderlicher Spannung 100—150 V umformt;
+derselbe dient zum Laden von Accumulatoren.
+Um bei Drehstrommotoren die Ein- und Aus­
+schaltung von Anlasswiderständen zu vermeiden, sind
+verschiedene Constructionen ersonnen worden. Der aus­
+gestellte Motor von Boucherot hat zwei Feldmagnete
+und einen von denselben umschlossenen Anker, welcher
+aus zwei parallel zu einander angeordneten Anker­
+kernen besteht, die von einer gemeinschaftlichen Käfig­
+wickelung durchsetzt sind. Zwischen den Ankerkernen
+sind an die einzelnen Stäbe der Wickelung in der
+Mitte paarweise Widerstände angelöthet. Der eine Feld­
+magnet wird beim Anlassen um einen einer Halbperiode
+entsprechenden Winkel verdreht, wobei die obigen
+Widerstände als Anlasswiderstände wirken; nach Er­
+reichung des Synchronismus wird dieser Feldmagnet
+in seine normale Stellung gebracht, wodurch die Wider­
+stände stromlos werden. Unter den Drehstrommotoren
+sei auf den asynchronen 750 KW Dreiphasenstrom­
+motor der Westinghouse Co. aufmerksam gemacht,
+welcher mit einer Gleichstromdynamo von 550 V ge­
+kuppelt ist, die den Strom zum Betriebe der 180
+Motoren liefert, welche die 3'6 km lange bewegliche Platt­
+form antreiben. Die Anlage befindet sich am Quai d’Orsay.
+F. K f i z i k stellt ebenfalls Drehstrommotoren
+aus, deren Anlasswiderstände nach einem System von
+Fischer-Hinnen ebenfalls ausser Wirksamkeit
+treten, wenn die hohe Tourenzahl erreicht ist; zu diesem
+Zwecke sind zu den Anlasswiderständen inductive
+Widerstände parallel geschaltet.
+Auf dem Gebiete der elektrischen Bahnen er­
+regen die Einrichtungen der elektrischen Bahn inner­
+halb der Ausstellung, die der beweglichen Plattform
+(pont roulant), die prachtvoll ausgestatteten, in Vin-
+cennes ausgestellten elektrischen Trambahnwagen der
+Firma F. Ringhoff er in Prag, deren elek­
+trische Ausstattung von den Firmen F. Kfizik und
+Siemens& Iialske in Wien herrührt, besondere
+Aufmerksamkeit. Es sei auch auf die beiden elektrischen
+Locomotiven in Vincennes, auf die elektrische Loco-
+motive der Firma Schneider& Cie. in dem be­
+sonderen Pavillon dieser Firma, auf die Hängebahn
+und Automobilbahn mit oberirdischer Stromzuführung
+in Vincennes und auf die elektrische Untergrundbahn,
+welche vom Champ de Mars zur Gare des Invalides
+führt, aufmerksam gemacht.
+Bezüglich der Kabel sind hauptsächlich die Aus­
+stellungen von Berthoud, B o r e 1& Cie., die der
+Allgemeinen Elektricitäts-Gesellschaft
+in Berlin und Felten& Guilleaume und der
+Kabelfabriks-Actien- Gesellschaft in
+Wien und Pressburg verwiesen; schöne Objecte auf
+diesem Gebiete sind auch von der Firma Franz
+Tobiseh in Wien ausgestellt. Interessant sind die im
+I. Stock des Elektricitätsgebäudes gezeigten Experi­
+mente der Prüfung von Kabeln mit hohen Spannungen.
+Isolirmaterial ist in sehr reichhaltigem Maasse von
+der Sociötö Francaise de l’A m b r o i n e und
+von der Schweizer Firma Saurer ausgestellt; das
+von dieser Firma ausgestellte künstliche Guttapercha hat
+in elektrischer Beziehung nach den von Prof. Weber
+angestellten Versuchen ausserordentlich amte Eigen­
+schaften. b
+Ein Ueberblick über die Objecte in anderen
+Classen folgt in einer der nächsten Nummern. S,
+
+Nr. 33.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 395.
+lieber die Grossoberflächenplatte (System Wehrlin)
+der Accumulatoren-Fabrik Wüste& Rupprecht, Baden
+und Wien, und ihre Anwendbarkeit für Pufferbatterien.
+Die Pufferwirkung eines Accumulators beruht auf
+der Fähigkeit desselben, in halbgeladenem Zustande
+sowohl Strom aufnehmen, als abgeben zu können. Nun
+ist es im Wesen eines jeden Accumulators begründet,
+dass bei Stromaufnahmen eine Spannungserhöhung, bei
+Stromentnahmen eine Spannungserniedrigung, gerechnet
+von der Ruhespannung, auftreten muss. Es liegt der
+Grund dieser Erscheinung in dem Widerstande des
+Accumulators, welcher einfach scheinende Begriff bei
+dem Accumulator eine complicirte Grösse ist. Er setzt
+sich zusammen einerseits aus dem directen Ohm’schen
+Widerstande des Bleiträgers, der Bleiverbindungen, der
+activen Masse und des Elektrolyten, von denen erstere
+zwei allerdings als sehr klein in den meisten Fällen
+vernachlässigt werden können, andererseits aus den
+Widerständen, welche bei einem Stromdurchgang in
+gleichviel welcher Richtung an der Berührungsfläche
+des Elektrolyten und der den Bleiträger bedeckenden
+Masse, auftauchen. Diese letzteren Widerstände er­
+scheinen theils als directe Ohm’sche Widerstand­
+änderungen durch die chemische Reaction des an den
+Uebergangsstellen sich concentrirenden oder verdün­
+nenden Elektrolyten, theils als Widerstandsänderungen
+der activen Masse selbst, theils als Gegenpolarisationen
+durch die auftretenden Flüssigkeitsketten. Letztere
+können, wenn sie sich bis zur Gaspolarisation bei
+einem Stromstoss im Sinne der Ladung auf einen
+vollgeladenen, bei einem Stromstoss im Sinne der
+Entadung bei einem vollständig entladenen Accu­
+mulator steigern, recht bedeutende Werthe annehmen.
+Während nun sämmtliche Spannungsänderungen
+bei Stromstössen, welche in dem rein 0 h m’schen
+Widerstande der Bleiträger, Bleiverbindungen und des
+Elektrolyten ihren Grund haben, bei Elementen ver­
+schiedener Provenienz, bei denen, bei gleicher Capacität
+ja Bleimetallmenge, Säuremenge und Säureconcentration
+und mit ihr der specifische Widerstand der Säure,
+meist nicht sehr verschieden sind, so ziemlich die
+gleichen sein müssen, so lässt sieh a.uf die Höhe der
+Spannungsänderungen, welche auf den Widerstands­
+änderungen der activen Masse bei der Ladung und
+Entladung, sowie auf den bei Stromstössen auftretenden
+gegenelektromotorischen Kräften beruhen, durch ge­
+eignete Construction der Platten ein grosser Einfluss
+ausüben. Es ist nun bereits Erfahrungssache, dass es
+in erster Linie die positive Platte ist, welche einer
+sachgemässen Construction bedarf, während die Con­
+struction der negativen Platte, mit ihrer an und für
+sich besser leitenden Masse, was Spannungsschwankungen
+anbetrifft, weniger von Einfluss ist. Bei ihr sind dann
+wieder andere Erfordnisse, die später noch berührt
+werden, zu beachten.
+Es wird nun, ganz allgemein genommen, dass der
+Accumulator für Pufferwirkung der bessere sein, welcher
+bei demselben Stromstoss die geringere Spannungs­
+änderung gibt. Selbstverständlich wird dieses zunächst
+immer bei dem grösseren Accumulator der Fall sein,
+von dessen Capacität der betreffende Stromstoss percen-
+tual der geringste, und mit diesem die Belastung pro
+Einheit der Plattenoberfläche die kleinste ist, wo aber
+die Grösse der Accumulatoren puncto Capacität an­
+nähernd dieselbe, ist von entscheidendem Einfluss nur
+die Plattenconstruction, und zwar, wie bereits erwähnt,
+zunächst die der positiven Platte.
+Die einer günstigen Construction zu Grunde
+liegenden Bedingungen sind nun leicht bei Betrachtung
+der bei Stromaufnahme oder Stromabgabe an der
+Elektrode vor sich gehenden Vorgänge zu finden. Geht
+ein Strom durch den Accumulator, wobei es gleich ist,
+ob im Sinne der Ladung oder Entladung, so muss der­
+selbe vom metallischen Leiter durch die Masse in den
+Elektrolyten, resp. umgekehrt übergehen. Hierbei treten
+an der Grenze von Elektrode und Elektrolyt, also in
+der säuregetränkten Masseschichte, chemische Reac-
+tionen auf.
+Bei einem Entladestromstoss wird durch die bei
+Reductionen des Bleisuperoxydes entstehenden niederen
+Oxyde die die Masse durehtränkende Schwefelsäure
+gebunden, und dadurch, dass jetzt die Masse mit
+weniger concentrirter, also schlechter leitender Schwefel­
+säure durchdrungen ist, nicht blos ihr Widerstand be­
+deutend erhöht, sondern auch das Potential des Blei­
+superoxydes herabgedrückt. Es tritt eine Spannungs­
+erniedrigung ein. Durch Diffusion suchen sich die
+Schwefelsäureschichten verschiedener Concentration in
+der Masse und ausserhalb derselben auszugleichen, und
+stellt sich folglich ein Gleichgewichtszustand zwischen
+herbeiwandernder und verbrauchter Schwefelsäure ein,
+mit ihr ein Gleichgewichtszustand in der Concentration
+der die Masse durchtränkenden Schwefelsäure, und ein
+Gleichgewichtszustand des Widerstandes der Masse.
+Bei Beginn eines Entladestromstosses findet also sofort
+eine Spannungserniedrigung der Ruhespannung statt;
+zuerst, gleich nach Einschaltung, entsprechend dem
+Ohm’schen Widerstande der Säure zwischen den
+Platten, darauf ein rapider Abfall der Spannung, bis
+sich das soeben erwähnte Gleichgewicht eingestellt
+hat, worauf dann die Spannung nahezu constant wird,
+und bei andauerndem Stromstoss langsam, entsprechend
+der Entladecurve der betreffenden Stromstärke, sinken
+würde. Je nach der Höhe des Stromstosses tritt dieser
+Gleichgewichtszustand schneller oder langsamer ein;
+bei Stromstössen, die grösser sind als die einstiindige
+Entladestromstärke, ist die Zeitdauer bis zum Eintritt
+desselben 1/ 2 —iy 2 Minuten.
+Bei einem Stromstosse im Sinne der Ladung
+treten alle diese Erscheinungen ebenfalls, aber im ent­
+gegengesetzten Sinne auf.
+Durch Bildung von Bleisuperoxyd aus dem Blei­
+sulfat der halb entladenen Platte wird die die Masse
+durchtränkende Säure concentrirter, wodurch sich der
+Widerstand*) sowie das Potential der Masse erhöht,
+bis in oben erwähnten Sinne der Gleichgewichtszustand
+zwischen Ausgleichsgeschwindigkeit der verschieden
+concentrirten Säureschichten und Reactionsgeschwindig-
+keit der chemischen Umsetzungen sich einstellt.
+Diese Betrachtungen führen direct zu den
+Gesichtspunkten, aus welchen heraus eine Platte, die
+im Sinne der Pufferwirkung günstig arbeiten soll,
+construirt sein muss. Die Diff'usionsgeschwindigkeit
+der Säure in und an der activen Masse muss nach
+Möglichkeit vergrössert, der Widerstand der activen
+Masse möglichst verringert werden, beides erreicht
+*) Bei zunehmender Concentration der Schwefelsäure
+sinkt zuerst der specifische Widerstand derselben bis zu einer
+Concentration, die zwischen 20 und 30° B. liegt, worauf bei
+weiterer Erhöhung der Widerstand wieder steigt.
+
+Seite 396.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 33.
+man dadurch, dass man die active Masse in möglichst
+dünner Schicht nimmt, die Oberfläche der Platte also
+stark vergrössert und Sorge trägt, die Construction
+der Platte derart zu treffen, dass auch in den Ver­
+tiefungen derselben eine möglichst günstige Säure-
+Circulation vor sich gehen kann. Es erübrigt nur noch
+zu bemerken, dass je vollkommener dieses angestrebte
+Ziel erreicht ist, desto vollkommener die Masse auch
+bei Entladung in kurzen Entladezeiten arbeitet, mithin
+die Unterschiede in den Capacitäten von verschiedener
+Entladedauer umsomehr verschwinden.
+In den Plattentypen Dr 9, Er 9 und Fr 12 der
+Accumulatorenfabrik Wüste& ßuppreeht ist
+nun all den erwähnten Bedingungen bei der Construc­
+tion in einer Art Rechnung getragen worden, dass
+dieselben sich für Batterien für rapide Entladung
+und für Pufferbatterien in geradezu idealer Weise
+eignen.
+Die positiven Platten sind Grossoberflächenplatten
+mit 9—9'5facher Oberfläche, welch’ grosse Ober­
+fläche eine breite Vertheilung der activen Masse und
+Anbringung derselben nur in dünner Schichte er­
+möglicht. Diese Platte, besteht aus horizontalen
+Streifen parallel laufender, geneigter Lamellen, bei
+denen immer die Lamellen einer Reihe in entgegen­
+gesetzter Richtung geneigt sind, wie die der benach­
+barten. Dadurch, dass sich die Lamellen jeder Horizontal­
+reihe mit denen der ihr auf der anderen Seite der
+Platten gegenüberliegenden kreuzen, ist eine äusserst
+intensive Versteifung erzielt, welche in Verbindung
+mit der 1 —l 1/ 2 mm starken Bleiseele ein Wachsen
+oder Krümmen in horizontaler Richtung unmöglich
+macht. Dank dieser Versteifung ist es unnöthi«-
+Horizontalrippen zwischen den Lamellenreihen an­
+zubringen, wodurch also in verticaler Richtung die
+Riefen von oben bis unten zickzackfürmig ununter­
+brochen die ganze Plattenlänge herabgehen, was sich
+dadurch vortheilhaft äussert, dass, wie leicht zu er­
+sehen und zu beweisen ist, die Säurecirculation in den
+Riefen und damit auch die Bespiilung der am Grunde
+der Riefe befindlichen activen Masseschicht ungehindert
+und ein gleichmässiges „Arbeiten“ der gesammten
+Bleisuperoxydoberfläche gewährleistet ist.
+Die negativen Platten sind Gitterplatten des
+patentrechtlich geschützten Systemes „Wehrlin“ der
+Accumulatorenfabrik Wüste& R u p p r e c h t. Da­
+durch, dass dieselben durch Umgiessen von ent­
+sprechend profilirten Massepastillen hergestellt werden,
+ist ein inniger Contact zwischen Masse und Gitter
+vorhanden. Das Gitterwerk umschliesst die Masse in
+einer Weise, dass ein Ausfallen letzterer absolut aus­
+geschlossen ist, und wird durch die Herstellungsart
+der Pastillen, Pressung unter sehr hohem Druck,
+einem Schwinden der negativen Masse während des
+Gebrauches des Accumulators, wie die jetzt mehr­
+jährige Erfahrung ergeben hat, wirkungsvoll vor­
+gebeugt. Uebrigens könnte, auch wenn ein Schwinden
+der Masse eintreten würde, der Contact zwischen ihr
+und dem Gitter nicht verloren gehen, weil er stets
+durch die kleinen Hartbleistifte des Gitters, welche
+m der Mitte eines jeden kleinen Carreaus die Masse
+durchdringen, und von denen jedes, durch eine Pastille
+gebildete I eld, ihrer 25 hat, aufrecht erhalten werden
+würde.
+. Umfangreiche Messungen kleiner wie grosser
+sowohl im Laboratorium aufgestellter, als auch im
+Betriebe befindlicher Elemente haben dargethan, dass
+die erwähnten Accumulatorentypen für Zwecke der
+rapiden Entladung wie der Pufferwirkung in hohem
+Grade brauchbar sind.
+Tabelle I.
+Tabelle III.
+Die Resultate der Messungen von durch Strom-
+stösse an den betreffenden Elementen bewirkten
+Spannungsänderungen sind in Tabelle I aufgezeichnet.
+Die Darstellung ist derart, dass jeder Punkt einer
+Curve mit seiner Ordinate die Spannung angibt, auf
+welche das Element durch einen 2 Minuten lang an­
+dauernden Strom stoss von der Grösse, für welche
+die Curve gilt, gebracht wird, wenn es sich bei Be­
+ginn des Stromstosses in dem Ladezustand befindet,
+welchen die Abscisse des betreffenden Curvenpunktes
+angibt. Der Ladezustand des Elementes ist in der
+
+Nr. 33.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 397.
+Abscisse derart zum Ausdruck gebracht, dass ihre
+Zahlen die aus dem vollgeladenen Elemente bereits
+herausgenommene Capacität in Procenten der über­
+haupt verfügbaren Capacität angeben.
+Curve I entspricht einem zwei Minuten lang
+andauernden Stromstoss im Sinne der Ladung von der
+Grösse von 180% der einsttindigen Entladestromstärke.
+C u r v e II einem Stromstoss im Sinne der Ladung
+von der Grösse der einstiindigen Entladestromstärke.
+Curve III einem Stromstoss im Sinne der Ent­
+ladung von der Grösse der einstündigen Entladestrom­
+stärke.
+Curve IV einem Stromstoss im Sinne der Ent­
+ladung von der Grösse von 170% der einstündigen
+Entladestromstärke.
+Curve V einem Stromstoss im Sinne der Ent­
+ladung von der Grösse von 260% der einstündigen
+Entladestromstärke.
+Die Ruhespannung des Elementes beträgt im
+Mittel 2-05 —2-07 Volt.
+Es wird also beispielsweise bei einem Element,
+aus dem 80% seiner verfügbaren Capacität bereits
+entladen sind, durch einen Ladestromstoss in der Dauer
+von 2 Minuten von der Grösse der einstündigen Ent­
+ladestromstärke, die Spannung auf2-23V erhöht, durch
+einen ebenso lang andauernden Entladestromstoss von
+der Grösse von 170% der einsttindigen Entladestromstärke
+auf P80 V herabgedrückt. Sofort nach Aufhören des
+betreffenden Stromstosses springt die Spannung natürlich
+gegen die Ruhelage zu, um sich nach 1— 2 Minuten wieder
+in die Grösse von 2'05 —2’07 V einzustellen. Kürzere
+als 2 Minuten lang andauernde Stromstösse haben
+natürlich bedeutend geringere, längere nur unbedeutend
+grössere Spannungsänderungen zur Folge, wie nach dem
+früher Gesagten zu erwarten war. Es beziehen sich die
+dargestellten Daten auf die grossen Pufferelemente der
+Type Fr 12 mit 13 mm Plattenabstand, während die
+kleineren Typen Dr 9 und Er 9 mit den geringeren
+Plattenabständen von 10 und 11 mm natürlich ent­
+sprechend dem kleineren Ohm’schen Widerstande der
+Säure auch kleinere Spannungsänderungen aufweisen.
+Es zeigen diese Daten klar, dass sich die be­
+sprochenen Plattentypen für Pufferbatterien nicht nur
+besonders gut eignen, sondern den besten bestehenden
+Systemen gleichwerthig zur Seite stehen.
+Ein weiterer Beweis, dass die Fr 12-Platte für
+Zwecke der rapiden Entladung sowie der Pufferwirkung
+geeignet ist, und in jeder Weise conform den oben
+besprochenen, bei raschen Entladungen und starken
+Stromstössen an der Platte vor sich gehenden, chemi­
+schen und physikalischen Vorgängen construirt ist, ist
+aus der Capacitätscurve, wie sie in Tabelle II darge­
+stellt ist, zu ersehen. Nach derselben sind die Unterschiede
+zwischen den Capacitäten der verschieden langen Ent­
+ladungen nur äusserst geringe. Die Capacität der drei­
+stündigen Entladung= 1 gesetzt, beträgt:
+die der einstündigen 0‘745
+„„ zweistündigen 0‘91
+„„ dreistündigen 1-00
+„„ zehnstündigen 1-17
+welches als Beweis für die Brauchbarkeit besprochener
+Accumulatorentypen für vorliegende Zwecke dienen
+möge.
+Tabelle III zeigt die Capacitätscurve des TA 12-
+Accumulators im Vergleiche mit denen der Schnell­
+ladetypen von der Accumulatorenfabrik-Actiengesell-
+schaft und Accumulatorenwerke System Pollack.
+Die in der Tabelle für die Capacitäten der
+Accumulatorenfabrik- Actiengesellschaft- und System
+Pollack-Typen angeführten Zahlen sind dem Hilfs­
+buch für die Elektrotechnik von Grawinkel und
+Strecker, Berlin 1900, pag. 362 entnommen.
+H. Wehrlin.
+Berechnung von asynchronen Wechselstrommotoren.
+Von J. Fischer-Hinnen,
+Director der Firma Fr. Kfizik in Prag-Karolinenthal.
+(Schluss.)
+III.
+Vorausberechnung' von Maschinen.
+Es sei gegeben die Leistung des Motors in Pferden
+also E und 7,
+die Periodenzahl r,
+120 c
+die approx. Tourenzahl n— —7 (]_—
+cos cp,
+Nutzeffect L
+Für den Streuungscoefficienten habe man eben­
+falls eine muthmassliclie Annahme gemacht.
+Die Rechnung zerfällt sodann in zwei Theile:
+1. Bestimmung der Felddimensionen
+und W i c k e 1 u n g.
+2. Bestimmung der Armatunvicke-
+lun g.
+1. Bestimmung (1er Magnetverliiiltuisse
+(primäre Wickelung).
+Erregerstrom.
+Man zerlegt zuerst den Nutzeffect in seine ein­
+zelnen Bestandtheile
+(1—s) für die primäre Wickelung,
+(1—s') für das Eisen,
+(1—g) Nutzeffect des Ankers,
+(1—2) mechanischer Nutzeffect, siehe Tabelle IX.
+Nach Gleichung 33) ist
+COS cp (1 8) (l —#0 ■= ]f( -%r^
+Wir rechnen die linke Seite dieser Gleichung,
+welche nur bekannte Grössen enthält, aus und suchen
+in der Tabelle VIII den entsprechenden Werth von x.
+y ist allerdings nicht bekannt und muss vorläufig
+schätzungsweise angenommen werden. Mangels näherer
+Anhaltspunkte kann man sich ungefähr an die nach­
+stehenden Verhältnisse halten:
+für Motoren unter 1 Pferd ist y= 20— 30
+„„ von 1—5 Pferden,, y— 40— 75
+»»„ 5-20„„ y— 60—120
+„„„ 20-50„ „2/= 75-150
+„„ und darüber„ y= 150—-200
+Ein Blick auf die Tabelle VIII zeigt übrigens,
+dass die Wahl dieser Grössen keine allzugrosse Pein­
+lichkeit benöthigt, da die durch unrichtige Annahmen
+von y gemachten Fehler für y >■ 50 nur unbedeutend
+werden.
+Hat man auf diese Weise x gefunden, so kann
+man den Erregerstrom oder besser noch das Verhältnis
+
+Seite 398.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 33.“”
+des Erregerstromes zum nützlichen Strom ermitteln.
+Dieses Verhältnis ist nach Gleichung 31)
+*o f 1 A
+7 1
+(1—*) (i—9) (l—ff)*
+Da x bekannt ist.
+A
+kann folglich der
+(1—ff) x
+werden.
+direct aus der Tabelle VI
+Quotient
+genommen
+Es empfiehlt sich, bei dieser Gelegenheit und vor
+Vornahme weiterer Rechnungen eine kurze Prüfung
+der Stabilität vorzunehmen.
+Die Stabilität, d. h. das Verhältnis der maximalen
+Zugkraft, bei welcher der Motor aus dem Tritt fällt,
+zur normalen Zugkraft ist durch die Gleichung 38)
+Zmax i 0 (1— ff"')(l——
+~jA gegeben.
+Zmin
+I'
+Der Coefficient A wird am einfachsten aus der
+Tabelle genommen, wobei man sich der oben an den
+Streuungs- Coefficienten geknüpften Bemerkung zu
+erinnern hat.
+Ausbohrung und Länge des Feldes.
+Drahtzahl.
+Wir gehen von der bekannten Beziehung aus
+E x— i 0 w, L x= f1 oq L{ und substituiren hierin L x
+aus Gleichung 14), so folgt
+,_ J Kt h V Y A, 2 Dl
+T 2.10 8
+E x= 2%cl
+"h?i 2 Pi 2 8 a
+Behufs grösserer Handlichkeit mag diese Gleichung
+noch etwas umgestaltet werden, indem wir darin die
+sogenannte Stromquantität (Drahtzahl mal Stromstärke)
+einführen. Die Grösse hängt, wie leicht einzusehen ist,
+direct vom Wickelungsraume ab und wächst infolge
+dessen nahezu proportional mit dem Quadrate des
+Ausbohrungsdurchmessers. Man kann also schreiben
+IN N ß D 2
+—&D 2 oder—=-... 47)
+q 1 <1 1>
+ß variirt je nach der Grösse des Motors zwischen 6—8
+für kleinere Motoren und zwischen 5—6 für grössere
+Motoren (110 Volt Phasenspannung vorausgesetzt.) Bei
+Hochspannungsmotoren ist ß etwas kleiner als 4—5 in­
+folgeungünstiger Ausnützung desWickelungsraumes. Wir
+ersetzen nun N in der obigen Gleichung durch den
+gefundenen Werth, so folgt, indem man die einzelnen
+Glieder sachgemäss ordnet:
+r s 1—/ EIm] H> 8 8 xp 2
+\ C J TC K t k i /q 1/ ß2 Y V t
+( EIm\ 120.1Q8 Socp(l~g)
+Z 1 fe 1 V/ß 2 YV 1 48)
+Controlle: Die Armaturgeschwindigkeit sollte
+25 m nicht überschreiten. In der Praxis werden ungefähr
+folgende Verhältnisse angetroffen:
+Motoren von 1—5 Pferden, Geschwindigkeit 10—15 m
+n n 5 20„„ 15—20 in
+7>_» üb- 20„„ 20—25 m
+Bei grösseren Motoren ist es daher in mancher
+Beziehung zweckmässiger, sich gleich von Anfang an
+den Durchmesser zu geben und hieraus auszurechnen.
+Eine zweite Controllrechnung betrifft den Wicke­
+lungsraum. Zu diesem Zwecke zeichnet man einen
+Theil des Umfanges auf und sieht nach, ob die nach
+Voraussetzung gegebene Drahtzahl
+D 2 ß q
+n= —_
+1
+rings herum Platz findet und ob der Ohm’sche Volte­
+verlust der Grösse e. E entspricht. Ist man auf die
+angedeutete Weise durch mehrmalige Annäherung zu
+annehmbaren Verhältnissen gelangt, so empfiehlt es
+sich, nunmehr den umgekehrten Weg einzuschlagen und
+aus der Drahtzahl, welche man definitiv anwenden
+will, mittels der Gleichung 14 den genauen Leerlauf­
+strom auszurechnen.
+Aus
+(1—ff) x
+, *0 (i— 2) (i —g) R
+kann dann unter Zuhilfenahme der Tabelle Via,’, das
+wir zur Berechnung der Armatur nötbig haben, mit
+Leichtigkeit bestimmt werden. Man versäume auch
+nicht, nachzusehen, ob hiefür der cos.  nach Gleichung 15
+L 2—
+E 2 1< 2 h'2 1 Y
+a 2 2
+Dl
+2.10 8 m 2 g 2 2 P 2 oa 2
+Bedeutet ferner 2 die mittlere Länge eines Drahtes
+plus einer Stirnverbindung in cm und s 2 den Draht­
+querschnitt in cm 2, so ist
+_ g Ag
+2 50n? 2 .« 2 <7 2 IO 4
+und dieses oben eingesetzt und oq= 2 7- c gesetzt, ergibt
+Querschnitt sämmtlicher Drähte rings um die Armatur.
+5 0t 1)^ ß
+A 2 s 2= 63*-/ 7,, n; .... 49)
+g c K 2 h V Y D1 v 2
+Wie man sieht, ist die Schaltung der Wickelung
+und Drahtzahl vollständig gleichgiltig, vorausgesetzt,
+dass das Product IV 2 s 2 unverändert bleibt.
+Werden also keine Schleifringe benützt, so kann
+man die Drahtzahl und Wickelung ganz nach Belieben
+wählen. Sind dagegen Schleifringe vorgeschrieben, so
+hat man ein gewisses Interesse, den Armaturstrom
+möglichst zu verringern. Man wird in diesem Falle
+die Gleichung 26) zu Hilfe ziehen müssen.
+J,
+_ Ei A 2 K 2 m x q x 1
+i? 2 N x Ky m. 2 q 2 v a ]/” 1 -j_ x 2 ff 2
+Kurzschlussanker.
+Fig. 21 stellt die Wickelung eines Kurzschluss­
+ankers in einer Ebene aufgerollt dar.
+Es bedeute hiebei:
+r den Widerstand zweier zugehöriger Ankerstäbe,
+1\ den Widerstand der Seitenverbindungen von
+Polmitte zur Polmitte gemessen,
+—den Widerstand der Seitenverbindungen
+
+Nr. 33.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 39Ö.
+zwischen zwei aufeinanderfolgenden Barren.
+.&2 die
+maximale pro Windung
+(2 Stäbe) inducierte
+die maxim. Stromstärke, welche in einem
+pro
+elektromotorische Kraft.
+2
+i— J 0—
+2 p
+Leiter auftritt.
+Um die Rechnung nicht allzusehr zu compliciren,
+sind wir genöthigt die Voraussetzung zu machen, dass
+die Stromvertheilung rings um die Armatur dem Sinus­
+gesetze folgt. Streng genommen ist dies nur für die
+elektromotorische Kraft zutreffend. Für einen beliebigen
+geschlossenen Stromkreis AB C D kann man dann mit
+Zuhilfenahme des Kirchhoffsehen Gesetzes folgende Be­
+ziehung aufstellen:
+. Dx-
+P
+^&
+Fig. 22.
+N N
+2 p 2 p
+2 V r i i
+N
+f■ KP,. C'% P j l
+sin —- x d x+ 1 sm —— x d x 4-
+J N) N 1
+o
+N
+2p
+1
+N
+2 p
+-f- j* sin -~r x d x -(- j" sin^ x d x -(-...
+2 3
+N
+2 p
+■ KP j
+sin— x u x
+N
+__ tz p m
++ ri sin
+2_ I Tip —. t: p m
+=— r. i cos x d x 4- r i sin -—
+tz 1 J A
+0
+2 r t N tz p m
+-2,
+sin
+N
+izp m
++ r i sin■ oder, indem
+7~ j) yyi
+man beide Seiten durch sin ——— dividirt und statt der
+A
+maximalen Amplitude die effectiven Werthe einsetzt,
+folgt
+E,
+= i( r+ 0'2y ^)= J 2( r+ 0-2 4-r t)
+R 2=| *•+ 0-2 ~r x
+P
+8 V
+0-63 D N
+•*)
+I0 6 p s 2 p 2 s 2'
+Bezeichnet man nämlich mit y das Verhältnis des
+wirklichen Stromes, welcher durch einen Draht fliesst,
+zum Strome, welcher entstehen würde, wenn man die
+seitlichen Verbindungen vernachlässigen könnte, so ist
+1
+r+ 0’2— r t
+P x
+1
+Nun ist nach Rüssler
+, N
+f+ 0'2— r.
+V
+y-
+S 2'
+S 2 T-f 1
+worin für unsere Bezeichnung
+N
+p, r A
+und t—— —■
+bedeutet.
+X\ 2 p
+*) Diese Gleichung deckt sich vollständig mit derjenigen
+von G. Ross ler („Aufsatz über die Strömvertheilung und
+Energie, Aufnahme von Kurzschlussankern“ Elektrotechnische
+Zeitschrift 1898, Seite 7ö8.)
+Fig. 23.
+
+Seite 400.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 33.
+Es ist demnach
+;p\ 2 r N
+2 p
+V-
+It7 p\ 2 r
+l:zp\ 2 r N,, IV
+~jrr— x b 1 r ~b 0- 2— r.
+l A) r 1 2 p p 1
+Wir haben ferner gesehen (Gleichung 16), dass
+r_( 1-02\ N Dpl'f
+N 2 s 2 '( D cl
+daraus folgt
+x=
+oder
+80§ a.(l‘p 2 -f- 0-68 DN 2
+N 2 s 2= 80 5 a \p 2 V+ 0-63 D N 2
+50).
+cg'fDl
+Rechnungsbeispiel.
+Es sind die Dimensionen eines zweiphasigen
+Wechselstrommotors von 15 PS hei ca. 1000 Touren,
+250 V Spannung und 50 Perioden zu bestimmen.
+Der Nutzeffect soll 87°/ 0 (C= 0‘87) betragen bei
+cos cp— 0'84.
+Wir zerlegen den Nutzeffect wie folgt in seine
+Bestandtheile:
+(1— e)= 0-97,
+(1— e')= 0-98,
+(1— P)= 0'97,
+(1— s)= 0-94.
+Ferner seien folgende Annahmen gemacht:
+5= 0T ff= 0-08 y= 100
+a) Bestimmung des Leerlaufstromes.
+Nach Gleichung (33) ist
+(i— a)J^j= (1— s)(1— s') cos cp=
+= 0-97.0-98.0-84= 0’80.
+Für y —100 und ff= 0'08 gibt daher die Ta­
+belle VIII
+x= 2
+Anmerkung: Wir können nunmehr den angenommenen
+Werth von y controliren. Es ist
+30
+e. f 0~ 0-03.14‘
+: 70-5
+die erste Annahme war daher etwas zu gross, doch hat es keinen
+Zweck, die Rechnung noch einmal durchzuführen, da die dadurch
+möglichen Fehler weniger als 1/2% betragen.
+Prüfung der Stabilität.
+Bei maximaler Belastung dürfte der Streuungs-
+coefficient ff"' noch gleich 0'06 sein. Für diesen Fall
+gibt die Tabelle XI
+= 5'34.0-636= 3-4.
+Aiorm -*
+Der Motor wird daher erst bei einer Ueberbelastung
+von 240% abfallen.
+b) Bestimmung der Ausbohrung und Eisen­
+länge.
+Wir machen folgende Annahmen:
+J N
+*=j»= **>*= 1
+a= IT
+Y= 0'7
+v t= 1'04 approx.
+Ferner setzen wir 60 Nuten voraus, also 5 Nuten
+pro Pol und Phase.
+Dann ist»
+K— 1-8,%= 0-77, V= 0'47,
+und wir erhalten nach Gleichung (48)
+m x 1= l—\=
+{ C I 71 Ä'7c 1 /i,' 1 '.jf.ß 2 7V 1
+_ 7250.22-1.21 10 8 0-1. 1-1.6 2
+i 50 j^T l.'8.0'77ÄT47.0-6 3 6.8-2 2 .0-7.1-04^
+= 1375.10 6.
+Bezeichnet man das Vei'hältnis der Länge zum
+Durchmesser mit 1 also 1—
+so ist somit
+Nun ist für
+D Y\= 33-35
+1
+0-95
+0-990
+0-9
+0-983
+0-85
+0-973
+0-8
+0-963
+0-75
+0-953
+0-7
+0-65
+0-6
+0-942
+0-93
+und umgekehrt folgt aus Tabelle VI und Gleichung (31)
+1 (1— <i)x
+*o(l— 9) (1— 2) A
+1
+-=b=-
+I 7 1-
+725.0-97.0-94
+= 1-725 also
+0-636
+T PS X 736 15.736
+1== 22-1 Ampere
+m. E
+2.250
+J{=
+fl— 0-636.22T= 14 Ampere.
+1 22-1
+= 30 Ampere
+,.cos©
+0-87.0-84
+0-918
+0-55
+0-905
+0-5
+0-891
+0-45
+0-875
+0-4
+0-858
+0-35
+0-839
+0-3
+0-818
+0-25
+0-794
+0-2
+0-765
+Nehmen wir beispielsweise 1= 0- 65, so wird
+33.35
+D =— 36 cm (Umfangsgeschwindigkeit= 18-3 m)
+l= 0’65.36= 23‘3 cm.
+c) Berechnung der primären Wickelung.
+Nach Voraussetzung ist
+D 2 36 2
+= 8-2 ——= rund 480 Drähte.
+Die mittlere Länge pro einzelnen Draht (halbe
+V indung) dürfte ca. 56 cm betragen (S= 56). Daraus
+ergibt sich der Drahtquerschnitt
+
+TABELLE XV.
+Daten ausgeführter Drehstrommotoren.
+Nr. 38.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 401.
+bß
+fl
+fl
+0
+o
+o
+fl
+o
+O
+ßn
+§ I
+o g
+3$
+S s
+a
+’S
+PH
+Ql
+Ql
+Q I
+CM CO CO
+l> i (M «5 IO l'| CM 1>
+H W CO CO t|I Tji I |>©
+©©<©©©©© tH
+^® l> «3 t> CO
+I> 05 00 05 05 Ol Ol
+© Ö© Ö© rH tH
+T*
+»CO (M
+cp t> 9
+rH rH CM
+D rP 05
+CM »C0 l>
+tH'
+9
+CD©
+^©
+\p lp 00
+t*» t« I h-
+i-t rH 00 I CO
+ rH© |>
+05 D CD TP »ß CI
+05 CM
+CI tP CD
+o o o
+©© o
+ö ö o
+05
+o
+ö
+I I
+00 «3 «5
+CO CO co
+rH O O
+6 ci ci ci
+© 00©
+^© (M
+TP f CO Ip
+ö ö ö
+CO CM
+rH CO 05
+CM Ö CM
+©©
+GO CO
+© t-
+©©
+CO
+I I
+CM
+CO CD CO
+© Ih©
+05
+O 00 CM tu O t> 9
+cb i> zo cb 4h
+CO CM rH
+CM©
+N CD CI
+rP CI CO
+\p CM 05
+CO CM rH
+I I
+00 CO »CO
+H l> l> CO
+H o o. »co
+o o o©
+o o o 1 o
+©©© o
+©©©©
+CO
+©
+©
+TH
+©
+©
+©
+©
+CO
+© CM© tJC Tji-© 05
+O b» H rP© CI O
+©©© o©©©
+©©©©©©©
+©©©
+©©©
+©
+©©
+»b rP 6
+I I
+rH »CO 00 CO
+CD 00 CD (M tP© CO
+© *h o th 9 9 9
+©©©©©© c>
+CO rH
+CM «H rH
+9©©
+©©©
+©
+©
+CM 9 \Q© y—I
+i> io cb oo cb i> ci
+>C io^ D l> TP" OO M v H rH.,., CD
+' rH X IC
+© t- IO l>
+©©© oo
+CM
+00© 9 CM 00 9
+©© rH t—I rH tH
+Cp- CO l>
+CM I cb CM Tp< CM
+CO
+X
+b
+H Tp O
+CO CM^
+CM
+CO CD CD TP^ co
+CO© CD tP H
+*H rH CM
+OrPOrPODCOCMOCDO
+OO'JOOlOiODDiOrpfflCO
+rH rH rH rH rH rH CM rH O
+O CO CM Dl tP CO
+O 03 D H CO Tp
+00 CM©© ZO CD
+COHrt
+tPCMtPCDCMCDCOiOCM^CMtPDICM
+00©
+Hfl rH
+©
+»CD5D5ßHTPGOrHCOOOCDOOOOrPO©000©TPOTP©COCD(MO
+HC'l(?l(MCO(M^COCOTPCO’pTp 1 n©©©©©©HOOlO»Ot'NißTP
+rH rH tH rH rH CM rH
+CC, ^^ CD '^ CC)<:C, '^ 0C,,:£>i:C, ©©© <: fl'^©''^©©^©©©©
+r-*(MCOCOCMCOCOOt')OlOK3iiO»OlOt'l>l>|>l>
+999999©o©oo©o©o
+©©©©ö©©öö©©©©©
+© »c©
+t> 00 t-© I—
+©99rHTHTH9-J-*rH
+©ÖÖ©©©©©©©©©©©
+»CO
+© »CO I IH
+•H rH I©
+©
+©
+l> O (M CO rl ’P (M
+©
+©
+00 TP 00
+\p
+OOh-htJC COtP(MOO©OOtPtP©uO©©
+rr CM CM CM CM CM CM CM CM CM CM CM CO CM CO CO
+©
+CM
+© co©
+I I
+00© 00 00
+Tpc t>- co©©
+CM CM© CM©
+Tf<©
+9©
+©© CM 00
+t>©©©
+© Hfl 9 CM CM CM
+TpÖjHTPwcbcMM
+9 9 9 cm 9 cm oo 9
+° 9^^^®® Ö io© TP 6 >>1 05 O© VO
+rHHCMCMCMCMWCMWWiW©^ rpTPlß)QlOiO©© l Xi©COCOH
+© CM rH
+©© Ol
+oo oo 9 oo© 9© ko
+!>OCOlC'^cbä)TPOGO©HHQOOClDl>DO©lOOO
+rH rH rH rH rH mH(MH(M(MN(M©WW©tP©'PtP
+cä
+Ö
+r*4
+©
+5
+ »O »CO
+© 9 rH 9 CM©©
+©© rH rH©© CO
+t- 9^©
+©©©
+Tpc CO
+© Lh
+CM
+© 00
+CM©
+rH CM
+©
+© rH
+TjC©
+9 9
+© ib l-
+10©©
+© 9 rpl
+CO 00 00 35
+V0©©© ICO©©
+©©©©©©©©
+^ HC©
+©©©©
+05 r—( 05 ^0
+© rH©©
+_CM C3_
+©©©©©©©©©©© ÖÖ ÖÖ©© ÖÖ M-
+3
+©©©
+© ICO VO
+T* T*C^
+©©©
+©© »co
+TpC Tf rfl
+©©
+©©
+r-H
+©©©©© o
+IH t- L- CC I-
+l> 05 t« 05® 05
+©©©©©© 5© ©~
+CM© L"- CM CM t— 00 05 05
+00 00 05 l> |>©©© rji
+(;>) uepoi.iej
+Cp
+ßs
+©© ©“
+©©©
+©©©
+©©©
+o© ©'
+©©©
+~©©©©©©©©©©© Öl© ö ö o© ö ©“
+9_^__9 'PißTp©©©rP©TpTP©©©)0©'^
+co^©©©© 05©
+©© 00
+CO CO -31
+©
+©
+00 05©
+CM CO -rP©© D CO 05
+
+Seite 402.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 33.
+_.£ J t
+480.56.30
+^ 50.2 <7 2 s F. 10 4 50.2.0-03.250.10 4-° 1Ü75cm“
+Drahtdurchmesser nackt == 3'7 mm,
+n isolirt= 4-4„
+d) Berechnung der secundären Wickelung.
+Wir werden diese Rechnung zweimal durchführen,
+u. zw. das erstemal unter Voraussetzung von Schleif­
+ringen, das zweitemal für einen Kurzschlussanker.
+Bei Anwendung von Schleifringen hat
+man sich zuerst darüber klar zu werden, wie gross die
+secundäre Stromstärke gewählt werden darf. Nehmen
+wir z. B. eine Stromstärke von 544 an und setzen
+wir eine Dreiphasenwickelung mit 72 Nuten voraus,
+also 3 Nuten pro Pol und Phase, so ist
+^2= 0'84, l<2— 0-467 und v 2= 1'04 (angenommen) und
+wir hätten nach Gleichung (27)
+A7 ^1 ^"l 72*
+iv 2——
+’Q ^2 ^2 c h v 2 1+
+30 0-77.0-47
+= 216
+54 0'84.0-467 l04l/l+2 2
+Es sei hiebei die mittlere Länge pro Draht 47 cm.
+Der Drahtquerschnitt berechnet sich dann nach
+Gleichung (49)
+x 63.5a p 2£
+22 g c K 2 k 2 fc' a y D l v 2
+2 63.0-1. 1-1.6 2 .47
+0-03 50.1-91.0-84.0-467.0‘ 7.36.23‘3.1-04= 34‘ 2cm2>
+100.34-2
+also S 9=
+216
+= 15"8 mm 2.
+Drahtdurchmesser nackt= 4-5 mm,
+n isolirt= 5'2mm.
+Für einen Kurzschlussanker wäre die
+Rechnung, wie folgt:
+Nimmt man den Querschnitt der seitlichen Ver­
+bindungen 5mal grösser als denjenigen der Stäbe an
+S 2 1
+also
+So'
+und den Abstand der Ringe zu 25 cm, so erfolgt nach
+Gleichung (50)
+N 2 s 2= 80 5 a
+P 2 Z'-f 0-63 x
+' S 2 I
+c 9 Y DI v 2
+80.0-1. 1-1 (ö 2 .25 -f 0-63.36. 72 -L) 2
+50.0-03.0-7. 36.23-3. P04
+100.23-6
+~72
+-—= 236 cm 2.
+Sn—
+32’7 mm 2.
+s 2— 5• 32'7= 169 mm 2.
+e) Bestimmung der Eisenhöhe h v
+Die Gleichung (20) gibt die Kraftlinienzahl im
+primären Felde an:
+*_ 4l/2.10 8 .m 1. (?1.^
+m K x 2~ c Aj~
+_ 4 2. 10 8 .2.1. 250
+1-8.2 7t 50.480= 1) 040 -000.
+Daraus ergibt sich mit Berücksichtigung der
+Papiereinlagen:
+- m
+1 21. 0-87. B m
+Die weitere Ausrechnung dieser Gleichung er­
+gibt sich von selbst, indem man für ß m versuchsweise
+einen Werth, sagen wir 4000, einsetzt und nachsieht,
+ob der Eisenverlust der im Anfang aufgestellten Be­
+dingung:
+Eisenverlust= s' X totaler Wattleistung
+entspricht. Selbstverständlich dürfen auch hiebei die
+Verluste in den Zacken nicht übersehen werden. Die
+Kraftliniendichte in den Zacken ist nach Gleichung (4)
+p d> Zackenbreite
+B z-
+2'(Dl Abstand zweier Zacken.
+f) Bestimmung der Eisenhöhe h 2.
+Der Eisenverlust in der Armatur ist bei normaler
+Belastung verschwindend klein und verhält sich, gleiche
+Liniendichte und gleiches Volumen wie im primären
+Feld vorausgesetzt, zum primären Eisenverlust wie
+9: 1. Am einfachsten ist es daher, h 2 ohne weitere
+Rechnung ungefähr gleich 0’8 X h i anzunehmen.
+IV. Schlussbetrachtungen.
+Am Schlüsse angelangt, möchte ich mir eine Be­
+merkung erlauben, welche vielleicht von einigem
+Interesse sein mag.
+Ich habe bereits eingangs die Gründe aufgeführt,
+welche mich zur Herausgabe dieses Aufsatzes bewogen.
+Obgleich derselbe, wie ich gestehen muss, in der Haupt­
+sache schon seit drei Jahren vollendet war, so habe ich
+bisher niemals Veranlassung gehabt, meine damals
+ausgesprochenen Ansichten zu ändern. Wenn auch
+vieles davon durch neuere Veröffentlichungen bekannt
+sein dürfte, so hat der Aufsatz immerhin das Gute, in
+der gegebenen Form eine abgeschlossene Theorie
+der asynchronen Motoren zu bilden, die sich durch
+jahrelange Anwendung als praktisch erwiesen hat. Der
+einzige Einwurf, den man vielleicht dagegen erheben
+könnte, betrifft die Grösse y, welche man sich zum
+Voraus geben muss, die für den Anfänger einiger-
+massen unbequem erscheinen mag. Im Grunde ge­
+nommen ist dieser Einwurf durch die angeführten Bei­
+spiele widerlegt, welche zeigen, dass die Wahl von y
+mit sehr grosser Freiheit erfolgen kann. Wir können
+uns übrigens die Sache noch einfacher machen, indem
+wir für eine erste Rechnung einfach y= 0 setzen,
+entsprechend s= 0. Diese Vereinfachung wii-d bekannt­
+lich stets bei den graphischen Rechnungsmethoden ge­
+macht. Besser ist es allerdings, die Rechnung nach­
+träglich noch einmal vorzunehmen, unter Zugrundlage
+eines genaueren Werthes von y. Diese Vorsicht ist ins­
+besondere bei kleinen Motoren unter 2 PS geboten.
+Sehr gute Dienste mag bei derartigen Rechnun­
+gen die Tabelle XV leisten, welche Constructionsdaten
+von 28 ausgeführten Motoren 5 verschiedener Firmen
+enthält. Ich könnte damit den Aufsatz abschliessen,
+wenn nicht gerade diese Tabelle eine willkommene
+Veranlassung böte, eine Bemerkung daran zu knüpfen.
+Es ist nämlich leicht möglich, dass der eine oder an­
+dere versucht sein wird, die abgeleiteten Formeln auf
+diese Maschinen zu prüfen und dass er hiebei aufLeistungs-
+factoren (cos cp) stösst, welche weit unter den Zahlen
+
+Nr. 33.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 403.
+iegen, die man in den Preislisten zu sehen gewohnt ist.
+Der Leser mag sich vollständig beruhigen; dieser Unter­
+schied liegt nicht etwa inUngenauigkeiten der abgeleiteten
+Formeln, sondern hat seinen Grund darin, dass manchmal
+selbst sogenannte bessere Firmen sich keine
+Skrupeln daraus machen ihren Preislisten Chiffern
+vorauszusetzen, welche durchaus von der Wirklichkeit
+ab weichen.
+Einige Beispiele mögen dies zeigen. Bei einzelnen
+Motoren sind die beobachteten Stromstärken bei Normal­
+belastung angegeben. Die nachstehende Tabelle ent­
+hält noch die im der Preisliste verzeichneten Nutz­
+effect und cos cp und daneben die corrigirten Werthe
+derselben.
+Nr.
+PS
+E
+beob­
+achtet
+Nach
+Preisliste
+cos cp c
+wirklicher
+COS cp
+wenn£
+richtig ist
+wirklicher
+Nutzeffect
+wenn
+cos cp
+richtig ist
+4
+6
+9
+11
+15
+17
+19
+21
+26
+28
+3 U
+1V 2
+3
+6
+9
+12
+18
+24
+60
+80
+110
+P67
+3-35
+6'7
+13-4
+20
+26-8
+40
+53-6
+134
+178
+4- 5
+6-4
+13
+30
+37
+45
+58.
+77
+170
+220
+0-75
+0-80
+0-80
+0-80
+0-80
+0-85
+0-85
+0-85
+0-90
+0-90
+0-7
+0-75
+0-80
+0-86
+0-88
+0-90
+0-90
+0-91
+0-94
+0-94
+0-53
+0-744
+0-62
+0-51
+0 614
+0-6«
+0-77
+0-76
+0 84
+0 86
+0-5
+0-7
+0 62
+0-56
+0-68
+0-7
+0-81
+0-82
+0-88
+0-90
+Noch trauriger stellen sich die Verhältnisse bei
+dem Motor Nr. 17. Bei 90% der normalen Belastung
+ergab der Versuch, der übrigens sehr gut mit der
+Rechnung übereinstimmte, einen cos cp= 059 während
+der Preiscourant der betreffenden Firma fin de siede
+für normale Belastung ein cos p— 0'87 angibt.
+Bei der Betrachtung derartiger Zahlen legt sich
+einem ein Wunsch nahe: In einzelnen Staaten, und
+zwar speciell in Deutschland, existiren gewisse Gesetze,
+welche die unreelle Reclame für Lebensmittel etc.
+streng-e ahnden; es wäre gewiss nur zeitgemäss, wenn
+solche Bestimmungen auch auf die elektrischen Pro-
+ducte ausgedehnt würden, denn nur auf diese Weise
+ist es dem soliden Fabrikanten möglich, gegen die
+Preisschinderei einer gewissenlosen Concurrenz auf­
+zukommen.
+Druckfehlerbericlitignng in Heft 31.
+Seite 370; zweite Colonne,
+371; erste„
+371•
+)!°' 1 1 !! ))
+» 371;„„
+letzte Zeile, lies: k 2 k 2' statt k 2 k 2
+Zeile 2,„ 7cj k t‘„ kk x‘
+respect. Je 1c'
+Zeile 11, lies: «a statt n
+Gleichung- 30, lies: c«i statt ?<>j.
+KLEINE MITTHEILUNGEN.
+Verschiedenes.
+25.000 Zähler. Kürzlich wurde in der hiesigen Aichstation
+in Wien der 25.000 Zähler geaicht, eine Leistung, die als
+büchst anerkennenswerth bezeichnet werden muss. Das Jubel­
+exemplar ist ein Zähler der Firma Jordan& Treie r.
+Ausgeführte und projectirte Anlagen
+Oesterreich-Ungarn.
+«) Oesterreich.
+Mattuglie -Abbazia. (Anordnung der Tracen-
+r e-v ision, Stationscommission und politischen
+Begehung der elektrischen Bahn niederer
+Ordnung von der Südbahnstation Mattuglio-
+Abbazia nach Lotran a. Das k. k. Eisenbahnministerium
+hat die k. k. Statthalterei in Triest beauftragt, hinsichtlich des
+vom Fürsten Alfred ff rede in Wien vorgelegten Detail-
+projectes für eine schmalspurige, mit elektrischer Kraft zu be­
+treibende Bahn niederer Ordnung von der Südbahnstation
+M a ttuglie- Abbazia über V o 1 o s c a, Abbazia,
+I c i c i und I k a nach Lovrana die Tracenrevision und
+Stationscommission und bei anstandslosem Ergebnisse dieser
+Verhandlung anschliessend an dieselbe die politische Begebung im
+Zusammenhänge mit der Enteignungsverhandlnng vorzunehmen.
+Prag. (Elektrische Bahne n.) In der Stadtraths­
+sitzung vom 31. v. Monats wurden Petitionen der Bürgerschaft,
+der Geistlichkeit und des Militärs auf dem Hradschin vorgelegt,
+in welchen die Vereinigung dieses Theiles der Stadt Prag mit
+den übrigen Theilen durch eine elektrische Bahn angostrebt.
+wird. Diese Petitionen wurden dem Verwaltungsrathe der elek­
+trischen Unternehmungen zugewiesen. Der Präsident des Ver-
+waltungsrathes Herr Dr. Chudoba theilte mit, dass das be­
+treffende Project bereits seinerzeit ausgearbeitet und vom Stadt-
+rathe genehmigt, jedoch vom Ministerium nicht genehmigt
+wurde. Das Project der Umwandlung der B e 1 ved ero-Drah t-
+seilbahn in eine einfache elektrische, welches in der Kanzlei
+der elektrischen Unternehmungen ausgearbeitet wurde, wird dem
+Ministerium zur Genehmigung vorgelegt werden.
+Unter -Ravelsbach. (Vornahme technischer
+Vorarbeiten für eine elektrische K1 e i nb a h n
+von Unter- Ravelsbach nach Oberhollabrunn.)
+Das k. k. Eisenbahnministerium hat dem Bürgermeister August
+L e it n e r in Unter-Ravelsbach im Vereine mit dem Advocaten
+Dr. Martin Moos mann, dem Kaufmanne Edmund Boutter
+und dem Pfarrer Pins Breineder, sämmtliche in Unter-
+Ravelsbach, die Bewilligung zur Vornahme technischer V o r-
+arbeiten für eine elektrisch zu betreibende Kleinbahn von
+Unter-Ravelsbach über Sitzendorfbis zum Anschlüsse
+an die Station Ober hollab runn der k. k. priv. österr.
+Nordwestbahn im Sinne der bestehenden Normen auf die Dauer
+von sechs Monaten ertheilt.
+b) Ungarn.
+Budapest. (Probestrecke mit elektrischem
+Betriebe für eine Vollbahn in Budapest.) Die
+Direction der Firma Ganz& Comp, in Budapest und Leobers-
+dorf bei Wien hat auf der Uj-Pester Insel bei Budapest eine
+als Type für Vollbahnbetrieb mit elektrischer Traction ein­
+gerichtete normalspurige Eisenbahn erbaut und wurde in An­
+wesenheit dos königl. ungarischen Handelsministers der Probe­
+verkehr aufgenommen. Die neue Bahn diont als Versuehsstrecko
+zur Erprobung der von der genannten Firma in Oberitalion be­
+werkstelligten Umgestaltung einer 1061cm langen Bahnstrecke
+auf elektrischen Betrieb. Der elektrische Strom circulirt mit
+20.000 V in der primären und 3000 V in der secundären Leitung.
+Deutschland.
+Berlin. (Der elektrische Versuchs-Betrieb
+auf der W annseebahn) Nach den bisherigen Messungen
+beträgt die Stromstärke der Motoren beim Anfahren bis zu 200 /1;
+im Durchschnitt wird eine mittlere Leistung von 600 FS beim
+Anfahren erreicht, während der Fahrt leisten die Motoren etwa
+300 PS. Diese Leistung vertheilt sich auf sechs Motoren, von
+denen jeder der beiden Motorwagen drei besitzt. Die Anfahrt­
+zeiten, d. h. die Zeiten, welche der Zug gebraucht um aus dem
+Ruhestande in die volle Fahrgeschwindigkeit (40 lem pro Stunde)
+zu gelangen, wurden auf 90 Secunden festgestellt; während
+dieser Zeit hatte der Zug im Durchschnitt je 500 m zurückgelegt.
+Gebremst und in den Ruhestand zurückversetzt wurde der Zug
+durchschnittlich auf einer Wegstrecke von 170 m in 30 Secunden.
+Danach konnten, da die 12 km lange Strecke Berlin—Zehlendorf
+fahrplanmässig 27 Minuten in Anspruch nehmen soll, die Auf­
+enthaltszeiten durchschnittlich auf eine Minute bemessen werden.
+Diese Zeiten sollen auch bei voller Besetzung des Zugos
+(29 Achsen, 220 Tonnen einschliesslich des Gewichtes der beför­
+derten 410 Personen) innegehalten werden.
+(Eine durchgehende S tr a s s e n b ah n v e rbind u n g
+T e ge 1—B er 1 i n—Ri x d o rf.) Vom 7. d. M. an fahren die
+Wagen der Linie Tegel—Charlottenstrasse (Unter den Linden)
+vom Oranienburger Thor nicht mehr durch die Friedrich­
+strasse, über die Weidendammerbrücke und den Weidendamm,
+die Prinz Louis Ferdinand- und Charlottenstrasse bis zu den
+Linden, sondern durch die Oranienburgerstrasse, über den
+
+Seite 404.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 33.
+Monbijou platz, durch die Grosse Präsidentenstrasse, über den
+Haeke’schen Markt und die Spandauerbrücke, durch die Rosen-
+und Spandauerstrasse, den Molkenmarkt, die Stralauerstrasse, an
+der Stralauerbrücke, die Brücken-, Neander-, Dresdenefstrasse,
+den Oranienplatz, das Kottbuser Thor, die Kottbuserstrasse, den
+Kottbuserdamm, die Hasenhaide, durch Rixdorf bis zur Knese­
+beckstrasse. Die bisherige Linie Seestrasse—Dresdenerstrasse—
+Rixdorf wird mit der Tegeler Linie zu einer einzigen Linie ver­
+schmolzen. Dadurch wird die längste Strassenbahulinie Berlins
+mit 20/cm Länge hergestellt. Die ganze Strecke wird von der
+elektrischen Bahn in 1 Stunde und 38 Minuten zurückgelegt. Die
+Linie erhält wie die bisherige Linie Seestrasse— Rixdorf Zwölf-
+minuten-Betrieb. Durch die Linie Seestrasse—Britz, welche über
+den Morizplatz geleitet wird, ergänzt sie sich auf dem Haupt­
+wege zu einem Sechsminutenbetrieb.
+Patentnachrichten.
+Mitgetheilt von Ingenieur
+Victor Monath,
+WIEN, I. Jasomirgottstrasse Nr. 4.
+Deutsche Patentanmeldungen. *)
+Claese.
+21. Wendeanlasser für Elektromotoren.— Friedr. Krupp, Essen.
+3./7. 1849.
+Mehrpoliger Dosenausschalter mit Schutzwänden gegen Kurz­
+schluss.— Dr. G. Millendorff, Köln a. Rh. 25./1. 1899.
+„ Umschalter zur fortlaufenden Einschaltung von Gruppen
+einer Sammlerbatterie.— Dr. Julius Thomsen, Kopen­
+hagen. 24 ./12. 1898.
+42. Vorrichtung zum Inbetriebsetzen von elektrisch betriebenen
+Selbstcassirern.— B. Jost, Duisburg. 12./1. 1900.
+47. Elektrisch bethätigte Ausrückvorrichtung für ein Absperr­
+ventil.— Emil Peschei, Barmen. 3./11. 1899.
+49. Vorrichtung zum Biegen von Oesen für elektrische Leitungs­
+drähte u. dgl.— Willi. Bockermann, Duisburg a. Rh.
+P./10. 1899.
+72. Zündvorrichtung mit elektrischer und Percussionszündung
+für Metallkartuschen.— Firma E. Skoda, Pilsen. 21./9. 1899.
+12. Verfahren zur ununterbrochenen Darstellung von Cyanwasser­
+stoff mit Hilfe des elektrischen Lichtbogens. —Hans Hoyer­
+mann, Wiesbaden. 28./6. 1899.
+20. Eine Stromzuleitung für elektrische Bahnen mit mechanisch
+eingeschalteten Theilleitern.— Johs. Willi. Ehlers, Ham­
+burg. 23.'5. 1899.
+„ Elektrische Verbindung der Schienenstösse elektrischer Bahnen
+durch Kupferbügel.— Union Elektricitäts-Gesell-
+sclia ft, Berlin. 23./12. 1899.
+21. Hitzdralitmessgeräth.— Hartmann& Braun, Frank­
+furt a. M. 5./2. 1899.
+„ Elektrisches Relais.— Dr. M. Canto r, Strassburg i. E.
+21./9. 1899.
+„ Vorrichtung zur Aufnahme überflüssiger Leitungsschnur an
+elektrischen Glühlampen.— Leonard D a k i n, London.
+19./2. 1900.
+„ Sperrvorrichtung für Regelungs- und Anlassvorrichtungen.—
+Elektrieitäts-Actiengesellschaft vormals
+Sehuckert& Co., Nürnberg. 25. 9. 1899.
+„ Elektrischer Ausschaltor zur Erzielung eines grossen Schalt­
+weges, sowie einer grossen Ausschaltgeschwindigkeit.— Michel
+Farkas, Paris. 10./6. 1899.
+„ Verfahren zur Vervollkommnung der Lautübertragung durch
+Mikrophone.— Pierre Germain, Fontenay aux Roses.
+25./3. 1898.
+„ Gehäuse für elektrische Bogenlampen.— W. Claude J o h n-
+s o n, Kent, Engl. 28./3. 1899.
+„ Selbstcassirende Fernsprecheinrichtung mit von aussen durch
+Druckknöpfe verstellbarer Geldrinne.— Carl Petersen,
+Kopenhagen. 31./5. 1899.
+„ Elektrischer Steuerapparat mit Vorrichtung zur Durchführung
+der einmal eingeleiteten Bewegung des Steuerhebels um eine
+volle Stufe; Zus. z. Pat. 60.150.— Siemens& Halske,
+Actiengesellschaft Berlin. 30./8. 1899.
+*) Die Anmeldungen bleiben nach der Vorprüfung acht Wochen öffentlich
+aufgelegt. Nach§ 24 des Patent-GesetzeB kann innerhalb dieser Zeit Einspruch
+gegen die Anmeldung wegen Mangel der Neuheit oder widerrechtlicher Entnahme
+erhoben werden. Das obige Bureau besorgt Abschriften der Anmeldungen und
+übernimmt die Vertretung in allen Einspruchs-Angelegenheiten.
+Classe.
+21. Schmelzsicherung für elektrische Leitungen.— Th. S a u v ag e o t,
+Antwerpen. 28./9. 1899.
+46. Elektrische Zündvorrichtung für Explosionskraftmaschinen.—
+Philippe Pichärd, St. Etienne, Frankreich. 8./12. 1898.
+49. Elektrisch-hydraulische Schweisseinrichtung.— Kalkei-
+W e r k z e u g maschinen-Fabrik L W. B reue r,
+Schumacher& Co., Kalk b. Köln a. Rh. 16./10. 1896.
+49. Maschine zum Aufschürfen von Rippen aus der Oberfläche
+von Metallplatten für Sammlerelektroden u. dgl.— Theodor
+Arthur Willa.rd, Cleveland, Ohio. 3./1. 1899.
+38. Elektrischer Glühzünder.— Zündhütchen- und Pa­
+tronenfabrik vormals S e 11 i e r& B e 11 o t, Schöne­
+beck a. E. 29./12. 1899.
+12. Elektrodeneinrichtung.— The General Electrolytic
+Par ent Company Limited, Farnworth, Widnes.
+17./8. 1899.
+21. Ilitzdrahtmessgeräth.—- PaulBerio, Frankfurt a. M. 18./10.
+1899.
+„ Elektrische Bogenlampe.— J. A. F1 e m i n g, London.
+25./7. 1899.
+„ Galvanisches Element.— Dr. Carl Kaiser, Heidelberg.
+9./8. 1899.
+Frequenzmesser für wellenförmige Ströme.—Robert Kempf,
+Frankfurt a. M.-Boekenheim. 20./3. 1900.
+„ Schaltungsweise zur Verringerung der erregenden Kraft von
+Elektromagneten.— Siemens& Halske, Actien-
+Gesellschaft, Berlin. 9./11. 1899.
+34. Elektrischer Kochapparat mit selbstthätiger Stromunter­
+brechung.— Heinrich Voigt, Frankfurt a. M. 30./11. 1899.
+46. Elektrische Zündvorrichtung für mehrcylindrige Explosions­
+kraftmaschinen.— Ernst Neuss, Aachen. 15./9. 1899.
+83. Elektromagnetanordnung bei Uhren mit elektrischem Auf­
+zuge. Joseph Batcher, New-York. 12./12. 1899.
+Deutsche Patenter theilun gen.
+CI aase
+20 k. Verlaschung zweier Contactschienen elektrischer Eisen­
+bahnen.— The F oreign Electric Traction Com­
+pany, Washington. 20./9. 1898.
+20 1. Elektrische Locomotive.— Brown, Boveri& C o.,
+Baden, Schweiz. 23./3. 1899.
+„ Selbstschmierender Schleifbügel für Stromabnehmer elek­
+trischer Bahnen; Zus. z. Pat. 100.355.— Eloktricitäts-Aetien-
+gesellschaft vorm. Schlickert& Co., Nürnberg. 29./6.
+1899.
+21 a. Druckvorrichtung für Typendrucktelegraphen.— II. A.
+Rosland, Baltimore. 20./7. 189 7.
+„ Typendrucktelegraph zum gleichzeitigen (absatzweisen) Melir-
+faclitelegräphiren nach verschiedenen Richtungen über eine
+einzige Leitung; Zus. z. Pat 102.336.— Dr. L. Cerebotani,
+München und A. Silber mann, Berlin. 3./5. 1898.
+„ Selbstthätiger Schalter zur Herstellung von beliebigen Ver­
+bindungen zwischen je zwei Theilnehmern einos Leitungs­
+netzes.— Dr. L Cerebotani, München. 1./9. 1899.
+„ Sclialtungsanordnung für Fernsprechvermittelungsämter mit
+Schleifen- und Einfachleitungen.— Telephon-Apparat-Fabrik
+Fr. W e 11 e s, Berlin. 23./12. 1899.
+„ Vorrichtung zur Ermittelung der Richtung elektrischer
+Strahlen.— Dr. G. F. R. Bloch mann, Kiel. 1./4. 1898.
+21 b. Sammlerelektrode mit aus nicht leitendem Stoff herge­
+stelltem Masseträger.— A. Ricks, Berlin. 10./10. 1899.
+21 c. Abschmelzsicherung zur Verhütung des Einsetzens falsche r
+Schmelzstreifen— H. Bretz& C. Gante, Frankfurt a. M.
+7./2. 1899.
+Personal-Nachricht.
+Dr. C. Heinke ist auf den neuerrichteten Lehrstuhl
+für Elektrotechnik an der technischen Hoch­
+schule in München berufen und daselbst zum ordentlichen
+Professor der Elektrotechnik ernannt worden.
+Schluss der Redäction: 7. August 1900.
+Verantwortlicher Bcdacteur: Dr. J. Saliulka.— Selbstverlag des Elektrotechnischen Vereines.
+Commissionsverlag bei 8pielhagen& Schur ich, Wien.— Alleinige Inseraten-Aufnahme bei H aasenstein& Vogler (Otto Maass), Wien und Prag.
+Druck von R. Spies& Co., Wien.
+

@@ -1,0 +1,4373 @@
+1*
+ÜBER DIE AUFLÖSUNG DER GLEICHUNG:
+wenn <p(m) die Anzahl derjenigen Zahlen bezeichnet, welche
+relativ prim zu m und kleiner als m sind.
+■ (Von Prof. Alois Pichler.)
+Die Anzahl derjenigen Zahlen, welche kleiner als eine gegebene
+Zahl nt nnd relativ prim zu m sind, ist offenbar nur von m abhängig
+und durch m selbst vollständig bestimmt; somit ist diese Anzahl
+■eine Function von m und wird nach Gauss mit <p (tu) bezeichnet.
+Der Wert der Function <p {nt) lässt sich leicht berechnen, wenn die
+Zusammensetzung der. Zahl tn aus Primfactoren bekannt ist.
+Wenn nämlich:
+a. a, a, a*
+* n= Pi •Pt -Pi•••• Pk,
+Nehmen wir nuu aber an, es sei uns <p (m) gegeben und wir
+hätten daraus den Wert des Argumentes m zu bestimmen, d. h. die
+Gleichung: ix
+?(*)= «.
+worin n eine gegebene Zahl bedeutet, aufzulösen. Dass diese Gleichung
+nicht für jeden beliebigen, ganzzahligen Wert von n Lösungen besitzen
+wird, erhellt schon daraus, dass <p (m) immer eine gerade Zahl ist,
+ausgenommen die beiden Fälle m— 1 und m= 2, für welche der
+Wert der Function gleich der Einheit ist.
+Es hat daher die Geichung:
+9 (.•*’)= 1
+die beiden Lösungen: x=\ und x=2.
+Für jedes andere ungerade n ist dagegen die Gleichung 1)
+unmöglich.
+Schliessen wir diesen einzigen Fall, in welchem n eine ungerade
+Zahl ist, aus, so muss, damit die Gleichung 1) überhaupt Lösungen
+besitzt, 7i eine gerade Zahl sein. Weil ferner:
+9 [2 (2/«-f-l)]= tp (2*»-f-l)
+ist, so erhalten wir aus jeder ungeraden Lösung der Gleichung 1) durch
+Verdopplung sogleich eine zweite Lösung. Weiters können wir schon
+won vornherein sagen, dass hauptsächlich die Häufigkeit des Prim­
+factors 2 in der gegebenen Zahl n für die Anzahl der Lösungen
+der Gl. 1) ausschlaggebend sein wird.
+
+4
+I.) Betrachten wir zuerst den Fall, dass die gegebene Zahl
+eine Potenz von 2 ist, also die Gleichung:
+<P (*)= 2” 2)
+vorliegt. Die allgemeinste Darstellung der Zahl x ist gegeben durch
+■ ■■ 'H'T.V -- itx. r a a a„'‘:'
+*-■'• *-*.'•/* *-./* 3■••;
+daher: tp (x)=p* L 1 1.... 1) (^ g —1).... =2 W.
+Da auf der rechten Seite des Gleichheitszeichens nur der Prim­
+factor 2 vörkommt, so darf' auch links kein anderer Primfactor
+erscheinen; mithin muss:
+/ 1= 2 undjx ä —l= Oj—1=.... =0,
+also: a 2= a .j ==■••. =1 sein.
+Die gesuchte Zahl x muss daher die folgende Form haben:
+X^ Pi Pt
+d. h. die ungeraden Primfaetoren dürfen nur in der ersten Potenz
+Vorkommen;
+Die Gleichung- für‘ f (x) nimmt nun folgende. einfachere
+Gestalt ah:"
+.• (x)= 2«' r.(p a -l) ^,-1).... .r =2".... 3)
+Diese Gleichung ist erfüllt, wenn ander 2 kein anderer Prim­
+factor in der Zahl x vorkommt, mit anderen Worten, wenn x selbst
+auch eine Potenz von 2 ist. Setzen wir also:
+_ a
+-(A-D ^l)-•-^ =2 W,
+so muss:
+2 a 2 n, mithin a= n +• 1
+sein.
+Als erste Auflösung der Gl. 2) erhalten wir demnach:
+Die Gl
+x= 2
+3) wird aber auch durch folgende Annahme befriedigt:
+ß T.
+P-2— 1— 2,/ 3— 1— 2..,
+ß .7
+woraus:/ 2= 2 -j-1,—2 -fl folgt.
+‘ Jf.
+Alle diese Zahlen haben die Form 2 +1 und müssen Prim­
+zahlen sein.. Damit aber eine Zahl .von dieser Form eine Primzahl
+sein kann, muss der Exponent k selbst eine Potenz von 2 sein.
+Infolge dessen schreiben wir gleich:
+:. ß• f'
+Ps= 2* +1./ 3 =2 S -fl.-
+Die Zahl x kann daher auch die Form haben:
+• x—2? (2 aß -H 1) (2 sr -f 1).“.;,.;
+worin a auch den Wert 0 haben kann. Dann ist:
+<p (*)-2* -1 .. 2^. 2
+
+5
+Da. in dieser Lösungsform auch die oben erhaltene'erste Auflösung
+als specieller Fall enthalten is*, nämlich für.« =«+ 1; so ■. können
+wir sagen:-
+Die Gleichung: 9 (,r)= 2
+ist immer möglich; ihre Lösungen h a b e n di e Form*
+x= 2 a( 2 sß +l)( 2 s Vl)•••,'''
+worin: a= 0, 1, 2,.... n-\-l seih kann.
+Für a= 0, muss: 2^+2"*-f-.< =w,
+. a> 0,■„ (a— 1) —fr. 2 ^—{—.. =« sein:
+Außerdem dürfen vou. den Exponenten |, f .....
+nicht zwei einander gleich ..sein; weil jeder
+ungerade ;.Primfactor nur in. der ersten Potenz
+Vorkommen darf.■ J•
+• Da- eine Zahl von der Form 2 2 V 4-1' für.v=0 bis ein­
+schließlich v= 4 eine Primzahl ist, so können wir mittelst dieser
+Primzahlen alle Potenzen von 2 bis einschließlich 2 st ausdrückeh
+und.daher auch die Anzahl der Lösungen bis zu dieser Grenze
+angeben. Weil nämlich eine gegebene Zahl« nur auf eine einzige,
+ganz bestimmte Weise als Summe verschiedener Potenzen der
+Zahl 2 dargestellt werden kann, so liefert jeder Wert von a nur
+eine Auflösung. Somit erhalten wir so viele Auflösungen, als es
+verschiedene Werte von a gibt, nämlich n -f- 2. Daher folgt der Satz:
+Die Gleichung: 32 «4-2 Lösungen.
+| In diesem Satze ist auch der frühere Ausnahmsfall «—0 mif-
+inbegriffen. Unter diesen n 4- 2 Auflösungen befindet sich hur einie
+einzige ungerade Zähl, nämlich die für oc=0 dargestellte,
+welche zugleich die kleinste aller.Auflösungen ist; alle übrigen
+«4-1 Lösungen sind gerade Zahlen.,.
+Für «^>32 kann a nicht mehr alle Werte von 0 bis «4-1
+durchlaufen, weil sowohl 2 sa +l als auch 2 64 +l keine Primzahl
+ist. Erstere ist durch 641 theilbar, wie schon Euler nachgewiesen
+hat, und letztere durch 274177 theilbar, wie zuerst> Landry
+gezeigthat. 1
+• Es lässt sich nun leicht zeigen, dass, für «=32... .■ bis ein­
+schließlich «=127 die Zahl der Lösungen constant, nämlich
+gleich 32 ist.:
+Es sei also: <p (;r)= 2 32 "*"V worin v= 0, 1, 2;.. .. 95 sein kann.
+Die Bedingungsgleichung lautet jetzt:
+(a— 1) +'2 ß -i- 2^+ 2 S+ .,..= 32+ v.
+Um den kleinsten Wert für, ol. zu erhalten, setzen wir für
+ß, 5 die größtmöglichen Werte ein, nämlich:;;■^
+(a —1)4-2 4 +2*+ 2 3 +2+1= 32-f v,
+daher a+30= 32+v, folglich .a= w+2.
+v+ 2 ist also der-kleinste Wert für a, der größte ist aber 32+ v+ 1,
+somit die Anzahl der möglichen Werte von a und daher auch die
+Anzahl der Lösungen uuserer Gleichung:, 32+ V+ 1—(v4-l)= 32.
+
+6
+Die Gleichung: 9 (x)= 2 3 *+v ha t fürv=0, 1, 2 ... 95
+immer 32 Lösungen, welche durchwegs gerade
+Zahlen sind.
+Unter allen Gleichungen von der Form tp (x)= 2 W hat von
+'«= 0 bis«= 127 die Gleichung * 2 zu erhalten, nur die durch a= 0 dar­
+gestellte, ungerade Auflösung neu zu berechnen; die Verdopplung
+dieser,, sowie der n +1 geradzahligen Auflösungen der ersten
+Gleichung ergeben die noch ■; übrigen n+ 2 Auflösungen der
+zweiten Gleichung.
+- In der folgenden kleinen Tabelle sind die Auflösungen der
+fl'
+Gleichung 9 (x)= 2 für n =0 bis«= 10 zusammengestellt.
+V («)
+1
+2
+2*
+23
+2 4
+25
+2«
+2T
+2®
+29
+21"
+1, 2.
+3, 4, 6.
+5, 8, 10, 12.
+15,16,20,24,30.
+17, 32, 34, 40, 48, 60.
+51, 64, 68, 80, 96, 102, 120.
+85, 128, 136, 160, 170, 192, 204, 210..
+255, 256, 272, 320, 310, 381/408, 480, 510.
+257, 512, 514, 541, 640, 680, 768, 816, 960, 1020.
+771, 1024, 1028, 1088, 1280, 1360, 1636, 1542, 1632,
+' 1920,2040.
+1285, 2048, 2Q56, 2176, 2560, 2570, 2720, 3072, 3084,
+3264, 3840, 4080-
+Aus dieser Tabelle ist ersichtlich, dass manchmal der "Wert
+der Function 9 für zwei unmittelbar auf einander folgende Argumente
+derselbe ist: so z. B. für 1 und 2, 3 und 4, 15 und 16 ü. s. w.
+Allgemein:
+Lässt sich dieZahl 2 2 —1 in lauterPrimfactoren
+von der Form 2 S+ 1 zerlegen, so ist immer:
+:•? (2* W _l)
+Es ist also für«:= 0,
+n= 1,
+«=2,
+« =5 3,
+n= 4,
+.',«= 6,;
+?( 1)=?( 2)= 1
+9 (3) =9 (4) =2
+9 (15)= 9 (16)= 23
+9 (2®—1)= 9 (2®)= 2*
+9 (2>«—1)= 9 (2J®)= 2J5
+9 (2 3a —1)= 9 (239)= 2*i.
+
+7
+Es ist z. B. im letzteren Falle:
+2«— 1= (216+ 1) (28+ 1) (2*+l) (2*+ l) (2+ 1),
+somit  3 bedeutet, ist,
+wenn 2^+ 1 e in e Pr i m z ahl i s t, immer möglich und
+hat die zwei Lösungen:
+4Tj= 2^+1 und ;r 2= 2 (2^+ 1).
+Ist hingegen 2^+ 1 keine Primzahl, so ist die
+obige Qieichung unmöglic h.
+Alle Primzahlen, welche größer als 3 sind, haben die Form
+Gi+ l. Für q= Gk+ 1 ist aber 2<?+ 1= 12£+ 3= 3 (4£ +1),
+somit durch 3 theilbar. Daher ist die Gleichung:
+tp (x)= 2q für q= ßk +1 immer unmöglich.
+
+8
+Damit also die Gleichung überhaupt möglich ist, muss .^ svoh der
+Form 6k— 1 sein. Aber auch, wenn diese'Bedingung erfüllt ist,
+wird die Gleichung nicht immer Lösungen besitzen, weil nich,t
+immer 2^+1'eine Primzahl sein wird. So ist z. B. 2^+ L immer
+durch 5 theilbar, Wenn^= 301’ +17 ist, und immer durch 7 theilbar,
+wenn q= 42£+ 17 ist; hat ferner q die Form: '^= 18£ 2— lj“
+so ist^. 2q+l= 36£ 2 —1= (6£+l) (6£— .1),
+also ebenfalls keine Primzahl.
+' .hl l:
+Unter 100 gibt es folgende gerade Zahlen von der Form 2 q,
+für welche die Gleichung tp (x)= 2^. unmöglich ist, nämlich:•;
+2q= li, 26, 34, 38, 62, 74, 86, 94.:
+Durch Anwendung derselben Schlussfolgerungen wie oben
+gelangen wir zu folgendem, etwas allgemeineren Resultate:
+Die Gleichung: f (x)= 2q, ..
+worin q' eine ungerade Primzahl> 3 bedeutet,
+11
+besitzt,- wenn 2 q +1 eine, Primzahl ist, immer die
+beiden Lösungen:
+■-. x x -2q l +\ und x^=2 (2^ W +l).
+Ist aber 2 q +1 keine Primzahl, so ist die obige
+Gleichung Unmöglich. Dagegen ist'die specielle
+•* 11
+Gleichung: 3 immer
+unmöglich.
+Die Gleichung:^ (x)==2^ "** ist nur für p= 6f— 1
+möglich.”
+' 11
+III.) Es sei nun: f (x)= 2 q gegeben,
+also:. A® 1 1.. .(p i—l) (/ 2 —1).,. =2 n q,. 5)
+a) Wir setzen nun:- 1= 2 q, worin v= 0,-1, 2,.. u— 1
+seih kann; dann muss: /,= 2 W^ q- 1-1 eine Primzahl sein.
+
+9
+Ist diese Bedingung erfüllt, so erhalten wir nach Einsetzung in 5)
+_ (A-1)...-2’.
+Da 2 W V^+ l relativ prim zu 2 ist, so muss <^—1= 6, also
+a,= 1 sein, wodurch Gl. 5) in
+1*•• 0*2-1)..,= rp 0)= 2 V.. .•. 6)
+übergeht.
+Diese Gleichung ist nach I) immer lösbar und hat für v< 32
+v+ 2 Lösungen. Bezeichnen wir eine derselben mit a, soi dass
+V.
+also (p( a)= 2 ist, so ist: if,-
+x= a p y=« (2*+ l)
+eine Lösung der vorgelegten Gleichung, wenn« relativ prim zu
+2 W V ^+l l sfc- Diese Bedingung ist hier immer erfüllt, weil nach
+fl v
+der Annahme q eine ungerade Primzahl ist, daher 2 ^+1
+k
+niemals eine Primzahl von der Form 2*+ 1 sein kann. Demnach
+erhalten wir für ein bestimmtes v, wenn wir a alle Wurzeln der
+Gl. 6) durchlaufen lassen, v+ 2 Lösungen der gestellten Aufgabe.
+11 •■— V
+Wäre 2 q+ 1 für jeden Wert von v=0, 1, 2.: n
+Primzahl, so erhielten wir im ganzen: 2+ 3+ 4 +,.. w+ 1=
+— i eine
+n (n+ 3)
+“2
+Lösungen. Dies ist aber schon für n> 2 bei £?= 3 nicht mehr der
+Pall und weiters kann eine Zahl von der Form 2* l q +1 für  3
+keine Primzahl seiD, sondern ist durch 3 theilbar, wenn
+n- -2 h und q~ 6£— 1,-
+oder n= 2 k +1 p, q= 6fc+ 1. ist.
+Es kann daher eine Zahl von der obigen Form nur dann eine
+Primzahl sein, wenn
+n— 2 h und q= 6 k+ 1,
+oder 11= 2h +1„ q= 6 k— 1. ist.
+Es können also, wenn q> 3 ist, höchstens für die Hälfte der
+obigen Werte von v Primzahlen erscheinen. Sind nun v 1( v 2, v 3... v*
+diejenigen Werte von v, für welche 2 q+ 1 Primzahlen sind
+so ist die Anzahl der Lösungen A gegeben durch:
+A— Vj+ v 2+... v*+ 2 k.
+b) Setzen wir aber:
+p x —1= 2 also p x— 2+ 1,
+so muss: n —v= 2^ und X 4 sein.
+. Setzen wir nun den Wert von+,?=2 2 +1 in die Gl. 5) ein,
+so geht sie über in:
+( 2 2 X+ i) a i-, ^- 1( A _l);.. =2V:
+
+10
+Diese Gleichung kann nur dann bestehen, wenn'
+?=2 8 ^-f-1 =/,. und= 2 ist.
+Es bleibt dann noch die Gleichung aufzulösen:
+A 8 *“ 1 .- (A-l)••-= ?(*) =2 V= 2«- 2\.. 7)
+Damit diese Gleichung möglich ist, muss 2<« sein.
+Ist diese Bedingung erfüllt, so ist die Gl. 7) immer möglich
+und hat n+ 2— 2 Lösungen.' Bezeichnen wir eine dieser Lösungen
+mit b, so dass « ist.
+Wenn aber wenigstens eine der oben ange­
+gebenen Zahlen eine Primzahl ist oder ^.die Form
+2* +1 hat und 2 ist, so hat die obige Gleichung
+immer Lösungen. Die. Lösungen selbst haben die
+Form:..
+a) x—a V-VO, worin «eine Lösung der Gl. tp (j')=2 V ist;
+$)x=bq\_„ b„* 71 7i ¥(*)=2*"*v',
+wobei£ relativ prim zu£ sein muss.
+Unter 100 gibt es nur zwei Zahlen von der Form 2 n q, für
+welche die Gl. III.) unmöglich ist, nämlich 76 und 68.
+•Die Gleichung:  2 ist.
+
+11
+Um das angegebene Verfahren durch ein Beispiel zu erläutern,
+wollen wir folgende Gleichung auflösen:
+l, dann muss v>0 sein, weil sonst auf der
+rechten Seite eine ungerade Zahl stände, somit die Aufgabe
+unmöglich wäre.
+Da die Gl. 8) die nämliche Form wie die vorgelegte hat und
+sich von derselben nur durch die Größe der Exponenten unter­
+scheidet, so wenden wir auf sie dasselbe Verfahren wie oben an,
+d. h. wir setzen:
+p t— 1= 2 V-Vl^— wobei v t <1 v und [l*  2= 2 x q^ ^+ 1, der eine
+Primzahl sein muss, erhalten wir eine Gleichung von der Form:
+/a“ 3" 1.* frs—1)••=? <>.) ■= 2 Vl /‘
+
+12
+Für fij— 0,. 1 kennen wir bereits die Lösung. Eineijsolche
+sei j t— b, dann ist y= bj> 2 eine Lösung der_ G1.;8J und x= b p 2 p' x
+eine Lösung der vorgelegten Gleichung, wenn p 2> p x ist.
+Für lij> 1 wenden wir das ehen angegebene Verfahren
+abermals an; wodurch in der Lösung eine neue Primzahl auftritt.
+Auf diese Weise lassen sich alle für |A möglichen Fälle erledigen.
+b) Es kann auch (i.== m sein, wenn q— 2®^+ 1 und 2^< n ist.
+In diesem Falle erhalten wir noch Auflösungen von der Form;
+m+ 1
+x—cq.,
+w fl^
+worin c eine Lösung der Gleichung: f (z)= 2 bedeutet.
+Zusatz: Eine Zahl von der Form 2 W^ Wt +1, worin ^">3 ist,
+ist keine Primzahl, sondern durch 3* theilbar" in folgenden
+drei Fällen:->'';::^:
+1) Wenn n= 2 v+ 1, m— 2 [t und q= 6 k+ 1
+2) n n= 2 v+ 1, )«= 2 |i+ 1, q= 6 k 1
+8)„ n= 2 y, m 2 |t+ 1„ q= 6 k —- 1
+Daher kann eine Zahl von der obigen Form nur dann eine Prim­
+zahl sein, wenn
+1)«= 2v, m= 2 [i. und q= Qk+ 1
+'- 2).. n= 2v, ni == 2 {t+ 1.„ q 1-
+Setzen wir «)/ t— 1= 2qr also ./ t =*2qr+ 1,"
+so erhalten wir als Auflösungen:
+a"j= 2 q r+ 1 und x t= 2 (2 q r+ j).
+Setzen wir aber b) f\— 1 -- 2 q, also/j= 2q'+..l,
+so muss 2q+ l= r und ot t— 2. sein,
+wodurch wir die Lösungen: x 3= r i und r 4= 2r*. r erhalten.
+Wir können somit sagen:•
+Die Gleichung:. f (x)= 2 q r h at..
+■ a) gar keine Lösung, wenn w e der 2qr+ leine
+Primzahl, noch r=2^+l ist;•. ,i
+b) zwei Lösungen, wenn a.) 2q r+ 1 eine Primz ah I
+ist und r^2^+J, nämlich:
+-i'i 2 qr 1 u n d x t= 2 (2 qr+ 1),; .r".
+ß) 2q r+ 1 keine Primzahl, aber r— 2 q -f 1 ist,
+nämlich x x= {2q+ \y und x 2= 2 (2?+l) 2;
+
+13
+c) vier Lösungen, wenn sowohl 2^r+ l eine Prim­
+zahl, als auch r= 2^+ l ist.
+Die'Lösungen haben die unter a) und ß). ange­
+gebenen Formen.
+VI.) Ist
+ f\~ l= 2 4'' r- Die aufzulösende Gleichung heisst dann:
+IO V\ Äj— 1 ÖC»’!'—1. v
+\lq■ r+\) A 2 (/*-!)= /.
+«— V
+Diese Gleichung ist, weil 2 q" V+ l relativ prim zu q ist, nur
+dann möglich, wenn v= 0, aj= l ist; dann erhalten wir:
+* x,= 2 q r +1 und ,r 4= 2 (ßq U r+ l).
+‘' r. -i fei W-V ,, v
+b) p x —l= 2q; dann muss\2 q +LJ p. 2 (A— l)=? r sem.
+Jl>.
+Diese ist nur möglich, wenn. v= 0, r= 2^ -+-1 und oc,= 2 ist.
+11 t 11\
+Hat also die gegebene Gleichung die Form: ■■
+x= 2 q 1 r S+ 1. und- x= 2 (2 q l r-\r l);
+11'■
+b) wenn‘ _r~ 2 q+ l ist,
+x=(2q +1/ und x=
+!,»+ l)* +1 und .,.2(s,'+ l) rt S
+c) wenn?= 2/+ l ist,
+x= (2/+l)"+ 1 und a= 2(2/+l) W+1-
+(f (x)= 2 q r,
+VII.) Wenn
+.— UL..^
+a)= 2 worin [i< m
+Dann ist x= u( 2 ’”^ r+ l) eine Lösung der vorgelegten
+so setzen wir:
+sein muss.
+u,.
+Gleichung, wobei a eine Lösung der Gleichung 'f (y)= 2 ist.
+
+14:
+b)= 2 m ^q+ 1; dann muss:
+( ß m^+ l) a** ^{fi~ 1)•■— 2^r nnd p.> 0 sein.
+a) Für— 1 muss 0 sein.
+a) Wenn nun q= 2 W ^"+1 ist, so muss aj= 2 und y (jy)= 2^V
+sein. Da »*—jj. von der Form 2 sein muss, so ist p,= m— 2, also
+m 2^ X
+<p (y)— 2 rund 2 Für^= Ä, ist x— aq 2.
+ß) Ebenso kann auch r~ 2*”^+ 1 gesetzt werden, wodurch
+wir Lösungen von der Form x= b r 2. erhalten.
+VIII.) Ist endlich die allgemeine: Gleichung:
+aufzulösen, so setzen wir:
+11 s
+<P (*)= 2 <2 r.
+«—v r—3
+_w '1
+/1= 2 *0 r
++ 1,
+wobei |t< m, v< k, a< s... sein kann.
+Wir haben dann alle möglichen Werte von ja mit allen
+möglichen Werten von v, 3 .... zu combinieren, wodurch wir
+Gleichungen von der Form:
+TW= 2 r q r..
+erhalten. Für einzelne specielle Fälle haben wir die Lösungen der­
+selben bereits in den vorhergehenden. Abschnitten gefunden. Auf
+die übrigen wenden wir dann abermals dasselbe Verfahren wie oben
+an, wodurch die Exponenten neuerdings herabgedrückt werden, so
+dass also immer nur Gleichungen von einer schon behandelten Form
+aufzulösen sind.
+Damit haben wir nun unsere Aufgabe vollständig gelöst. Wir
+ersehen aus den vorhergehenden Erörterungen, dass es schließlich
+immer auf die Auflösung einer Gleichung von der Form: y (x)= 2 n
+ankommt.
+Auf die voranstehend gelöste Aufgabe lässt sich auch die
+folgende Aufgabe zurückführen:
+
+15
+Es sind diejenigen Zahlen« zu finden, für welche
+die Summe der  1 ist.
+dl
+Soll nun s= kn sein, so muss kn— n
+? («)
+• 2
+sein;
+somit kommt es auf die Auflösung der Gleichung an:
+? («)= 2 k,
+worin k eine gegebene Zahl bezeichnet.
+Z. B.: Für welche Zahlen n ist die Summe der cp (n) Zahlen
+gleich der Zahl« selbst?
+Es soll also:
+fl•
+— cp («)= n, daher cp («)= 2 sein.
+dl
+■ Dies ist der Fall, wenn n= B, 4, 6 ist.
+In der Tabelle am Schlüsse sind die Lösungen der Gleichung
+cp (x)= n für alle möglichen Werte von« bis einschließlich «=200
+zusammengestellt. Die Lösungen bis zu «=100 sind dem Werke
+„Theorie desnombres von Ed. Lücas“ entnommen; darin
+ist aber keine Andeutung über die Berechnung dieser Zahlen
+enthalten. Die übrigen Lösungen sind vom Verfasser dieses Auf­
+satzes berechnet worden.. Die mit v überschriebene Columne gibt
+die Anzahl der Lösungen an.
+Tafel
+der Zahlen, welche einem gegebenen Werte von cp («) entsprechen.
+cp. («)
+n
+V
+1
+l, 2.
+2
+2
+3, 4, 6.
+3
+4
+5, 8, 10, 12.
+4
+6
+7, 9, 14. 18.
+4
+8
+15, 16, 20, 24, 30
+5
+10
+11, 22.
+2
+12
+13, 21, 26 28, 36, 42.
+6
+16
+17, 32, 34, 40, 48, 60.
+6
+18
+19,27,38,64.
+4
+20
+25, 33 44, 60, 66.
+5
+22
+23, 46.
+2
+24
+35, 39, 45, 52, 56, 70, 72, 78, 84, 90.
+10
+28
+29, 58.
+.2
+' 30
+31, 62.
+2
+
+
+17
+i
+»1
+2
+? («)
+n
+V
+156
+157, 169, 237, 314, 316, 338, 474.
+7
+160
+187, 205, 328. 352, 374, 400, 410, 440, 492, 528,
+600, 660.
+12
+162
+163, 243, 326, 486.
+4
+164
+249, 322, 498.
+3
+166
+167, 334.
+2
+168
+203, 215, 245, 261, 344, 392, 406, 430, 490, 516,
+522, 588.
+12
+172
+173, 346.
+2
+176
+267, 345, 356, 368, 460, 534, 552, 690.
+8
+178
+179, 358.
+2
+180
+181, 209, 217, 279, 297, 362, 418, 434, 558, 594.
+10
+184
+235, 376, 470, 564.
+4
+190
+191, 382.
+2
+192
+193, 221, 291, 357, 386, 388, 416, 442, 448, 476,
+520, 560, 576, 582, 612, 624, 672, 714, 720,
+780, 840.
+21
+196
+197, 394.
+2
+198
+199, 398.
+2
+200
+275, 303, 375, 404, 500, 550, 606, 750.
+8
+j
+1
+
+NACHTRAG ZUM BIBLIOTHEKS-KATALOG.
+I. Encyklopädie.
+(Werke allgemeinen und vermischten Inhaltes, allgemeine Wissen­
+schaftsgeschichte, Akademieschriften, allgemeine Bibliographie,
+Bücher und Bibliothekswesen, Kataloge u. s. w.).
+1739. Euler Karl, Encyklopädisches Handbuch des gesammten
+Turnwesens und der verwandten Gebiete. Wien,
+Leipzig, 1894—1896. 8°. 3 B. N 336
+II. Philosophie und Ästhetik.
+1740. Laas Ernst, Idealismus und Positivismus. Berlin, 1879
+bis 1884. 8°. 3 B. B 98
+1741. Münsterberg Hugo, Grundzüge der Psychologie. I. B.
+Allgemeiner Theil. Die Principien der Psychologie.
+Leipzig, 1900. 8°. B 102
+1742. Schoeler Heinrich von, Kritik der wissenschaftlichen
+Erkenntnis. Leipzig, 1898. 8°. B 99
+1743. Überweg Friedrich, Grundriss der Geschichte der
+Philosophie des Alterthums und der Neuzeit. Heraus­
+gegeben von Hax Heinze. 8. Aufl. Berlin, 1899. gr. 8°. B 101
+HI. Pädagogik,
+a/ Allgemeiner Theil.
+1744. Beiträge zur österreichischen Erziehungs- und Schul­
+geschichte. 2. und 3. Heft. Wien und Leipzig, 1899. 8°. N 343
+1745. Bericht über die volksthümlichen Universitätsvorträge
+im Studienjahre 1897/98 und Statistik für die Jahre
+1895—1898. Wien, 1888. 8°. N 335
+1746. Festschrift des deutschen akademischen Philologen-
+Yereines in Graz. Graz, 1896. 8°. N 342
+1747. Fischer Albert, das alte Gymnasium und die neue
+Zeit. Gr. Lichtenfelde, 1900. 8°. N 349
+1748. Frankfurter S., Graf Leo Thun-Hohenstein, Franz Exner
+und Hermann Bonnitz, Beiträge zur Geschichte der
+österreichischen Unterrichtsreform. Wien, 1893. gr. 8 n. N 345
+1749. Geschichte und Statistik, zur, des Yolksschulwesens
+im In- und Auslande. Zugleich Katalog der Jubi­
+läums-Sonderausstellung „Jugendhalle“. Wien, 1898.
+kl. 8°. 2 Exempl. N 328
+
+19
+2*
+1750. Gesellschaft für deutsche Erziehungs- und Schul­
+geschichte. 6. Jahresbericht der ’österr. Gruppe.
+Wien, 1900. 8».^.. N 329
+1751. Inauguration, die feierliche, des Rectors der Wiener Uni­
+versität für das Studienjahr 1898/1899. Wien, 1898. 8°. N 334
+1752. Instructionen für den Unterricht an den Realschulen
+in Österreich. 5. Aufl. Wien, 1899. gr. 8°. N 339
+1753. Lehrplan und Instructionen für den Unterricht an den
+Gymnasien in Österreich. 2. Aufl. Wien, 1900. gr. 8°.' N 346
+1754. Krause Johann Heinrich, Geschichte der Erziehung
+des Unterrichts und der Bildung bei den Griechen,
+Etruskern und Römern. Halle, 1851. 8° N 327
+1755. Münch Wilhelm, Neue pädagogische Beiträge. Berlin,'
+1893. 8°. .. N 337
+1756. Münch Wilhelm, Über Menschenart und Jugend­
+bildung. Berlin, 1900. 8°.. N 347
+1757. Rotter Rieh. Andreas, Ritter von Wilhelm, Biographi­
+scher Beitrag zur österreichischen Schul- und Staats­
+geschichte der letzten 75 Jahre. Wien, 1884. 8°. N 326
+1758. Verhandlungen des 8. allgemeinen deutschen Neuphilo­
+logentages zu Wien. Hannover und Berlin, 1898. gr. 8°. N 332
+*
+b) Die einzelnen Lehrfächer.
+1759. Hartmann Martin, Die Anschauung im neusprachlichen
+Unterricht. Wien, 1895. gr. 8°. N 331
+1760. Lange Paul, Beobachtungen und Erfahrungen auf
+dem Gebiete der Anschauungsmethode im französi­
+schen Unterricht. Wien, 1897. gr. 8°. N 330
+1761. Pasch Moriz, Über den Bildungswert der Mathematik.
+Giessen, 1894. 8°. N 333
+1762. Wenzel Alfred, Der Todeskampf des altsprachlichen
+Gymnasial-Unterrichts. Berlin, 1899. 8°. N 341
+c) Musik, Stenographie, G e s u n dh e i t s 1 e h r e un d
+Schu 1 st a ti s t ik.
+1763. Ackermann und Reichel, Jahrbuch der Schule Gabels-;
+bergers auf das Jahr 1899. Leipzig, 1899. 12°. L 67
+1764. Jahresbericht, vierter, der österr. Gruppe der Gesell­
+schaft für deutsche Erziehungs- und Schulgeschichte.
+Wien, 1898. 8».. N 329
+V. (Rassische Philologie.
+a) Lateinische.Schriftsteller.
+1765. Catonis, M. Porci, de agri cultura über; M. Terenti,
+Yarronis rerum rusticarum 11. 3 ex rec. H. Keilii,
+vol. II. fase. 1. et 2. Leipzig, 1891—1894. 8°. Ca 405
+1766. Catonis, M. Porci, praeter librum de rustica quae
+exstant. rec. H. Jordan. Leipzig, 1869 8°. Ca 406
+
+20
+1767. Catulli Veronnensis über. ree. Aemil. Baehrens. Neue
+Auflage von. K. P. Schulze. Leipzig, 1893. 8°. Oa 411
+1768. Ciceronis Quinti reliquiae. rec. Francisc. Buecheler.
+Leipzig, 1869. 8°. Ca 404
+1769. Ciceronis M. Tulli, epistolarum libri sedecim. ed. Lud.
+Mendelssohn. Leipzig, 1893. gr. 8 9. Ca 418
+1770. Fragments scaenicae Romanorum poesis. rec. Otto
+Ribbeck. Leipzig, 1891—1893. 8° 2 B. Ca 407
+1771. Frontonis M. Comelii et M. Aurelii imperatoris
+epistolae. rec. Samuel Naber. Leipzig, 1867. 8°. Ca 416
+1772. Gedichte, unedierte lateinische. Herausgegeben von
+Emil Bährens. Leipzig, 1877. 8°. Ca 416
+1773. Incerti auctoris de ratione dicendi ad C. Herennium
+11. 4; ed. Frederic. Marx. Leipzig, 1894. 8°. Ca 417
+1774. Institutionum et regularum iuris romani syntagma; ed.
+Rud. Gneist. 2. Aufl. Leipzig, 1880. 8°. Ca 409
+1775. Saliarium carminum reliquiae. ed. B. Maurenbrecher.
+Leipzig, 1894. 8°. Ca 412
+1776. Sallusti Crispi historiarum reliquiae. ed. B. Mauren­
+brecher. Leipzig, 1891—1893. 8°. Ca 408
+1777. Symmachi Qu. Aurelii relationes. rec. Guil. Meyer.
+Leipzig, 1872. 8°. Ca 414
+1778. Syri Publilii mimi sententiae. rec. Guil. Meyer.
+Leipzig, 1872. 8®. Ca 413
+1779. Taciti C. Comelii opera quae exstant, von Joh. Friedr.
+Gronovius. Amsterdam, 1685. 8°. 4 B. Ca 481
+1780. Taciti C. Cornelii Germania cum commentario. expos.
+Christ. Dittmarus. Frankfurt, 1766. kl. 8°. Ca 480
+1781« Terentius Varronis saturarum Menippearum reliquiae.
+rec. Alex. Riese. Leipzig, 1865. 8°. Ca 410
+1782. Vergiiii P. Maronis opera apparatu critico in artius
+contracto. rec. Otto Ribbeck. Leipzig, 1894 bis
+1895. 8°. 2 B. Ca 403
+b) H i lf s seb r if t e n der lateinischen Sprache:
+Grammatik, Lexicon, Literaturgeschichte etc.
+1783. Cauer Paul, Grammatica militans. Berlin, 1898. 8°.
+2 Exempl. N 340
+1784. Chrestomathie aus Schriftstellern der sogen, silbernen
+Latinität für den Schulgebrauch zusammengestellt
+von Opitz Th.-und Wernhold Alfred. Leipzig, 1893.8°. C a 479
+1785. Dittmar Armin, Studien zur lateinischen Moduslehre
+Leipzig, 1897. gr. 8°. Ca 466
+1786. Fugner Franz, Lexicon Livianum. vol. I. Leipzig,
+1897. gr. 8°. C a 420
+1787. Gebhardi Walther, Ein ästhetischer Commentar zu den
+lyrischen Dichtungen des Horaz. Paderborn, Münster,
+1885. 8».- Ca 421
+
+21
+1788 Hammelrath Hans und Stephan Christ, Übungsstücke
+zum Übersetzen ins Lateinische für Secunda und
+Prima. 1. H. Berlin, 1899. 8°. Ca 453
+1789. Haussner A., Wiederholungsaufgaben zum Übersetzen
+ins Lateinische. Erlangen. 1893—1898. 8°. 4 B. Ca 425
+1790. Heinichen Friedrich, Deutsch-lateinisches Schulwörter­
+buch. 4. Aufl. Bearbeitet von A. Dräger. Leipzig,
+1883. gr. 8°. Ca 423
+1791. Hilberg Isidor, Die Gesetze der Wortstellung im
+Pentameter des Ovid. Leipzig, 1894 gr. 8°. Ca 419
+1792. Krassnig Joh., Lateinische Stilübungen für die oberen
+Gymnasialclassen. Nikolsburg, 1900. 8°. Ca 465
+1793. Kubik Josef, de M. Tulli Ciceronis poetarum latinorum
+studiis. Leipzig und Prag, 1877. 8°. Ca 468
+1794. Kubik Josef, Realerklärung und Anschauungsunterricht
+bei der Lectüre des Horaz. Wien, 1899. 8. Ca 467
+1795. Ness Karl, Häusliche Übungen in lateinischer Über­
+setzung. Erlangen, 1896. 8°. Ca 426
+1796. Nettleship Henry, Contributions to latin lexicography.
+Oxford, 1889. gr. 8°. C a 402
+1797. Perthes Hermann, Lateinisch-deutsche vergleichende
+Wortkunde im Anschluss au Casars bellum gallicum.
+Berlin, 1873. 8°.. Ca 422
+1798. pianks K. Chr., Übungsstücke für die lateinische
+Composition. 1. und 2. Theil. Herausgegeben von
+H. Ludwig. Stuttgart, 1896. 8°. Ca 473
+1799. Rademann Adolf, Übungsstücke zum Übersetzen im
+Anschluss an Ciceros 1. und 4. philippische Rede.
+Berlin, 1899. 8°. .. Ca 454
+1800. Radtke, Materialien zum Übersetzen aus dem Deutschen
+ins Lateinische. Leipzig, 1891. 8°. Ca 460
+1801. Roby Henry, John, A Grammar of the latin language
+from Plautus to Suetonius. 1. und 2. Theil. London,
+1896. kl. 8°. 2 B.- Ca 459
+1802. Schulze K. P., 60 Aufgaben zum Übersetzen ins
+Lateinische für die Prima eines Gymnasiums.
+_ Berlin, 1898. 8°.„ Ca 452
+1803. Übungsstücke zum Übersetzen aus dem Deutschen
+ins Lateinische im Anschluss an die Lectüre'-
+für die Oberstufe des Gymnasiums. Gotha, 1898
+bis 1899. 8°. 8 H._ Ca 470—475
+1804. Uppenkamp Aug., Aufgaben zum Übersetzen aus dem
+Deutschen ins Lateinische im Anschluss an Schriften
+Ciceros. 3. und 4. H. Leipzig, 1880—1882. 8°. C a 456
+1805. Wölflin Eduard, Archiv für lateinische Lexicographie
+und Grammatik. Register zu Band 1—10. Leipzig,
+1898. 8°. Ca 469
+1806. Zimmermann E., Übungsbuch im Anschluss an Cicero,
+Sallust, Livius, Tacitus zum Übersetzen aus dem
+Deutschen ins Lateinische. 6. Theil. Berlin, 1900.8°. Ca 451
+
+22'
+d) Hilf sschr i f t en der griechischen' Sprache:
+Grammatik, Lexicon, Literaturgeschichte etc.
+1807. Baumstark Anton, Der Pessimismus in der griechischen
+Lyrik. Heidelberg, 1898. 8°. Cb 211
+1808. Kühner Kaphael, Ausführliche griechische Grammatik.
+2. Theil. 1. B. 8. Aufl.; besorgt von Leonhard Gerth.
+Hannover, 1898. gr. 8°. Cb 77
+1809. Preger Theodor, Inscriptiones graecae metricae.
+Leipzig, 1891. 8°. Cb 212
+1810. Seiler E. E., Vollständiges griechisch-deutsch.es "Wörter­
+buch über die Gedichte Homers und der Homeriden.
+6. Aufl. Leipzig, 1863. 8°. Cb 207
+1811. Veitch Will., Greek verbs irregulär and defective.
+Oxford, 1887. kl. 8°. Cb 210
+e/ Classische Philologie im allgemeinen,
+Archäologie und Epigraphik.
+1812. Handbuch der classischen Alterthumswissenschaft.
+Herausgegeben von Ivan v. Müller: M 93
+II. 1. Griechische Grammatik von Karl Brugmann.
+3. Aufl. München, 1900. gr. 8°.
+IV., I. 1. Die griechischen Staats- und Rechtsalter-
+thümer von Georg Busolt. 2. Aufl. München, 1892.8°.
+VII. Geschichte der griechischen Literatur bis auf
+die Zeit Justinians von Wilh. Christ. 3. Aufl..
+München, 1898. gr. 8».
+VIII., II. 2. Geschichte der römischen Literatur bis
+zum Gesetzgebungswerk des Kaisers Justinian
+von Martin Schanz. 2. Aufl. München, 1901. gr. 8°.
+1813. Hübner E., Bibliographie der classischen Alterthums­
+wissenschaft. Grundriss zu Vorlesungen über die
+Geschichte und Encyklopädie der classischen Philo­
+logie. Berlin, 1889. 8°. M 92
+1814. Kirchhoff Christian, Dramatische Orchestikder Hellenen.
+Leipzig, 1899. gr. 8°. Cb 209
+1815. Pöckel W., Philologisches Schriftstellerlexicon. Leipzig,
+1882.8°. C a 424
+1816. Preller Friedr., Odyssee-Landschaften. Leipz., 1881. Eol. L 65
+1817. Vahlen Johannes, Festschrift zum 70. Geburtstag.
+Berlin, 1900. 8°. G 266
+VI. Moderne Philologie,
+a/ Deutsche Dichter.
+1818. Hammerling Kob., Stationen meiner Lebenspilger­
+schaft. Hamburg, 1889. 8°.; Da 187
+1819. Lichtenberg Georg Christoph, Ausgewählte Schriften.
+Herausgegeben und eingeleitet von Adolf Wilbrandt.
+Stuttgart, 1893. 8°. r Da 184
+1820. Schack Adolf Friedrich von, Gesammelte Werke. 3. Aufl.
+- Stuttgart, 1897—1899. 8°. 10 B.' Da 185
+
+23
+b) Deutsche Grammatik, Literaturgeschichte etc.
+1821. Beyer C., Deutsche Poetik. Theoretisch-praktisches
+Handbuch der deutschen Dichtkunst. 3. Aufl. Berlin,
+1900.8°. Da 186
+1822. Burkhardt, Goethes Unterhaltungen mit dem Kanzler
+Friedrich von Müller. 2. Aufl. Stuttgart, 1898. 8°. D a 182
+1823. Meyer Richard, die deutsche Literatur des 19. Jahr­
+hunderts. 2. Aufl. Berlin, 1900. gr. 8°. D a 188
+1824. Sander.S Daniel, Citatenlexicon. Leipzig, 1899. kl. 8°. Da 183
+VIII. Erd-, Länder- und Völkerkunde mit Prähistorik,
+Ethnographie und Statistik.
+1825. Blätter des Vereines für Landeskunde von Nieder­
+österreich. Redig. von Anton Mayer. 33. Jahrg. Wien,
+1899. 8°. C 129
+\ XI. Mathematik.
+1826. Barlow, Tables of squares, cubes, square roots, cube
+roots, reciprocals. London, 1861. 8°. H 42
+1827. Cantor Moriz, Vorlesungen der Geschichte der Mathe­
+matik. 2. Aufl. Leipzig, 1894—1900. 8°. 5 B. H 36
+1828. Euler Leonhard, Elemens d’algebre. Uebersetzt von
+J. G. Garnier. Paris, 1807. 8°. 2 B. H 43
+1829. Frischhauf J., Elemente der Geometrie. 2. Aufl.
+Leipzig, 1877. 8°. H 40
+1830. Frischhauf J., Lehrbuch der allgemeinen Arithmetik.
+4. Aufl. Graz, 1881. 8°. H 41
+1831. Parker, Arithmetik and algebra. London, o. J. 8°. H 44
+1832. Reidt Friedrich, Sammlungen von Aufgaben und
+Beispielen aus Trigonometrie und Stereometrie.
+Leipzig, 1870—1872. 8°. 2 B. H 38
+1833. „Sammlung Schubert“, VI. Algebra mit Einschluss der
+elementaren Zahlentheorie von Otto Pund. Leipzig,
+1899. kl. 8°. H 47
+1S34. Schubert Hermann, Mathematische Mußestunden:
+Leipzig, 1898. kl. 8°. H 37
+1835. Weber Heinrich, Lehrbuch der Algebra. 2. Aufl.
+Braunschweig, 1898— 1899. 8®. 2 B. H 46
+1836. Wood James, The elements of algebra. 7. Aufl. Cam­
+bridge, 1820. 8°. H 45
+XII. Naturgeschichte.
+1837. Buschmann J. Ottokar, Freiherr von, das Salz, dessen
+Production, Vertrieb und Verwendung in Österreich..
+Wien, 1898. gr. 8°. J
+97
+
+24
+XIII. Physik (mit Astronomie tmd Meteorologie) und Chemie.
+1838. Laplace M, Exposition du Systeme du monde. 4. Aufl.
+Paris, 1813. 8°. 2 B. K 93
+1839. Plassmann Jos., Himmelskunde. Freib. i/Br., 1898. gr. 8°. K 92
+1840. Richarz Franz, Neue Fortschritte auf dem Gebiete der
+Elektricität. Leipzig, 1899. kl. 8°. K 94
+XIV. Zeichnen (mit Einschluss der Kunst) und darstellende
+Geometrie.
+1841. Kraus Franz, Geschichte der christlichen Kunst. Frei­
+burg i/Br. 1896—1900. gr. 8°. 3 B. L 66
+1842. Peuker Karl, Schattenplastik und Farbenplastik.
+Wien, 1898. 8°. L 68
+Von folgenden Werken erschienen die Fortsetzungen.
+I. Bibliotheca philologica classica. Siehe Bibliochekskatalog Nr. 6.
+Biographie, allgemeine deutsche. Bk. Nr. 7.
+Centralblatt, literarisches, für Deutschland. Bk. Nr. 11.
+Hinrichs Halbjahrskatalog. Bk. Nr. 15.
+Klussmann Rudolf, Systematisches Verzeichnis der Abhand­
+lungen in den Schulprogrammen. Bk. Nr. 19.
+Meyers Conversations-Lexicon. Bk. Nr. 21.
+Mittelschule, österreichische. Bk. Nr. 22.
+Reyue, österreichisch-ungarische. Bk. Nr. 26.
+Zeitschrift für die österreichischen Gymnasien, Bk. Nr. 29.
+Zeitschrift für das Gymnasial wesen. Bk Nr. 30.
+Zeitschrift für das Realschulwesen. Bk. Nr. 31.
+II. Gomperz Theodor, griechische Denker. Bk. Nr. 43.
+III. a) Gymnasium, das humanistische. Bk. Nr. 142.
+Gymnasium, Zeitschrift für Lehrer an Gymnasien, etc. Bk. Nr. 143.
+Kehrbach Karl, Mittheilungen der Gesellschaft für deutsche
+Erziehung und Schulgeschichte. Bk. Nr. 172.
+Lehrproben und Lehrgänge aus der Praxis der Gymnasien und
+Realschulen. Bk. Nr. 190.
+Rein W., Encyklopädisches Handbuch der Pädagogik. Bk. Nr. 238.
+Verordnungsblatt für den Dienstbereich des Ministeriums für
+Oultus und Unterricht. Bk. Nr. 274.
+III.b) Baumeister A., Handbuch der Erziehungs- und Unterrichtslehre
+für höhere Schulen. Bk. Nr. 302.
+III.c) Jahrbuch des höheren Unterrichtswesens in Österreich.
+Bk. Nr. 392.
+Jahresberichte über das höhere Schulwesen. Bk. Nr. 394.
+V a) Bibliotheca scriptorum Graecorum et Romanorum Teubneriana
+Bk. Nr. 431.
+Lucani M. Annaei.de bello eivili libri 10. ed. C. Hosius. Ca 427
+XII Panegyrici latini. ree. Aemil. Baehrens.
+Plini C. Secundi epistolarum 11. 9. rec. Henr. Keil.
+Plini C. Secundi quae fertur una cum Gargilii
+Martialis medicina. ed. V. Rose.~
+Plini C. Secundi librorum dubii sermonis VIII reli-
+quiae. coli. J. W. Beck.
+Ca 428
+Ca 429
+
+25
+V. a) Catanis M. Porci de agri caltura über. rec. Henr. Keil. 1
+M. Terenti Varronis rerum rusticarum. rec. Henr. Keil. J
+Annaei Senecae oratornm et rhetorum sententiae. rec.
+Adolphus Kiessling.
+Fragments poetarum romanoram. emend. Aemil. Baehrens.
+Sidonius C. Sollius Apolinaris. rec. Paulus Mohr.
+Macrobius. rec. Francisc. Ejsenhardt.
+Sili Italic! punica. ed. Ludov. Bauer.
+M. Minucii Felicis Octavius. emend. Aemil. Baehrens.
+Phaedri Augusti Liberti fabulae Aesopiae. rec. Lucianus»
+Mueller.
+Boetii, Anicii Manlii Severini, commentarii in librum
+Aristotelis Hsot Ep{j.7]vsia?. rec. Carolus Meiser. 2 B.
+Boetii, Anicii Manlii Severini, de institutione arithmetica
+libri 2. De institutione musica 11. 5. Accedit geome-
+tria quae fertur Boötii. ed. Godofredus Friedlein.
+M. iuniani Justini epitoma historiarum philippicarum
+Pompei Trogi. rec Franc. Ruehl.
+Senecae L. Annaei, opera quae supersunt. rec. Frideric.
+Haase.
+Scriptores historiae Augustae. rec. Herrn. Peter.
+Capelia Martianus. rec. Franc. Eysenhardt.
+M. Fabii Quintiliani declamationes quae supersunt CXLY.
+Valerii Maximi factorum et dictorum memorabilium 11.
+9. Cum Julii Paridis et Jannarii Nepotiani epitomis.
+rec. Carolus Kempf.
+Amiani Marcellini rerum gestarum libri qui supersunt.
+rec. V. Gardthausen.
+Anthologia latina sive poesis latinae supplementum. ed.
+Franc. Buecheler et Alex. Riese. Pars posterior:
+carmina epigraphica. coli. Franc. Buecheler.
+Celsi A. Cornelii, de medicina libri 8. rec. C. Daremberg.
+Melae Pomponii dechorographialibriB.rec. Carol.Frick.
+Dictys Cretensis ephemeridos belli troiani libri 6.
+rec. Ferd. Meister.
+Rufi Festi Avieni Aratea. ed. AJfredus Breysig.
+Claudii.Rutilii Namatiani de reditu suo libri 2. rec.
+Lucianus Mueller.
+, Hadriani, Flori, Apulei, Anniani, Sereni aliorumque
+saec. a. u. c. X poetarum reliquiae.
+Dracontii carmina minora plurima inedita ex codice
+Neapolitano. ed. Frid. de Duhn.
+Anonymi Orestis tragoedia. ed. Jacobus Maehly.
+Jurisprudentiae anteiustinianae quae supersunt. rec. i
+Eduard Huschke. I
+Die jüngst aufgefundenen Bruchstücke aus Schriften|
+römischer Juristen von Eduard Huschke. f
+Ausonii Decimi Magni Burdigalensis opuscula. rec.
+Rud. Peiper.
+Poetae latini minores. rec. Aemil. Baehrens.
+Claudii Claudiani carmina. rec. Julius Koch.
+Ca 430
+Ca 431
+C a 432
+Ca 433
+Ca 434
+Ca 435
+Ca 436
+Ca 437
+Ca 438
+Ca 439
+Ca 440
+Ca 441
+Ca 442
+Ca 443
+C a 444
+Ca 445
+Ca 446
+Ca 448
+Ga 449
+Ca 450
+Ca 462
+Ca 463
+Ca 464
+
+26
+V.b) Braut, Aufgaben zum Übersetzen ins Lateinische. Bk. Nr. 615.
+Ostermann Christian, Lateinische Übungsbücher. Bk. Nr. 699.
+Rosenberg Emil, Aufgaben zum Übersetzen ins Lateinische
+Bk. Nr. 711.
+V. e) Carnuntum, Bericht des Vereines über die Ausgrabungen in
+Carnuntum. Bk. Nr. 938.
+Jahrbücher, neue, für Philologie und Pädagogik: Bk. Nr. 951.
+Jahresbericht über die Fortschritte der classischen Alterthums­
+wissenschaft. Bk. Nr. 952.
+Paifly’s Bealencyklopädie. der classischen Alterthumswissen-
+schaft. Bk. Nr. 960.
+Wiener Studien. Zeitschrift für clasSische Philologie. Bk. Nr. 974.
+Wochenschrift, philologische. Bk. Nr. 975
+VI a) Herders sämmtlicke Werke. Bk. Nr. 999.
+Neudruck deutscher Literatur werke des 16. und 17. Jahr­
+hunderts. Bk. Nr. 1013
+VI. b) Jahrbuch der Grillparzer-Gesellschaft. Bk. Nr. 1075.
+Lyon Otto, die Lectüre als Grundlage eines einheitlichen und
+naturgemäßen Unterrichts in der deutschen Sprache.
+Bk. Nr. 1087.
+Zeitschrift für deutsches Alterthum und deutsche Literatur.
+Bk. Nr. 1127
+VI.c) Gröber Gustav, Grundriss der romanischen Philologie.
+Bk. Nr: 1143.
+VIII. Globus, Illustrierte Zeitschrift; für Länder- und Völkerkunde.
+Bk. Nr. 1243.'
+Hann J., Hochstetter F. von, und Pokorny A., Allgemeine
+Erdkunde. Bk. Nr. 1247.
+Hölzel, Geographische Charakterbilder für Schule und Haus.
+Bk. Nr. 1253.
+Mittheilungen der anthropologischen Gesellschaft in Wien.
+Bk. Nr. 1277.
+Monarchie, die österreichisch-ungarische, in Wort und Bild.
+Bk. Nr. 1278.
+Wagner Hermann, Lehrbuch der Geographie. Bk. Nr. 1317.
+Zeitschrift für Schulgeographie. Bk. Nr. 1321.
+IX. Zeitschrift, historische. Bk. Nr. 1478.
+Roscher W. H., Lexicon der griechischen und römischen
+Mythologie. Bk. Nr. 1435.
+XII. Bronn H. G. Die Classen und Ordnungen des Thierreiches.
+Bk. Nr. 1553.
+Rundschau, naturwissenschaftliche. Bk. Nr. 1600.
+XIII. Zeitschrift für den physikalischen und chemischen Unterricht.
+Bk, Nr 1712.
+XIV. Grefe K., Alt-Österreich. Bk. Nr. 1723.
+
+Sclmlnaclirieliteii 1900/1901.
+I. Personalstand des Lehrkörpers und Lehrfächervertheilung.
+aj Veränderungen im Lehrkörper.
+1. Laut Erlasses des k. k. niederösterreicbischen Landesschulrathes vom
+25. August 1900, Z. 9954 hat der Herr Minister für Cultus und Unterricht den
+Supplenten Dr. Camillo Gugler zum wirklichen Lehrer am Staatsgymnasium
+in Landskron ernannt.
+2. Mit Min.-Erl. vom 21. August 1900, Z. 22.361 wurde Professor Franz
+Bausch zur Leitung des topographisch- statistischen Dienstes hei der
+statistischen Centralcommission für das Schuljahr 1900/1901 heurlauht.
+3. Mit Min.- Erl. vom September 1900, Z. 25.843 (19. September 1900,
+Z. 10.938 k. k. n.-ö. Landesschulrath) wurde der Professor am k. k. Karl
+Ludwigs-Gymnasium Adolf M i c h 1 der Anstalt zur Dienstleistung zugewiesen
+und mit Min.-Erl. vom 10. Decemher 1900, Z. 31.261 in den bleibenden Ruhe-
+stand versetzt. Aus diesem Anlässe wurde dem Genannten für sein ersprieß­
+liches Wirken im Lehramte die Anerkennung ausgesprochen.
+4. Mit Erlass des k. k. niederösterreichischen Landesschulrathes vom
+13. October 1900, Z. 11.792 wurde auf Grund des Min.-Erl. vom 30. September 1899,.
+Z. 14.047 Professor J, M eisei als administrative Hilfskraft auf die Dauer
+der beiden nächsten Schuljahre bestellt.
+5. Mit Erlass des k. k. niederösterreichischen Landesschulrathes vom
+17. October 1900, Z. 11.746 wurde der Lehramts-Candidat Dr. Moriz W aiß
+zum supplierenden Lehrer an der Anstalt bestellt.
+6. Mit Erlass des k. k. niederösterreichischen Landesschulrathes vom
+27. October 1900, Z. 12.561 wurden die Lehramts-Candidaten Dr. Heinrich
+Eouczek und Friedrich Hirsch zu supplierenden Lehrern an der Anstalt
+bestellt.
+7. Mit Erlass des k. k. niederösterreichischen Landesschulrathes vom
+29. November 1900, Z. 14.264 wurde auf Grund des Min.-Erl. vom 2. November 1900,
+Z. 29.962 Jos. G o r e c a n zum Assistenten für Turnen bestellt.
+8. Laut Erlasses des k. k. nieder österreichischen Landesschulrathes vom
+21. December 1900, Z. 15.337 hat der Herr Minister für Cultus und Unterricht
+die Professoren Karl Penka, Dr. Adolf Li chtenheld, Theodor Schneider,
+Leopold Weingartner und Dr. Hugo Jurenka in die VII. Rangs-
+classe befördert.
+9. Mit Min.-Erl. vom 29. Mai 1901, Z. 13.614 wurde Professor Dr. Eduard
+Hula zum Secietär des öst.-archaeologischen Institutes in der Vin. Rangs-
+classe ernannt. Dr. Hula scheidet hiemit nicht allein von der Anstalt, sondern
+vom Lehramte überhaupt. Mit innigem Bedauern und aufrichtigem Segens-,
+wünsche sehen Lehrkörper und Schüler den hochgeschätzten Collegen und
+wohlwollenden Freund der Jugend scheiden, der auch als tüchtiger Pädagoge
+und vorzüglicher Fachmann das allgemeine Vertrauen in vollem Maße genoss.
+b) Stand am Schlüsse des Schuljahres.
+Director:
+Stitz Anton, Leiter des Probanden-Seminars, lehrte Griechisch in V.,
+wöchentlich 5 St.
+
+Professoren und wirkliche Gymnasiallehrer.
+Dr. Berger Franz, Exhortator, Verwalter der Lehrerbibliothek, lehrte
+katholische Religion in I—VIII, wöchentlich 16 St.+ 2 St. Exhorte.
+Golling Josef, VIII. Rgcl., Ordinarius in lila, lehrte Latein und Deutsch
+in lila, Latein in VII, wöchentlich 14 St.
+Dr. Höpflingen und Bergendorf Heinrich, Ritter v., VIII. Rgcl. Verwalter
+des physikalischen Cabinettes, Ordinarius in V, lehrte Mathematik in III b,
+IV b, V, VII, Physik in IV b, VII, wöchentlich 19 St.
+Dr. Hula Eduard, Verwalter der archäolog. Sammlung, Ordinarius in
+I a, lehrte Latein in I a, Deutsch in I a, Griechisch in VIII, wöchentlich 17 St.
+Dr. Jurenka Hugo, VII. Rgcl., Privatdoc. a. d. Univ., Ordinarius in I b,
+lehrte Latein in I b, und VIII, Deutsch in I b, wöchentlich 17 St.
+Dr. Leclair Anton, Edler v., VII. Rgcl, k. k. Schulrath, Ordinarius in
+II b, lehrte Latein und Deutsch in II b, Logik in VII, wöchentlich 14 St.
+Dr. Lichtenheld Adolf, VII. Rgcl., Ordinarius in VII, lehrte Griechisch in
+VII, Deutsch in V, VII, VIII, wöchentlich 13 St.
+Dr. Lukas Franz, VIII. Rgcl., Verwalter des naturhist. Cabinettes, lehrte
+Mathematik in IIb, Naturgeschichte in Ia, Ib, lila, IIIb, V, VIund Psychologie
+in VIII, wöchentlich 17 St.
+Meise! Josef, VIII. Rgcl., Verwalter der Programmsammlung und der
+Lehrmittelsammlung der Schülerlade, Ordinarius in II a, lehrte Latein in II a,
+Deutsch in Ila und IV b, Stenographie in 2 Abtheilungen, wöchentlich 15 -f- 4 St.
+Dr. Miillner Johann, Verwalter der geogr. Lehrmittelsammlung, Ordinarius
+in VI, lehrte Geschichte in Ilb, lila, IIIb, IVa, VI, wöchentlich 18 St.
+Penka Karl, VII. Rgcl., Correspondent der k. k. Centralcommission für
+Erforschung und Erhaltung der Kunst- und historischen Denkmäler in
+Wien, Ordinarius in IV a, lehrte Latein in IV a, V, Griechisch IV a,
+wöchentlich 16 St.
+Pichler Alois, VIII. Rgcl., Ordinarius in VIII, lehrte Mathematik in IH a,
+IV a, VI, VIII, Physik in IV a, VIII, wöchentlich 17 St.
+Dr. Pollak Heinrich, k. k. Gymnasiallehrer, Verwalter der Schüler­
+bibliothek, lehrte mosaische Religion in 9 Abtheilungen, wöchentlich 18 St.
+Rausch Franz, VII. Rgcl., für das Schuljahr beurlaubt.
+Schauer Leopold, Leiter der allgemeinen Zeichenschale im IX. Bezirke,
+lehrte Zeichnen in Ila, IIb, lila, III b, IV a, IVb, wöchentlich 24 St.
+Schneider Theodor, VII. Rgcl., Ordinarius in IIIb, lehrte Latein, Griechisch,
+Deutsch in III b, wöchentlich 14 St.
+Weingartner Leopold, VH Rgcl. lehrte Deutsch in VI, Geschichte in Ila,
+IV b, VII, VIII, wöchentlich 17 St.
+Turnlehrer:■
+Meschkae August, lehrte Turnen in I—VIII (12 Abth.), wöchentlich 24 St.
+Supplenten:
+Dr. Bonczek Heinrich, lehrte Latein in VI.
+Derganc Anton, k. k. Gymnasialprofessor i. R., lehrte Geographie in I a,
+Ib, Mathematik in Ia, Ib, Ila, Naturgeschichte in Ila, Ilb, wöchentlich 19 St.
+Fischer Emanuel, akademischer Maler, lehrte Zeichnen in I a, I b, und im
+Obergymnasium, wöchentlich 8+ 3 St.
+Hirsch Friedrich, lehrte Deutsch in IV a, Griechisch in IV b, Geschichte
+in V, wöchentlich 10 St.
+Dr. Waiss Moriz, lehrte Latein in IVb, Griechisch in lila, VI,
+wöchentlich 16 St.
+Assistenten:
+Kriz Heinrich für Zeichnen in II a, II b, III b, IV a und Kalligraphie in
+3 Abth. wöchentlich 16+ 3 St.
+Wessely Rudolf für Zeichnen in Ia, Ib, lila, IVb, wöchentlich 16 St.
+
+29
+Nebenlehrer:
+Böhm Julius, Regenschori, Gesang in 2 Abth., wöchentlich 4 St.
+Dienerschaft:
+Schuldiener: Alois Kokeisl.
+Hilfsdiener: Leopold Sternek.
+„ Rudolf Posch.
+Heizer: Michael Hudacek.
+II. Lehrplan.
+für die Obligat-Lehrgegenstände auf Grund der Ministerial-Yerordnungen vom
+26. Mai 1884, Z. 10.128, 2. Mai 1887, Z. 8752, 14. Jänner 1890, Z. 370, vom
+17. Juni 1891, Z. 9193, vom 30. September 1891, Z. 1786, vom 24. Mai 1892,
+Z.11.372 und vom 19. Oetober 1894, Z. 12.507; mit obligatem Turnunterricht im
+ganzen Gymnasium und obligatem Zeichen- Unterricht im Untergymnasium.
+III. Abgehandelter Lesestoff.
+Lateinische Sprache.
+IV. Classe (a und b).
+Caesar: Bell. Gail. I, IV, VI, 13—44. Ausgabe von Pramer. Ovidius
+Met. No. 3 und 5. Ausgabe von Golling.
+V. Classe.
+Livius: I, 1-17; XXI, 1-7, 15-18; XXII, 1-30, 46-61. Ausgabe von
+Golling.— Privatlectüre: Livius: XXVI. Ausgabe von Stitz. Ovidius:
+Met. 6, 11, 12, 15, 17, 18,21. Fast. 3, 5, 6, 7, 8,10,12,14. Trist. 9, 11. Am. 1. Aus­
+gabe von Golling.
+VI. Classe.
+Sallust: Bell. Iugurth.— Cicero: In Catilinam I.— Vergil: Eclog.
+I, Georg.: I Einleitung; H 1, 2. 3; III 3; IV 3, 4. Aeneis I und VII (ed. Golling).
+— Privatlectüre: Sallust: Bell. Catil; Cicero, in Catil. II, III, IV; pro Milone;
+Vergil, Aen. III und V.
+VII. Classe.
+Cicero de oratore (ed. Stangl): L. I§ 50 ff.— Pro R. Amerino u. pro
+Sestio (ed. Komitzer).— Vergil (ed. Golling): Aen. II, IV, VI, XII.— Privat­
+lectüre: Cicero pro Milone, pr. Deiotar o, pro Archia, pro Ligario, Philipp.
+I—III; de ofl. I, Tuscul. I und II, Laelius, Nat. deor., De republ., Verr. V;
+Caesar Bell. civ.
+VIII. Classe.
+Tacitus: Germania (c. 1—27), Annalen I (c. 1--30 und 55—76), XIII
+(c. 1-24). XIV^ (c. 1-16, 51.-59), XV/ (c. 33 49 und 63)./— Privatlectüre:
+II 6; Epist. I 1, 19, 20; einige Partien aus de arte poet,
+
+30
+II" .JJJ.MM
+Griechische Sprache.
+V. Ciasse.
+Xenophon: Anabasis (ed. Schenkl) I, II, III, VI, VIII und IX (curs.).—
+Homer: Ilias (ed. Christ) I, II.— Privatleetüre: Xenophons Anabasis (ed.
+Scbenkl) IV, V, VII; Kyrupaedie IX, X, Commentarii Socratis (ed. Schenkl)
+I, II, III; Homers Ilias III. X.
+VI. Ciasse.
+Homer: Ilias, Gesang3, 4, 6, 7, 12, 18, 24.— Herodot: Perserkriege
+(Ausgabe von Hintner) St. 1— 45 incl. (einige Stücke Privatleetüre).— Privat-
+lectüre: Hom. Ilias, Ges. 5,8, 9, 10, 11, 14, 19, 21, 22, 23; Plutarch, Biographie
+desPerikle3,Xenophon(Chrestom. von Schenkl)Kyr. XI, XII. XIII; Herodot, Buch 1.
+VII. Ciasse.
+Demosthenes: Olynth. 1 und 2, Angel, im Cherson.— Homer:
+Odyssee 1, 5—9 (incl.).— Privatleetüre: Demosthenes: 1., 2., 3. Phil., 3. 01.,
+Hede über den Frieden, Halonnesos, vom Kranz.— Odyss.: 2,3,4, 12, 13, 14, 15,
+16, 17, 19, 23 (Ein Schüler die ganze Odyssee).— II. 19, 20.— Batracho-
+myomaehie.— Plut. Perikies.
+VIII. Ciasse.
+Platon: Apologie, Kriton, Euthyphron.-- Sophokles: Antigone.—
+Homer: Odyssee XX, XXI, XXII, XXIII.— Privatleetüre: Demosthenes:
+2. und 3. olynth., 1 und 2 philipp. Rede, ftspt Tij? slp^VT]?.— Euripides,
+Iphigenie aut Tauris.— Homer: Ilias V, X, XIX; Odyssee I—IV, X, XII:
+XV—XVIII, XXIII.— Sophokles: Aias, Elektra, Oedipus auf Kolonos.
+IV. Themen der deutschen Aufsäzte und freien Vorträge.
+V. Ciasse.
+Schularbeiten: 1. Die Lage Wiens (nach gegebenen Gesichts­
+punkten). |2. Die Übereinstimmungen der Gedichte: Die Kraniche des
+Ibykus, Wittekind, Bertran de Born.— 3. Die Bedeutung der Thränen.—
+4. Die Voraussetzungen der „Verlorenen Kirche“ (Uhland).— 5. Die Insel
+Salas y Gomez.— 6. Pflichtenkampf in der deutschen Heldensage.— 7. Die
+Apostrophen im Eingang der Messiade.- 8. Römische Vaterlandsliebe, dargelegt
+an Beispielen.— 9. Der Knabe vom Berge. (Uhland).
+Hausarbeiten: 1. Die Theateraufführung in den Kranichen des
+Ibykus.— 2. Welche Arten des Wunderbaren lernten wir in den bisher
+gelesenen Balladen (Kummer und Steyskal 1—8) kennen?— 3. Thörichte
+Wünsche. (Im Anschluss an Kassandra). 4. Warum gab Hannibal dem Weg über
+die Alpen den Vorzug vor den anderen möglichen?— 5. Wie und warum
+ward Siegfried schuldig?— 6. Die Nacht ist keines Menschen Freund.—
+7. Scheresmin, ein Knappe aus der Ritterzeit.— 8. Die Stimmungen der Jahres­
+zeiten in Rücksicht auf die Naturlyrik.
+VI. Ciasse.
+Schularbeiten: 1. Über das Kräfteverhältnis der Römer und
+Carthager in den punischen Kriegen.— 2. Ursachen der Überlegenheit
+Europas über die anderen Erdtheile.— 3. Die Burgunden bei Rüdiger von
+Bechlarn.— 4. Was können wir aus Walthers Sprüchen über seine politische
+Stellung entnehmen?— 5. Welche Ideen behandelt Klopstock in seinen
+Oden?— 6. Der Wirt in Lessings „Minna von Barnhelm“.
+
+3L
+Hausarbeiten: 1. In welchen Hauptpunkten unterscheidet sich das
+Nibelungenlied von der nordischen Fassung der Siegfriedsage?— 2. Der Mensch
+im Kampfe mit der Natur.— 3. Weshalb ist die Sonne bei allen heidnischen
+Völkern Gegenstand der Verehrung?— 4. Die Licht- und Schattenseiten der
+Verbindung Deutschlands mit Italien im Mittelalter.— 5. Aus den Erinnerungen
+eines heimkehrenden Kreuzfahrers.— 6. Die Vorfabel in Hessings „Minna von
+Barnhelm“.
+VII. Classe.
+Schularbei'ten: 1. Die Schuldfrage der Emilie Galotti.— 2. Mit
+welchen Gründen sucht Demosthenes in der ersten olynthischen Rede die
+Athener zum Kampf gegen Philipp zu bestimmen?— 3. Die Bedeutung der
+Frömmigkeit Iphigeniens für die Idee des Stückes.— 4. Die Götter und ihr
+Antheil an der Handlung im I. und V. Gesang der Ilias.— 5. Was bot Goethen
+die Ilias für seine Nausikaatragödie?— 6. Österreichs Culturmission nach Osten.
+Hausarbeiten: 1. Götz als Ritter.— 2. Johanna d’Arc und ihre
+Familie. 3. Goethes Götz und Coriolan.— 4. Charakter und Charakterwandel
+der Maria Stuart..— 5. Was heißt: Caelum, non animum mutant, qui trans
+mare currunt?— 6. Was bestimmte Rudenz, sich zu Habsovirg und den
+Vögten zu halten?
+VIII. Classe.
+Schularbeiten: 1. Wie widerlegt Lessing Winkelmanns Behauptung,
+dass Laokoon nicht schreien darf, weil edle Einfalt und stille Größe das
+Princip der griechischen Plastik sei?— 2. Es bildet ein Talent sich in der
+Stille, sich ein Charakter in dem Strom der Welt.— 3. Welche territorialen und
+politischen Verschiebungen hatte die pragmatische Sanction zur Folge?"—
+4. Wallenstein als Doppeltragödie und die Bedeutung des Max für das ganze Werk.
+Hausarbeiten: 1. Kritische Erklärung des ersten Absatzes der
+„Künstler“.— 2. Hermann und seine Mutter.— 3. Das Verhalten des Tiberius
+bei seinem Regierungsantritt. Charakterisierende Darstellung nach Tac. Ann.
+1,5—15.— 4. Butler und Wallenstein.— 5. Das Meer, eine Schule derVölker.
+Freie Vorträge.
+VH. Classe.
+Das Kurfürstencollegium.— Mensch und Thier.— Schillers und Lope
+de Vegas Demetrius.— Über einige wesentliche Bestimmungen des Völker­
+rechtes.— Charakteristik Egmonts in Goethes gleichnamiger Tragödie.—
+Der historische Wallenstein. —■ Schiller und Goethe als Balladendichter.—
+Roms Weltherrschaft als Ursache des Untergangs Roms.- Charakteristik
+der Hauptpersonen in Othello.— Goethe als Naturforscher.— Der Narr bei
+Shakespeare.— Deutsche Colonisation in Österreich.— Die Kunst des Islam.
+— Französischer Einfluss auf das deutsche Volk zu Zeiten Ludwigs XIV.
+Shakespeare und sein Theater.— Richard Wagner und die deutsche Dichtung.
+— König Lear.— Die Pyrrhuskriege als universalhistorisches Ereignis
+gewürdigt.— Das Wunder im Homer.
+VIH. Classe.
+Über Goethes Farbenlehre.— Richard HI., Jago und Franz Moor.—
+Chronologische Übersicht über die Beziehnngen Chinas zu den europäischen
+Staaten.— Das Vorspiel zur „Jungfrau von Orleans“.— Die französische
+Revolution vom Jahre 1830.— Hamlet.— Die deutsche Heldensage.—
+„Napoleon“ von. Grabbe als historisches Drama. Protagoras von Abdera und
+seine Lehre.— Über die Theseusstatue von Canova.— Über Programm-Musik.
+
+32
+V. Freie Lehrgegenstände.
+Freihandzeichnen.
+Für Schüler der vier Oberclassen.
+Supplent Emanuel F i s c h e r.
+Der Unterricht wurde wöchentlich in 2 Stunden ertheilt. Im Winter­
+semester wurden Köpfe nach Vorlagen und Originalen, nach Flachreliefs und
+Büsten in Kreide-, Kohle-, Aquarell-, Gouache- und Federtechnik ausgeführt;
+Landschaften, Blumen- und andere Stilleben wnrden theils nach Vorlagen,
+theils nach der Natur aquarelliert. Im Sommersemester wnrden Blumen, Früchte,
+Obst, Thierstudien u. s. w. gemalt. Auf mehreren Ausflügen wurden die Schüler
+zum Zeichnen und Malen von Landschaftsmotiven angeleitet.
+Mit dem Zeichnen waren in diesem Jahre Vorträge über Kunstgeschichte
+verbunden.
+Stenographie.
+Professor Josef M e i s e 1.
+I. Curs. 2 Stunden. Die Lehre von den Lautzeichen, von der Wort­
+bildung und der Wortkürzung.
+II. Curs. 2 Stunden. Die Lehre von der Satzkürzung. Schreibühungen
+nach Dictaten allgemeinen Inhaltes mit allmählich wachsender Schnelligkeit.
+Gesang.
+Stadtpfarr-Kapellmeister Julius Böhm.
+I. Curs. 2 Stunden wöchentlich. Lehre von den Tönen und deren
+Zeichen; Eintheilung der Tactarten; elementare Einübung der Scalen und
+Intervalle in den verschiedenen Tonarten. Einübung leichterer ein- und zwei­
+stimmiger Lieder und Choräle.
+Ü. Curs. 2 Stunden wöchentlich. Übungen im zwei-, drei- und vier­
+stimmigen Vocalsatz im homophonen und polyphonen Stil mit besonderer
+Berücksichtigung der Dynamik. Einübung von gemischten Chören, Motetten,
+einer lateinischen Messe u. a.
+VI. Förderung der körperlichen Ausbildung der Schüler.
+Auch im Laufe des heurigen Jahres wurde im Sinne der Ministerial-
+verordnung vom 12 März 1895, Z. 27.638 und in Gemäßheit der zu hygienischen
+Zwecken am 12. November 1899 abgehaltenen Conferenz alles aufgeboten,
+um auch das körperliche Wohl der Jugend,' soweit es in der Macht
+der Schule liegt, sorgsam zu fördern.
+Durch Einführung des obligaten Turnunterrichtes, des Auer’schen
+Glühlichtes, mit einer durchgreifenden Umgestaltung der Anstandsorte, durch
+Anbringung des sogenannten Pa tent-Victoria-Luftfeuchtungs-Regulators und
+Beschaäung eines Austria-Verbandkastens zum Zwecke erster Hilfeleistung
+bei kleineren Unfällen, sowie durch Einlassen aller Unterrichtsräume mit
+Dustles s’ Fußbodenöl erscheint den hygienischen- Anforderungen
+entsprochen.
+Die Einrichtung des obligaten Turnunterrichtes an der Anstalt hat sich
+bisher vollauf bewährt, umso mehr als das hohe k. k. Ministerium für Cultus
+und Unterricht mit Rücksichtnahme auf die schwächliche Körperbeschafienheit
+der Schüler unserer Anstalt einen Hilfslehrer für 3 Classen des Obergym­
+nasiums bestellt hat. Leider musste heuer eine größere Anzahl von Schülern
+wegen irgendwelcher körperlicher Gebrechen vom Turnen befreit werden,
+im ganzen 59. (I. a 5, I. b 1, II. a 3, II. b 6, III. a 4, III. b 5, IV. a 3, IV. b 4, V. 6,
+VI. 9, VII. 5, VIII. 8)
+Die Leitung der Jugendspiele, die im April begannen, oblag wieder dem
+Turnlehrer der Anstalt. Da der Boden der beiden sogenannten Schüsselwiesen
+im Augarten wegen der abnormen Witterungsverhältnisse nicht hinreichend
+ausgetrocknet und mit Graswuchs überzogen war, konnte leider auch heuer
+wieder der Augarten nicht benützt werden. Es ist dies namentlich für unsere
+Anstalt ein Übelstand, da sie von den Spielplätzen im Prater zu weit
+entfernt ist, als dass eine genügend große Schülerzahl die Zeit für den langen
+
+33
+3
+Hin- und Herweg und für das Spiel aufbringen könnte. Die näheren-Daten
+über den Betrieb der Schülerspiele bringt die folgende Tabelle:
+Datum
+Spielplatz
+Spielzeit
+Classe
+Zahl d. Theilnehmer
+Anmerkung
+Unter-
+Ober-
+Zu­
+sammen
+Gymnasium
+190C
+11/IV
+Prater
+57.-77*
+II.—IV.
+32
+32.
+13/IV
+—
+—
+—
+—.
+—
+—
+Hegen
+15/IV
+»
+5 7.-77*
+IV.—VIII.
+7
+17
+24
+17/IV
+»1
+57.-77*
+11.—VIII.
+30
+21
+51
+22/IV
+—
+—
+—
+Conferenz
+24, IV
+V
+57.-77*
+II., IV.,
+V.—VIII
+31
+28
+59
+29;IV
+—
+—
+—
+—
+—
+—
+Conferenz
+’l/V
+—
+—
+•
+—
+—
+.Mailest,
+im Prater
+6/V
+11
+8V.-7V.
+II.—VIII.
+36
+9
+45
+8/V
+V
+5’/*—
+II.-VIII
+33
+14
+47
+13/V
+1*
+5'/4-7V.
+II.- VIII.
+23
+14
+37
+15 /V
+n
+57.-77*
+II.- VIII.
+55
+12
+67
+20, V
+n
+ö 3 /*-7'/ a
+II.-VIII.
+25
+12
+37
+22/V
+«
+57.-77,
+II.—VIII
+34
+16
+50
+29/V
+V
+57.-77-2
+II—VIII.
+29
+10
+39
+4/ VI
+Turnsaal
+5-7
+I a, I b
+42
+—
+42
+6/VI
+Prater
+57 .-7V.
+H.—VIII.
+69
+12
+81
+10/VI
+■—
+—
+—
+-
+Conferenz
+12/ VI
+n
+67«-7V,
+I.-VIII.
+37
+15
+52
+17/VI
+—
+-
+—
+—
+—
+—
+Heil. Beicht
+19/VI
+V
+57.-772
+I.-VIII.
+24
+11
+35
+24/VI
+n
+5 V. 777
+1.— VIII.
+21
+12
+33
+Für die einzelnen’ Classen waren an zwei Tagen (Montag, Mittwoch)
+zwei Spielzeiten festgesetzt.
+An Spielen kamen zur Ausführung: Kreisläufen, Drittenabschlagen,
+Holland und Seeland, Schlaglaufen und Barlaufen; ferner: Paläster, Deutscher
+Schlagball, Kreisball, Kreisfußball, Grenzball, Grenzfußball und englischer Fußball.
+
+34
+Für den Eislauf stellte das Directorencomite der Wiener
+Mittelschulen ärmeren Schülern der Anstalt 8 Freikarten zur Verfügung.
+Weiter hatte die Verwaltung unserer Schülerlade den Ankauf von
+20 Theilnehmerkarten bewilligt. Da wir jetzt 48 Paar Schlittschuhe besitzen,
+konnten 33 der ärmsten Schüler, zumal da sie auch Freikarten für den
+Eintritt erhielten, am Schlittschuhlaufe im Angarten theilnehmen.
+Das Baden in der Donau wurde ärmeren Schülern dadurch wieder
+möglich gemacht, dass der Magistrat der Haupt- und Residenz­
+stadt Wien der Direction zur Yertheilung an würdige Schüler 300 Stück
+Anweisungen auf Karten zu ermäßigtem Preise für das städtische Donaubad,
+100 Stück Anweisungen zur unentgeltlichen Benützung von Badewäsche im
+städtischen Freibade und 5 Stück Anweisungen auf je 10 Schwimmunterrichts­
+karten zugemittelt hat.-
+Der 15. Juni wurde von der Direction zur Yeranstaltung von Schüler-
+ausflügen freigegeben. Unter Leitung des Directors und einiger Mit­
+glieder des Lehrkörpers wurde mit Schülern der UI. a, III. b, IY. a, IY. b,
+V., VI., VII. und VUI. Classe ein Ausflug auf den Schneeberg unter­
+nommen, wozu sich in anbetracht der besonderen Begünstigungen, welche die
+Bahnverwaltung für Schülerausflüge gewährte, eine günstige Gelegenheit bot.
+Abends gegen 10 Uhr war alles wohlbehalten und in fröhlicher Stimmung
+wieder in Wien angelangt. Die Fahrt, die durch Professor Dr. M ü 11 n e r
+geographisch erläutert und so für die Heimatskunde nutzbar gemacht wurde,
+verfehlte nicht, auf die Gemüther der Jugend nachhaltigen Eindruck zu
+machen. Die Schüler anderer Classen machten unter Führung von Mitgliedern des
+Lehrkörpers (Dr. Berger, Dr. Hirsch, Dr. Hula, Kriz und Meschkae)
+Ausflüge in den Wienerwald,» und zwar die der TI. a über Kritzendorf nach
+Hadersfeld und Greifenstein, wo das Schloss eingehend besichtigt wurde; die
+der II. b über Kahlenberg, Leopoldsberg nach Klosterneuburg; Schüler der IV a.
+und IV. b auf die Hochramalpe, die der I. a und I. b auf den Hermannskogel.
+Außerdem unternahmen Schüler der oberen Classen, die den Zeichen-
+un terricht besuchen, unter Führung des Zeichenlehrers Em. Fischer
+behufs Naturstudien Ausflüge nach Greifenstein und Klosterneuburg.
+Zur Förderung solcher gemeinsamer Ausflüge übermittelte uns die
+Direction der Kahlenberg-Eisenbahn- Gesellschaft, wie in den
+letzten Jahren, 1000 Stück Legitimationen für eine 50%ige Ermäßigung.
+Der Ferienhort für bedürftige Gymnasial- und Realschüler hat
+während der Ferien 1900 5 bedürftige und würdige Schüler mit in seine
+Colonie nach Steg am Hallstädter See, unsere Anstalt aus eigenen Mitteln
+6 Schüler an den Wörthersee, wo sie wiederholt vom Turnlehrer August
+Meschkae besucht wurden, entsendet.
+Auch im heurigen Sommer wird jener Verein voraussichtlich diese
+Wohlthat einigen von unseren Schülern angedeihen lassen.
+Der Gesundheitszustand unserer Gymnasialjugend im heurigen
+Schuljahre kann im allgemeinen als recht zufriedenstellend bezeichnet werden.
+Die folgende Tabelle zeigt, welche Umstände noch außer den erwähnten
+dazu beigetragen haben mögen, die Schüler arbeitskräftig zu erhalten.
+Ia
+Ib
+II a
+II b
+III JlII b
+1
+IVa
+IV b
+Y
+YI
+VII
+vnijl|
+BO
+Bei einer Schüler­
+zahl von
+betheiligten sich:
+am Eislauf
+41
+39
+33
+34
+38
+31
+37
+37
+43
+41
+40
+30
+444
+12
+12
+20
+18
+18
+18
+23
+24
+30
+20
+17
+21
+233
+am Schwimmen
+12
+17
+21
+26
+30
+17
+26
+26
+37
+26
+32
+27
+297
+, sind Radfahrer..
+5
+1
+9
+10
+9
+8
+7
+7
+14
+11
+20
+17
+118
+wohnen auf dem
+Lande i. Sommer
+Semester
+5
+1
+5
+5
+2
+1
+3
+2
+3
+27
+in den Ferien ...
+86
+35| 29
+33
+35
+26
+35
+33
+37
+36
+34
+28
+397
+
+35
+3*
+Die Direction sieht sich angesichts aller früher erwähnten Umstände, die das
+leibliche Wohl der uns anvertrauten Jugend gefördert haben, angenehm verpflichtet,
+hiemit allen p. t. Corporationen und Personen, die da in irgend einer Hinsicht hilfreich
+waren, den wärmsten Dank auszusprechen.
+Es bedarf kaum der Erwähnung, dass auch in diesem Punkte die Schule
+der Unterstützung des Hauses bedarf, wenn der geistigen Arbeit durch
+rationelle Körperpflege ein heilsames Gegengewicht geboten werden soll.
+Nothwendiger und unentbehrlicher als je sind, zumal an dieser Anstalt, Leibes­
+übungen für die männliche Erziehung. Wir legen daher den Eltern ans Herz,
+ihre Jungen turnen zu lassen und nur in den allerdringendsten Fällen zur
+Dispens zu greifen.
+Die vom allgemeinen Schulturnen befreiten Schüler sollen womöglich
+orthopädisch turnen.
+VII. Zusammenwirken von Hans und Schule.
+Im Sinne des Normal-Erlasses des k. k. niederösterreichischen Landes-
+schulrathes vom 8. Mai 1897,. Z. 7822 (ex 1896), haben Direction und Lehr­
+körper, von der Bedeutung des einträchtigen Zusammenwirkens von Haus und
+Schule für die Lösung der erziehlichen Aufgabe durchdrungen, das den ob­
+waltenden Terhältnissen Entsprechende veranlasst:
+Jeder Schüler der Anstalt hatte sich zu Beginn des Schuljahres mit der
+gedruckten Schulordnung zu versehen, sie den Eltern oder deren Stell­
+vertretern zur Kenntnisnahme vorzulegen und, mit der Unterschrift der
+Genannten versehen, dem Classenvorstande vorzuweisen.
+Dem mündlichen Verkehre dienten zunächst die regelmäßigen Sprech­
+stunden, wobei der Director an jedem Wochentage von 11—12 Uhr, die
+Ordinarien fast durchwegs zweimal, alle übrigen Lehrer einmal in der Woche
+für die Parteien zu sprechen waren. Die Ordnung der Sprechstunden wurde
+den Schülern rechtzeitig mitgetheilt und auf dem schwarzen Brett verlautbart.
+Für Besprechungen stand das Conferenzzimmer zugebote, da die Anstalt über
+ein Sprechzimmer dermalen nicht verfügt.
+Aber auch außerhalb der regelmäßigen Sprechstunden wurde in
+berücksichtigungswürdigen Fällen seitens des Lehrkörpers eine Auskunft
+nicht nur nicht verweigert, sondern bereitwillig ertheilt.
+Die Ergebnisse der Censur-Conferenzen wurden im ungünstigen
+Falle jedesmal dem Hause durch" die Post mitgetheilt. Ebenso wurden die
+Termine der Censur-Conferenzen rechtzeitig Schülern und Eltembekanntgegeben.
+In allen wichtigeren Fällen, zumal bei Verhängung schwererer Strafen,
+gelangten schriftliche Mittheilungen ans Haus.
+Aus localen Gründen musste an dieser Anstalt von der Abhaltung von Schul­
+festen Umgang genommen werden.
+Dessenungeachtet erscheint so dem Hause reichliche Gelegenheit geboten,
+einerseits die Forderungen der Schule kennen zu lernen, anderseits in
+sittlicher und intellectuelier Hinsicht die Bestrebungen des Lehrkörpers wirksam
+zu unterstützen, der ja ohne die kräftige und werkthätige Mit­
+hilfe, ohne das volle Vertrauen des Elternhauses das
+gesteckte Ziel nicht erreichen kann, der aber seinerseits es jederzeit gerne
+ermöglichen wird, dass Eltern oder berufene Vertreter von dem wirksamsten
+Mittel, der mündlichen Berathung mit den einzelnen Fachlehrern, rechtzeitig
+Gebrauch machen. Wird einerseits das Haus vor allem erziehen und dadurch
+die unterrichtende Thätigkeit der Schule und die Schulzucht unterstützen, so
+wird anderseits die Schule in erster Linie unterrichten und die erziehende
+Thätigkeit des Hauses aufs kräftigste fördern. Nur so kann ein gesundes
+Ganzes und ineinander wirkende Harmonie sich ergeben.
+Übrigens muss festgestellt werden, dass gerade an dieser Anstalt seitens
+des Hauses von dem obengenannten Mittel mündlicher Besprechungen recht
+ausgiebiger und wirksamer Gebrauch gemacht wurde.
+
+36
+VIII. Unterstützungswesen.
+Schülerlade.
+Entsprechend dem bisher üblichen Vorgänge wurden auch in den Haupt­
+ferien des Jahres 1900 wieder eine Anzahl Schüler nach Klagenfurt.entsendet,
+um in dem dortigen Probandenheim einen Theil der Ferien zu verbringen. Und
+zwar waren es sechs Schüler, je einer aus Sexta, Quinta, Quarta und Tertia
+und zwei aus Secunda.
+Zu diesen kamen vier Schüler anderer Anstalten, welche der Verein
+„Ferienhort“, der in Steg nur Kaum für hundert Schüler hat, uns anvertraute,
+so dass, im Ganzen zehn Knaben dort Aufnahme fanden. Sie traten ihre Reise
+am 18; Juli an und kehrten nach einem Aufenthalte von sechs Wochen
+sichtbar erholt und gekräftigt zurück. Herr Prof. Meschkä, welcher seine
+Sommerfrische in der Nähe hatte, besuchte die Schüler wiederholt und über­
+zeugte sich von ihrem Wohlergehen. Über ihr Verhalten lief auch in diesem
+Jahre nicht die geringste Klage ein.
+Ob es nns gelingen wird, diese schöne Einrichtung unserer Anstalt
+lebendig zu erhalten, hängt bis jetzt leider noch von den jeweiligen Spenden
+ab, welche uns zu diesem Zwecke zufließen, sowie von dem Kassenbestande
+der Schülerlade, und wir dürfen darum wohl auch den Wunsch aussprechen,
+dass jeder, der eine wirklich segensreiche Wohlthat zu spenden gesonnen ist,
+auch unserer „Schülerlade“ dabei gedenken möge.
+Die nach§ 2 der Satzungen im Mai d. J. unter den Schülern veranstaltete
+Geldsammlung ergab den Gesammtbetrag von K 623"90.
+Im einzelnen spendete:
+I. a
+Classe
+I. b
+II. a
+yy
+II. b
+yy
+.111 a
+n
+III. b
+}J
+IV. a
+yy
+IV. b
+yy
+• V.
+Yi
+VI.
+yy
+VII.
+yy
+VIII.
+K
+n
+n
+»
+n
+»
+r>
+n
+n
+n
+4040
+39-80
+58-40
+66 70
+32—
+25-60
+42—
+31—
+86—
+50—
+80-—
+72"—
+Zusammen. K 623 90
+Hiebei sind im Sinne der Satzungen als „Wohlthäter“ (d. i. mit einer
+Spende von 4 K oder darüber) die Eltern folgender Schüler zu nennen:
+I. a: Beer Johann, Landesberger Wilhelm, Lederer Fritz.—
+I. b: S axl Friedrich.— II. a Gomperz Ernst, Kend e Stefan, Kirchmayer
+Hans, K o h n. Richard.— II. b: Mandl Otto, Oppenheimer Josef,
+Ostersetzer Alfons. Schönwald Paul, Stern Georg, Weil Robert,
+Jacob Heinrich.— ni. a: Bettelheim Karl. Eisler Otto, Herzog
+Josef, Kohn Eduard.— III. b: Zentler Otto.— IV. a: Arens Hugo,
+Er gas Rudolf, Gomperz Paul, Kohn Paul.— IV. b: Meinl Adalbert,
+Salkind Alexander, Schulhof Willy, Steg er Gustav.— V.: Hecht
+Otto, Klang Fritz, Ostersetzer Siegfried (30 K mit specieller Widmung
+für die F eriencolonisten).— VI.: Heilpern Alfred, K 1 a a r Julius, Lederer
+Richard, Löwenberg Alfred, Lustig Erwin,- Graf Pace Ludwig.—
+VH.: B i a c h Paul, Deutsch Fritz, F ia 11 a Alfred, Geyer Franz, Jellinek
+Raoul, K r o p h Richard, Reitlinger Ernst, Schmidt Vitus, Schwarz­
+mann Norbert, Winter Lothar,. Zifferer Hans.— VIII.: Bloch Ernst,
+Eibenschütz Marcell, F e 1 b e r Hugo, Fischer Moriz, Fr an k 1 Theodor,
+Klaar Felix, Krassa Walther,.0 b e r m a y e r Oskar, Stiedrv Fritz,
+S t r o s s Walther..
+Aus der Lehrmittelsammlung der Schülerlade wurden ärmeren,
+Schülern. im ganzen 452 Lehrbücher und Atlanten geliehen, mehrere
+geschenkweise überlassen. Schüler, denen solche Lehrmittel leihweise
+überlassen werden, übernehmen die Verpflichtung, dieselben,
+mit der größten Schonung zu behandeln.
+
+Geschenkt wurden der Schülerlade von Professoren und Schülern im
+ganzen 18 Lehrbücher.
+Über die Cassagebarung gibt die folgende Jahr es r e chnung Aufschluss
+Einnahmen.
+1. Cassarest vom vorigen Jahre.
+2. Löwenfeld Wolfgang, Schüler der I. b Classe...
+3. Herr Dr. Camillo Korabv. Mühlström
+4. Frau Antoinette Schwarzmann...
+5. Herr Rudolf v. Gut mann.
+6. Frau Elsa v. Eros
+7. Die Abiturienten im Juli 1900
+8. Herr Ober-Postcommissär Leop. Suchanek
+9. Erträgnis der Geldsammlung (Mai 1901)
+10. Capitalzinsen
+11. Sonstige Einnahmen.. .--.-.
+Zusammen...
+K
+T>
+»
+w
+v
+V
+14
+151416
+6—
+10 -—
+200—
+SO­
+SO—
+100-—
+4-—
+623-90
+147-19
+14-40
+K 2719-65
+Ausgaben.
+1. 6 Feriencolonisten in Klagenfurt K 650-—
+2. Unterstützungen in barem 110-—
+3. Lehrbücher und Lehrmittel -..„ 114-21
+4. Eisiaufkarten für ärmere Schüler 80—
+5. Kleinere Ausgaben 5-40
+Zusammen... K 959"61
+Bilanz.
+Summe der Einnahmen., K 2719 65
+Summe der Ausgaben 959 61
+- Cassarest... K 1760-04
+Davon erliegen in der Postsparcasse K 1274-13
+Barvorrath n 485-91
+Sonstiges Vermögen: Eine vinculierte Staatsschuldverschreibung per
+2000 K und in Verwahrung bei der k. k. Postsparcasse einheitliche Noten­
+rente per 1000 K.
+Abgeschlossen am 31. Mai 1901.
+i
+Obige Jahresrechnung wurde am 10. Juni 1901 von den Revisoren, den
+Herren Professoren Dr. Franz Lukas und Dr. Heinr. R. v. Höpflingen,
+geprüft und richtig befunden.
+Zum Schlüsse erfüllt der Verwaltungsausschuss eine angenehme Pflicht,
+indem er im Namen der Anstalt und der ihr anvertrauten studierenden Jugend
+allen den genannten und ungenannten Gönnern und Freunden den wärmsten
+Dank ausspricht; daran knüpft er den herzlichen Wunsch, es mögen die
+Zwecke der „Schülerlade“ im nächsten Jahre ebenso reiche und opferwillige
+Förderung erfahren.
+An dieser Stelle sei auch den Directionen des k. u. k. Hofburg-,
+Volks- und Kaiserjubiläums-Stadttheaters für die anlässlich der
+•„Schülervorstellungen“ gewährten besonderen Begünstigungen der geziemende
+Dank ausgesprochen.
+Anton Stitz, Vorsitzender.
+Dr. Ant. v. L e c 1 a i r,
+Zahlmeister.',
+Jos. M e i s e 1,
+Schriftführer.
+
+38
+IX. Ergebnis der Maturitätsprüfung am Schlüsse des
+Schuljahres 1899/1900.
+Die Maturitätsprüfung am Ende des II. Semesters 1899/1900 fand unter
+dem Vorsitze des k. k. Gymnasialdirectors Dr. Isidor Kukutsch in der Zeit
+vom 9. bis 12. Juli statt. Zu dieser Prüfung hatten sich 34 Schüler gemeldet,
+und zwar 32 öfientliche Schüler und 2 Externe.
+Es wurden approbiert mit Auszeichnung 6, für reif erklärt 18,
+reprobiert 1.',
+Infolge der Semestralclassification waren 3 nicht zugelassen worden. Vor
+der mündlichen Prüfung traten 2 zurück. Die Bewilligung zu einer Wieder­
+holungsprüfung nach den Eerien erhielten 4.
+Bei der unter dem Vorsitze des k. k. Landes-Schulinspectors Doctor
+A, Scheindler am 6. October abgehaltenen Wiederholungsprüfung wurden
+für reif erklärt 3, reprobiert 1.
+Daher Gesammtergebnis:
+Reif mit Auszeichnung 6
+Reif‘'. 21
+Reprobiert 2
+Zur Prüfung nicht zugelassen oder zurückgetreten 5
+5T
+Verzeichnis der Abiturienten, die im Schuljahre 1899/1900 das Zeugnis der Reife erhielten.
+Tag und
+u JU
+®.Sa^
+Name
+Jahr der
+Geburtsort und
+^ in® g
+S
+Gewählter
+Geburt
+Yaterland
+o S-3*
+cfl >, SO—
+Beruf
+Adler Philipp....
+22 /3. 1881
+Wien
+9
+Jus
+Benedikt Ernst...
+20./5. 1882
+8
+unbestimmt
+Berger Ernst ....
+1./9. 1881
+8
+Staatsbeamter
+Birkner Isidor...
+20./8. 1879
+W
+10
+Medicin
+Blau Gustav
+29./4. 1882
+8
+Technik
+Brunner Franz...
+4./10. 1881
+»
+8
+Jus
+Ehrlich Philipp .•..
+10./10. 1882
+8
+Technik
+Eisler Robert ....
+21/4. 1882
+n
+8
+unbestimmt
+Glücklich Moriz..
+30./5. 1881
+Purkersdorf, N.-Ö.
+8
+Goldberger Max..
+11./9. 1881
+Wien
+9
+Kaufmann
+Kätscher Ernst...
+21/11. 1881
+Mähr.-Neustadt,
+Mähren
+'8'
+Technik
+Kollmann Rudolf.
+17./12. 1881
+Znaim, Mähren
+8
+unbestimmt
+Löb Otto
+11/3. 1882
+Wien
+8
+Mayer August...
+15./5. 1881
+Vorderbrühl, N.-Ö.
+8
+Philosophie
+Neustadtl Walther.
+29./6. 1881
+Wien
+9
+Handelsstand
+Pereies Wilhelm..
+11. 111. 1880
+»
+10
+Philosophie
+Raab Maximilian..
+20./9. 1881
+Klosterneuburg, N.-Ö.
+8
+Jus
+Rosenberg Paul..
+7./10. 1881
+Wien
+8
+Technik
+Schwarzmann Isidor
+15./4. 1832
+7»
+8
+Philosophie
+(Orientalia)
+Stanovich Ernst..
+4./4. 1880
+Baden, N.-Ö.
+9
+Jus
+Tedesko Ernst...
+Tritsch Paul
+2./11. 1881
+23./11. 1881
+10./2. 1882
+Wien
+8
+9
+• 8
+unbestimmt
+Jus
+Technik
+Weiner Victor...
+Eibenschitz, Mähren
+Weingartner Robert
+25./3. 1882
+Troppau, Schles.
+8
+Zinner Alfred ....
+20./8. 1881
+Wien
+8
+Medicin
+Zobel Hans.. .'..
+15./12. 1880
+7?
+9
+unbestimmt
+Zweig Stefan ....
+28./11. 1881
+n
+8
+Philosophie
+. (Chemie)
+
+89
+Aufgaben zur schriftlichen Maturitätsprüfung im Sommertermin 1901.
+(6.-10. Mai.)
+1. Übersetzung aus dem Lateinischen ins Deutsche:
+Ovid, Metam. VII, 100—158 (mit Ausschluss von V. 125—130 und 145).
+2. Übersetzung aus dem Deutschen ins Lateinische:
+Horaz und Maecenas. (Aus Sedlmayer-Scheindlers Lat. Übungsb. f. d. ob.
+Classen. II. Th., Abth. B, Nr. 20, S. 154).
+3. Übersetzungaus dem Griechischen ins Deutsche:
+Euripides, ’l'pifsvsia T) SV AoXiS’. v. 49—93.
+4. Deutscher Aufsatz: Wie findet sich in den histor. Tragödien
+Schillers die Forderung erfüllt, dass die histor. Ereignisse auf allgemein
+menschliche Beweggründe zurückgeführt werden?
+5. Mathematische Arbeit:
+a] Berechne den Winkel% ans der Gleichung:
+16
+1 —COhOL
+sin* jr
+= 3.16 2— 2.
+bj Die Ziffern einer dreizifferigen Zahl bilden eine arithmetische
+Beihe; die Summe der Quadrate der drei Ziffern ist 93; dividiert man
+die Zahl durch ihre Ziffemsumme, so erhält man den Quotienten 17 und
+den Best 3. Wie groß ist die Zahl? ■■■;■
+cj Ein gerader Pyramidenstumpf mit quadratischen Grundflächen
+ist so beschaffen, dass sich darin eine alle Flächen berührende Kugel
+mit dem Halbmesser r einschreiben lässt; wenn nun die Diagonale der
+größeren Grundfläche des Stumpfes dem doppelten Durchmesser der
+Kugel gleich ist, wie groß ist die Oberfläche und das Volumen des
+Stumpfes, ansgedrückt durch r?'■
+dj Eine Ellipse und eine Hyperbel sind confocal, die Nebenachse
+der Hyperbel ist der kleinen Achse der Ellipse gleich; unter welchem
+Winkel schneiden sich die beiden Curven?
+X. Vermehrung der Lehrmittelsammlungen.
+a) Einnahmen.
+1. Cassarest vom Vorjahre ..... K 212.24
+2. Aufnahmstaxen und Lehrmittelbeiträge......••„ 2354.—
+3. Taxen für Duplicate„ 20.—
+Zusammen K 2586.24
+A. Bibliothek.
+I. Lehrerbibliothek.
+Verwalter: Dr. Franz Berger.
+a) Geschenke.
+Von der Buchhandlung Konegen durch Vermittlung des hohen k. k.
+Ministeriums: Beer Budolf, Heilige Höhen der alten Griechen und
+Börner.— Becker, M. A., Niederösterreichische Landschaften mit
+historischen Streiflichtern: Schottwien, Gloggnitz, Wartenstein, Hernstein.—
+Büdinger Max, Vorlesungen über englische Verfassungsgeschichte.—
+Engelbrecht August, Hephaestiön von Theben und sein astrologisches
+Compendium.— Fellner Thomas, Forschung und Darstellungsweise des
+Thukydides.— Fuchs Karl, Geschichte des Kaisers L. Septimius Severus.—
+Hoff mann Emanuel, Patricische und plebeische Curien.— Hoffmann
+Emanuei, Studien auf dem Gebiete der lateinischen Syntax.— Gleditsch
+Hugo, die Cantica der sophokleischen Tragödien.— Glossy Karl, Aus Bauem-
+felds Tagebüchern, 1.1819—1848. II, 1849—1879.— Glossy Karl, Aus Grillparzers
+
+40
+Tagebüchern 1808 —1859.— G1 o s s y Karl, Briefe von und -an Grillparzer.—
+Knauer Vincenz, Die* Lieder des Anakreon— Knauer Vincenz, Grund­
+linien zur Aristotelisch-Thomistischen Psychologie.— Krall Jakob, Tacitus
+und der Orient.— Kulke Eduard, Erinnerungen an Friedrich Hebbel.—
+Kukula' Richard, De tribus pseudacronianorum scholiorum recensionibus
+— Minor J., Die Leiche und Lieder des Schenken Ulrich von Winter­
+stetten.'— Minor J., Friedrich Schlegel. I. und II. B.— Minor J.
+und Sauer A., Studien zur Goethe-Philologie.— Münz Bernhard, Die
+Erkenntnis- und Sensationstheorie des Protagoras.— M ü n z Bernhard, Lebens­
+und Weltfragen.— Münz Bernhard. Die Keime der Erkenntnistheorie in der
+vorsophistischen Periode der griechischen Philosophie.— Riege r Karl,
+Schillers Verhältnis zur französischen Revolution.— Studniczka Franz,
+Yermuthungen zur griechischen Kunstgeschichte.— Suess Eduard, Über
+den Fortschritt des Menschengeschlechtes.— Szanto Emil, Untersuchungen
+über das attische Bürgerrecht.— Zschokke Hermann, Geschichte des Metro-
+politan-Capitels zum heiligen Stephan in Wien.— Wiener Neudrucke:
+2. Prinzessin Pumphia von Josef Kurz.— 3. Der Hausball, eine Erzählung
+1781.— 4. Der auf den Parnass versetzte grüne Hut von Chr. Klemm.—
+5. Samuel und Saul von Wolfg. Schmeltzl.— 6. Lustige Reisebeschreibung
+von J. A. Stranitzky.— 7 Briefe über die wienerische Schaubühne von
+J. von Sonnenfels. 8. Vier dramatische Spiele über die zweite Türken­
+belagerung aus den Jahren 1683—1685.— 9. Fünfzehn Fastnachtsspiele aus
+den Jahren 1510 und 1511 nach Aufzeichnungendes Vigil Rab er.— 10. 011a-
+patrida des durchgetriebenen Fuchsmundi von J. A. Stranitzky.— 11. Eilf
+Fastnachtsspiele aus den Jahren 1512—1535 nach Aufzeichnungen des Vigil
+R a b e r.
+Von Herrn Alex Herzog: Yahlen Johannes, Festschrift zum 70. Geburts­
+tag gewidmet von seinen Schülern.
+Von einem Ungenannten: C. Com Taciti de situ, moribus et
+populis Germaüiae libellus cum commentario.— G. Com. Taciti opera quae
+exstant.
+Von der Beck’schen k. u. k. Hof- und Universitätsbuchhandlung:
+Hinrichs Halbjahrskatalog. 1900. 2 B.
+b) Durch Ankauf zugewachsen.
+Zeitschriften.
+Blätter des Vereines für Landeskunde von Niederösterreich.— Berliner
+Philologische Wochenschrift.— Frik, Lehrproben und Lehrgänge.— Globus.
+Gymnasium, das humanistische.— Historische Zeitschrift von Sybel.— Jahres­
+bericht über die Fortschritte der classischen Alterthumswissenschaft.—
+Literarisches Centralblatt.— Mittheilungen der Gesellschaft für deutsche Er-
+ziehungs- und Schulgeschichte.— Naturwissenschaftliche Rundschau.—
+Österreichisch-ungarische Revue.— Verordnungsblatt des k. k. Ministeriums
+für Cultus und Unterricht.— Wiener Studien.— Wiener Zeitung sammt
+Abendpost.— Zeitschrift für deutsches Alterthum.— Zeitschrift für das
+Gymnasial wesen.— Zeitschrift für die österreichischen Gymnasien.— Zeit­
+schrift für den physikalischen und chemischen Unterricht.— Zeitschrift für
+das Realschulwesen.— Zeitschrift für Schulgeographie.
+c Ferner:
+Beiträge zur österreichischen Erziehungs- und Schul geschickte.—
+Beyer C., Deutsche Poetik.— Bronn’s Classen und Ordnungen des Thier­
+reiches (Forts.).— Carnuntum, Bericht des Vereines Carnuntum in Wien
+für das Jahr 1899.— Fischer Albert, Das alte Gymnasium und die neue
+Zeit.— Glossy Karl, Jahrbuch der Grillparzer-Gesellschaft (Forts.).—
+Gomperz Theodor, Griechische Denker (Forts.).— Grefe, Alt-Oesterreich
+(31—36. Lief.).— Hammerling Rob., Stationen meiner Lebenspilgerschaft.
+— Jahrbuch des höheren Unterrichtswesens in Österreich. Bearbeitet von
+Divis J. und Steinschneider G.— Kraus Franz, Geschichte der christlichen
+Kunst. II. B. 2. Abth., 1. Hälfte.— Meyer Richard, Die deutsche Literatur
+des neunzehnten Jahrhunderts.— Monarchie, Die österreichisch-ungarische.
+
+41
+Münch Wilh., Ueber Menschenart und Jugendbildung.— Münsterberg
+Hugo, Grundzüge der Psychologie I. B.— Neudrucke deutscher Literaturwerke
+des 16. und 17. Jahrhunderts (Forts.).— Ostermann Christ., Lateinische
+Übungsbücher.— Paulys Real-Encyklopädie.— Rethwisch Konrad,
+Jahresbericht über das höhere Schulwesen.— Roscher W. H., Griechische
+und römische Mythologie (Forts.).— „Sammlung Schubert,“ Algebra
+mit Einschluss der elementaren Zahlentheorie von Otto Pund.— Thesaurus
+linguae latinae. vol. I. und II. fase. 1.— Verhandlungen über Fragen des
+höheren Unterrichts.— W eissenfeis Oskar, Kernfragen des höheren Unter­
+richts.— Wotke Karl, Die ältesten Piaristenschulen Mährens.
+II. Programmsammlung.
+Verwalter: Prof. Josef M ei sei.
+1; Programme österreichischer Anstalten zu Ende des Schul­
+jahres 1899/1900 5935
+Dazu im Schuljahre 1900/1901......■ 312
+Bestand am Schlüsse des Schuljahres 1900/1901. 6247
+2. Von Anstalten Deutschlands zu Ende 1899/1900
+o) Abhandlungen..~ 6739
+Dazu im Schuljahre 1900/1901. 190*)
+Bestand am Schlüsse des Schuljahres /1900/1901 6929
+b) Schulnachrichten' 4334
+Dazu im Schuljahre 1900/1901, 268
+Zusammen. 4602
+Somit enthält die Sammlung 6247 österreichische,
+6929 deutsche,
+zusammen 13.176 Abhandlungen
+und 4602 Schulnachrichten.
+III. Schülerbibliothek.
+Verwalter: Prof. Dr. H. Pollak.
+Geschenkt wurden:
+1. Vom hohen k. k. Ministerium für Cultus und Unterricht: Das Buch
+vom Kaiser.
+2. Vom hochlöblichen k. k. n. ö. Landesschulrath: Der Herzenskaiser
+(2 Exemplare) von Alfred Steingruber.
+3. Pindari carmina, ed. Christ, (2 Exemplare) vom vorjährigen Abi­
+turienten Otto Loeb.
+4. Die Freibeuter von Sumatra, von J. H. O.. K e r n, vom vorjährigen
+Secundaner Edmund Rotter.
+Angekauft wurden:
+Sammlung griechischer Classiker mit Erläuterungen für die Privat-
+lectüre: Demosthenes, Rede vom Kranze, herausgegeben von Stitz
+(2 Exemplare).— Euripides, Iphigenie auf Tauris, von Reiter (3 Exemplare).
+— Gaudeamus, IV. Jahrgang.— Dr. W. Vollbrecht, Das Säcularfest
+des Augustus.— Dr. Lohr, Ein Gang durch die Ruinen Roms.— Grill­
+parzers sämmtliche Werke in 20 Bänden, herausgegehen von August Sauer.
+— Gustav Frey tag, Die verlorene Handschritt. Soll und Haben.— Felix
+D a h n, Ein Kampf um Rom.— Berühmte Kunststätten (7,8,10):
+Brügge und Ypern, Prag, Ravenna.— Julius Peterzani-Weher,
+Das Goldland von Klondyke-— C. v. Barfus, Bei den Flibustiern auf
+Cuba. —P. A. Höcker, Seecadett Tielemann.— Meister, Hung Li Tscheng.
+— Dr. Dalitzsch, Thierhuch, 1. Bändchen Säugethiere, 2. B. Vögel, 3. B.
+Kriechthiere.— Dalitzsch, Pflanzenbuch, 1. B.
+*) ohne die bairischen, die bis zum 23. Juni nicht eingegangen waren.
+
+42
+B. Geographische und geschichtliche Lehrmittel.
+Yerwalter: Prof. Dr. Johann Mül ln er.
+a) Geschenke:
+Von Herrn Hofrath Hnemer: Physikalische Schulwandkarte der
+österreichischen Alpenländer von Rothaug- Umlauft.
+Ton Herrn Prof. Schauer: 24 Stück Diapositive.
+b) Durch Ankauf zugewachsen:
+Karte der Umgehung Wiens im Maßstabe 1: 75.000 (4 Stück).—
+Umgebungskarte von. Wien 1: 25.000 (Blatt II Klosterneuburg, Blatt III
+Purkersdorf—Rekawinkel).— Eisenbahn- und Postkarte von Österreich-Ungarn
+1901.— Holzels Charakterbilder: Nr. 17 Adelsberger Grotte.— 45 Stück
+Diapositive.— Langls Bilder zur Geschichte: Nr. 68 Nürnberg, Nr. 6
+Tempel v. Edfu.
+C. Naturgeschichtliche Sammlung.
+Yerwalter: Dr. Franz Lukas.
+a) Geschenke:
+Yon Herrn Prof. Derganc 12.mikroskopische Präparate.
+b) Durch Kauf erworben:
+1. Zoologie: Herz und Lunge vom Haushund; Dachs; Siebenschläfer;
+Karpfen, Hecht, Stör, Sterlet.— Anatomie vom Feuersalamander.— Ein Stück
+Elefantenhaut.— Gebiss vom Haifisch,
+2. Mineralogie: 5Quarzkrystalle.— 10Turmalinkrystalle,— 6 Saphir-
+krystalie.— Bruchstücke von Aquamarin.— 4 Zirkonkrystalle.— Bernstein aus
+Ceylon.— Moldavit— G. Franke, Bild eines Steinkohlenbergwerkes und
+Braunkohlentagbaues.
+3. Bibliothek: Botanik und Zoologie in Oesterreich in den Jahren
+1850 bis 1900. Herausgegeben von der zool.-botanischen Gesellschaft in Wien.
+D. Physikalisches Cabinet.
+Yerwalter: Prof. Dr. Heinrich Ritter v. Hoepflingen.
+Durch Ankauf zugewachsen:
+Spaltaufsatz für das Skioptikon.— Glühlampenaufsatz zum astronomischen
+Apparat von Mang.— Universal-Galvanometer nach Deprez-d’ArsonvaL—
+Phonograph mit Walzen.— Chemikalien.
+E. Archäologische Sammlung.
+Verwalter: Prof. Dr. Eduard Hula.
+Durch Ankauf erworben:
+74 Diapositive zur griechischen Topographie.— Mythologie und Kunst­
+geschichte.— Pilum Romanum, Modell des Prof. Blanz.
+F. Zeichensaal.
+Verwalter: Prof. Leopold Schauer.
+Angekauft wurden:
+14 Blatt Aquarellvorlagen (für das Obergymnasium).— Ein Reißzeug
+für allgemeinen Gebrauch.
+4 Stück japanische Vasen)
+2,„ Fächer l für Stilleben
+1„„ Etagere J
+
+43
+.10 Blatt neue Zeichenvorlagen für den Rothstift, Bleistift etc., von
+Fritz Beiss.— 5 Stück Schmetterlingsfächer (für Stilleben).— 10 Blatt Vorlagen:
+Aquarelle, Köpfe, Landschaften.— 10 Stück Mappen für Vorlagen.— 10 Blatt
+II. Serie Thierstudien von Sturm u. a.
+G. Turnsaal.
+Verwalter: Turnlehrer Aug. Meschkae.
+«
+a) Angekauft wurden:
+4 Stück Goalstangen.
+b) Geschenkt:
+Vom Directoren-Comite 3 Paar Schlittschuhe.
+XI. Das Institut des Probandenseminares.
+Da sich im Vergleich zum Vorjahre die Verhältnisse im wesentlichen nicht
+änderten, so wurde auch im abgelaufenen Jahre die Institution des Probanden­
+seminares in Gemäßheit des k. k. Ministerialerlasses vom 30. November 1899,
+Z. 32.302 fortgeführt. Es musste also auch heuer auf die intensiv praktische
+Form der Probanden-Einführung im Sinne des „erweiterten Probejahres“ zum
+größten Theile verzichtet und der Schwerpunkt auf die „Gesammtsitzungen“,
+die regelmässig alle 14 Tage, und zwar an einem Mittwoche, unter dem Vorsitze
+des Directors als Seminarleiters stattfanden, verlegt werden. Außer dem
+Director betheiligten sich als Fachlehrer für Philologie, Geschichte und
+Geographie, Mathematik und Physik (denn nur diese Fachgruppen waren im
+Seminar vertreten) die Professoren Schulrath Dr. Anton Edl. v. Leclair,
+Alois Pichler und Dr. Johann M ü 11 n e r, von denen in jeder Sitzung
+abwechselnd ein Vortrag über ein Thema specieller Fachmethodik gehalten
+wurde. Desgleichen erstatteten die ordentlichen Mitglieder des Seminares
+abwechselnd jedesmal ein Referat. Vorträge und Referate bezogen sich auf
+allgemeinere Schul- und Unterrichtsfragen, auf Organisations- Entwurf,
+Instructionen, Weisungen zur Führung des Lehramtes, Schulzucht, Censur,
+das Verhältnis von Schule und Haus, Schulhygiene, endlich auf bedeutendere
+Erscheinungen der pädagogischen Literatur etc. Besprechungen, die sich an
+den Vortrag, namentlich aber an das Referat knüpften, hatten die Aufgabe, den
+Gegenstand durch Heranziehung von concreten Fällen aus dem Bereiche des
+praktischen Schullebens zu beleuchten und so manchen Zweifel zu lösen. Außer
+den 15 Referaten, die mündlich erstattet wurden, lieferten mehrere Mitglieder
+sogenannte Schlussarbeiten, d. i. schriftliche Ausarbeitungen. Vorträge wurden
+seitens des Vorsitzenden und der Fachprofessoren im ganzen’15 gehalten.
+Als eigentliche Probecandidaten waren der Anstalt zugewiesen
+P. Leopold Heuberger, Capitular des Stiftes Seitenstetten, der mit Min.-
+Erl. vom 22. September 1900, Z. 26.653, zu Beginn des Schuljahres dem Schul­
+rath Dr. A. Edl. v. Leclair, und Josef H a er ing, der mit Min.-Erl. vom
+8. März 1901, Z. 6060 nach Beginn des zweiten Semesters dem Prof. Alois
+Pichler behufs Einführung ins praktische Lehramt zugewiesen wurde. Mit
+Min.-Erl. vom 17. April 1901, Z. 10.759 wurde dem Probecandidaten Heuberger
+gestattet, die Probepraxis behufs Übernahme einer Supplentur am fürst-
+erzbischöflichen Privatgymnasium in Salzburg zu unterbrechen, unter der
+Voraussetzung, dass der Genannte auch weiterhin als Supplent iin Sinne des
+Min.-Erl vom 1. November 1893, Z. 24.871 ins praktische Lehramt eingeführt
+werde. Alle übrigen Theilnehmer des Seminares, sei es als ordentliche Mitglieder,
+sei es als Hospitanten, standen bereits als supplierende Lehrer im Dienste
+anderer Anstalten Wiens oder des Kronlandes überhaupt.
+Als ordentliche Mitglieder betheiligten sich also am Seminar außer
+Josef Haering und P. Leopold Heuberger: Dr Norbert Herz vom
+Staatsgymasium im VIII. Bezirk (der aber* wegen Überbürdung mit Berufs­
+geschäften am 2. Jänner 1901 aus dem Verbände des Seminares austrat),
+
+44
+Dr. Alfred K a p p e 1 m a c h p ’r vom I. Staatsgymnasium im II. Bezirk, Dr. Andreas
+Latz vom Staatsgymnasium im XIII. Bezirk, Rudolf M u s s o t t.e r von der
+Staatsrealschule im VII. Bezirk, Dr. Otto Pommer vom Staatsgymnasium
+im VI. Bezirk, Dr. Roland v. Steinius vou der Staatsrealschule im VII. Bezirk,
+Emil Stephan von der Staatsrealschule im VI. Bezirk, Dr. Karl Szankovitz
+vom Staatsgymnasium im VI.Bezirk, Dr. Jaroslaw Tkac vom Staatsgymnasium
+im XII. Bezirk, Josef Unterberger vom I. Staatsgymnasium im II. Bezirk,
+Frl. Dr. Cilla W e n d t vom Mädehengymnasium; als Hospitanten nahmen
+mehr wAiger theil: Dr. Heinrich Bouczek vom Staatsgymnasium im
+IX. Bezirk, Josef Greutter vom Theresianum, Dr. Hippolyt Haas vom
+Stiftsgymnasium in Melk, Friedrich Hirsch vom Staatsgymnasium im
+IX. Bezirk, Dr. Gustav Lindau er von der Staatsrealsehule im VII. Bezirk,
+Ludwig Schweinberger vom Staatsgymnasium im VI. Bezirk, Eduard
+Stettner vom Staatsgymnasium im VI. Bezirk, Dr Moritz Waiß vom
+Staatsgymnasium im IX. Bezirk, Dr. Franz Zidek S. J. vom Privatgymnasium
+in Kalksburg.
+»*
+In der Sitzung vom 8. Mai hatte die Seminarleitung die Ehre, Herrn
+Hofrath Dr. Johann Huemer, der auch diesmal, wie bisher, sein besonderes
+Interesse am Gedeihen dieser Institution durch Rathschläge und Worte der
+Anerkennung bekundete, zu begrüßen. Als Gäste begrüßten wir auch die
+Professoren Dr. Eduard Hula und Dr. Hugo Jurenka.'
+***
+Ausführlicher wird die Leitung über den Gegenstand an das k. k.
+Ministerium für Cultus und Unterricht berichten.
+XII. Wichtigere Erlässe.
+L.-Sch.-R., 25. August 1900, Z. 9683, betreffend die Ausgabe neuer
+Schulgeldmarken.
+L. Sch.-R., 4. October 1900, Z. 11.476, wonach die Abiturienten ihre
+Gesuche um Zulassung zur Maturitätsprüfung imHerbsttermine sogleich nach
+bestandener Semestral-Wiederholungsprüfung durch die alte Direction ein­
+zureichen haben.
+L.-Sch.-R., 13 October 1900, Z. 12.886, wodurch der D ank Sr. M aj es tat
+des Kaisers für die Adresse der Mittelschulen anlässlich des A. H.
+siebzigsten Geburtsfestes bekanntgegeben wird.
+L.-Sch.-R., 12. November 1900, Z. 13.494, wodurch die Zahl der
+Zeichenstunden fürs Obergymnasium von 2 auf 3 erhöht wird.
+L.-Sch.-R.,26. December 190J, Z. 15.657, wonach den Staatsb edi enste te n
+zur Ausübung des Wahlrechtes für die Wahl in den Reichsrath freie
+Zeit einzuräumen ist.
+L.-Sch.-R., 22. Jänner 1901, Z. 90, wonach heim Ankäufe von Reißzeugen
+inländische Erzeugnisse zu bevorzugen sind.
+L.-Sch.-R., 4. Juni 1901, Z. 5641, womit normative Bestimmungen für die
+Maturitäts-Prüfung der Frauen gegeben werden.
+L.-Sch.-R., 5. Juni 1901, Z. 6487, wonach die vollständige Maturitäts-
+Prüfung im Herbsttermine in der zweiten Hälfte Septembers am
+Elisabeth-Gymnasium und in der ersten Hälfte Octobers am
+Akademischen Gymnasium abgehalten wird.
+XIII. Chronik.
+9—12. Juli 1900: Mündliche Maturitätsprüfung unter dem Vorsitze des
+k. k. Gymnasialdirectors Herrn Dr. J. Kukutsch.
+15. und 16. Juli, 16. und 17. September: Aufnahme und Prüfungen zur
+Aufnahme in die I. Classe.
+17. und 18. September: Wiederholungs-, Nachtrags- und Aufnahms­
+prüfungen für höhere Classen.
+
+45
+18. September: Eröffnung des Schuljahres mit dem Heiligengeistamte.
+19. September: Beginn des Unterrichtes.
+4. October:
+Zur Feier des A. H. Namens- und zugleich
+siebzig sten Geburtsfestes Sr, Majestät unseres
+Kaisers fand bei festlicher Ausschmückung des Saales zunächst
+ein feierlicher Gottesdienst statt, an dem sich alle katholischen Schüler
+der Anstalt und der gesummte Lehrkörper betheiligten. Nach
+Beendigung desselben wurden auch die Schüler der anderen Confessionen
+in den Festsaal geführt, damit sie an der weiteren Feier, die mit einem
+Chorgesang eröffnet wurde, theilzunehmen Gelegenheit hätten. Nach
+dem Chorgesange hielt der Director eine patriotische Festrede unter
+dem Motto'. v Die härteste und schwerste Aufgabe der Welt ist die
+würdige Bekleidung des königlichen Amtes“( Montaigne ). Er warf
+einen Rückblick auf das alte Oesterreich, dessen Regierung der
+achtzehnjährige Jüngling aus dem erlauchten Stamme Habsburgs mit
+fester Hand übernahm; er zeigte, wie es seiner Weisheit und
+Beharrlichkeit gelang, allen Stürmen zum Trotze die erschütterten
+Grundlagen des Reiches zu festigen und in halbhundertjähriger Arbeit
+das alte Oesterreich zu einem politisch modernen und cidturell hoch­
+ragenden Staatswesen, dessen Stern sich in aufsteigenden Bahnen
+bewegt, umzuformen. Endlich wies der Redner darauf hin, dass selbst
+die herben Schicksalsschläge, die das Haus des hochherzigen Fürsten
+während der langen Regentenlaufbahn trafen, nicht imstande waren,
+auch nur einen Schatten auf die Seelengröße und Menschenliebe des
+edlen und ritterlichen Monarchen zu werfen, so dass die Millionen
+von Unterthanen ohne Unterschied des Stammes und des Bekenntnisses
+im Glanze der Freudenfeuer von der Hütte bis zum Palast.in un­
+wandelbarer Liebe und Treue ihrem Kaiser hiddigten. Da stimmten
+die jugendlichen Zuhörer in Begeisterung den Jubelhymnus an:
+„Gott erhalte, Gott beschütze unsern Kaiser, unser
+Landl 11 Hiemit schloss die Feier.
+6. October: Maturitäts-Wiederholungsprüfung unter dem Vorsitze des
+k. k. Landesschulinspectors Herrn Dr. August Scheindler.
+8. und 9. October: Beichte und Communion.
+19. November: Feierlicher Trauergottesdienst für weiland Ihre
+Majestät Kaiserin Elisabeth.'
+8. Jänner und 7. Juni 1901: Inspection des israelitischen Religions­
+unterrichtes durch Herrn Dr. Jonathan Wolf.
+9. Februar: Schluss des I. Semesters.
+13. Februar: Beginn des II. Semesters.
+31. März, 1. und 2. April: Österliche Exercitien in Verbindung mit
+Beichte und Communion.
+13. April: Die Schüler des Obergymnasiums, die am Zeichenunter­
+richte theilnahmen, besuchten unter Führung des Zeichenlehrers Em.
+Fischer die Ausstellung der k. k. Fachschulen Österreichs im Kunst­
+gewerbe-Museum am Stubenring.
+22. April: Unter der Leitung Prof Penkas besichtigten die Schüler
+der IVa-Classe das Museum für öst. Volkskunde._■
+27. April: Inspection des katholischen Religionsunterrichtes durch den
+hochw. Domherrn H. Dr. Ferdinand Wimmer.
+6. -10. Mai: Schriftliche Maturitätsprüfung.;
+15. Juni: Ferialtag zu Schülerausdügem
+; 17. und 18. Juni: Beichte und Communion.
+3. Juli: Schluss des Schuljahres mit feierlichem Gottesdienste und
+Zeugnisvertheilung.
+
+46
+XIV. Statistik der Schäler.
+Die kleineren, hochgestellten Ziffern beziehen sich auf die Privatisten.
+Glisse
+1. Zahl der Schüler.
+Ia
+Ib
+II a
+II b
+lila
+III b
+IV a
+IV b
+V
+VI
+VII
+VIII
+Summe
+Zu Ende 1899/1900
+42
+42
+48
+35
+45
+42
+30
+29
+46>
+44
+£0*
+32
+465*
+Zu Anfang 1900/1901
+45
+45 1
+33
+35
+39
+36
+39
+38"
+47
+42
+41
+27*
+467*
+Während des Schuljahres
+eingetreten
+1
+2
+2
+1
+1
+—
+—
+1
+1
+—
+1
+10
+Also im ganzen aufge-
+nornmen. „...
+46
+47'
+35
+36
+40
+36
+39
+39*
+48
+42
+41
+28*
+477*
+Darunter neu aulgenommeD
+40
+43'
+5
+1
+6
+4
+2
+3
+4
+2
+—
+2
+112'
+u. zw. aufgestiegen
+39
+43'
+4
+1
+4
+2
+1
+1
+4
+2
+—
+1
+102'
+Repetenten
+1
+—-
+1
+—
+2
+2
+1
+2
+—
+—
+—
+1
+10
+Wieder aufgenommen ..
+6
+4
+30
+35
+34
+32
+37
+36*
+44
+40
+41
+26*
+365*
+u. zw. aufgestiegen
+—
+—
+25
+34
+30
+28
+36
+34*
+40
+38
+40
+26*
+331*
+Repetenten
+6
+4
+5
+1
+4
+4
+1
+2
+4
+2
+1
+34
+Während des Schuljahres
+ausgetreten
+5
+8
+2
+2
+2
+5
+2
+4
+5
+1
+1
+37
+Somit Schülerzahl zu
+Ende 1900/1901
+41
+39'
+33
+34
+38
+31
+37
+35 ä
+43
+41
+40
+28*
+440*
+II. Vaterland (Geburtsort).
+Wien
+33
+27'
+20
+24
+26
+23
+22
+21*
+33
+29
+32
+19'
+309 4
+Niederösterreich aujßer
+Wien
+—
+. 2
+3
+1
+4
+2
+2
+2
+3
+4
+2'
+25'
+Oberösterreich
+—
+1
+'
+—
+—
+—
+—
+__
+_
+1
+Salzburg.
+—
+1
+—
+1
+1
+—
+—
+—
+—
+—
+—
+—
+1
+Krain
+__
+—
+1
+I
+4
+1
+Tirol
+—
+1
+—
+—
+;
+—
+! 1
+2
+Küstenland
+1
+—
+__
+—
+—
+—
+1
+1
+3
+Böhmen
+2
+5
+4
+2
+3
+i
+4
+4
+2
+2
+1
+3
+33
+Mähren
+1
+1
+1
+—
+1
+i
+3
+1
+—
+1
+1
+2
+13
+Schlesien
+1
+—
+—
+—
+1
+•
+_
+2
+Galizien
+—
+—
+1
+i
+3
+2
+_
+1
+8
+Bukowina
+1
+—
+—
+i
+—
+___
+2
+Länder der ungar. Krone..
+2
+—
+3
+1
+—
+i
+2
+2
+2
+2
+3
+18
+Bosnien
+*
+—
+—
+—
+.
+1
+_
+1
+2
+Deutsches Reich
+—
+—
+—
+1
+1
+1
+_
+.
+3
+Schweiz
+—
+—
+—
+1
+'
+i
+—
+1
+_
+3
+Russland
+—
+—
+—
+—
+—
+_
+1
+1
+Rumänien
+—
+—
+—
+2
+—
+.
+.
+._
+2
+Italien
+—
+1
+—
+—
+1
+—
+—
+2
+Algier
+—
+’
+—
+—
+.
+„
+1
+1
+Serbien
+—
+1
+h.
+—
+1
+—
+—
+1
+_
+4
+Summe....
+41
+39'
+33
+34
+38
+31
+37
+35*
+43
+41
+40
+28*
+440*
+
+47
+C 1
+a s
+s e
+III. Muttersprache.
+la
+Ib
+II a
+II b|lila
+IUb
+IV a
+IV b
+V
+VI
+VII
+VIII
+Somme
+Deutsch
+41
+39 1
+32
+33
+37
+31
+29
+31*
+40
+41
+38
+25 1
+417*
+öechoslavisch
+—
+—
+1
+—
+1
+—
+3
+—
+1
+—
+—
+1
+7
+Polnisch
+—
+—
+—
+—
+—
+—
+2
+2
+'—
+—
+—
+4
+Serbokroatisch
+—
+—
+—
+—
+—
+1
+—
+1
+—
+2
+Rumänisch
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+0 1
+0 1
+Slovenisch
+—
+—
+—
+—
+—'
+1
+1
+—
+—
+—
+2
+Magyarisch
+—
+—
+—
+1
+_
+—
+1
+1
+1
+—
+1
+1
+6
+Französisch
+—
+—
+—
+—
+—
+—
+—
+—
+-
+' 1
+1
+Italienisch
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+1
+1
+Summe....
+41
+39 1
+33
+34
+38
+31
+37
+35»
+43
+41
+40
+28»
+440 5
+IV. Religionsbekenntnis.
+Römisch-katholisch
+12
+15
+11
+5
+13
+13
+9
+13
+12
+14
+1L
+5
+133
+Evangelisch A. C
+2
+1
+1
+1
+1
+2
+3
+—
+2
+1
+1
+15
+Evangelisch H. C
+1
+—
+1
+—
+—
+—
+—
+—
+—
+2
+Griechisch-orientalisch ....
+—
+1
+1
+—
+—
+1
+—
+—
+—
+0 1
+3<
+Mosaisch
+26
+22 1
+19
+27
+24
+16
+24
+22=
+28
+26
+28
+22 1
+284*
+Confessionslos
+—
+-
+—
+1
+—
+—
+—
+—
+1
+—
+1
+—
+3
+Summe....
+41
+39*
+33
+34
+;.8
+31
+37
+35‘
+43
+41
+40
+28*
+440 5
+V. Lebensalter.
+Am 15. Juli 1901 haben
+vollstreckt
+das 10. Lebensjahr
+—
+2
+_
+'
+—
+__
+2
+. 11.„
+9
+22 1
+1
+5
+—
+'
+/
+—
+37 1
+»12.„
+26
+11
+12
+17
+3
+1
+—
+—
+—
+—
+—
+—
+70
+»13.„
+4
+2
+11
+9
+17
+13
+2
+3
+—
+—
+—
+—
+61
+»M.»
+2
+1
+7
+3
+9
+11
+21
+11
+6
+—
+—
+—
+71
+» 13- n
+—
+1
+2
+7
+5
+12
+11*
+19
+1
+—
+—
+58*
+n 16- ff
+—
+—
+2
+1
+2
+9
+11
+23
+1
+—
+49
+»17-„
+—
+—
+—
+—
+—
+—
+6
+12
+22
+9
+49
+n 13-»
+—
+—
+!
+1
+4
+12
+8
+25
+» 19-»
+—
+—
+_
+1
+5
+9 1
+15 1
+» 20.„
+—
+m
+—
+—
+—
+—
+1
+—
+—
+—
+2 1
+3>
+Summe..;.
+41
+39 1
+33
+34
+38
+31
+37
+35!
+43
+41
+40
+28*
+440 5
+VI. Nach dem Wohnorte der
+Eltern.
+Ortsangehörige
+39
+35»
+29
+31
+33
+30
+34
+31*
+42
+40
+38
+'25*
+4D7 5
+Auswärtige
+2
+4
+4
+3
+5
+1
+3
+4
+1
+1
+2
+3
+33
+Summe....
+41
+39 1
+33
+34
+38
+31
+37
+35!
+43
+41
+40
+28*
+440*
+
+48
+C 1
+a s
+s e
+VII. Nach dem Wohnorte
+Ia
+Ib
+II a
+II b
+lila
+Illb
+IV a
+IV b
+V
+VI
+VII
+VIII
+Summe
+der Schüler.
+(Nur die Jahreswohnung
+kommt in Betracht.)
+o) Innerhalb "Wiens:
+1. Bezirk
+10
+11
+4
+5
+7
+2
+8
+5‘
+7
+9
+15
+10
+93 1
+II.„•••
+1
+—
+.
+1
+—
+3
+3
+2
+2
+1
+2
+15
+”!•»•
+—
+—
+__
+—
+—
+2
+—
+1
+—
+-
+3
+VIII.”
+2
+2
+1
+1
+2
+1
+1
+1
+2
+13
+IX.„
+26
+21 1
+20
+23
+21
+25
+14
+21*
+26
+24
+20
+14
+255*
+XVII.„
+—
+—
+1
+--
+—
+—
+-
+1
+XVIII.„
+1
+1
+4
+1
+1
+6
+3
+4
+3
+1
+2 1
+27 1
+XIX.„
+—
+—
+1
+—
+2
+2
+1
+—
+—
+0 1
+6 1
+XX.„
+—
+3
+1
+2
+1
+2
+1
+—
+1
+2
+1
+—
+14
+b) Außerhalb Wiens:
+Klosterneuburg
+—
+1
+3
+1
+3
+—
+—
+—
+1
+—
+—
+—
+9
+Kritzendorf
+—
+—
+—
+1
+1
+Neu-Leopoldau
+—
+—
+*
+1
+—
+—
+—
+—
+—
+—
+—
+1
+Weidling
+1
+—
+—
+-
+—
+—
+—
+—.
+—
+—
+—
+—
+1
+Summe....
+41
+39 1
+33
+34
+38
+31
+37
+35*
+43
+41
+40
+28*
+440 5
+VIII. Classification.
+a) Zu Ende des Schuljahres
+. 1900/1901.
+I.Fortgangsclasse m.Yorzug
+2
+3
+3
+2
+5
+5
+1
+2
+2
+1
+6
+6
+38
+I.„
+80
+27 1
+28
+27
+23
+18
+24
+23*
+27
+33
+26
+21*
+307 5
+II.„
+4
+5
+2
+1
+4
+4
+6
+7
+8
+—
+5
+1
+47
+ni.„
+4
+3
+—
+1
+1
+1
+1
+i
+—
+—
+12
+Zu einer Wiederholungs-
+prüfung zugelassen
+1
+• 1
+—
+3
+6
+3
+4
+2
+5
+6
+3
+—
+34
+Krankheitshalber zu einer
+Nachtragsprüfung zuge-
+lassen
+—
+—
+1
+-
+—
+1
+—
+—
+—
+—
+2
+Summe....
+41
+39 1
+34
+38
+öl
+37
+35*
+43
+41
+40
+28=
+440 5
+b) Nachtrag zum Schuljahre
+1899/1900.
+Wiederholungsprüfungen
+waren bewilligt*)
+—
+5
+i
+4+1
+5+1
+5
+4
+3
+4+2
+5
+4 1
+2
+42*+4
+Entsprochen haben.......
+—
+5
+i
+4
+5+1
+4
+3
+1
+3+2
+5
+4'
+2
+j37*+3
+Nicht entsprochen haben
+oder nicht erschienen sind
+—
++1
+—
+1
+1
+2
+1
+—
+—
+—
+5+1
+Zu einer Nachtragsprüfung
+•
+zugelassen
+—
+—
+—
+—
+—
+—
+—
+—
+0 1
+—
+—
+—
+0 1
+Nicht erschienen sind
+—
+—
+—
+—
+—
+—
+—
+—
+O 1
+—■
+—
+—
+0*
+Darnach ist das E n d e r-
+g e b n i s für 1899/1900:
+I. Fortgangsclasse m,Vorzug
+3
+3
+5
+3
+3
+2
+1
+2.
+4
+6
+4
+6
+42
+T
+27
+35
+36
+27
+35*
+35
+25
+23
+36
+3C
+23*
+25
+364 4
+ii."
+8
+2
+5
+3
+6
+4
+4
+4
+5
+1
+1
+1
+44
+iii.
+4
+2
+2
+2
+1
+1
+—
+'
+1
+—
+2
+—
+15
+Ungeprüft blieben.
+—
+—
+—
+—
+—
+—
+—
+—
+0‘
+—
+—
+—
+0'
+Summe....
+42
+42
+48
+35
+45 2
+42
+30
+29
+46 1
+44
+30*
+32
+465s
+*) Die mit+ angefügte Zahl bezieht sieh auf die vom k. k. Landesschulrathe
+während der Ferien bewilligte Prüfung.
+
+49
+C 1 a s
+s e
+Ia
+Ib
+II a
+II b
+Ufa
+III b
+IV a
+IV b
+V
+VI
+VII
+vmj
+Summe
+IX. Geldleistungen der
+öffentlichen Schüler.
+Das Schulgeld zu zahlen
+waren verpflichtet:
+im 1. Semester
+33
+40
+25
+30
+28
+27
+28
+28
+35
+31
+29
+20
+,354
+» 2. n
+31
+29
+24
+31
+26
+22
+29
+28
+33
+30
+31
+22
+336
+Zur Hälfte befreit waren:
+im 1. Semester
+—
+—
+—
+—
+1
+1
+—
+1
+1'
+—
+—
+—
+4
+o
+» n•• e
+—
+—
+—
+—
+—
+1
+1
+—
+1
+—
+—
+—
+3
+Ganz befreit waren:
+im 1. Semester
+8
+4
+9
+4
+13
+8
+11
+10
+11
+11
+12
+7
+108
+, 2.,
+10
+12
+9
+3
+12
+10
+8
+8
+12
+11
+, 9
+6
+110
+Das Schulgeld betrug
+im ganzen:
+im 1. Semester ~;K
+17.600
+»2.„ K
+—
+—
+—
+—
+•—
+—
+—
+—
+—
+—
+—
+—
+16.725
+Zusammen K
+-
+—
+—
+—
+—
+-
+-
+—
+—
+—
+—
+—
+34.325
+Die Aufnahmstaxen
+betrugen K
+168—
+181.81)
+16.80
+—
+21.-
+16.80
+12 60
+8.40
+12 60
+12.60
+—
+8.40
+462
+Die Lehrmittelbei-
+träge betrugen K
+176
+188
+136
+136
+164
+140
+156
+160
+188
+168
+164
+116
+1892
+Die Taxen für Zeugnis-
+duplicate K
+—
+—
+—
+4
+—
+—
+4
+—
+—
+—
+. 4
+8
+20
+Zusammen... .K
+-
+—
+—
+—
+2374
+X. Frequenz des Unterrichtes
+in den relativ-obligaten und
+in den freien Lehrgegen-
+ständen.
+Kalligraphie
+19
+19
+12
+13
+—
+—
+—
+—
+—
+—
+—
+—
+63
+Freihandzeichnen im Ober-
+gymnasium
+—
+—
+—
+—
+—
+—
+—
+—
+7
+' 4
+5
+5'
+21
+Stenographie: I. Abtheilung
+—
+—
+—
+—
+—
+7
+12
+15
+6
+—
+—
+40
+» II.
+—
+'
+—
+—
+—
+15
+13
+—
+—
+28
+Gesang: I. Abtheilung ....
+8
+10
+—
+—
+—
+18
+» II.»••••
+—
+2
+5
+1
+1
+5
+2
+1
+17
+XI. Stipendien.
+Anzahl der Stipendisten...
+—
+—
+—
+—
+—
+—
+3
+—
+2
+—
+2
+1
+8
+Gesammtbetrag der Sti-
+pendien K
+—
+—
+—
+—
+—
+“
+900
+700
+1360
+200
+3160
+4
+
+60
+S-
+H?
+5*
+* t l
+i t'
+?-
+XV. Namensverzeichnis der Schüler am Schiasse des
+II. Semesters 1901.
+Die Vorzugsschüler sind durch. Sternchen (*) kenntlich gemacht.
+Classe I a. Barteis August.— Bauer Johann.— Beck Hans.— Beer
+Johann.— Bellak Otto.— Berger Richard.— Bockschütz Robert.— Böhm
+Hans.— Boschan Fritz.— Czinner Paul.— Deutsch Hans. —Ditrichstein
+Egon.— Eckmann Friedrich.— Elbogen Franz.— Figdor Ernst.— Fleischner
+Franz.— Fontana Oskar.— Frank Georg.— Frank Rudolf. —' Freud Jean
+Martin.— Fucik Franz.— Gal Johann.— Galvagni Josef.—* Goldenthal Wilhelm.
+— Grimm Otto.— Grimm Victor.— Grundier Wilhelm.— Gstettner Franz.
+— Haas Ludwig.— HalaS Adolf.— Horowitz Friedrich.— Jokl Emst.—
+Kleiber Erich.— Klopper Hermann.— Lackenbacher Robert.— Lampl Hans.
+— Landesberger WUhelm.— Lechner Alfred.— Lederer Fritz.— Lengnick
+Arthur— "Löwy Felix— 41.
+Classe I b. Jäger Alexander.— Löwit Isidor.— Markus Hermann.—
+Merio Paul.— MüUer Hermann.— "Neumann Paul.— Parma Franz.— Pekarek.
+Hans.— Pietz Alfons.— Pollacsek Hugo.— Pollak Josef.— Popiel Leopold.
+— Popovici Johann.— Rederer Hans.— Reich Franz.— Sachs Rudolf.— Saxl
+Friedrich.— Öandera Friedrich.— Schanzer Stefan.— Schauöler Georg.—
+Scheiner Otto.— Schek Paul.— "Schlesinger Michel.— Schlinger Isidor.—
+Schmeichler Robert.—; Scbulz Victor.— Schweiger Stefan.— Setzer Rudolf.
+— Singer Eduard.— Stark Franz.— Steindler Julius.— "Sfcernfeld Ernst.—
+Strassmann Raoul.— Thurner Otto.— Tintner Friedrich.— Ylcek Hans.—
+Weiss Otto.— Wiletel Karl.— Winter Herbert.— Privatist: Lieben Friedrich. 39 1.
+. Classe II a. Andre Otto.— Bastar Franz.— Bauer Josef.— Bester Felix.
+— Birnbaum Arthur— Bloch Felix.— Cohn Leo.— Donnath Victor.— Eichler
+Franz.— Engert Alfred.— Fischer Fritz.— Fischer Karl.— Floch Hans.—
+Goldschmidt Julius.— "Gomperz Ernst.— Grab Arthur.— Grossmann Hans.
+Haibich Wenzel.— Haussteiner Hermann.— Höbinger Oskar.— Hohenberg
+Emst.— Jüttes Leo.— "Kaufmann Moriz.— Kende Stefan.— Kinszky Hermann.
+— Kirchmayer Johann.— "Kohn Richard.— Krasny Ignaz.— Kurfürst
+Alexander.— Lassner Max.— Ljubisa Stefan, Ritter v.— Schaltegger
+Hermann.— Steiner Ludwig.— 33.
+Classe II b. Jacob Heinrich. —Löbl Oskar.— Löwenberg Paul.— Löwenfeld
+Wolfgang.— "Löwy Felix.— Mandl Otto.— Merio Walther.— Minz Ludwig.—
+Munk Edgar.— Neumann Friedrich.— Oppenheimer Josef.— Ostersetzer Altons.
+— Priester Ludwig.— Rechnitzer Wilhelm.— Rosenthal Hans.— Scheibal
+Alfred.— Schönwald Friedrich.— Schönwald Paul.— "Sicher Harry.— Skrein
+Heinrich.— Solomonica Alexander.— Stern Georg.— Stux Friedrich.—
+Vockenhuber Gottfried.— Wechsler Leopold.— Weil Hans.— Weil Robert.
+— Weiser Armand.— Weiss Friedrich.— Werber Josef.— Werner Friedrich.
+— Werner Hans.— Wertheimer Georg.— Zilzer Bruno.— 34.•
+Classe III a. Adler Hans.— Bardach Fritz.— Baron Otto.— Bass Walther.
+— Beck Victor.— Bellak Josef.— Berger Rudolph.— Bergstein Heinrich.—
+Bettelheim Karl.— v. Bombiero Julius.— Bondy Victor.— "Brunner Robert.—
+Coen Walther.— "Dattelzweig Paul.— Deutsch Franz.— Drucker Alfred.—
+"Eisler Otto.— Fischer Fritz.— Freiberger Karl.— Gabriel Robert.— Gansei
+Paul.— Gemperle Friedrich.— Geyer Humbert.— Göndle Josef.— Grünes
+Wilhelm.— Grünwald Oskar.— Hacliez Josef.— Haussteiner Oskar.— "Herzog
+Josef.— Klein Alfred.— "Kohn Eduard.— Kokeisl Josef.— Krebs Emil.—
+Leszlenfi Oskar.— Löwy Paul.— Neumann Alfred.— Schimetschek Otto.—
+Ungar Felix.— 38.
+Classe III b. Gassner Walther.— Kless Victor.— Mautner Erwin.—
+Maxian Karl.— Pflügl Gustav v. —Pineies Norbert.— "Pollacsek Arthur.—
+Pranger Paul v. Rohoncz.— Pröll Otto.— Schaöer Alfred.— Scheiner Franz.
+— "Schick PauL— "Schiller Friedrich.— Schlerka Victor.— Schnittchen Joset.
+— Schönfeld Leo.—Schotz Siegmund.— Schwarz Arthur.— "Schwarz Karl.—
+Seidel Armin.— Spitz Erwin.— Stiasny Otto.— Stieglandt Hans.— Strohbach
+■i
+
+61
+Ferdinand.— Tedesko Hans.— »Wagner Richard.— Wahle Karl.— Walter
+Adolf.— Weil Stephan.— Weissenböck Earl.— Zentier Otto.— 31.
+Classe IV a. Adler Richard.— Arens Hugo.— Athanaczkovits Paul.—
+Bardas Wilhelm.— Raum Albert.— Brecher Siegfried.— Breuer Paul.—
+Brummer Friedrich.— Deutsch Felix.— Deutsch Friedrich.— Draudt Friedrich.
+— Elischak Franz.— Ergas Rudolf.— Feigl Robert —Feill Rudolf.— Fisch!
+Friedrich.— Glogau Wilhelm.— Goldmann Alfred.— Goldner Arnold.— GomperZ
+Paul.— Grosz Lothar.— Gruber Richard.— Hacker Robert.— Helm Friedrich.
+— Herbert J^mes.— *Hubicki Alfred, v.— Kaefferstein Karl.— Klausner Alfred.
+—Klein Erwin.— Klemperer Paul.— Kohn Paul.— Krenn Adolf.— Pollak
+Alfred.— Primozic Alexander.— Schindelka Otto.— Steidl Theodor.—
+Weinreb Oswald.— 37.
+Classe IV b. Bader Milan.— Breuer Paul.— Danzer Leopold.— Hohen­
+berg Arthur.— Jaskiewicz Edmund.— Jesinger Alois.— Kuntner Josef.
+— Loschitz Felix.— Löwinger Richard.— Löwy Arnold.— Mager Siegfried.
+Mautner Alfred.— Meinl Adalbert.— Milch Ferdinand.— Pick Hermann.—
+»Pick Rudolf, Edler v.— Pollak Alfred.— Por Emil.— Reitlinger Heinrich.
+— Rosenberp Otto.— Salkind Alexander.— Saphier Hermann.— Schapira
+Saul.— Schiff Emanuel.— Schlor Johann.— Schulhof Willy.— Sehwerwacher
+Stefan.— Seiser Adolf.— Sequard Leo.— Sokal Max.— Spitzer Ludwig.—
+*Steger Gustav.— Vodir Franz.— Wiletel Engelbert.— Wisznicki Hugo.— Priva-
+tisten: Freund Moriz, Löh Alfred.— 35*.
+Classe V. Altschul Felix.— Bauer Theodor.— Bellak Richard.— Bornett
+Konrad.— Braun Felix.— Brüll Leo.— Deuretzhacher Karl.— Deutsch
+Ignaz.— Deutsch Rudolf.— Ehrenreich Johann.— Eissler Franz.— Frost
+Ludwig— Goldberger Paul.— Grünwald Oliver.— Haibich Rudolf.— Hecht
+Otto.— Herrmann Louis.— Hold Johann-—Kaufmann Georg. —Klang Fritz.
+— Kless Norbert.— »Koref Hans.— Kornauth Karl.— Kriner Erich.— Kriner
+Otto.— Langer Josef.— Lederer Ernst.— Lindner Max.— Müllner Franz.
+— Münz Paul.— Ostersetzer Siegfried.— Pittner Fritz.— Pollak G4za.—
+Reich Norbert.— Schmiedel Max.— Schneer Guido.— Schneider Franz.—
+»Smolensky Peter.— Sirauss Josef.— TJtitz Robert.— Weil Cornelius.— Weiser
+Egon.— Wolf Max.— 43.
+Classe VI. Askonas Rudolf.— Bach Benno.— Eichler Karl.— Eissler
+Georg.— Gansei Otto.— Granichstädten Hans.— Granichstädten Paul.—
+Hausleithner Alexander.— Heilpern Alfred.— Jakobovits Marcell.— Klaar
+Julius.— Klausner Wilhelm.— Kohn Robert.— Kollek Emil.— Kropik Franz.
+— Kruh Harry.— Kulka. Friedrich.— Lazarovich Sigismund.— Lederer
+Richard.— Löwenberg Alfred.— Löwy Heinrich.— »Lustig Erwin..— Menschik
+August.— Graf Pace Ludwig.— Perger Georg.— Popper Bruno. —■ Prihradny
+de Breznö Hans.— Pröll Emst.— Schreiber Karl.— Schwab Guido.— Schwarz
+4-lois.— Schwerwacher Theodor.— Specht Hans.— Steinitzer Erwin.— Stumpf
+Arnold.— Tidl Wladimir.— Traxl Erwin.— Ullmann Josef.— Weisz Franz.
+->i- Weltmann Oskar.— Wolf Oskar.— 41.
+Classe VII. Biach Paul.— Bistricky Anton.— Bramhas Karl.— Deutsch
+Fritz.— Fialla Alfred.— Fleissig Julius— »Frank Philipp.— Gansei Rudolf.
+— Geyer Franz.— Grünwald Moses.— Haas Julius.— Helly Eduard.—
+Jellinek Raoul.— Jungwirth Ludwig.— »Kohn Felix. —»Krapfenbauer Karl.
+— Kretsch Otto.— Kroph Richard.— LiptayHans.— Löwy Arthur.— *Löwy
+Theodor.— Mayer Josef.— Neubrunn Adolf.— Perles Erwin.— *Reischer
+Lazar.— Reitlinger Ernst.— Remi Fritz.— Schmidt Vitus.— Schöngut Max.
+— Schotz Hermann.— Schwarz Oswald.— Schwarzmann Norbert.— *Sieben-
+schein Norbert.— Silberstein Siegmund.— Spitz Eduard.— Trebitsch Robert.
+— Wachsler Isidor.— Weiss Felix.— Winter Lothar.— Zifferer Hans.— 40.
+Classe VIII. Bauer Richard.— *Bloch Ernst.— Bunzl Felix.— Conrad
+Herbert.— »Eibenschütz Marcell.— Felber Hugo.— Firbas Heinrich.—
+Fischer Moriz.— Fischer Robert.— Frankl Theodor.— Frischauer Ernst.—
+Hajek Arthur. '— Klaar Felix.— Kohn Felix.— Kohn Ottokar— *Krassa
+Walther.— Kreisler Emil.— »Meisel Josef.— Moser Emil.— Obermayer
+Oskar.— Pick Alfred.— Pollitzer Fritz.— Pyritz Otto.— »Steinschneider Paul.
+— Stiedry Fritz.— Stross Walther.— »Suschny Walther.— Thiel Josef.—
+Privatesten: Grigorovici Stefan, Stern Rudolf.— 28*.
+4»
+
+52
+XVI.Verzeichnis der Lehrbücher; Autorenliste und Atlanten
+für das Schuljahr 1901/1902.
+Für die katholische Religionslehre: Leinkauf, Glaubens­
+und Sittenlehre, 11. Aufl. für die I. Classe; Fischer, Liturgik, für die
+II. Classe; Fischer, Alter Bund, für die III. Classe; Fischer, Neuer Bund,
+für die IV. Classe; Mach, Glaubenslehre, I. Theil für die V. Classe; Mach,
+Dogmatik, II. Theil für die VI. Classe; Mach, Sittenlehre, III. Theil für die
+VII. Classe; König, Geschichte der christlichen Kirche, 5. Aufl. für die
+VIII. Classe.
+Für die mosaische Religionslehre: Dr. A. Weiss, Die
+Biblische Geschichte nach den Worten der heiligen Schrift, für die I. und
+II. Classe; Wolf-Pollak, Geschichte Israels, 2. Heft, 13. Aufl. für die
+III. Classe; Wolf, Geschichte Israels, 3. Heft, 9. Aufl. für die IV. Classe;
+Breuer, Israelitische Glaubens- und Pflichtenlehre, 5. Aufl. für die IV, Classe;
+Dr. M. Braun, Lehrbuch der jüdischen Geschichte, I. und II. Theil für die
+V. und VI. Classe; Cassel, Leitfaden für den Unterricht in der jüdischen
+Geschichte und Literatur, 8. und 9. Aufl. für die VII. und VIII. Classe;
+Editio Letteris, I. Theil für die I.—IV, VII.—VIII. Classe; Editio
+Letteris, IV. Theil für die V. Classe; Editio Letteris, III. Theil für
+die VI. Classe..
+Für die lateinische Sprache: Schmidt-Thumser, Latein.
+Schulgrammatik, 9. Aufl. für die I.—VIII. Classe; Hau ler Joh., Lateinisches
+Übungsbuch, I. Theil Ausg. A, 15. Aufl. für die I. Classe; Ha’uler Joh.,
+Latein. Übungsbuch, II. Theil für die II. Classe; Hauler Joh., Aufgaben
+zur Einübung der lateinischen Syntax. I. Teil. Casuslehre, 9. Aufl. für die
+III. Classe; Hauler Joh., Aufgaben zur Einübung der latein. Syntax II. Theil,
+Moduslehre, für die IV. Classe; Süpfle, Aufgaben zu latein. Stilübungen,
+bearbeitet von Rappold, II. Theil, 2. Aufl. für die V.— VIII. Classe; Jurenka
+Hugo, Erstes' lateinisches Lesebuch für die III. Classe; P r a m m e r Ignaz,
+Cäsar d. B. G., 5. Aufl. für die IV. Classe; Go lling Josef, P. Ovidii. Nas.
+Carm. sei., für die IV.—V. Classe; Go lling Josef, Chrestomathie aus Livius
+für die V. Classe; P ramm er Ignaz, Sallustii bell. Cat. et. Jug. für die
+VI. Classe; Golling J., Verg. Carm. sei. für die VI.—VII. Classe; Körnitz er
+Al., Cicero in Cat. I., p. Milone u. p. Archia für die VI.—VII. Classe;
+Kornitzer, Cicero Cato maior für die VII. Classe; Prammer Ignaz,
+Tacitus Germ., 2, Aufl. und Tacitus Ann. für die VIII. Classe; Huemer Joh.,
+Horatii Carm. sei., für die V1H Classe.
+Für die griechische Sprache: Curtiu s-H a r t e 1, Griechische
+Schulgrammatik, 22. Aufl. für die III.—VIII. Classe; Sehen kl K., Griechisches
+Elementarbuch, bearbeitet von H. Sehen kl, 17. Aufl. für die IH.—IV. Classe';
+Hintner Val.,Griech. Aufgaben, 3. Aufl. für die V.—VII. Classe; Schenkl
+K., Übungsbuch, 9. Aufl. für die VIII. Classe; Schenkl K., Chrestomathie
+a. Xenophon, Neue Aufl. 1900, für die V.—VI. Classe; Christ Th., Homer,
+Ilias für die V.—VI. Classe; Hintner V., Herodots Perserkriege, 5. Aufl. für
+die VI. Classe; Christ Th., Homer, Odyssee, 2. Aufl.für die VII.—VIII. Classe;
+B o 11 e k E. Demosthenes A. Reden, für die VII. Classe; Christ Th., Platon,
+Apol. u. Kriton für die VIII. Classe; Kr41 Jos., Platon, Laches für die
+VIII. Classe; Schubert, Sophokles, König Oedipus für die VIII. Classe.
+Für die deutsche Sprache: Willomitzer Fr., Deutsche
+Grammatik, 8. Aufl. für diel.—VIII Classe; Lampel L., Deutsches Lesebuch,
+I. Theil für die I. Classe; Lampel L., Deutsches Lesebuch II. Theil für die
+II. Classe; Lampel L., Deutsches Lesebuch. III. Theil für die III. Classe;
+Lampel L., Deutsches Lesebuch, IV. Theil für die IV. Classe; Kummer-
+Stejskal, Deutsches Lesebuch, V. Theil, 7. Aufl. für die V. Classe; mit
+mittelhochdeutschen Texten Theil VI. A, 6. Aufl. für die VI. Classe, VII. Theil,
+4. Aufl. für die VII. Classe, VIII. Theil, 4. Aufl. für die VIII. Classe.
+Für die Geographie und Geschichte: Herr-Weingartner,
+Grundzüge für den ersten Unterricht in der Erdbeschreibung, 18. Aufl. für
+die I. Classe; Länder- und Völkerkunde, 14. Aufl. für die II.—III. Classe;
+
+53
+Mayer F. M., Geographie der, österr. -Ungar. Monarchie, 5. Aufl. für die
+IV. Classe; W eingartner L., Lehrbuch der Geschichte, Alterthum, I. Th eil
+für die II. Classe, Lehrbuch der Geschichte, Mittelalter, II. Theil für die
+III. Classe, Lehrbuch der Geschichte, Neuzeit, III. Teil für die IV. Classe;
+Zeehe A,: Lehrbuch der Geschichte, Alterthum, 3. Aufl. für die V. Classe,
+Lehrbuch der Geschichte, Mittelalter, für die VI. Classe, Lehrbuch der Geschichte,
+Neuzeit, für die VII. Classe; Hannak E., Österr. Vaterlandskunde, 12. Aufl.
+für die VIII. Classe.
+Atlanten: Richter Ed., Schulatlas. für die I.—IV. Classe;
+Trampier R., Mittelschulatlas,, 5. Aufl. für die V.—VIII. Classe; P u t z g e r,
+Histor. Schulatlas, herausgegeben von Baldamus und Schwabe für die
+II. —VIII. Classe.
+Für die Mathematik: Mocnik Fr., Arithmetik, bearbeitet von
+Neu mann, I. Theil, 35. Aufl. für die I.—II. Classe, II. Theil, 26. Aufl.
+für die III.—IV. Classe; Geom. Anschauungslehre, bearbeitet von Spielmann,
+I. Theil, 25. Aufl. für die I.—II. Classe; Geom. Anschauungslehre, bearbeitet
+von Wallentin, 20. Aufl. für die III.—IV. Classe; Lehrbuch der
+Arithmetik und Algebra, 25. Aufl. für die V.—VIII. Classe; Geometrie für
+O.-G., bearbeitet von Wallentin, 22. Aufl. für die V. —VIII. Classe.
+Für die Naturgeschichte: Pokorny, Thierreich, von L a t z e 1
+und Mick, für die I.—II. Classe; Pflanzenreich, von L a t z e 1 und Mick
+für die I.—II. Classe; Mineralogie, von Latzei und Mick für die III. Classe;
+Hochstette r-B i s c h i n g, Mineralogie und Geologie, bearbeitet von Toula
+und Bisching, für die V. Classe; Burgerstein, Botanik, 3. Aufl. für die
+V. Classe; Woldfich, Zoologie für die VI. Classe.
+Für die Physik: Höfler und Maiss, Naturlehre, 3. Aufl. für diS
+III. —IV. Classe; Wallentin J., Lehrbuch der Physik, 12. Aufl. für die VII.
+und VIII. Classe.
+Für die philosophische Propädeutik: Lindner-Leclair,
+Lehrbuch der Logik, 2. Aufl. für die VII. Classe; Lindner-Lukas, Lehrbuch
+der Psychologie für die VIII. Classe, Wien, Gerold, 1900.
+Für die Stenograhie: Scheller Franz, Lehr- und Lesebuch der
+Gabelsberger’schen Stenographie, 7. und. 8. Aufl. für die IV.—VIII. Classe.
+
+54
+XVII.
+Das neue Schuljahr 1901/1902 und die Aufnahms­
+bedingungen.
+Das neue Schuljahr wird Mittwoch den 18. September um 8 Uhr
+mit einem feierlichen Gottesdienste eröffnet, an welchem alle
+katholischen Schüler der Anstalt theilzunehmen haben. Donnerstag
+den 19. September beginnt der regelmäßige Unterricht.
+Bedingungen zur Aufnahme in die I. Glasse.
+1. Die Aufnahme eines Schülers in die I. Classe ist von dem
+Erfolge einer Aufnahmsprüfung abhängig.
+2. Die Forderungen der Aufnahmsprüfung sind: Jenes Maß
+von Wissen in der Religion, welches in den ersten vier Classen der
+Volksschule erworben werden kann; Fertigkeit im Lesen und
+Schreiben der deutschen und lateinischen Schrift; Kenntnis der
+Elemente aus der Formenlehre der deutschen Sprache; Fertigkeit
+im Analysieren einfach bekleideter Sätze; Bekanntschaft mit den
+Regeln der Orthographie und richtige Anwendung derselben beim
+Dictandoschreiben; Übung in den vier Grundrechnungsarten in
+ganzen Zahlen.
+Ordnung für die Aufnahme und Aufrahmsprüfung in die I. Ol.
+a) Im Julitermin.
+Sonntag den 14. Juli von 8— 10 Uhr vormittag erfolgt die An­
+meldung der Schüler in Gegenwart der Eltern oder ihrer Stell­
+vertreter. Hiebei sind der Tauf- oder Geburtsschein, die
+letzten Schulnachrichten von der Volksschule mit der Be­
+stätigung des Abganges zur Mittelschule und ein genau ausgefülltes
+Exemplar des (beim Schuldiener käuflichen) Nationales vorzulegen.
+Montag den 15. Juli beginnt um 8 Uhr vormittag die
+schriftliche Prüfung, wozu sich die Schüler mit Feder und
+dem vorgeschriebenen, beim Schuldiener erhältlichen Papier zu ver­
+sehen haben; nachmittag um 2 Uhr beginnt die mündliche
+Prüfung, zu der jeder Schüler das in der letzten Volksschul-
+classe gebrauchte Lesebuch mitzubringen hat. Das weitere wird
+den Schülern mündlich mitgetheilt.
+
+55
+bj Im Septembertermin.
+Montag den 16. September von 8—10 Uhr vormittag Anmeldung
+der Schüler wie oben im Julitermin; zu derselben Zeit haben sich
+die hiesigen oder auswärtigen Repetenten der I. Classe
+anzumelden. An demselben Tage um 2 Uhr nachmittag schriftliche
+Prüfung (wie oben a).
+Dienstag den 17. September um 8 Uhr vormittag mündliche
+Prüfung (wie oben a).
+Hiebei wird aufmerksam gemacht, dass bei der Aufnahme von
+Schülern in die I. Classe die im IX. Bezirke wohnenden Knaben
+zunächst berücksichtigt werden, dann erst jene aus den an­
+grenzenden Theilen der Bezirke I, VIII, II, XVIII, XX.
+Eine Wiederholung der Aufnahmsprüfung, sei es an ein und
+derselben, sei es an einer anderen Lehranstalt, ist zufolge hohen k. k.
+Ministerial-Erlasses vom 2. Jänner 18S6 erst nach Jahresfrist zulässig.
+Aus hygienischen Gründen wird den Eltern
+gerathen, ihren die I. Classe besuchenden Söhnen
+für Bücher und Sehr e ib sac h e n keine Handmappen
+oder dergl., sondern Tornister anzuschaffen.
+Ordnung für die Aufnahme in die II.—VIII. Classe.
+Die Einschreibung neuer Schüler für die II.—VIII. Classe
+findet Dienstag den 17. September von 10—12 Uhr in der Directions-
+kanzlei statt. In diesem Falle ist entweder ein staatsgiltiges, mit
+der Abg angsb es tätigung versehenes Zeugnis über das II.
+Semester des Schuljahres 1900/1901 vorzuweisen oder eine Auf­
+nahmsprüfung abzulegen. In die V., VI. und VII. Classe
+kann wegen Platzmangels kein fremder Schüler
+aufgenommen werden.
+Die Aufnahme derjenigen Schüler, welche bis zum
+Schlüsse des Schuljahres 1900/1901 der Anstalt an­
+gehört haben, mögen sie aufsteigen oder die Classe repetieren,
+findet Dienstag den 17. September urn 8 Uhr in ihren Lehrzimmern
+statt. Dazu haben sie das letzte Semestral-Zeugnis und zwei genau
+ausgefüllte Exemplare des (beim Schuldiener käuflichen) Nationales
+beizubringen. Wer diese persönliche Anmeldung unterlässt,
+verliert den Anspruch auf die, Aufnahme. Briefliche oder
+telegraphische Anmeldungen bleiben unberück­
+sichtigt.
+
+56
+Die Aufnahmstaxe von 4 iT 20 h, welche alle neu
+eintretende n Schüler, und der Lehrmittelbeitrag von
+4 K, welchen alle Schüler zu entrichten haben, werden erst nach
+Beginn des regelmäßigen Unterrichtes eingehoben.
+Die Wiederholungs- und Hachtragsprüfungen be­
+ginnen Dienstag den 17. September um 8y 2 Uhr vormittag und werden
+Mittwoch den 18. September von 8 1 /, Uhr ab fortgesetzt.
+Die Auf na h m sp r üf u ng en f ü r einehöhere Classe
+(II.—VIII.) beginnen Mittwoch den 18. September um 8Vs Uhr vor­
+mittag und werden nach Bedarf am folgenden Tage fortgesetzt.
+Die Aufnahme der Privatisten unterliegt denselben
+Bedingungen, an welche die Aufnahme der öffentlichen Schüler
+geknüpft ist.
+Dem Gymnasium bereits angehörige Privatisten
+müssen spätestens am 1. October gemeldet sein.
+Wien, den 3. Juli 1901.
+Anton Stitz.
+k. k. Director.
+

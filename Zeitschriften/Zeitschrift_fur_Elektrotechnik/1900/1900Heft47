@@ -1,0 +1,1443 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 47.
+WIEN, 18. November 1900.
+XVIII. Jahrgang.
+Bemerkungen der Redaction: Ein Nachdruck aus dem redaciionellen Theile der Zeitschrift ist nur unter der Quellenangabe
+„Z. f. E. Wien“ und bei Originalartilceln überdies nur mit Genehmigung der Redaction gestattet.
+Die Einsendung von Originalarbeiten ist erwünscht und werden dieselben nach dem in der Redactionsordnung festgesetzten Tarife
+honorirt. Die Anzahl der vom Autor event. gewünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Manuscripte bekanntgegeben werden.
+INHALT:
+Ueber Nuthunanker. Von Ingenieur W. Sander.... 562 1
+Wechselstrom-Drehatrom-Generator der „Helios", Elektricitäts-
+Actien-Gesellschaft in Köln-Ehrenfeld 564
+Vorschriften, betreffend die aichamtliche Prüfung und Be­
+glaubigung von Elektricitätsverbrauclismessern (Schluss) 567
+Kleine Mittheilungen.
+Verschiedenes 570
+Ausgeführte und projectirte Anlagen ......... 570
+Geschäftliche und finanzielle Nachrichten 571
+Seine kais. und königl. Hoheit der durchlauchtigste Herr Erzherzog Franz Ferdinand geruhte
+das Protectörat des Elektrotechnischen Vereines in Wien huldvoll st zu übernehmen, was dem Vereins-
+Präsidenten durch nachfolgendes Schreiben Sr. Excellenz des Obersthofmeisters Grafen Nostiz-Rineck
+bekannt gegeben wurde.
+Der Obersthofmeister Seiner kais.
+und kön. Hoheit des durchlauchtigsten
+Herrn Erzherzogs Franz Ferdinand.
+Nr. 489 ex 1900.
+Euer Hochwohlgeboren
+beehre ich mich hiermit bekannt zu geben, dass Seine
+kaiserliche und königliche Hoheit der durchlauchtigste
+Herr Erzherzog Franz Ferdinand der seiner­
+zeitigen Bitte wegen Uebernahme des JProtectorates über
+den Elektrotechnischen Verein in Wien hul dvoll st zu
+willfahren geruhten.
+Mit der Versicherung vorzüglicher Hochachtung
+zeichnet
+ganz ergebenst
+Nostiz FML m. p.
+Wien, am 3. November 1900.
+Seiner
+des Herrn k. k. Hofrathes und Obersten
+d. R.
+Ottomar Volkmer
+Präsidenten des Elektrotechnischen Vereines
+in Wien etc. etc. etc.
+Hochwoblgeboren.
+
+Seite 662.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 47.
+lieber Nuthenanker.
+Von Ingenieur W. Sander, Mittweida.
+Obwohl der Nuthenanker in der modernen Dy­
+namomaschine für Gleichstrom sowohl wie für Wechsel­
+strom so ausgedehnte Verwendung gefunden hat, fehlt
+es doch an einer einfachen Theorie, welche die eigen­
+tümliche Kraftlinienvertheilung in den Zacken, hezw.
+Nuthen entsprechend berücksichtigen würde. Man be­
+gnügt sich vielfach damit, bei der Berechnung der
+Kraftliniendichten im Luftzwischenraume praktische Er­
+fahr ungscoefficienten anzuwenden, die jedoch nur für
+bestimmte geometrische Verhältnisse der Nuthen und
+des Interfers Giltigkeit haben können.
+Im Nachfolgenden soll versucht werden, Formeln
+aufzustellen, welche den thatsächlichen Verhältnissen
+besser entsprechen und die auch eine den Bedürfnissen
+des Constructeurs entsprechende einfache Gestalt haben.
+Die Hauptaufgaben, welche die Berechnungen
+lösen sollen, beziehen sich immer auf die Ermittlung
+der für den Luftraum nothwendigen Ampere-Windungen
+(AWi) und der Induction in den Zähnen (B z ). Man
+rechnete in folgender Weise.
+Fig. 1.
+Ist (Fig. 1) der wirksame Austrittsquerschnitt der
+Kraftlinien, welche das Ankereisen durchsetzen, Q\, die
+Zahl der Kraftlinien N 0, so ist die Induction im Luft-
+Unter Qi versteht man meistens (nach Kapp)
+die um 10% vergrösserte, cylindrische Fläche (Q v ), mit
+welcher der Polschuh dem Anker gegenübersteht. Also
+Qi— l'l Qv Als wirksamen Luftweg nahm man einfach
+den Abstand zwischen dem äusseren Ankerumfang und
+der Polschuhbohrung 8 an (bezw. 2 8 für einen voll­
+ständigen magnetischen Kreis). Die Zahl der noth­
+wendigen Ampere-Windungen ergibt sich dann aus
+AWi=_ i?i. 2 S. Fischer-Hinnen*) gibt für
+die gebräuchlichen Nuthenformen eine Tabelle an, welche
+Coefficienten K enthält, mit welchen man das auf obige
+Weise erhaltene multipliciren muss, wenn als Kraft­
+linienweg 2 8 eingesetzt wird. Der Werth von K schwankt
+zwischen P2 und P35. Da bei guten Maschinen die
+Ampere-Windungen für den Luftraum etwa 1/ 2 der ge-
+sammten Ampere-Windungen ausmachen, ist eine ge­
+nauere Kenntnis von K, oder eines dieses ersetzenden
+Ausdruckes von grosser Wichtigkeit für den Constructeur.
+In Fig. 2 ist ein Ausschnitt des Ankerumfanges
+dargestellt, darin ist t die Nuthentheilung, q^ der
+wirksame Eisenquerschnitt des Zahnes am Umfange des
+Ankers, q 2 der Seitenflächen, q 3 der Grundfläche der
+*) Fischer-Hinnen, Gleiehstrommasclnnen. 4. Aufl.
+o. 149.
+Nuth. Der Abstand des Zahnkopfes von der Polschuh­
+bohrung wie früher S.
+Es ist zunächst klar, dass nicht nur aus der Stirn­
+fläche des Zahnes (g x ), sondern auch aus den Seiten­
+flächen q 2 und der Nuthgrundfläche q 3 Kraftlinien aus­
+treten werden. In der Figur ist der Verlauf der Kraft­
+linien ohne Rücksicht auf die Kraftliniendichte
+eingezeichnet worden. Die Gesammtzahl der aus dem
+Ankereisen tretenden, bezw. in dasselbe eintretenden
+Kraftlinien A 0 muss gleich sein der Summe der Kraft­
+linienzahlen, welche die Flächen Q t, Q 2, Q 3 durchsetzen,
+wenn Q 1— m q y, Q 2= m q 2. Q 3= rn q 3 ist und m die
+Anzahl der Nuthen oder Zähne bedeutet, welche dem
+Polbogen (ß, Fig. 1) gegenüber stehen. Demnach gilt
+Ao= A 1 -f- N 2 -f- N 3 1.)
+Die Vertheilung der Kraftlinien auf die Flächen
+Qi, f?2, (?s ergibt sich aus der Betrachtung der K raft­
+liniendichten.
+A
+Stehen sich (Fig. 3) zwei paramagnetische Körper
+mit den entgegengesetzt magnetischen Flächen A, B
+gegenüber, so ist die Kraftliniendichte auf der Fläche B
+in einem beliebigen Punkte abhängig von der Wog-
+länge der Kraftlinie, die diesen Punkt trifft; und zwar
+ist die Kraftliniendichte (in Luft) dieser Weglänge
+verkehrt proportional. Es gilt deshalb die
+Proportion
+wenn B 1 B 2/ 2, B s l 3 die den Punkten «, b, c zuge­
+hörigen Kraftlinien-Längen und -Dichten sind.
+Die aus einer endlichen Fläche Q i austretende
+Qi
+Kraftlinienzahl ist offenbar N= j B. d Q’ setzt sich
+
+Nr. 47.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 563.
+wenigsten
+jedoch
+die Fläche B aus den Flächen Q 1} Q 2j Q s
+so ist die Gesammtzahl der Kraftlinien
+Qi Q2 Q3
+N= J BdQ-\- J BdQ+ J BdQ.
+0 0 ö
+Die Integrale sind in den
+einfache Weise zu bestimmen. Ist
+lere Kraftliniendicht e B n
+fachen sich die Ausdrücke zu
+N= B m' Q 1 -}- B m" ft -(- B
+oder wenn B m‘— B 2, B m"— B 2, B,
+so ergibt sich mit Bezug auf Formel 1)
+N o= «i ft+ B 2 Q 2+ B,%.
+Die mittlere Kraftliniendichte herrscht
+zusammen,
+Fällen auf
+die m i 11-
+bekannt, so verein-
+ft
+2, u m= B 3 gesetzt wird,
+.. 3.)
+offenbar
+in dem Punkte einer Fläche, in welchem die Kraftlinie
+von der mittleren Weglänge auftrifft. Dieses l m kann
+durch Rechnung oder Construction nicht auf einfache
+Weise gefunden werden. Immer aber kann man es
+durch Einzeichnung des wahrscheinlichen Kraftlinien­
+weges von Hand aus finden, mit einer für die Praxis
+genügenden Genauigkeit.
+Kraftlinienlängen l m\ l n
+Werden die mittleren
+■ m, -m, lm“‘ mit l 1} l 2, 1 3 bezeichnet,
+so lassen sich in die Gleichung 2) die Kraftlinien­
+zahlen einführen, wobei Aj= (L B x; N 2= Q 2 B 2:
+N 3=
+Q 3 B 3 gesetzt wird. Man erhält
+N: A
+■ N 3=~
+3 h
+ft. Q3
+k
+k
+4).
+Aus Gleichung 1) und 4) kann man jetzt unschwer
+A 2. A'_■~■--
+dass aus Gleichung 2) auch folgt
+3 bestimmen. Es sei noch darauf hingewiesen,
+Gleichung
+Bih
+B 2 l 2— B 3 l a
+5)
+oder auch, da 0- 8 B x k= AWi, ist (0*8=
+4W,
+10
+AW h =4W,„ d. h.
+r h=^ rr l3,
+die Ampere -Win dungszahl ist die gleiche,
+welchen Kraftlinien weg man auch be­
+trachten mag.
+Man bestimmt sich aus 1) und 4) die einzelnen
+Summanden Aj, N 2. A3, dann ein beliebiges B, z. B. B 1:
+und hat damit schon die fraglichen Ampfire-Windungen,
+indem AW\ t= ist. Ein Zahlenbeispiel mag die
+Resultate erläutern.
+Ein Zackenanker vom äusseren Durchmesser
+D= 20 cm habe 60 Nuthen, demnach die Nuthentheilung
+t—— P046 cm.
+60
+DieNuthenbreite sei a= 0'4 cm, die Tiefe b— 1-4 cm,
+der Luftraum 8= 2 mm= 0- 2 cm. Es sind zwei Magnet­
+pole mit dem Polwinkel ß= 100° vorhanden. Die
+achsiale Breite ist c= 25 cm für das Pol- und Anker­
+eisen. Für Papierisolation der Ankerscheiben seien 15%
+in Rechnung gezogen. Der Anker ist ventilirt durch
+vier Einlagen in das Ankereisen von ie 0- 5 cm
+' 60.100
+Dicke.
+360
+= 16-66
+Dem Polschuh stehen demnach m -.
+Zähne oder Nuthen gegenüber.
+Nach 1) und 4) hat man 2’93. 10 6= N t -f- A 7 2 -f- N 3
+fläche.
+ft=
+Die Kraftliniendichte, bezogen
+sei Bi— 6000 per cm 2.
+*20:4.100.26^^
+auf die Polschuh-
+Diese Fläche selbst ist
+360
+cm 2, die Gesammt-
+Kraftlinienzahl (wenn keine Streuung
+von den Polflächen
+zum Ankereisen angenommen wird) demnach
+A 0= 489.6000= 2-93. 10 ß.
+ist,
+Der Querschnitt des Ankereisens am Umfange
+da die Zahndicke P046— 0-4= 0-646 wird:
+ft= 16-66.0-646.0-85.23= 214 cm 2,
+die Seitenfläche des Zahnes
+2-8
+ft— ft
+0-646
+die Grundfläche der Nuth
+0-4
+= 930 cm 2,
+ft*= ft
+0-646
+133 cm 2
+o,s
+l,o
+/),£■ cm
+Fig. 4.
+Nun wurden die Zahndimensionen, bezw. ein Aus­
+schnitt des Ankerumfanges in zehnfacher natürlicher
+Grösse aufgezeichnet und die Längen ftZ 2, Z 3 bestimmt.
+Aus einer graphischen Ermittelung mit einem Zahn­
+profil in noch grösserem Maassstabe ergab sich für
+verschieden gestaltete Profile, dass die Kraftlinien von
+der mittleren Weglänge im Abstande von% d, bezw. a
+und% fr auftreflen. Das kann besonders für die Seiten­
+flächen ft in Hinsicht auf die gebogene Form der
+Kraftlinien einigermassen zweifelhaft sein. In Wirk­
+lichkeit liegt der Fusspunkt der mittleren Kraftlinie
+der Seitenfläche etwas tiefer, aber so nahe, dass der
+Unterschied vernachlässigt werden kann. Die Längen
+ergaben sich zu
+0-206 cm
+h=
+1 2= 0-95
+k= 1-61
+A: N 0
+N 3=
+214 930 133
+0-206
+= 1040:
+= 49-5:
+0-95
+980
+46-6
+1-61
+82-8 (1040+ 980 -f 82‘8= 2102'8),
+3-94 (49-5+ 46-6: 3-94= 100-04).
+oder
+oder in%
+
+Seite 564.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 47.
+Demnach ist Aj= P452.10«
+A 7,= 1-364.10«
+N 3= 0-115. 10«
+2-921 .10«
+Die richtige Summe gibt eine Probe der Rechnung
+(nicht der Theorie!). Die mittleren Kraftliniendichten
+ergehen sich zu
+1-452.10«
+—214— 6800
+r364 =1470
+N,
+B,=
+Aj,
+<?2
+A,
+B' 6~ ~Q 3~
+930
+0-115
+133
+Die Producte B. I sind
+= 865.
+R, l±
+Bo Z 2
+Bl 7g= 1392
+1400
+1395
+Im Mittel also B .1= 1396 oder die entsprechende
+Ampere-Windungszahl AW t= 0'8. 1396= 1112.
+Wollte man die Länge X einsetzen, so ist
+B .1
+Bi= -v—
+Bi
+1396
+0-2
+6980.
+Es kann jetzt auch die Kraftliniendichte im
+Zahnquerschnitt bestimmt werden. An der Stirn­
+fläche treten Aj Kraftlinien ein, die mittlere Kraft­
+liniendichte ist b\. Durch die Seitenfläche treten noch
+A 2 Kraftlinien hinzu, so dass durch den Querschnitt
+des Zahnes am Grunde der Nuth die Summe (Aj -(- A 2)
+Kraftlinien hindurchgehen. Die Kraftlinien Aj s passiren
+den Zahn überhaupt nicht.
+Der von Fiseher-Hinnen angegebene Coeffi-
+cient würde, auf obigen Fall angewendet, den Werth
+K= l- 325 ergeben, so dass
+Bi= K. Bi— 1-325.6000= 7950 würde.
+Wahrscheinlich sind in dem Coefficienten K noch
+andere Factoren neben den rein geometrischen Ab­
+messungen inbegriffen.
+Zum Schlüsse möchte ich bitten, den Aufsatz
+weniger als rein wissenschaftliche Abhandlung zu be­
+trachten, als vielmehr als einen Versuch, dem praktischen
+Constructeur einfache Formeln für einen Theil der
+Dynamomaschinen-Berechnung an die Hand zu geben,
+über welchen leider noch eine grosse Unsicherheit
+herrscht.
+Wechselstrom-Drehstrom-Generator der „Helios“, Elektri-
+citäts-Actien-Gesellschaft in Köln-Ehrenfeld.
+Die Elektricitäts-Aetien-Gesellschaft „Helios“ in
+Köln hat auf der Pariser Ausstellung einen Generator
+für die gleichzeitige Abgabe von Wechselstrom und
+Drehstrom aufgestellt, der alle dort vorgeführten Gene­
+ratoren an Grösse übertrifft. Die Maschine liefert bei
+7P5 Touren pro Minute 3000 Kilovoltampere drei­
+phasigen Wechselstrom oder 2000 KVA einphasigen
+Wechselstrom, ist aber auch imstande, 1500 KVA Dreh-
+strom an ihren Klemmen abzugeben. Zu diesem Zwecke
+ist der Inductor der Maschine mit zwei Wickelungen
+von 00° Bhaseudiffeiepz yersehen, von denen die eine
+für 2000 KVA die darauf senkrechte, schwächere
+Phasenwickelung für 1500 KVA bestimmt ist; beide
+Wickelungen sind in der Scott’schen Schaltung mit­
+einander verbunden.
+Der Generator wird von einer horizontalen, drei­
+fach Expansions-Dampfmaschine der Maschinenfabrik
+Augsburg mit Ventilsteuerung und Condensation an­
+getrieben. Die normale Leistung der Maschine beträgt
+2000 PS, entsprechend einer inductiven Belastung des
+Generators, z. B. durch Motoren, wo der Leistungsfactor
+cos <p= 0- 7 beträgt. Die Dampfmaschine ist jedoch
+unzureichend, wenn der Generator auf ein inductions-
+freies Netz oder bei grösserem Leistungsfactor unter
+voller Belastung arbeitet. Die Dampfmaschine hat vier
+Cylinder, von denen je zwei zu beiden Seiten des
+Generators angeordnete in Tandem geschaltet sind, und
+zwar auf einer Seite der Ilochdruckcylinder mit einem
+Niederdruckcylinder und auf der anderen der Mittel-
+druckcyiinder mit dem zweiten Niederdruckcylinder;
+die beiden letzteren sind der geringeren Wärmeaus­
+strahlung wegen den Lagern zunächst angeordnet. Die
+Maschine, ursprünglich für 70 Touren bestimmt, läuft
+in der Ausstellung mit 71- 5 Touren pro Minute.
+Der Generator zeichnet sich durch die gegenüber
+den radialen Dimensionen verhältnismässig geringe
+Breite aus; der Zweck dieser Construction ist, dieselbe
+Maschinentype bei grösserer achsialer Breite für eine
+bedeutend grössere Leistung zu verwenden. Wie die
+Fig. 1 und 2 zeigen, besitzt die Maschine einen äusseren,
+feststehenden Inductor, in dessen Innerem ein Magnetrad
+rotiert, das direct auf die Dampfmaschinenwelle auf­
+gekeilt ist und gleichzeitig als Schwungrad dient. In
+den Radkranz sind 84 Pole von rundem Querschnitt
+eingelassen und durch je zwei Stahlschrauben befestigt.
+Die Polschuhe sind so geformt, dass die Curve der
+E. M. K. einer Sinuslinie möglichst nahe kommt. Jeder
+Pol ist mit einer Lage eines hochkantig gewickelten,
+blanken Kupferbandes versehen; die Wickelung wird
+separat hergestellt und nach_ entsprechender Isolierung
+auf die Polstüeke aufgeschoben. Die Erregerspannung
+beträgt 80—100 V, so dass zwischen zwei Polen nur
+1 V Spannungsdifferenz besteht. Die Erregerarbeit bei
+Volllast und cos <p= 0‘7 beträgt nur 24 KW, mithin
+ungefähr l°/ 0 der Maschinenleistung.
+Der Inductorkranz, in dem die Ankcrbleche unter­
+gebracht werden, besteht aus einem viertheiligen Guss­
+ring, der auf einer von der Firma selbst erbauten Bohr­
+maschine aufrechtstehend ausgebohrt wird. (Fig. 3.)
+Nach dem Ausbohren werden die Ankerbleche in fünf
+durch Abstandspunkte von unmagnetischem Material
+voneinander getrennten Schichten eingebaut; hiedurch
+entstehen Ventilationscanäle, die im Verein mit den im
+Gusskranz entsprechend angebrachten Oeffnungen eine
+gute Ventilation besorgen, der zufolge die Temperatur
+der Maschine bei Volllast 35° C. angeblich nicht über­
+schreitet. Die Bleche sind in den sechs Stossfugen mit­
+einander verzapft, um den magnetischen Widerstand
+möglichst klein zu halten.
+Die Spulen sind in 672 Nuthen eingelegt (Fig. 4),
+mithin entfallen 8 Nuthen pro Pol, von denen je drei,
+rechts und links von der Polmitte gelegene, von den
+abgekröpften Spulen der Hauptphase eingenommen
+werden, und die zwei Nuthen gegenüber der Polmitte
+den entsprechend gelegenen Nuthen der nächsten Pol­
+mitte zugeordnet sind. In diese Nuthen sind die gerade
+gestreckten Spulen der Hilfsphase eingelegt, deren
+
+Nr. 47.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 565.
+Spannung nur VT der Spannung der Hauptphase
+beträgt; sie sind aus dünnerem Draht gewickelt als
+die Spulen der Hauptphase. Die Verbindung der beiden
+mit Rücksicht auf eine spätere Verwendung die Anker­
+wickelung so angeordnet, dass sie je nach der Schaltung
+in einem, zwei oder drei Ankerkreisen 6000 V, resp.
+Fig. 1.
+Spulenwickelungen geschieht in bekannter Weise nach
+der Scott sehen Schaltung. Um den Anforderungen der
+Ausstellungsleitung zu entsprechen, beträgt die Spannung
+2000—2200 V bei 50 oj pro Secunde; doch wurde
+2000 V, resp. 2000 V mit einer erforderlichenfalls lOpro-
+centigen Erhöhung der Spannung zu liefern imstande ist.
+In Folgendem seien einige der wichtigsten Di­
+mensionen der Maschine angegeben.
+
+Seite 566.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 47.
+Fig. 3.
+Fig. 4.
+Dampfmaschine:
+Durchmesser des Hoch-
+druckcylinders... 700 mm
+Durchmesser des Mittel-
+druckcylinders... 1100„
+Durchmesser eines Nie-
+derdruckcylinders.. 1150„
+Kolbenhub 1600„
+Tourenzahl. 7T5 Tour, pro Minute
+Ungleichförmigkeitsgrad 1/350
+Dampfspannung ... 10 Atm.
+Generator: Magnetrad:
+Durchmesser zwischen
+den Polflächen. .7976 mm
+Gewicht 76 t
+Schwungmoment. 4T5 Mill. m 2 /kg
+Gewicht des Erreger­
+kupfers 3- 5 t
+Widerstand der Erreger­
+wickelung.... 0'7 Ohm
+Inductor:
+Innen-Durchmesser.. 8000 mm
+Aussen-Durchmesser.. 9400„
+Luftraum 12„
+Nuthenzahl 672
+8 Kathen pro Pol, davon
+sechs für die Haupt­
+phase und zwei für die
+Hilfsphase.
+Gewicht des Inductors. 80 t.
+
+Nr. 47.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 567.
+Der Erregerstrom wird von einer besonderen
+sechspoligen Gleichstrom-Maschine mit Trommelanker-
+Wickelang Type „M P D 88“ geliefert, welche an einer
+verticalen Compound-Dampfmaschine von Schichau
+in Elbing angetriehen wird (Fig. 5) und hei 240 min.
+Touren 50 KW Gleichstrom von 110 V Spannung
+liefert. G.
+Vorschriften,
+betreffend die aichamtliche Prüfung und Beglaubigung von Elek-
+tricitätsverbrauchsmessern.
+(Schluss.)
+V. Bedingungen hinsichtlich der Zulassung von
+Elektricitätszähler-Typen zur aich amtlichen
+J[£ Beglaubigung.
+17. Im Sinne der Bestimmungen des Abschnittes III ent­
+scheidet der Ilirector der k. k. Normal-Aicbungseommission über
+die Frage der Zulassung neuer Elektricitätszähler-Typen zur
+aich amtlichen Beglaubigung.
+Zur Beglaubigung werden Elektricitätszähler-Typen zuge­
+lassen, sofern dieselben bei der Prüfung in ihren Angaben und
+hinsichtlich ihrer Beschaffenheit nachfolgenden allgemeinen Grund­
+bedingungen entsprechen:
+«) Der Messapparat muss die. verbrauchte Elektricitätsmenge,
+beziehungsweise elektrische Energie nach Amperestunden,
+Wattstunden, Hektowattstunden oder nach Kilowattstunden
+registriren, oder dieselbe durch Multiplication mit einer con■
+stanten Grösse (Constante) finden lassen.
+/<) Der Elektricitätszäliler muss ein normales Zifferblatt tragen.
+Als solches gilt im allgemeinen jenes, welches nebst an­
+deren Zifferscheiben auch eine solche aufweist, bei welcher der
+Zeiger bei voller Belastung des Zählers innerhalb sechs Mi­
+nuten zumindest einen vollen Umlauf vollendet.
+Die Uebertragung der Bewegung des eigentlichen Mess­
+apparates auf die Achse des letztgenannten Zeigers darf nur
+Umsetzungen von grösserer zu kleinerer Winkelgeschwin­
+digkeit aufweisen.
+Die in Rede stehende Zifferscheibe muss in 100 Theile
+getheilt sein, und dürfen die Theilstriche nicht stärker als ein
+Viertel des Theilungsintervalles sein.
+Der am Ende abgeflachte Zeiger muss in eine Spitze
+auslaufen, welche nicht um mehr als die Länge eines
+Theilungsintervalles von der Theilscheibe abstehen darf.
+Die einzelnen Zifferscheiben sind mit den Worten „Ein­
+heiten“, „Zehner“, „Hunderter“, beziehungsweise „Zehntel“,
+„Hundertstel“ u. s. w. und gemeinsam mit der gewählten
+Einheit,,Amperestunden“,„Wattstunden“, „Hektowattstunden'
+oder „Kilowattstunden“ zu bezeichnen.
+Diese gemeinsame Bezeichnung- der Einheit muss jedoch
+bei Elektrieitätszählern, deren Constaute bei der Prüfung nicht
+als gleich „Eins“ befunden wurde, am Zifferblatt entfallen
+und darf auch an anderen Theilen des Elektricitätszählers,
+z. B. am Gehäuse etc., weder vor der Aichung, noch nach­
+träglich angebracht werden.
+Weiters wird ein Zifferblatt als normal anerkannt, hei
+welchem die einzelnen von 0—9 bezifferten Zifferscheiben
+(Trommeln) an Ausschnitten so vorübergeführt werden, dass
+die Zählerangabe als ganze Zahl, beziehungsweise als ganze
+Zahl mit Deeimalbrueh unmittelbar abgelesen werden kann.
+Auch in diesem Falle muss die letzte Zifferscheibo
+oder Trommel innerhalb sechs Minuten bei voller Belastung
+des Zählers zumindest eine ganze Umdrehung vollenden und
+in 100 Theile getheilt sein; gegenüber der Scheibo muss
+ein deutlicher Index vorhanden sein.
+Zulässig ist der Ersatz der letztgenannten Zifferscheibe
+(Trommel) durch die in Alinea 2 dieses Punktes (i) ange­
+führte Zifferscheibe mit Zeiger.
+Der Director der k. k. Normal-Aichungs-Commission
+ist jedoch ermächtigt, Zifferblätter, sofern sich selbe zweck­
+mässig erweisen, als zulässig (normal) zu erklären, auch wenn
+selbe von den vorstehenden Bedingungen in ein oder dor
+anderen Beziehung abweichen.
+c) Elektricitätszähler, welche zur Bestimmung des Verbrauches
+von elektrischer Energie dienen, müssen separate Neben­
+schlussklemmen haben, welche nach der Beglaubigung ohne
+Plombenverletzung an die Ilauptstromklommon (beziehungs­
+weise Leitungen) angeschlossen werden können; der Neben­
+schluss ist bei Mehrleiterzählern an. die Aussenleiter anzu­
+legen; bei Drehstromzählern sind dem Stromsystem ent­
+sprechende Ausnahmen statthaft.
+tl) Jeder Elektricitätszähler muss in einem durch Plomben­
+verschluss versicherbaren, mit einem Schaugläse versehenen
+Gehäuse eingeschlossen, und. muss das Schauglas in das Ge­
+häuse von innen eingesetzt sein,
+c) Der Messapparat muss verlässlich funetioniren und so con-
+struirt sein, dass die Constanz seiner Angaben innerhalb der
+zulässigen Aichtoleranz (vergl. Abschnitt VI, Punkt 30)
+während der Giltigkeitsdauer des Aichstempels gewährleistet
+erscheint. x
+Zulässig ist es, Elektricitätszähler mit einer dom
+Stromlieferanten auch nach Vornahme dor amtlichen Be­
+glaubigung zugänglichen Correctionsvorrichtung zu versehen,
+welche dazu dient, die Zählerangaben auf Null zu bringen,
+wenn kein Stromverbrauch stattfindet.
+Diese Vorrichtung muss jedoch so beschaffen sein,
+dass das Verhältnis zwischen Zälderangabe und Stromconsum,
+wie es während der Beamtsliandlung bestand, nach jeweilig
+vollzogener Correction keine Veränderung aufwoist.
+Wird die nachträgliche Anbringung einer solchen Cor­
+rectionsvorrichtung an Elektricitätszählern einer Type,! welche
+bereits amtlich zugelassen ist, beabsichtigt, so ist ein Exem­
+plar dieser Correctionsvorrichtung an die k. k. Normal-
+Aichungs-Commission vorzulegen, welche über die Zulässigkeit
+dieser Vorrichtung entscheidet.
+f) Elektricitätszähler, welche im Sinne der Bestimmungen des
+Abschnittes I, Punkt 2, nicht transportabel erscheinen, sind
+von der amtlichen Beglaubigung ausgeschlossen.
+18. Zum Zwecke der Durchführung der Erprobung einer
+neuen Elektricitätszähler-Type ist der bezügliche Messapparat in
+fünf Exemplaren, welche für eine Stromstärke von nicht mehr
+als 15 Ampere eingerichtet sein dürfen, unter Vorlage zweier
+genauer Zeichnungen und Beschreibungen an die k. k. Normal-
+Aichungs-Commission in Wien einzusenden.
+Bezüglich der Spannung, für welche die Elektricitätszähler
+bei der Typenprobe bestimmt sein sollen, ist fallweise seitens
+der Partei mit der k. k. Normal-Aichungs-Commission das Ein­
+vernehmen zu pflegen.
+19. Für die Ueberprüfung oinor neuen Elektricitätszähler-
+Type ist ein Betrag von vierhundert (400) Kronen im vorhinein
+bei dor Zahlstelle der k. k. Normal-Aichungs-Commission zu
+entrichten, mag der bezügliche Messapparat als neue Type schliess­
+lich zur amtlichen Beglaubigung zugelassen werden oder nicht.
+20. Die im Punkte 18 erwähnten fünf Musterexemplare
+müssen bei der amtlichen Erprobung woiters nachstehenden be­
+sonderen Bedingungen genüge!eisten:
+u) Die Angaben des Elektricitätszählers dürfen sich bei auf-
+und absteigender Belastung (Magnetisirung) für eino und
+dieselbe Belastung nicht um mehr als die Hälfte der im Ab­
+schnitte VI, Punkt 30, angeführten, für Verkehrsinstrumente
+aufgcstellten Aichtoloranz ändern.
+I>) Bei Wechselstromzählern darf die Abhängigkeit ihrer An­
+gaben von dor Polwechselzahl, Stromcurvenform, Phasen­
+verschiebung, Spannung und Dauer der Einschaltung dos
+Nutzstromes, hei Gleichstromzählern die Abhängigkeit von
+der Spannung und der Dauer der Einschaltung des Nutz­
+stromes nicht so gross sein, um unter den praktischen Be­
+triebsbedingungen systematische Abweichungen von der
+mittleren Angabe im Betrage der halben Aichtoleranz zu
+bedingen.
+Jene Angabe dos Zählers, welche derselbe macht,
+wonn der Nutzstromkreis ohne Phasenverschiebung und mit
+50 Procent der Maximalbelastung des' Zählers unter Ein­
+haltung der für die Musterexemplare angegebenen Periodon-
+zahl und Spannung belastet ist, gilt als mittlere Angabe im
+Sinne des vorstehenden Absatzes,
+c) Alle fünf Musterexomplare müssen innerhalb der durch die
+Bestimmungen des Abschnittes VI, Punkt 30, fixirten Fehler­
+grenzen justirt sein.
+21. Falls die Construction dor vorgelegten Apparate im
+Sinne der Bestimmungen dieses Abschnittes vom theoretischen
+Standpunkte und auch mit Rücksicht auf einschlägige Erfahrungen
+zu keinem Bedenken Anlass gibt, kann der Messapparat noch
+vor völliger Durchführung der Erprobung desselben über spe-
+cielles Ansuchen der Partei seitens des Directors der k. k Normal-
+Aich ungs-Commissionals neue Elektricitätszählor-Type provisorisch
+zur amtlichen Beglaubigung zugelassen werden.
+In diesem Falle werden die bezüglichen Verkehrsinstrumento
+gegen Widerruf mit provisorischen Befundscheinen von zwei-
+
+Seite 568.
+Nr. 47.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+jähriger Giltigkeitsdauer versehen (vergl. Abschnitt VIII, Punkt
+36 und Abschnitt IX, Punkt 38).
+22. Nach völliger Durchführung der Erprobung des Appa­
+rates im Sinne der Bestimmungen dieses Abschnittes, entscheidet
+der Director der k. k, Normal-Aichungs-Commission über die
+definitive Zulassung des Messapparates (als Eloktricitätszähler-
+Type), und werden sodann der Partei drei der vorgelegten Muster­
+apparate zurückgestellt.
+23. Sollte die im vorstehenden Punkte erwähnte Erprobung
+des Apparates ein ungünstiges Ergebnis liefern, so wird die Aus­
+gabe der provisorischen Befundscheine eingestellt, doch behalten
+die bereits ausgegebenen provisorischen Befundscheine ihre zwei­
+jährige Giltigkeitsdauer, vom Zeitpunkte der Ausstellung derselben.
+24. Die zugelassenen Elektrieitätszäliler-Typen werden
+fortlaufend mit römischen Nummern bezeichnet.
+25. Die definitive, wie auch die provisorische Zulassung
+von Elektricitätszähler-Typen zur amtlichen Beglaubigung, wei­
+ters der eventuelle Widerruf der erfolgten Zulassung von Elek-
+tricitätszähler-Typen und die eventuelle Verlängerung oder Ver­
+kürzung des Nachaichungstermines für die Verkehrsinstrumente
+der einzelnen Elektricitätszähler-Typen (vergl. Abschnitt IX,
+Punkt 41) wird fallweise im Reichsgesetzblatte verlautbart werden.
+26. Die eventuelle Zulassung von Elektricitätszähler-Typen
+zur Prüfung und Beglaubigung, welche für mehrfachen Tarif
+gebaut sind, bleibt, soweit sich deren Zulassung überhaupt als
+nothwendig erweisen wird, besonderen Bestimmungen Vorbehalten.
+VI. Bedingungen hinsichtlich der Zulassung
+von Elektricitätszählern (Verkehrsinstru-
+menten) zur aichamtlichen Beglaubigung.
+27. Die für den öffentlichen Verkehr bestimmten Elek-
+tricitätszähler müssen den im Abschnitte V angeführten Bedin­
+gungen entsprechen.
+28. Am Gehäuse des Elektricitätszählers muss eine Tafel
+angebracht sein, welche ohne Verletzung des Plombenverschlusses
+des Apparates nicht ausgewechselt werden kann.
+Diese Tafel hat die Bezeichnung der grössten zulässigen
+Stromstärke und jener Spannung (bei Mehrleiterzählern in der Form
+2 X, beziehungsweise 4 X) zu tragen,
+für welche der Elektricitätszähler bestimmt ist.
+Bei Wechselstromzählern ist auch die Zahl der completen
+Perioden pro Secunde, für welche der Zähler construirt ist, an­
+zugeben.
+Die Angabe von Strom- und Spannungs-Grenzen ist un­
+zulässig.
+29. Auf der vorerwähnten Tafel, auf dem Elektricitäts­
+zähler selbst oder aber auf dessen Gehäuse muss der Name und
+Wohnort des Verfertigers und die laufende Fabrikationsnummer
+des Apparates angegeben und deutlich ersichtlich sein.
+Zulässig ist es, auch den Namen und Wohnort des Ver­
+käufers des Messapparates anzuführen.
+30. Die Abweichungen der Angaben des Elektricitäts­
+zählers von den Sollangaben desselben bei 100, 50 und 10 Pro­
+cent der grössten Belastung dürfen im Mehr oder Weniger höch­
+stens 4 Procent der Sollangabe und zwar bei 15° C. betragen
+(Fehlergrenze, Aiehtoleranz).
+Bei Wechselstromzählern bezieht sich diese Toleranz so­
+wohl auf die inductionsfreie Belastung, als auch auf eine bei der
+praktischen Verwendung des Eloktricitätszählers zu erwartende
+Phasenverschiebung.
+31. Der Elektricitätszähler muss, wenn seine grösste Strom­
+stärke 3 Ampere beträgt, bei 3 Procent, wenn seine grösste
+Stromstärke höher ist, bei 2 Procent seiner grössten Belastung
+sicher angehen.
+32. Der Elektricitätszähler darf in unbelastetem Zustande,
+aber bei angeschlossener Spannung, nicht mehr als r/io Procent
+jener Angabe registriren, welche er in gleicher Zeit bei voller
+Belastung gemacht hätte.
+33. Elektricitätszähler bis zu einer Stromstärke von ein­
+schliesslich 150 Ampere müssen, um der amtlichen Prüfung und
+Beglaubigung zugeführt werden zu können, für eine der nach­
+benannten Stromstärken, und zwar für 3, 5, 10, 15, 30, 50, 100
+150 Ampere construirt sein.
+Für Elektricitätszähler mit höheren Stromstärken sind be­
+stimmte Stromstufen nicht vorgeschrieben.
+34. Auf dem Gehäuse des Elektricitätszählers ist die amt­
+liche Typennummer in römischen Ziffern deutlich ersichtlich zu
+machen.
+VII. Stempelung der Elektricitätszähler (Ver­
+kehrsinstrumente).
+35. Elektricitätszähler, welche bei der aichamtlichen Ueber-
+piiifung den in den Abschnitten V und VI angeführten Bedin­
+gungen entsprechen, werden unter Verwendung einer oder meh­
+rerer Plomben amtlich derart geschlossen, dass eine Eröffnung
+der Elektricitätszählergehäuse ohne Verletzung des Plomben­
+verschlusses nicht möglich ist.
+Jede hiebei verwendete Plombe trägt auf einer Seite das
+Stempelzeichen der k. k. Aichstation für Elektricitätszähler und
+AVasservorbrauchsmesser in Wien,
+auf der anderen Soite die Jahres- und Monatszahl der Beglaubigung.
+An demselben Plombenverschlusse wird ein Metallplättchen
+befestigt, auf welchem die amtliche Protokollzahl und die Jahres­
+zahl ersichtlich gemacht ist, und auf welchem auch die Giltig­
+keitsdauer des Aichstempels durch die Bezeichnung ,,2 J. 1£, „3 J.“
+etc. (2 Jahre, 3 Jahre) zum Ausdrucke kommt.
+VIII. Befundschein.
+36. Zu jedem aichamtlich beglaubigten Elektricitätszähler
+wird ein Befundschein ausgefertigt, dessen Text der betreffenden
+Elektricitätszähler-Type besonders angepasst ist.
+Die Vorderseite des Befundscheines enthält insbesondere
+nachstehende Angaben:
+a) die Fabricationsnummer des Apparates, die amtliche Typen­
+nummer und Protokollszahl;
+b) für welche Stromgattung und für welches Leitersystem der
+Elektricitätszähler bestimmt ist;
+c) bei Elektricitätszählern, deren Temperaturcoefficient grösser
+als 1 /io Procent pro lo C. ist, die näherungsweise Angabe
+der Abhängigkeit der Constante von der Temperatur;
+d) die Constante (vergl. Abschnitt I, Punkt 2);
+e) die Bestätigung der entrichteten Aichgebür;
+/) die Giltigkeitsdauer des Befundscheines.
+Weiters enthält jeder Elektricitätszähler-Befundscliein die
+ausdrückliche Bestimmung, dass der Stromlieferant verpflichtet
+ist, dem Stromconsumenten über dessen Verlangen jederzeit Ein­
+sicht in den Befundschein zu gewähren.
+Die Rückseite des Befundscheines enthält eine kurze Be­
+lehrung über die praktische Verwendung des Elektricitätszählers.
+Es gelangen definitive und im Sinne der Bestimmungen
+des Abschnittes V, Punkt 21, auch provisorische Befundscheine
+(mit der ausdrücklichen Ueberschrift „Provisorischer Befundschein“)
+zur Ausgabe.
+Ist der Partei der zu einem Elektricitätszähler gehörige
+Befundschein in Verlust gerathen, oder ist derselbe unbrauchbar
+geworden, so kann um die Ausstellung eines Duplicates desselben
+bei der k. k. Aichstation für Elektricitätszähler und Wasserver­
+brauchsmesser in AVien angesucht werden.
+Die für jedes einzelne Duplicat erforderliche Stempelmarke
+im Werthbetrage von zwei Kronen ist dem stempelpflichtigen Ge­
+suche beizuschliessen, und ist in der Eingabe die amtliche Pro­
+tokollzahl, unter welcher der Elektricitätszähler zur Beglaubigung
+gelangt ist, die Typen- und Fabricationsnummer des Apparates
+und der Name und der Wohnort des Verfertigers des Elektrici­
+tätszählers anzugeben.
+Für die Ausstellung eines Duplicates ist, falls der Original-
+Befundschein nicht vorliegt, ein Betrag von sechzig Heller, falls
+derselbe vorhanden ist, ein Betrag von zwanzig Heller zu ent­
+richten.
+IX. GiltigkeitsdauerdosAichstempelsaufElek-
+tricitätszählern, bezieh ungsweiseGiltigkeits-
+dauer des Befundscheines.
+37_. Die Giltigkeitsdauer des Aichstempels auf in Hinkunft
+zur amtlichen Beglaubigung gelangenden Elektricitätszählern und
+hiemit auch die Giltigkeitsdauer des zugehörigen Befundscheines
+erlischt, die definitive Zulassung der bezüglichen Eloktricitäts-
+zähler-Type vorausgesetzt, mit Ablauf von drei Jahren, vom
+Tage der Ausfertigung des Befundscheines an gerechnet, falls
+nicht im zugehörigen Befundscheine im Sinne der Bestimmungen
+des Punktes 41 dieses Abschnittes eine andere Giltigkeitsdauer
+amtlich festgesetzt ist (vergl. auch Abschnitt VII, Punkt 35,
+letzten Absatz),
+38. Sofern eine Elektricitätszähler-Type im Grunde der
+Bestimmungen des Abschnittes V, Punkt 21, provisorisch zur
+amtlichen Beglaubigung zugelassen worden ist, erlischt die
+Giltigkeit des Aichstempels, beziehungsweise des provisorischen
+
+Nr. 47.
+ZEITSCHRIFT FÜR' ELEKTROTECHNIK.
+Seite 569.
+Befundscheines mit Ablauf von zwei Jahren vom Zeitpunkte dor
+Ausstellung des provisorischen Befundscheines an gerechnet.
+39. Der Austausch provisorischer Befundscheine gegen do-
+finitivo Befundscheine findet nicht statt.
+40. Jene Parteien, welche um die Zulassung neuer Elek-
+tricitätszähler-Typen zur amtlichen Beglaubigung bittlich werden,
+sind für den Fall dor definitiven Zulassung der bezüglichen
+EJektricitätszähler-Type verpflichtet, vor Ablauf von drei Jahren,
+vom Zeitpunkte der definitiven Zulassung an gerechnet, mindest
+40 Stück geaichter und in Verwendung stehender Verkehrs­
+instrumente dieser Type nach freier Wahl der k. k. Aichstation
+für Elektricitätszähler und Wasserverbrauchsmesser in Wien
+dieser Aichstelle behufs amtlicher Ueberprüfung, welche in diesem
+Falle gobürenfrei erfolgt, jedoch nicht eine amtliche Stempelung-
+in sich schliesst, zur Verfügung zu stellen.
+Die betreffenden Verkehrsinstrumente müssen einen unver­
+letzten amtlichen Plombenverschluss aufweisen, und hat überdies
+die Partei den Nachweis zu erbringen, dass die Elektricitätszähler
+mindest zwei Jahre thatsächlich in Verwendung gestanden sind.
+41. Uober das Resultat dieser Ueberprüfung und unter
+Berücksichtigung der bei der aichamtlichen Behandlung der
+Verkehrsinstrumente der betreffenden Elektricitätszähler-Type im
+allgemeinen gemachten Erfahrungen erstattet die k. k. Aichstation
+für Elektricitätszähler und Wasserverbrauchsmesser Bericht an
+die k. k. Normal-Aichungs-Commission, und entscheidet sodann
+der Director der letztgenannten Behörde, ob die normal dreijährige
+Gültigkeitsdauer des Aichstempels für Verkehrsinstrumente dieser
+Type, welche weiterhin zur Beglaubigung gelangen, für die Folge
+zu belassen, zu verlängern oder zu verkürzen sein wird.
+Dem Director der k. k. Normal-Aichungs-Commission bleibt
+hiebei auch das Recht Vorbehalten, für den Fall, als die vor­
+erwähnte Erprobung ein gänzlich ungünstiges Resultat ergeben
+sollte, die Zulassung der betreffenden Elektricitätszähler-Type zur
+aichamtlichen Behandlung zu widerrufen.
+Die bezüglichen Entscheidungen sind jedoch nicht rück­
+wirkend und treten jeweilig erst mit dem Zeitpunkte der Verlaut­
+barung derselben im Reichsgesetzblatte (vergl. Abschnitt V,
+Punkt 25) in Kraft und finden demgemäss auf die vor der eben
+erwähnten Verlautbarung geaichten Verkehrsinstrumente für die
+Dauer der Gültigkeit der zugehörigen, bereits ausgestellten Bo-
+fundseheine, keine Anwendung.
+42. Die vorerwähnte Verpflichtung zur Uebergabe von
+mindest 40 Stück Verkehrsinstrumenten zur gebiirenfreien Ueber-
+prüfüng obliegt auch jenen Parteien, welche seinerzeit um die
+Zulassung der gegenwärtig amtlich bereits zugelassenen Elektri-
+citätszähler-Typen (vei-gl. Anhang) eingeschritten sind; die drei­
+jährige Frist zur Anmeldung dieser Verkehrsinstrumente zur
+Ueberprüfung beginnt hinsichtlich bereits zugelassener Elektrici-
+tätszähler-Typen vom Tage des Inkrafttretens dieser Vorschriften.
+43. Von dem Ergebnisse der vorerwähnten Ueberprüfung
+wird die Partei entsprechend in Kenntnis gesetzt, und werden
+derselben die repräsentirten Messapparate in den Amtslocalitäten
+der k. k. Aichstation für Elektricitätszähler und Wasserverbrauchs­
+messer in Wien rückgestellt.
+44. Sollte die Partei im Sinne der Bestimmungen der
+Punkte 40 und 42 dieses Abschnittes der Verpflichtung zur
+Uebergabe von mindest 40 Stück Elektricitätszählern zur amtlichen
+Ueberprüfung innerhalb der vorgeschriobenen Frist nicht nach-
+kommen, oder diese Vorlage auch von Seite eines anderen Inter­
+essenten unterbleiben, so ist der Director der k. k. Normal-
+Aichungs-Commission befugt, den Nachaiehungstennin für die
+Verkehrsinstl-uinonte der bezüglichen Eloktricitätszähler-Type von
+amtswegen auf ein Jahr herabzusetzen.
+X. N a c h a i c h u n g.
+45. Für die Vornahme der Nachaichung eines Eloktricitäts-
+zählers sind, mit Ausnahme der durch dio Bestimmungen des
+Abschnittes I, Punkt 5 normirten Begünstigung, gleichfalls die
+in den Abschnitten V und VI aufgestellten Bedingungen maass­
+gebend und findet bei dieser Amtshandlung der nachstehende
+Gebiirontarif unverändert Anwendung.
+46. Im Grunde der Bestimmungen des Abschnittes IX,
+Punkt 37, wird, im Falle der definitiven Zulassung einer Elek­
+tricitätszähler-Type zur aichamtlichen Beglaubigung, das zugehörige,
+mit einem definitiven Befundscheine vorsehene Verkehrsinstl-üment
+bei Verwendung im öffentlichen Verkehre vor Ablauf von drei
+Jahren, vom Zeitpunkte der Ausstellung des Befundscheines an
+gerechnet, der neuerlichen amtlichen Prüfung, beziehungsweise
+Beglaubigung zuzuführen sein, falls nicht in dem zugehörigen
+Befundscheine im Sinne der Bestimmungen des Abschnittes IX,
+Punkt 41, ein besonderer längerer oder kürzerer Giltigkeitstermin
+des Aichstempels (Nachaichungstermin) festgesetzt erscheint.
+Elektricitätszähler, für welche in Hinkunft provisorische
+Befundscheine zur Ausgabe gelangen werden, sind vor Ablauf
+von zwei Jahren, vom Zeitpunkte dor Ausstellung des provi­
+sorischen Befundscheines an gerechnet, der neuerlichen Be­
+glaubigung zuzuführen.
+Da die zu bisher beglaubigten Elektricitätszählorn gehörigen
+Befundscheine im Sinne der Bestimmungen des Abschnittes I,
+Punkt 2, die vormals festgesetzte Giltigkeitsdauer beibehalten,
+sind die bezüglichen transportablen, mit definitiven Befundscheinen
+versehenen Elektricitätszähler vor Ablauf von zwei Jahren und
+einem Monat, vom Zeitpunkte der Ausstellung des definitiven
+Befundscheines an gerechnet, die mit provisorischen Befund-
+scheinen versehenen transportablen Elektricitätszähler vor Ablauf
+des im bezüglichen provisorischen Befundschein angeführten
+Giltigkeitstermines desselben, der nächsten Aichung zuzuführen.
+Sofern auf bisher ausgegebenen provisorischen Befund­
+scheinen eine kürzere als zweijährige Giltig-keitsdauer derselben
+angegeben ist, erscheint es zulässig, diese provisorischen Befund­
+scheine bei der k. k. Aichstation für Elektricitätszähler und Wasser­
+verbrauchsmesser in Wien zur Verlängerung der Giltigkeitsdauer
+auf zwei Jahre, vom Zeitpunkte dor Ausstellung der Befund-
+schoine an gerechnet, einznbringen.
+Die bezügliche Verlängerung erfolgt gebürenfrei durch
+Uoberdruck der Befundscheine mit dem Stempel „Verlängert auf
+zwei Jahre vom Zeitpunkte der Ausstellung“.
+Die zugehörigen Verkohrsinstrumente sind sonach in diesem
+Falle vor Ablauf von zwei Jahren, vom Zeitpunkte der Aus­
+stellung des Befundscheines an gerechnet, der neuerlichen Be­
+glaubigung zuzuführen.
+XI. G e b ii r e n für die Ueborprüfung nnd Beglaubi­
+gung v o n E 1 e k t r i c i t ä t s z ä h 1 e r n (V e r k e h r s i n s tru-
+in e h t e n).
+47. Für Elektricitätszähler, welche wegen leicht ersichtlicher
+Construetionsmängel von der amtlichen Behandlung zurückgewiesen
+werden, ist eine Mänipulationsgebür von einer Krone pro Stück
+zu entrichten.
+48. Für die amtliche Prüfung und Beglaubigung von Elek­
+tricitätszählern bis zu der Stromstärke von 150 Ampero sind pro
+Stück nachstehende Gebüren zu entrichten:
+a) eine Grundtaxe von vier Kronen;
+b) für je ein Ampere oder ein Hektowatt dor angegebenen
+Maximalbelastung ein Zuschlag von zwölf Hellern.
+Elektricitätszähler für Stromstärken von mehr als 150 Am­
+pere unterliegen der gleichen Gebür wie jene für 150 Ampere.
+49. Für Elektricitätszähler, welche bei der Durchführung
+der Ueberprüfung den für die amtliche Beglaubigung aufgestelltcn
+Bedingungen nicht entsprechend befunden worden, sind pro Stück
+nachstehende Gobiiren zu entrichten:
+a) bei Elektricitätszählern bis zur Stromstärke von einschliesslich
+100 Ampere die vollen sub Punkt 48 angeführten Gebüren,
+das ist Grundtaxe und Zuschlag;
+b) bei Elektricitätszählern in der Stromstärke von über 100 Am­
+pere bis einschliesslich 200 Ampere zwei Drittel der sub
+Punkt 48 angeführten Gebüren, das ist Grundtaxe und
+Zuschlag;
+c) bei Elektricitätszählern in der Stromstärke von über 200 Am­
+pere die Hälfte der sub Punkt 48 angeführten Gebiiron, das
+ist Grundtaxe und Zuschlag.
+In diesem Falle, wie auch falls lediglich dio Manipulatious-
+gebiir (Punkt 47) zu entrichten ist, gelangen die Elektricitäts­
+zähler an die Partei unter Ausstellung eines Rückgabescheines,
+auf welchem die Rückgabe-, beziehungsweise Manipulationsgebür
+amtlich bestätigt wird, zur Ausfolgung.
+50. Die in diesem Abschnitte angeführten Gebären finden
+auf alle Elektricitätszähler Anwendung, zu denen Rückgabe- oder
+Befundscheine zur Ausgabe gelangen, welche vom 3. November 1900
+(Zeitpunkt des Inslebentretons der Aichstation) oder später
+datirt sind.
+51. Die für die amtliche Behandlung der Elektricitätszähler
+entfallenden Gebüren sind nach erfolgter Prüfling, beziehungs­
+weise Beglaubigung dor Verkehrsinstrumente bei der Zahlstelle
+der k. k. Äichstation für Eloktricitätszähler und Wasserverbrauchs­
+messer in Wien zu entrichten, und gelangten sodalln die beamts-
+handolten Messapparato an die Bezugsberechtigten zur Ausfolgung.
+Wien, am 26. Juni 1900.
+Die k. k. Normäl-Aiehungs-Coirtmission:
+Tinter m. p.
+
+Seite 570.
+ZEITSCHRIFT FÜR ELEKTROTECHNHL
+Nr. 47.
+KLEINE MITTHEILUNGEN.
+Verschiedenes.
+Deutsche Kübel in Ostasieu. Durch das am 4. October 1900
+dem Betrieb übergebene Kabel Tsingtau-Tschifu hat das
+deutsche Kiautschou-Gebiet eine von den chinesischen Landlinion
+unabhängige Telegraphenverbindung erhalten, mittelst der der
+Anschluss an das internationale Kabelnetz möglich geworden ist.
+Unter Benutzung des von Tschifu nach Taku gelegten englisch­
+dänischen Kabels ist ein telegraphischer Nachrichtenaustausch
+zwischen Tsingtau und Peking möglich, denn von Tientsin nach
+Peking haben die deutschen in China operirenden Truppen einen
+Draht geschaffen und in der sumpfigen Niederung des Peiho wird
+der telegraphische Verkehr durch Marconi-Apparate mit bestem
+Erfolg vermittelt. Die nächste auf dem Gebiete des Kabelbaues
+zu erfüllende Aufgabe besteht in der Legung eines Kabels
+Tsingtau-Schanghai. Die Arbeit soll beginnen, sobald
+das 715 km lange Kabel, dessen Herstellung die Seekabel­
+werke in Nordenham übernommen haben, fertig gestellt
+ist. Ausserdem schweben laut „II. B.-H.“ Verhandlungen mit
+der japanischen Regierung hinsichtlich der Legung eines Kabels
+von Tsingtau nach Nagasaki. Der Bau beider Linien dürfte schon
+im nächsten Jahre ausgeführt werden. Damit würden zwei ver-
+hoissungsvolle Anfänge für ein grösseres deutsches Kabelnetz in
+Ostasien geschaffen, dessen einer Arm von Schanghai über Fu-
+tschou, Amoy und Swatau zunächst nach Kanton weiter gesponnen
+werden könnte, während in der Linie nach Nagasaki der Stamm
+zu einer telegraphischen Verbindung mit dem grossen deutschen
+Südsee-Inselreich zu erblicken wäre. (Nach dem „Berl. B. C.“).
+Aus (len Entscheidungen des Verwaltungsgericlitsliofes.
+1. Die Eisenbahnunternehmung ist verpflichtet, einen in ihrem
+Eigenthume befindlichen, den Verkehr zu Aufnahms- und Maga­
+zinsgebäuden einer Bahnstation vermittelnden Zufahrtsraum auf
+eigene Kosten zu beleuchten, wenn eine solche Massnahme durch
+den infolge ihres Betriebes entstandenen starken Ver­
+kehr erfordert wird.
+2. Einen bezüglichen Auftrag an die Eisenbahnuntornehmung
+zu erlassen, ist die Gemeindebehörde competent.
+1. Nach§ 75 des Wasserrechtsgesetzes (Böhmen) ist
+die Competenz der politischen Behörden auf den Kreis jener
+wasser rechtlichen Angelegen beiten eingeschränkt,
+welche unter die Bestimmungen dieses Gesetzes über die Be­
+nützung, Leitung und Abwehr der Gewässer fallen.
+2. Die Bestimmungen des Wasserrechtsgesetzes finden auf
+eine lediglich der Entwässerung von Bauobjecten dienende Canal­
+anlage keine Anwendung. (Erkenntnis des k. k. Verwaltungs­
+gerichtshofes vom 14. September 1898, Z. 4895, V. G. II.-Erkennt­
+nisse Nr. 11945.)
+Aus den Entscheidungen des Obersten Gerichtshofes.
+Die im§ 10, lit. b) der Ministerial Verordnung vom 14. Sep­
+tember 1854, R. G. Bl. Nr. 238 (Eisenbahn-C oncessions-
+gesetz), normirte Verpflichtung der Eisenbahnunternehmnng
+zur Vergütung des Schadens ist nicht an die im 30. Hauptstücke
+des II. Theiles des allgemeinen bürgerlichen Gesetzbuches über
+den Schadenersatz festgesetzten Voraussetzungen gebunden. Die
+Eisenbahnunternehmung ist vielmehr verpflichtet, allen durch den
+Bau der Bahn veranlassten Schaden auch in dem Falle zu er­
+setzen, als sie keinerlei Verschulden trifft. (Entscheidung vom
+24. Jänner 1900, Z. 16931 ex 1899.)
+Die Unterlassung der gemäss§ 29 des Gesotzes vom
+28. Deeember 1887, R. G. Bl. Nr. 1 ex 1888, vom Betriebsunter­
+nehmer oder Betriebsleiter zu erstattenden Ünfallsanzeige an die
+politische Behörde erster Instanz kann eine Schadenersatzpflicht
+des Unternehmers für den Verlust der dem Versicherten wegen
+des Betriebsunfalles nach dem erwähnten Gesetze sonst gebürenden
+Entschädigungsrente begründen. (Entscheidung vom 7. Februar 1900,
+Z. 16507 ex 1899.)
+Neuer Benzinmotor (1er Firma Ganz& Comp. Professor
+Donat B a n k i hat einen Benzinmotor construirt und patentiren
+lassen, der alle Vorzüge der Benzinmotoren in sich vereinigt und
+wesentlich weniger Benzin verbraucht, als alle anderen bisher
+bekannten Constructionen.
+Der Motor ist stehend angeordnet, eincylindrig und arbeitet
+im Viertakt; das Benzin wird durch den in das Saugrohr ein­
+gebauten Banki-Czonk a’schen Apparat zerstäubt und ein­
+gesaugt; zur Zündung dient ein durch eine Benzinlampe erhitztes
+Glührohr; die Regulirung geschieht durch das Offenhalten des
+Auspuff Ventils, während das Säugventil geschlossen bleibt.
+Die Neuorung an dem Banki-Motor besteht darin, dass
+zerstäubtes Benzin mit Luft und zerstäubtem Wasser in den
+Cylinder angesaugt wird, wodurch das explosive Gemisch während
+der Compression derart abgekühlt wird, dass eine, das gewöhn­
+liche Maass weit überschreitende Maximalspannung erreicht
+werden kann, ohne dass man eine vorzeitige Entzündung zu be­
+fürchten hätte.
+Die Herren Professor K. F. J o n as und Banki haben
+mit einem Banki-Motor von 20 PS eingehende Experimente durch­
+geführt, bei welchen der Motor verschiedenartig belastet und
+unbelastet gelaufen ist. Die Versuche ergaben, dass der Banki-
+Motor nur 0-23 leg Benzin pro Pferdekraft und Stunde, und 12 l
+Kühlwasser pro Pferdekraft und Stunde, also halb so viel wie
+ähnliche Motoren verbraucht, dass er ruhig, gleichmässig und
+stossfrei läuft und dass sein Benzinverbrauch sich nahezu in dem
+Verhältnisse verringert, in welchem man den Motor weniger
+belastet.
+Besonders wichtig ist, dass der Banki-Motor nicht nur mit
+Benzin, sondern auch mit jedem Mineralöl, dessen speeifisches
+Gewicht kleiner ist als 770», also auch mit Petrolin mit demselben
+geringen Consum betrieben werden kann.
+Nach diesem Patent ist bereits von der Firma Ganz& Co.
+für Mühlen-, Werkstätten-, elektrische und verschiedenartige
+Fabriks-Betriebe eine Anzahl Banki-Motoren verschiedener Grosso
+geliefert worden, welche tadellos functioniren und den ausser­
+ordentlich geringen Benzinverbrauch bestätigen.
+Ausgeführte und projectirte Anlagen
+Oesterreich-Ungarn.
+a) Oesterreich.
+Arnau. (Elektrische Kleinbahn von Amau
+nach Königinhof.) Das k. k. Eisenbahnministerium hat
+dem Bezirksausschuss in Arnau die Bewilligung zur
+Vornahme technischer Vorarbeiten für eine elektrisch zu be­
+treibende normalspurige Kleinbahn von der Station
+A r n a u der k. k. österr. Nordwestbahn über Ober-Döberney,
+Nemans und Werdek zur Station König inhof der k. k.
+priv. Süd-Norddeutschen Verbindungsbahn im Sinne der beste­
+henden Normen auf die Dauer eines Jahres ertheilt.
+Graz. (Die Concessionirung mehrerer mit
+elektrischer Kraft zu betreibenden normal-
+spurigen Kleinbahnlinien in Graz und Umgc-
+bung.) Das k. k. Eisenbahnministerium hat auf Grund und in
+Gemässheit der Bestimmungen des Gesetzes über Bahnen niederer
+Ordnung vom 31. December 1894, R. G. Bl. Nr. 2 ex 1895, im
+Einvernehmen mit den betheiligten k. k. Ministerien und dem
+k. und k. Reichs-Kriegsministerium, der Grazer Tramway-Ge­
+sellschaft in Graz die angesuchte Concession zum Baue und Be­
+triebe mehrerer mit elektrischer Kraft zu betreibenden normal-
+spurigen Kleinbahnlinien in Graz und Umgebung und zwar:
+1. von der Reiterkaserne durch die Leonhardstrasse bis
+zum Linienamte;
+2. vom Centralfriedhofe nach Puntigam;
+3. von der Annenstrasse nächst dem Südbahnhofe durch
+die Eggenbergerstrasse und Georgigasse bis zum Curhause in
+Eggenberg mit einer Abzweigung von der Georgigasse nach
+Wetzelsdorf und
+4. vom Lendplatze nach G ö s t i n g ertheilt.
+Ferner wird der Grazer Tramway-Gesellschaft das Recht
+eingeräumt, für den Fall eines anstandslosen Ergebnisses der
+diesbezüglich nach den bestehenden Normen durchzuführenden
+commissionellen Prüfung eine mit elektrischer Kraft zu betrei­
+bende normalspurige Kleinbahnlinie von der Wickenburggasse
+durch die Körösistrasse oder auf einem anderen geeigneten Wege
+nach Andritz zu bauen und zu betreiben.
+Die Dauer der im Artikel V, lit. d), des obigen Gesetzes
+vorgesehenen Steuerbefreiungen wird mit 15 Jahren, von 1900
+an gerechnet, festgesetzt.
+Die Gesellschaft ist verpflichtet, den Bau der im Eingänge
+unter Zahl 1 bis 4 bezeichneten Kleinbahnlinien binnen längstens
+einem Jahre zu vollenden und die fertigen Bahnlinien dem
+öffentlichen Verkehre zu übergeben. Der Bautermin für die
+Kleinbahnlinie nach Andritz wird seinerzeit vom k. k. Eisenbahn­
+ministerium festgesetzt werden, und hat die Gesellschaft sich den
+diesfalls zu treffenden Bestimmungen zu unterwerfen.
+Alle im Eingänge bezeichneten Kleinbahnlinien sind während
+der ganzen, bis zum 31. December 1948 währenden Concessions-
+dauer in ununterbrochenem Betriebe zu erhalten.
+Der Gesellschaft wird zur Ausführung der concessionirten
+Kleinbahnlinien das Recht der Expropriation nach den Bestim­
+mungen der einschlägigen gesetzlichen Vorschriften ertheilt.
+
+Nr. 47.
+Seite 571.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Soweit zur Anlage der concessionirten Kleinbahnlinien
+öffentliche Strassen in Anspruch genommen werden, hat die Ge­
+sellschaft die Zustimmung der zur Erhaltung dieser Strassen
+Verpflichteten einzuholen. (Vergl. H. 47, S. 556, 1900.)
+b) Ungarn.
+Budapest. (Projectirte Linie Kettenbrücke—
+Rudasbad der Budapester Strassenbahn [elek­
+trischer Betrieb.]) Hinsichtlich des Projectes der Linie
+vom rechtsseitigen (Ofner) Kopfe der Kettenbrücke bis zum
+städtischen Rudasbade sind vier Varianten aufgetaucht. Nach der
+ersten würde die Trace der neuen Linie auf dem unteren Quai­
+plateau, nach der zweiten aber auf einem Viaducte zu führen
+sein, nach der dritten würde beim Brückenköpfe ein Tunnel zu
+bauen, und endlich nach der vierten Variante die Linie entlang
+des Schlossgartenquais und über die Länczhidgasse zu richten
+sein. Der hauptstädtische Baurath hat sich für das Project mit
+dem Tunnel beim Brückenköpfe ausgesprochen; nachdem aber
+die Budapester Strassenbahn-Actiengesellschaft nachwies, dass sie
+hiezu nicht verpflichtet werden kann, was auch die juristische
+Abthoilung der Commune bestätigte, so hat der Gemeinderath
+beschlossen, in einer an den Handelsminister zu richtenden Ein­
+gabe die vierte Variante zu befürworten, darnach also die neue
+Linie entlang des Schlossgartenquais und durch die Lsinezhid-
+gasse geführt werden soll., M.
+(W inte r fahr Ordnung der Budapester elek­
+trischen Stadtbahn.) Der Gemeinderath hat die Winter­
+fahrordnung der Budapester elektrischen Stadtbahn genehmigt.
+Die Fahrordnung der neuen Donauuferlinie wurde derart fest­
+gesetzt, dass der Endpunkt vom Akademiegebäude nach dem
+Petöfiplatz verlegt wird, so dass für die genannte Linie die für
+die vom Akademiegebäude abgehenden Wagen gütige Fahr­
+ordnung eingeführt ist. M.
+Szatmär. (Eröffnung der Szatmirer elek­
+trischen Strassenbahn.) Die Szatmär- Erdöder
+schmalspurige Eisenbahn-Actiengesellschaft
+hat ihre im Intravillan der königlichen Freistadt Szatmar
+liegende Theilstrecke auf elektrischen Betrieb eingerichtet. Ein
+Thoil der ausgebauten Strecke wurde am 8. November I. J. dem
+öffentlichen Verkehre übergeben. M.
+Geschäftliche und finanzielle Nachrichten.
+Berliner Elelctricitiits-Werke. Der Rechenschaftsbericht
+pro 1899/1900 bemerkt einleitend, dass der neue Vertrag mit der
+Stadt, der nunmehr ein volles Geschäftsjahr hindurch in Kraft
+gewesen ist, die Entwickelung des Unternehmens nicht beein­
+trächtigt hat. In den Berliner Centralen allein ist die Strom­
+erzeugung um 53% gegen das Vorjahr auf 52,014.612/fW'-Std.
+gestiegen. Trotzdem bleibt die Dividende procentual hinter der
+des Vorjahres zurück, nicht allein infolge der Wirkungen dieses
+Vertrages, der den Consumenten erhebliche Erleichterungen und
+der Stadt wesentlich höhere Gewinne gewährt, als deswegen,
+weil das doppelte Capital, für die Actien neuer Emission freilich
+nur mit dem halben Procentsatz, am Reingewinn Theil nimmt,
+und überdies die neue Anleihe einen bedeutenden Zinsaufwand
+beanspruchte.
+Bis zu welcher wirthschaftlichen Vollendung die Anlagen
+gediehen sind, zeigt der Vergleich der Stromerzeugungs­
+kosten der Elektricitäts-Werke deutscher Städte über 100.000
+Einwohner. Nach derselben hatten die gesellschaftlichen Werke
+die geringsten Selbstkosten pro nutzbar abgegebene Kilowatt­
+stunde. Diese betrugen 1898/99 exl. Verzinsung und Amortisation
+4'89 Pfg., während der mittlere Erzeugungspreis in Werken, deren
+Betrieb durch Privatgesellschaften geführt wurde, auf 9'993 Pfg'.,
+dagegen bei den städtischen Worken mit Regiebetrieb auf
+16'233 Pfg. sich stellte. Wiewohl der Stromtarif für gewerbliche
+Zwecke völlig in das Ermessen der Gesellschaft gestellt ist, hat
+sie nach wiederholter Erwägung von einer allgemeinen Preiser­
+höhung für Betriebskraft, die hauptsächlich das Kleingewerbe
+treffen würde, einstweilen Abstand genommen in der Erwartung,
+dass die ungewöhnliche Preissteigerung des Feuerungsraaterials
+eine vorübergehende Calamität sei. Nur für den technisch und
+wirthschaftlich übermässig belastenden Betrieb von Fahr­
+stühlen, welcher seiner Billigkeit und Bequemlichkeit wegen
+bedeutenden Umfang gewonnen hat, wurde die Zahlung einer
+jährlichen Grundgebür eingeführt. Der Widerstand, den diese
+Bestimmung bei einigen Interessenten fand, veranlasste den
+Magistrat, dieserhalb mit der Gesellschaft in Verbindung zu treten.
+Im Interesse der Beziehungen zu den städtischen Körperschaften
+hat sich die Gesellschaft bedingungsweise bereit erklärt, die
+Höhe der Grundtaxe nach der Grösse der zur Verwendung ge­
+langenden Motoren zu berechnen. Die neuen Centralen haben
+schon bei Betriebseröffnung mit einer genügenden Belastung zu
+rechnen und dürften die Stromentnahmen mit der fortschreiten­
+den Erweiterung der Anlagen voraussichtlich allenthalben Schritt
+halten. Schon in dem verflossenen Jahr, in dem sich die Gesell­
+schaft lediglich auf das ältere Gebiet beschränkte und in diesem
+sogar viele Anträge wegen Ueberlastung der Anlagen zurück­
+stellen musste, ist die Zahl der Berliner Stromabnehmer von
+6093 auf 6683 und die der Hausanschlüsse von 3771 auf 4160
+gestiegen; aus diesen entnahmen 303.304 Glühlampen, 12.396 Bo­
+genlampen, 4964 Motoren und 676 verschiedene Apparate ein
+Stromäquivalent von 36.350 KW (727.000 Normallampen). Der
+Zuwachs gegen das Vorjahr beziffert sich auf 35.100 Glühlampen,
+1384 Bogenlampen, 1106 Motoren und 109 Apparate gleich 4920 KII';
+ausserdem beanspruchte der Bahnbetrieb ca. 8000 PS. Die elek­
+trische Strassenbeleuchtung wurde auf einen weiteren Theil der
+Leipzigerstrasse und die verkehrsreicheren Wege des Thiergartens
+ausgedehnt; diesem Zweck dienen nunmehr im Weiehbilde der
+Stadt 414 Bogenlampen und 112 Glühlampen mit zusammen
+276 KW. Nutzbar abgegeben wurden allein aus den Berliner
+Centralen 42,427.244 A'IF-Std. gegenüber 28,863.947 ADF-Std. im
+Vorjahr; von dem Zuwachs entfallen 10,002.832 auf den Bahn­
+betrieb. Von dem gesammten Verbrauch absorbirte das Licht
+28%, die Betriebs.kraft 24% und der Bahnbetrieb 48%;
+der durchschnittlich erzielte Preis betrug 2P55 Pfg. Zur Ver­
+sorgung von Berliner Vororten sind im verflossenen Jahre zu den
+bereits am 1. April 1899 übernommenen Werken an der Ober­
+spree zwei kleinere Anlagen in Spandau und Pankow
+hinzugetreten, die nach Fertigstellung der Centrale am Südufer
+den Betrieb theils einstellen, theils aushilfsweise fortführen
+sollen. Diese Centralen versorgten zusammen 506 Anlagen mit
+13.080 Glühlampen, 915 Bogenlampen und 800 Motoren mit einer
+Gesammtleistung von 6322 PS, ferner 1245 Glühlampen und
+34 Bogenlampen der öffentlichen Beleuchtung. Der Stromabsatz
+derselben betrug 7,587.036 K IF-Std. Die Summe der Ein­
+nahmen aus der Stromlieferung aller Centralen
+belief sich auf 9,783.867 Mk. Es betrug die Stromlieferung
+für Private 11,201.660 (i. V. 10,143.377), Strassenbe-
+leuchtung 881.811 (i. V. 484.591), gewerbliche Anlagen
+17,240.284 (i. V. 7,758.662) und für Strassenbahnen
+20,169.484 (i. V. 10,166.652).
+Ueber die Bauthätigkeit der Gesellschaft
+wird berichtet, dass von drei 4000 pferdigen Dampfdynamos in
+der Primärstation an der Oberspree bereits zwei im Betriebe
+sind, während die dritte Ende November laufen soll; in der
+Centrale am Südufer ist eine Maschine betriebsfertig, während
+die Montage der zweiten und dritten der Vollendung entgegen­
+schreitet. Da die Leistung dieser Maschinen in absehbarer Zeit
+voll beansprucht sein wird, so sind für jede Station die vierten
+Maschinen als Reserve in Auftrag gegeben; sie können im Herbst
+künftigen Jahres in Thätigkeit treten. Die Centrale Oberspree
+wird die Unterstationen Mariannen- und Pallisadenstrasse, die
+Centrale Südufer die Volta-, Königin Augusta- und Wilhelms-
+havener Strasse mit Strom versorgen. Die Leistungen dieser An­
+lagen werden im ersten Ausbau betragen: 25.250 KW. Die Aus­
+rüstungen der Unterstationen Mariannen- und Pallisadenstrasse
+sind so weit vorgeschritten, dass die Stromlieferung für Licht
+und Kraft bereits aufgenommen werden konnte, mit der Lieferung
+für Bahnbetrieb denkt die Verwaltung von der Mariannenstrasse
+aus im Herbst zu beginnen; die Kabelnetzo für beide Stationen
+sind vollendet. Auch in der Voltastrasse hofft die Verwaltung den
+Betrieb für Licht, Kraft und Bahn noch im October zu eröffnen.
+Der Bedarf an Elektricität im Thiergartenviertel, sowie dem süd­
+lich angrenzenden Gebiet wächst so lebhaft, dass die LeistungSr
+fähigkeit der schon im letzten Jahre erweiterten Centralo Königin
+Augustastrasse 36 demselben nicht mehr genügte und noch eine
+Erweiterung derselben vorgenommen wurde.
+Zur Versorgung des Hansaviertels und von Moabit wurde
+das Grundstück Wilhelmshavenerstrasse 11 erworben. Obwohl die
+Gebäude zqy Aufnahme der Maschinen bereitstehen, wird die
+Gesellschaft kaum in der Lage sein, den dort an sie gestellten
+zahlreichen Anträgen in diesem Winter zu entsprochen, da die
+Genehmigungen zur Kabelverlegung noch nicht erthoilt sind.
+Zur Verstärkung der Leistung der alten Stationen wurden iir der
+Centrale Spandauerstrasse drei Umformer von je 400 KW aufge­
+stellt, welchen der Primärstrom vorläufig aus der Centrale Schiff­
+bauerdamm zugeführt wird. Die Accumulatorenbatterie von
+2000 PS in letzterer Station befindet sich bereits in Thätigkeit,
+während die Aufstellung der dritten Dampfdynamomaschino von
+3000 PS für Licht-, Kraft- und Bahnbetrieb (Luisenstrasse) der
+Vollendung entgegengeht. Die Gesammt länge der i m
+Weich bilde Berlins verlegten Kabel, welche am
+
+Seite 572.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 47.
+Schlüsse des vorigen Betriebsjahres 1790 km bei 230 kjp, Häuser­
+front. betragen hatte, ist im Laufe des verflossenen Jahres auf
+226.5 km bei 26.3 km Häuserfront gewachsen; von den insgesammt
+verlegten Kabeln entfallen 381 km auf das Bahnnet? gegen 251 km
+im Vorjahr.
+Der Rau der für den Süden und Nordosten von Berlin
+noch zu errichtenden Unterstationen wird vielleicht schon im
+künftigen Jahre in Angriff genommen werden. Zur Bestreitung
+der Kosten für diese Bauten wurde im Januar d. J. eine 4V2°/o
+Anleihe von 20,000.000 Mk. emittirt. Der gesammte Betrag wurde
+von dem Fioanzeonsortium al pari fest übernommen.
+Der Gewinn aus Betrieb, Elektromotoren, Uhren, Hausan-
+schlüssen, Lampen und Elektricitätsmessermiethen beziffert sich
+auf 5,742.920 Mk. (i. V. 4,834.920 Mk.) und mit Hinzurechnung
+des Vortrages und Diverse insgesammt 6,131.354 Mk. (i. V.
+5,136.797 Mk.). Für die Amortisation der Elektrici-
+tätsmesser war die Erwägung bis dahin massgebend, dass
+die Einführung eines vollkommeneren Systems unabweislich sei,
+und es musste deshalb der Werth der alten Apparate mit dem
+etwa hieraus erzielenden Verkaufspreis in Einklang gebracht
+werden. Nachdem die Aufnahmen jetzt ergeben, dass unter Be­
+rücksichtigung der diesjährigen Abschreibungen der Anschaft'ungs-
+werih der neuen Elektricitätsmesser allein den Buchwerth aller
+in dem Betriebe verwandten übersteigt, erachtet die Verwaltung
+250/o Abschreibung für ausreichend. Es verbleibt ein Rein­
+gewinn von 2,810.341 Mk. (i. V. 2,761.287 Mk.). Hiervon wer­
+den überwiesen dem Reservefonds 139.351 Mk. (i. V. 137.564 Mk.).
+Als Gewinnantheil der Stadt Berlin 651.838 Mk. (i.V. 373.148 Mk.).
+Die Tantieme des Aufsichtsrathes beträgt 49.392 Mk. (i. V.
+95.098 Mk.). Als Gratification für die Beamten, Dotation der
+Krankencasse und des Pensionsfonds werden verwendet 60.000 Mk.
+(i. V. 95.098 Mk.). Die Actionäre erhalten eine Dividende
+von 10% auf ein Actiencapital von 12,600.000 Mk. und von 5%
+auf dasselbe Capital für ein halbes Jahr mit zusammen 1,890.000 Mk.
+(i. V. 13°/o auf dasselbe Actiencapital für ein Jahr und 6i/s 0 /o
+auf dasselbe Capital für die Zeit vom 4. März bis 30. Juni 1899
+mit zusammen 1,901.970 Mk.). Als Vortrag auf neue Rechnung
+bleiben alsdann 19.759 Mk. (i. V. 23.309 Mk.).
+Der Bericht bemerkt weiters: Um die Kosten der
+Kabelleitungen zu verringern und die Strassendämme und
+Bürgersteige nicht allzu sehr zu belasten, wird die Elektricität
+aus den ömformerstationen mit der doppelten Spannung, ver­
+glichen mit derjenigen, der älteren Stationen, geliefert. Deshalb
+müssen Anlagen, welche zur Entlastung des alten Netzes den
+Strom zukünftig aus den Unterstationen beziehen, von jenem
+abgezweigt und auf die höhere Spannung umgeschaltet werden.
+Da die Tragung dieser Kosten, welche in dem jetzt geplanten
+Umfange ca. 150.000 Mk. erfordern, den Abnehmern billiger­
+weise nicht zugemuthet werden darf, beantragte die Verwaltung
+mit der Begründung, dass durch die Spannungserhöhung die
+Leistungsfähigkeit des Leitungsnetzes verdoppelt, und die Qualität
+der Anlagen wesentlich verbessert wird, ihre Deckung aus dem
+hierfür bestimmten Erneuerungsfonds. Die Verhandlungen hierüber
+schweben noch. Die Verwaltung hofft indessen, dass der Magistrat
+sich ihren Anschauungen anschliessen und dem gestellten Anträge
+entsprechen werde.
+Ueber das neue Ges chäftsjahr bemerkt der Bericht,
+dass in den beiden ersten Monaten des laufenden Geschäftsjahres
+die Stromljeferung aller Centralen 9,183.575 KlP-Std. betrug.
+Hiervon entfallen auf die Berliner Stationen 7,190.715 A’W-Std.
+gegen 4,753.562 AlF-Std. im Vorjahre. Mit Einführung der von
+der Allgemeinen Elektricität s-G esellsehaft jetzt
+in den Verkehr gebrachten Nernstlampe erwartet die
+Gesellschaft trotz ihres geringeren Stromverbrauches einen nam­
+haften Zuwachs des Verbrauches.
+Königsberger Pferdeeisenbalm- Gesellschaft. Bezug­
+nehmend auf unseren ausführlichen Bericht im vorigen Hefte
+S. 548 theilen wir noch mit:
+In der am 3. d. M. stattgehabten, sehr zahlreich besuchten
+Generalversammlung nahm zunächst Director von D r i g a 1 s k i
+das Wort zu einem längeren Vortrage, in welchem er über die
+Verhandlungen mit der Stadtgemeinde wegen der bekannten
+Concessionsangelegenheiten Bericht erstattete und ein Bild über
+die zukünftige Gestaltung des Unternehmens entrollte. Von dem
+Vorsitzenden, Banquier Leo M i c h e 1, wurde sodann eine Darstellung
+der weiteren Gestaltung des Unternehmens in finanzieller Hinsicht
+gegeben. Nach mehrstündiger Debatte wurde der Jahresabschluss
+für 1898/99 genehmigt und Entlastung ertheilt.
+Phoebus Elektricitiits-Actien-Gesellschaft in Berlin.
+Die im Jahre 1899 gegründete Gesellschaft verzeichnet in dem
+am 30. April abgelaufenen ersten Geschäftsjahr einen Brutto­
+gewinn von 156.039 Mk., welchem Generalunkosten von 180.646 Mk.
+und Abschreibungen von 31.003 Mk. gegenüberstehen, so dass
+sich ein Verlust von 55.610 Mk. ergibt. Unter den Activen
+der Bilanz figuriren Wechsel mit 21.846 Mk., Effecten 412.5U0 Mk.,
+Vorräthe 28.039 Mk. und Debitoren mit 496.759 Mk., während
+unter den Passiven Creditoren mit 1,038.421 Mk. verzeichnet
+sind. Das Actiencapital beträgt 1,300.000 Mk.
+Norddeutsche Seekabelwerke Act.-Ges. in Nordenham.
+Die Gesellschaft, von deren zwei Millionen Mark betragendem
+Actiencapital sich die Hälfte im Besitz der Deutsch-Atlantischen
+Telegraphen-Gesellschaft befindet, hat nunmehr den Betrieb, vorerst
+in beschränktem Umfange, in ihren Nordenhamer Gewerberäumen
+eröffnet. Die Herstellung des eigentlichen Kabels erfolgt theil-
+weise vorläufig in Köln in der dortigen Landkabelfabrik, ln
+Nordenham werden nur die Umspinnungsarbeiten zur Zeit aus­
+geführt. (Vergl. S. 147, 1900.)
+Elektricitäts-Actien-Gesellschaft VV. Labmeyer «k Co.,
+Zweigniederlassung 1 Berlin. In das Gesellschaftsregister des
+Berliner Amtsgerichtes 1 ist die Firma Elektricitäts-
+Actiengesellschaft W. Lahmeyer& Co., Zweig­
+niederlassung Berlin eingetragen worden, liauptsitz der
+Gesellschaft ist bekanntlich Frankfurt a. AI. Das Grundcapital
+beträgt 10 Millionen Mark. (Siehe H. 27, S. 331.)
+Siemens& Halske, Actien-GeseUscliai't Berlin. Wie eine
+Spandauer Oorrespondenz meldet, wird auf dem neuen Fabriks­
+terrain der Gesellschaft am Nonnendamm (Unterspree), wo das
+grosse Kabelwerk und eine Gelbgiesserei bereits im Betriebe sind,
+binnen Kurzem der Bau eines Dynamowerkes und einer Eisen-
+giesserei in Angriff genommen. Die gesammte Industrieanlage
+wird zur Beschäftigung von 6000 Arbeitern eingerichtet.
+Ingenieur F. Drexler zeigt uns an, dass er die General­
+vertretung der Maschinenfabrik Oerlikon niedergelegt hat,
+jedoch sich nach wie vor mit der Herstellung elektrischer Kraft-
+und Lichtanlagen befassen und als beh. aut. Maschinenbau­
+ingenieur und Elektrotechniker als Consulent in elektrischen
+Angelegenheiten thätig sein wird.
+Special-Fabrik elektrischer Starkstrom-Apparate Grün­
+wald, Burger& Co. zeigt uns an, dass die Firma den Betrieb
+in ihren bisherigen Arbeitsräumen, XV1IL, Sternwartestrasse 9— 11,
+eingestellt und in der neu erbauten Fabrik Wien, XVI., Ileiger-
+leinstrasse 32—38, eröffnet hat.
+Metall-Marktbericht vonB;randeis, Goldschmidt
+& Co., London, 9. November. Kupfer: In raffinirten Sorten
+fanden diese Woche grössere Abschlüsse statt; auch in Standard
+waren solche grösser. Der Preis hob sich bis 72 Pf. St. 10 sh.
+Gasse und 73 Pf. St. 2 sh. 6 d. per 3 Monate, hat sich jedoch
+nicht behauptet und sehliesst ungefähr gleich der Vorwoche.
+Wirnotiren: Standard Kupfer per Gasse 71 Pf. St. 17 sh. 6 d.
+bis 72 Pf. St. 2 sh. 6 d., Standard Kupfer per 3 Monate 72 Pf. St.
+10 sh. bis 72 Pf. St. 15 sh., English Tough je nach Marke
+75 Pf. St. bis 75 Pf. St. 10 sh., English Best Seiected je nach Marke
+78 Pf. St. bis 78 Pf. St. 10 sh., American and English Cathoden
+Electro 76 Pf. St. bis 77 Pf. St., American and English Electro
+in cakes, ingots and wirebars je nach Marke 76 Pf. St. 10 sh. bis
+77 Pf. St. 10, sh.— Kupfersulpha t: Stetig zu 24 Pf. St. 10 sh.
+— Zinn: hat sich diese Woche in engeren Grenzen bewegt.
+November und December Prompts sind noch immer gesucht. Wir
+notiren: Straits Zinn per Casse 126 Pf. St. 10 sh., bis 127 Pf. St.,
+Straits Zinn per 1 Monat 127 Pf. St. bis 127 Pf. St.
+10 sh., Straits Zinn per 3 Monate 123 Pf. St. 15 sh. bis 124 Pf. St.
+5 sh., Austral Zinn je nach Marke 127 Pf. St. bis 127 Pf. St.,
+10 sh., Lamb und Flag-Zinn 130 Pf. St. 10 sh. bis 131 Pf. St.
+10 sh. Banca-Zinn in Holland 76% fl-, Billiton Zinn in Holland
+76% fl-— Antimon: stetig zu 37 Pf. St. 10 sh. •— Zink:
+besser zu 19 Pf. St.— Blei: ruhig zu 17 Pf. St. 12 sh.
+6 d.— Quecksilber: leblos zu 9 Pf. St. 2 sh. 6 d.— Silber:
+war durchweg schwach und ist langsam auf 293/2 d. zurück­
+gegangen.
+Schluss der Redaction: 13. November 1900.
+Verantwortlicher Redacteur: Dr. J. Sahulka.— Selbstverlag des Elektrotechnischen Vereines.
+Commiesionsverlag bei Spielhagen&Sch urioh, Wien.— Alleinige Inseraten-Aufnahmebei Haasenstein& Vogler (Otto Maass), Wien und Prag
+Bruck von B. Spies& Co,, Wien.
+

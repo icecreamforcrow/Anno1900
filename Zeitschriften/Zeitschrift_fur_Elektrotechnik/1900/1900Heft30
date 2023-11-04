@@ -1,0 +1,1455 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 30.
+Wim, 22. Juli 1900.
+XYIII. Jahrgang.
+Bemerkungen der Redaction: Ein Nachdruck aus dem redaktionellen Theüe der Zeitschrift ist nur unter der Quellenangabe
+•' J-. und hei Originalartikeln überdies nur mit Genehmigung der Redaction gestattet.
+V° n notariellen ist erwünscht und werden dieselben nach dem in der Redactionsordnung festgesetzten Tarife
+Manusckptebekln^tgtglbeTwt^den. '****' (/eWÜnSchtm ^aratdbärücke, welche zum Selbstkostenpreise berechnet iverden, wolle stets am
+INHALT:
+Berechnung von asynchronen Wechselstrommotoren. Von
+J. Fi sch er-Hinnen (Fortsetzung) 357
+Marconi’s Vorgänger. Von Ingenieur Adolf P rasch.
+364
+Kleine M i 11 h e i 1 u n g e n.
+Ausgeführte und projectirte Anlagen 366
+Patentnachrichten
+Geschäftliche und finanzielle Nachrichten 368
+Berechnung von asynchronen Wechselstrommotoren.
+Von J. Fisclier-Hinnen,
+Director der Firma F r. K f 1 z i k in Prag-Karolinenthal.
+(Fortsetzung.)
+sprüngliche Form nach- oder, allgemeiner ge-
+sagt, nach -— Perioden zurückkehrt.
+2 in
+I.
+Ableitung der Hauptformeln.
+1) Die Entstehung des Drehfeldes.
+Der einfachste Weg, die Entstehung der Drehfelder
+zu untersuchen, besteht darin, die oscillirenden statio­
+nären Felder jeder Phase einzeln für verschiedene Zeit­
+momente aufzuzeichnen und dieselben nachträglich durch
+Addition zu einem resultirenden Felde zu vereinigen.
+Der bequemeren Darstellung halber möge die Pol­
+flache zu diesem Zwecke in eine Ebene abgerollt werden.
+Es sollen hier nur zwei charakteristische Fälle
+u. zw. beide unter der Voraussetzung von Dreiphasen­
+strom betrachtet werden. Für Zwei- und mehr als Drei-
+phasen-Wickelungen bleibt die Methode selbstverständ­
+lich die gleiche. Dem ersten Falle legen wir eine Spulen­
+wickelung zugrunde, entsprechend der Fig. 4 mit je
+einer Zacke pro Pol und Phase. Im zweiten Falle sei
+eine fortlaufende Wickelung nach Fig. 7 mit sehr vielen
+Zacken angenommen. Da es sich augenblicklich nur
+darum handelt, vergleichbare Werthe zu erhalten, setzen
+wir die maximale Feldintensität, erzeugt durch eine
+einzelne Phase, gleich 1, desgleichen die Polbrei-te und
+Pollänge.
+Trägt man die Feldintensitäten für die Zeitinter-
+Die Figuren (11 und 12) geben allerdings nur
+ein ungefähres Bild der Feldgestaltung, denn der Ueber-
+gang von einer Zacke zur anderen wird, wie leicht ein­
+zusehenist, nicht plötzlich, sondern zufolge der Streuung
+nur durch allmälige Aenderung der Kraftliniendichte
+erfolgen. Die in den Figuren eingezeichneten schroffen
+Uebergänge existiren also in Wirklichkeit nicht und
+die Feldform nähert sich schon bei verhältnismässig
+geringer Zackenzahl zusehends derjenigen einer Sinu-
+soide. Um die Rechnung so einfach als möglich zu ge­
+stalten, kann man sieh das wirkliche, in seiner Gestalt
+und Grösse (Stärke) mehr oder weniger variable Dreh­
+feld durch ein ideelles sinusförmiges Drehfeld
+von constanter Stärke ersetzt denken.
+Es bedeute:
+-Be= maximale Intensität des Feldes, erzeugt von
+einer einzelnen Phase.
+-B„= maximale Intensität des ideellen Drehfeldes.
+f= maximale Totallinienzahl pro Pol, erzeugt
+durch eine einzelne Phase.
+T— Gesammtfeldstärke pro Pol, erzeugt durch
+sämmtliche Phasen.
+Es lassen sich unter Berücksichtigung der früheren
+Bezeichnungen folgende Formeln anschreiben:
+valle von— Periode auf, so gelangt man zu den beiden
+Schemas (Fig. 11 und 12).
+ß_ 4jt J N 1
+6 10 pqm' 2 8a
+1)
+Wir machen hier eine zweifache Beobachtung:
+Erstens verschiebtsich der Schwerpunkt des com-
+binirenden Feldes, wenn man überhaupt so sagen
+darf, innerhalb 8 Zeitintervallen, d. h. innerhalb
+— Periode um ■- Polbreite, nach einer vollstän-
+o o
+digen Periode mithin um zwei Polbreiten, und
+ferner zeigt eine Betrachtung der Schemas, dass
+das combinirte Feld hei diesem Vorgang ver­
+schiedene Wandlungen erfährt, wobei die ur-
+= kblyB e
+d>
+-B*
+= k' m cp=
+JL JL
+— 2 bly
+47u JN bly
+. kt
+10pq 2 Set.
+kt fN p 4>
+pqS er.
+2y Dl
+2)
+3)
+4)
+Die voranstehenden Formeln, wie auch die nach­
+stehenden sind allgemein und gelten ebensowohl für die
+I primäre, wie secundäre Wickelung, je nachdem man J
+| durch J l oder J 2 und N durch Aj und A r g ersetzt.
+
+Seite 358.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 30.
+TABELLE I. Wertlie von k und t.
+Anzahl Zacken pro Pol
+und Phase
+2 Phasen
+3 Phasen
+k'
+4 Phasen
+Fig. 9
+h'
+6 Phasen
+Fig. 9
+Kurzschluss-
+Armatur
+Fig. 10
+Tc‘
+N_
+pm
+1
+0-81
+079
+0-78
+0-75
+0-5
+0-47
+0-473
+0-477
+0-490
+0-57
+0-52
+1
+0-92
+0-89
+0-84
+0-84
+0-415
+0-431
+0-444
+0-467
+0-467
+0-68
+0-67
+0-50
+0-51
+1
+0-96
+0-94
+0-92
+0-875
+0-411
+0-420
+0-430
+0-440
+0-456
+1
+0-97
+0-96
+0-94
+0-92
+0-420
+0 420
+0-425
+0-434
+0-441
+0-410
+0-410
+0-410
+0-410
+0-410
+a Wicklung mit getrennten Phasen,
+h„„ ineinandergreifenden Phasen.
+TABELLE II.
+Schwankungen der wirklichen Feldstärken über
+oder unter der ideellen.
+Zackenzahl
+pro
+Pol und Phase
+N'
+p ni
+1
+2
+=< 3
+4
+00
+2 P h a 8 e n
+a
+über unter
+n%
+8
+4
+3
+2-7
+21%
+10
+5
+3
+2-7
+über| unter
+%
+3-2
+%
+3-2
+3 P h a s e n
+über] unter
+über unter
+5%
+6
+3
+0-5
+0-2
+8-5o/o
+2-5
+2
+0-5
+0-2
+0-5
+0-5
+werden, nimmt die Streuung bis zu einem gewissen
+Grade, wenigstens mit zunehmender Zackenzahl,
+Die Zackenzahl ist nicht nur von wesentlichem
+Einfluss auf die Curvenform, sondern steht auch im
+engen Zusammenhänge mit der Streuung. Wie wir sehen
+gewis
+ab.
+Ueberdies variirt das Drehfeld umsoweniger in seiner
+Stärke, je mehr Zacken vorhanden sind. Sind aber die
+Schwankungen der mittleren Feldstärken einigermassen
+erheblich, so wird dadurch das Drehmoment und der
+Leistungsfactor ungünstig beeinflusst. (Siehe Tabelle II.)
+2) Elektromotorische Kraft, erzeugt durch Rotation eines
+sinusförmigen Feldes.
+Mit Rücksicht auf die Art der Wickelung haben
+wir folgende hauptsächliche Fälle zu unterscheiden:
+1. Die Spule habe nur eine einzige Windung,
+bestehend aus zwei Drähten (Fig. 13). Die momen­
+tane elektromotorische Kraft ist:
+L.noin
+2 v l Y B s sin to t
+oder da
+D r. n
+10'
+2 Z) 77
+c= 2 b c
+5)
+6)
+60 p
+ist, erhält man die maximale elektromotorische Kraft,
+welche in den beiden Drähten indueirt wird.
+—_ 4 c 5 l'( B s
+IO 8
+= io
+und hieraus die eflective elektromotorische Kraft
+Ol 
+E
+2. Fall: Die
+V2•■
+Spule bestehe
+7)
+8)
+aus einer
+grösseren Zahl von Windungen, die auf— tel
+m
+einer Polbreite vertheilt sind. (Fig. 14.)
+Es bezeichne
+ß= -— den halben Winkel, den die Spule am
+2 m
+Armatur umfange einnimmt,
+a == to I den Winkel, den die Spulenmitte zur beliebigen
+Zeit mit der neutralen Zone einschliesst, so
+ist die momentane elektromotptörische Kraft
+“+ß
+p v B a y I ._ ir p
+9
+Er,
+10 8
+sm
+N
+x d x
+-ß
+1 v H, l Y N
+q 10 8 77
+2 v B a l V N
+q 10 8
+[cos (a—ß)— cos (a -f ß)]
+sin a sin ß
+9)
+Multipliciren wir Zähler und Nenner mit m und
+setzen wir für u,den Werth aus Gleichung (6) ein, so
+erhält man hieraus die eflective Spannung
+E=
+b l Y Hs AD 4 m
+V2
+10 s m q 1%
+<ü N 14 m
+sin
+2 m
+/4m. tc\
+\ t: 2 ml
+4]/2 10 8 V 77" 2
+3. Fall. Die Wickelung umfasse
+10)
+tel
+einer Polbreite. Dieser Fall entspricht der Wickelung
+Fig. 7. Analog dem vorigen Beispiel wird
+E=
+V*
+b l'( B a NI 2 m
+10 8 m q\ 77
+N( 2 m
+12 m. 77\
+sm—-
+\ 77 m!|
+10 8 1 77
+41/2
+Der Klammerausdruck
+2 m
+sin
+/ 2 m
+\ 7t
+sm
+77\/ 4 m
+m) reS P' (—.
+m
+sin•
+ui
+—i
+! m)
+hängt, wie wir gesehen haben, ausschliesslich von der
+Wickelung ab und mag der Kürze halber mit K be­
+zeichnet werden, wobei K aus der nachstehenden
+Tabelle III genommen werden kann. Die efleetive
+elektromotorische Kraft ist also allgemein durch die
+Gleichung gegeben:
+E=~=:
+K cbl'{ B s N
+K u> <ü .V
+y 2 10 8 m q 4J/2 10 8 m q
+12)
+
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 359.
+L
+Fig. 11
+TABELLE III.
+Wert he von K
+Anzahl Zacken
+pro
+Pol und Phase
+1-385
+1-27
+2 Phasen
+2
+1-85
+1-82
+1-81
+1-79
+2-77
+2-54
+3 Phasen
+a I b
+2
+1-93
+1-92
+1-91
+1-91
+1-66
+1-66
+2
+1-96
+1-954
+1-952
+1-94
+2
+1-976|
+1-97
+1-97
+1-97
+2
+1-983
+1-98
+1-98
+1-98
+a Wicklung mit getrennten Phasen,
+b„„ ineinandergreifenden Phasen.
+N
+m=— und
+P
+Anmerkung. Beim Kurzschlussringe ist
+; setzt man dies in Gleichung (12) ein, so erhält man
+P
+'«= 2
+wieder die Gleichung (7).
+3) Begriff der Selbstiuduction.
+Die Gleichung 12 gibt allgemein die
+Spannung an, welche in einer Wickelung
+durch Rotation eines Feldes von der Stärke *1)
+inducirt wird, ohne Rücksicht auf die Art
+und Weise wie das Feld selbst entstanden
+-sein mag. Bezeichnet also beispielsweise <1> die Feld-
+-stärke, welche von den Ampere-Windungen der pri­
+mären
+Wickelung
+erzeugt wird, so erhält man, je
+“[nachdem die primäre oder secundäre Drahtzahl ein­
+gesetzt wird, die elektromotorische Kraft der Selbst-
+induction E s (primär), oder die secundär inducirte
+elektromotorische Kraft E. 2. Umgekehrt ergibt sich die
+elektromotorische Kraft der secundären Selbstinduction,
+indem man in die genannte Gleichung  durch  2
+und N durch N 9 ersetzt.
+it>=
+Nun ist nach Gleichung 3
+4zz JA bl-
+setzt,
+k.le' oder in Gleichung (12) einge-
+10 pq 28«.
+die effeetive EMK. der Selbstinduction
+E a
+Kick'K A 2
+10 9
+K.kk'y
+m q-p
+A 2
+2.10® mq 2 p 2 8 a
+bl‘(\ J
+2 8 a/ j/” 2
+Dl' Je«.
+13)
+Die voranstehende Gleichung erfordert indessen
+noch eine kleine Rectification, da sie der Streuung
+keine Rechnung trägt. In Wirklichkeit ist nämlich E B
+etwas grösser und wird erhalten, indem man die rechte
+Seite der Gleichung (13) mit einem Streuungs-
+coöfficienten v. multiplicirt, der je nach der Construction
+und Wickelung zwischen L03—L09 variirt; für K, Ic und 7c'
+können die Tabellen I und III benützt werden.
+Wir hätten also
+K t h k\ Y
+'s Wi|
+Für
+s ''= a>2( 2.10®
+für die primäre Wickelung:
+A x 2 Dl
+2.10 8 m l q^ 2 p 2 8 a
+Für die secundäre Wickelung:
+Jj —Li 14)
+Ii 2 k 2 7c 1'
+A 2 2
+m 2 q% 2 p 2
+D l
+8 cf.
+J‘i— w 2 J 2 ^2—
+15)
+= g w i L 2 J 2 f
+Bei Kurzschlussankern lässt sich die Gleichung (15)
+noch etwas vereinfachen. Hier ist
+
+Seite 360.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 30.
+Fig. 12.
+Fig. 16.
+
+Nr. 30.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 361.
+X 2— 2 (Tabelle III)
+(Tabelle I)
+P_
+2’
+'= -=—; m
+k 2= 1
+v= 0-41
+= El. und dies in Gleichung 15 eingesetzt,
+V
+E‘
+'= 9^1 i
+1-62Y A 7 2 Dl
+10 8
+81 Y
+p 3 S oc
+A 7 2 DZ
+V2U0
+16)
+wo 1,
+IO 8 p 2 r) V.
+- 2 den Strom pro Draht bedeutet.
+Anmerkung: Es wurde eingangs die Behauptung auf­
+gestellt, dass sieh die Wickelungen mit getrennten Phasen hin­
+sichtlich der Kupfermenge günstiger verhalten, als die Wicke­
+lungen mit ineinandergreifenden Phasen. Der Beweis ist leicht
+an Hand von Gleichung (14) zu erbringen. Unter der Voraus­
+setzung, dass der Erregerstrom und die Eisendimensionen unver­
+ändert bleiben sollen, muss das Product aus K x lr x k\ A'j 2 in
+beiden Fällen gleich sein. Daraus folgt:
+V(getrennte Ph. W. 1E P66■ 0'67. OöL 'W'lyiwflE
+lV(ineinandergr.Ph. W.)\ 1*91. Ü‘84.1/467’
+und
+Kupfermenge (getrennte Ph. W.) ...
+Kupfermenge (ineinandergr. Ph. W.)°
+Der Vortheil neigt sich daher ganz bedeutend auf die
+Seite der Wickelung mit getrennten Phasen.
+4) Feldstärken, elektromotorische Kräfte und Stromstärken.
+Es soll folgende Bezeichnung gelten:
+v? (j>= die Totallinienzahl des primären Feldes,
+incl. der Streuungslinien,
+<[>(= derjenige Theil, welcher in die Armatur
+tritt,
+(p.j= die totale Linienzahl des von der Armatur
+erzeugten secundären Drehfeldes,
+ 2= derjenige Theil, welcher von den primären
+Drähten geschnitten wird.
+Die wirkliche primäre Stromstärke d> m ist somit
+gleich der Resultanten aus v,  2; desgleichen
+entsteht in der Armatur ein resultirendes Feld  a mit
+den Componenten v 2 d> 2 und  2 gleiche
+Richtung wie der Armaturstrom, resp. die secundäre
+Spannung E 2 haben muss und infolge dessen um 90°
+gegenüber  a zurücksteht. Diese Ueberlegung führt zu
+dem Diagramm der Feldstärken (Fig. 15).
+Auf ganz gleiche Weise lässt sich auch das Dia­
+gramm der elektromotorischen Kräfte ableiten (Fig. 16).
+Betrachten wir z. B. den primären Stromkreis, so treffen
+wir hier drei elektromotorische Kräfte an, welche sich
+das Gleichgewicht halten: den Ohm’schen Widerstand
+Jj R u die Klemmenspannung E t und eine dritte Span­
+nung E m, erzeugt durch die Rotation des Feldes T m.
+J, R t ist phasengleich mit Tj, dagegen steht E m um 90°
+zurück.
+Bevor wir an die Ausrechnung der einzelnen
+Grössen schreiten, mag hier eine kurze Bemerkung
+bezüglich des secundären Phasen winkeis 
+tg Ta:
+gegen d>
+v 2 $2
+Multiplicirt man nun Zähler und Nenner mit
+0c, Ag
+4 ]/2 lü 8 m 2 q 2
+so stellt der Zähler die elektromotorische Kraft der
+Selbstinduction (J 2 w, 2 i 2) dar und der Nenner die in-
+ducirte secundäre Spannung E 2= J 2 E 2. Es ist daher
+ebenfalls
+9 w i L 2
+tg »
+COS cp2
+: 4> a ]/" 1 -j- a 2
+>l>a
+<>= X
+V 2
+Dies in die erste Gleichung eingesetzt, ergibt
+1 1 1 Q\
+a= 1>m= 4’^ -77 j 77 19)
+v lV 1+ s 2 »' 2
+1
+-f- (1-)
+rp in ändert sich nur unmerklich mit der Belastung, so
+dass man ohne Bedenken E m (in Fig. 16) mit E t ver­
+tauschen kann. Die Gleichung (12) gibt dann
+4 ]/" 2 10 8 >n 1 9\ Ej
+K x i»! Aj
+. 20)
+Anmerkung: Die genaue Rechnung zeigt übrigens,
+E
+dass das Verhältnis EEL für Belastung zwischen Leerlauf und
+Ei
+Normalstrom zwischen 0‘95—0*98 variirt und im Mittel gleich
+0*97 gesetzt werden kann.
+Während also  m praktisch genommen für alle
+Belastungen constant bleibt, so gilt dies für Ta nur
+in ganz roher Annäherung für die Belastungsgrenzen
+zwischen Leerlauf und Normalgang; beim Anlaufen
+dagegen ist x sehr gross (50—120 und noch mehr), und
+*) Ganz beiläufig mag auch bemerkt werden, dass die
+Grösse x, wie später nachgewiosen werden soll, direct proportional
+der Kupfermenge ist, und infolge dessen einon wichtigen Factor
+für die Bestimmung der Armaturwickelung bildet.
+
+Seite 362.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 30.
+, sinkt daher auf den 5. bis 15. Theil seines Normal­
+betrages herunter. Dieser Umstand bat bekanntlich
+Dobrowolsky darauf geführt, bei Motoren, welche
+keine Schleifringe haben, massive Anker zu verwenden
+(siehe Elektrotechnische Zeitschrift 1896, 9. Juli,
+Seite 454). Eine allzugrosse Erwärmung des Eisen­
+kernes ist durchaus ausgeschlossen, da die Perioden­
+zahl viel zu klein ist, um nenneswerthe Foucault’sche
+Ströme zu erzeugen. Dagegen dürften sich die Zacken
+etwas mehr erwärmen, als dies bei lamellirten Ankern
+vorkommt.
+b) Spannungen.
+Nach Gleichung (12) ist das secundäre Feld als
+Function der secundären Spannung ausgedrückt.
+^ 4 ]/2 10 8 m 2 q 2 E 2
+a“ gu> t K 2 N 2
+und wenn wir hierin ,
+und demselben um 90° nacheilend) und der soge­
+nannten gegenseitigen Induction (hervorge­
+rufen durch das secundäre Drehfeld <]> 2 ). Auf diese
+Weise erhält man das Dreieck nbc (Fig. 16). Aus der
+Aehnlickkeit der Dreiecke abc und acf folgt aber
+b c
+4> 2• sin  1
+vi X
+— (1— <t)—
+oder
+j/l+z 2
+6 c= Wj L t J x (1— <j)
+jSl -(- x ä
+22)
+Diese Gleichung gestattet, aus dem Dreiecke b cd
+die primäre Stromstärke zu bestimmen. Es ist nämlich
+b d 2= b c 2 -J- c cfi -f- 2 b c. b d cos (<p, -f- <p 2)
+Setzt man hierin
+bd=E\
+b c= L t J x (1— er)
+V\+ D
+cd=J t j/X 2+ w i 2 V
+= Li ^?IT+ 1
+-— (i)-^ L^
+worin y= bedeutet.
+K-.
+i+ y 2
+cos (<pj -)- <p 2)= cos 'f t cos <p 2— sin sin <p 2
+li y
+Vi+ y*'Vi+*P ]/i+ r/ 2
+so folgt ausgerechnet
+TABELLE IV.
+Werthe von
+20
+sc"= 20| x"
+50
+y= 35
+20 r“= 50
+y— 50
+x" == 20 x"
+50
+y= ICO
+sc"
+y ■■
+150
+50 sc"= 100 sc"= 75 .1" == 120
+008
+0-1
+0T2
+0 14
+0-16
+0-18
+0-2
+7-92
+7-18
+6 50
+5-90
+5-39
+492
+4-53
+9 49
+8-24
+723
+6 43
+5-76
+5-21
+4 77
+9 03
+7-97
+7 06
+6 30
+5-66
+515
+4 70
+10-72
+904
+7 75
+677
+6-00
+5-41
+4 89
+9-49
+825
+7-25
+6-44
+5-63
+5-20
+4-75
+11-22
+9-31
+7-93
+6-89
+608
+5 44
+4-91
+11-75
+9-59
+809
+6-99
+615
+5-49
+4-95
+12-12
+9-81
+8-22
+7-07
+6-20
+5-52
+4-98
+1213
+9-82
+8-22
+7-08
+6-21
+5-53
+498
+12 29
+9 89
+8-26
+7-11
+6-22
+5 54
+4 99
+12-5
+100
+8-34
+7-14
+6-25
+5 55
+500
+
+
+B
+Seite 364.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 30.
+V
+1+a: 2
+E \f 1+* 2
+»i M^
+23)
+Es sollen liier zwei specielle Fälle näher untersucht
+werden. Beim Leerlauf ist die Ankergeschwindig­
+keit praktisch genommen gleich derjenigen des Dreh­
+feldes, so dass man a'=0 setzen kann. Da ferner —j-
+y
+gegenüber der Einheit vernachlässigt werden kann, indem
+y fast immer grösser als 20 ist, bleibt schliesslich noch
+JE
+Leerlaufstrom i 0— ——... 24)
+m 1 L 1
+Genau genommen stellt nur den Errege r-
+strom dar. Es ist jedoch leicht einzusehen, dass der­
+selbe ohne merklichen Fehler mit dem Leerlaufstrom
+vertauscht werden kann. Beim Leerlaufe setzt sich
+nämlich i 0 mit den Verlustströmen für Reibung und
+Eisen unter 90° zusammen. Nun ist i 0 hei den besten
+Maschinen nicht kleiner als ca. 25% des Normalstromes,
+während der VerluststiTun im ungünstigsten Falle viel­
+leicht 6—7% betragen kann. Der Fehler, welcher daher
+entstehen kann, beträgt höchstens 2—3%, liegt aber
+für gewöhnlich weit darunter. Die Gleichung (23) kann
+auch folgendermassen geschrieben werden
+J t— i 0
+r
+1 -j-a; 2
+H4)+K)!
+=*o \f-
+A
+24)
+Der grösseren Bequemlichkeit halber sind in
+Tabelle V die Wurzelwerthe für die in der Praxis vor­
+kommenden Grössen x, y und ff übersichtlich darge­
+stellt. Diese Tabelle eignet sich hauptsächlich gut für
+schnelle Ermittelung der Stromstärken zwischen Leer­
+lauf und Maximalbelastung.
+Anmerkung. Bezüglich der Grösse y, welche in allen
+Formeln und Tabellen wiederkehrt, mag hier eine kurze Erklärung
+eingeschaltet werden: Nach Definition ist
+(Dj Ly Wj Ly Jy [Uj Ly Jy J]
+y Hy Hy Jy£ Hy£
+Bei Rechnungen an schon einmal ausgeführten Motoren
+ist der Ohm'sehe Verlust, der Gesammtstrom und Leerlaufstrom
+gewöhnlich bekannt, so dass y mit Leichtigkeit aus diesen Daten
+bestimmt werden kann. Im schlimmsten Falle wird man ioj /.[
+aus Gleichung (14) bestimmen und für Hy die Gleichung
+2yNy
+Hy= sr——;■ 10—1 benützen
+OO .Sy.niyqyt
+worin S die mittlere Länge eines Leiters mit den zugehörigen
+Seitenverbindungen in cm unds, den Querschnitt in cm2 bedeutet.
+Handelt es sich dagegen um Neuconstruction einer Maschine,
+so bietet die Grösse y wenigstens im Anfänge einige Schwierig­
+keit. Die einzige Möglichkeit rasch zum Ziele zu gelangen, besteht
+.
+darin, dass man für schätzungsweise einen Werth einsetzt, wozu
+die weiter hinten stehende Tabelle X gute Dienste leistet, und
+gleicher Weise e zum Voraus annimmt.
+x liegt für Normalbelastungen je nach der spec.
+Leistung des Motors ungefähr zwischen den Grenzen
+1'5—4. Die grössere Zahl bezieht sich auf grössere Mo­
+toren, resp. auf Motoren mit grösserem Leistungsfactor
+(cos ,. x
+d> t ra Y1+ a, 2
+oder indem man hierin% und <& 2 entsprechend der
+Gleichung (3) einsetzt:
+ky ky' Ny f/g*
+■h— ,l\
+h N 2 «i v 2 Yl+ x2
+X
+ky kfy Ny f/g
+X
+0 k 2 k* 2 N 2 qy ^4
+(Fortsetzung folgt.)
+■.27)
+Marconi’s Vorgänger.
+Von Ingenieur Adolf Prasch.
+Die grossen Erfolge, welche Marco n i mit seinem Systeme
+der Telegraphie ohne Draht erzielt hat, wenden die allgemeine
+Aufmerksamkeit dieser neuesten Methode der Nachrichten-Ver­
+mittelung durch den Raum zu und sowohl die Tages- als auch
+die Fachpresse verabsäumen es nicht, jede Etappe des von Erfolg
+zu Erfolg schreitenden jungen Italieners getreulich zu verzeichnen.
+Man ist daher in vielen Kreisen nur allzusehr geneigt, diese Art
+der Telegraphie als etwas vollkommen Neues zu betrachten und,
+da sich an den Erfolg der Ruhm kettet, die ganz aussergewöhn-
+lichen Verdienste Marconi’s zu überschätzen.
+Es erscheint daher nur als ein Act der Gerechtigkeit der
+Verdienste jener zahlreichen hervorragenden Männer zu gedenken,
+die durch ihre Arbeiten auf dem Gebiete der drahtlosen Telegraphie
+oder, wie solche besser aber umständlicher als Telegraphie ohne
+Anwendung eines künstlichen, den Raum überbrückenden leitenden
+Mediums bezeichnet wird, die Grundsteine zu dem Aufbaue des
+neuen Gebäudes gelegt haben.
+Das erste Aufkeimen der Idee einer Telegraphie ohne
+Draht datirt bis in das 18. Jahrhundert zurück. Sal vii, ein ausge­
+zeichneter spanischer Physiker und der Erfinder des ersten elektro-
+
+Nr. 30.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 365.
+chemischen Telegraphen bemerkt bereits in einem vor der Akademie
+der Wissenschaften in Barcelona abgehaltenen Vortrage über die
+Anwendung der Elektricität für die Telegraphie unter anderem
+Folgendes: „Wenn Erdbeben durch Elektricität verursacht
+worden können, wie dies Bertolon in seiner „Elektricite des
+Meteores“ nachgewiesen hat, indem die Elektricität von einem
+positiv geladenen Punkte zu einem negativ geladenen Punkte
+überströmt, so benöthigt man auch keine Kabel, um Nachrichten
+über die See senden zu können. Man könnte zum Beispiel auf
+Mallorca eine Erdpartie mit positiver und auf Alicante eine
+gleiche Erdpartie mit negativer Elektricität laden, von denselben
+eine Leitung abzweigen und selbe dort in die See versenken.
+Hie Verbindung zwischen den beiden elektrisirten Erdparthien
+würde eine vollkommene sein, weil das elektrische Fluidum die
+See, welche ein ausgezeichneter Leiter ist, traversiren und durch
+den entstehenden Funken das gewünschte Signal anzeigen würde.
+Hen Nachweis dafür, dass die Idee nicht so extravagant aussah,
+als sie zu damaliger Zeit noch erscheinen musste, lieferte
+Sömmering am 5. Juni 1811, indem er über Anregung seines
+Freundes Baron Schilling, statt der für seine Versuche zur
+r l elegraphie benützten Leitungsdrähte, zwei mit Wasser gefüllte
+Holzröhren als Verbindungsglied verwendete und damit genau
+dieselben Resultate, wie bei Verwendung von Drähten erzielte.
+Er zog jedoch daraus keine Nutzanwendung, weil der von ihm
+als Empfänger benützte Wasserzersetzungsapparat zu wenig
+empfindlich war, um eine Stromverzweigung anzeigen zu können,
+wie solche thatsächlich eintreten musste, als er durch Verbindung
+des Wassers mit einer zum Gebeapparate führenden Drahtleitung
+eine Rückleitung schuf.
+G
+Der erste, welcher die Möglichkeit des Telegraphirens
+ohne Draht experimentell nachwies, war S t e i n h e i 1 in München,
+indem er durch die von ihm im Jahre 1838 gemachto
+Entdeckung der Erdleitung angeregt, diesen Gegenstand verfolgte
+und durch Experimente nachwios, dass ein Ausschlag der Nadel
+des Empfangsapparates auch ohne Anwendung eines directen
+metallischen Verbindungsleiters zu erhalten ist." Bei diesen Ex­
+perimenten konnte er bis auf eine Entfernung von 50 Fuss tele-
+graphiren. Er erklärte jedoch auf Grund der Beobachtungen,
+dass die Wirkung nicht im einfachen, sondern im quadratischen
+Verhältnisse zur Entfernung abnimmt, eine Verständigung auf
+grosse Entfernungen selbst bei mächtigen Elektricitätserregern
+und äusserst empfindlichen Empfangs-Instrumenten für wenig
+wahrscheinlich.
+Aber schon damals brachte Stein heil als andere mögliche
+Methode des Telegraphirens ohne Draht die Anwendung der
+strahlenden Wärme in Vorschlag. Diese strahlende Wärme
+sollte durch reflectirende Spiegel auf eine Thermosäule geworfen
+werden, welche hiedurch einen galvanischen Strom erzeugt und
+eine Galvanometernadel zum Ausschlag bringt. Er erklärt zwar
+die Herstellung der hiefür erforderlichen Instrumente für sehr
+schwierig, aber nicht für unüberwindlich.
+Professor Morse blieb es im Jahre 1842 Vorbehalten, den
+ersten praktischen Versuch zur drahtlosen Telegraphie in grösserem
+Massstabe und mit Erfolg durchzuführen.
+Gelegentlich einer praktischen Erprobung seines Telegraphen
+zwischen Governor’s Island und Castle Garden wurde der, die
+beiden Ufer verbindende, wohl isolirte und in das Wasser
+versenkte Draht von einem vorbeifahrenden Schiffe zerstört und
+hiedurch die Vorführung des Arbeitens seines Apparates unmöglich
+gemacht.
+Dies liess ihn sofort auf ein Mittel sinnen, solche Vorfälle
+für die Zukunft unmöglich zu machen. Schon im Dccember 1842
+führte er seinen ersten derartigen von Erfolg begleiteten Versuch
+über den Canal bei Washington durch. Wie aus der in Fig. 1
+dargestellten Anordnung zu ersehen ist, benützte er das Wasser
+selbst als Leiter des Stromes und wandte hiefür das Princip der
+Stromverzweigung an. Von einer Telegraphie ohne Draht kann
+bei dieser Art und Weise der telegraphischen Zeichenübertragung
+allerdings nicht die Rede sein, indem dieselbe einen grösseren
+Drahtaufwand als Leiter erfordert, wie wenn der Fluss directe
+durch einen Draht überbrückt worden wäre. Immerhin aber ist
+zwischen den Leitern eine Lücke gelassen, die durch ein natür­
+liches Medium, in diesem Falle das Wasser geschlossen wird.
+Die Art und Weise dieser Verständigung ist aus Fig. 1, in
+welcher J, B, C, D die Ufer des Flusses i, h, f, ff, vier in das
+Wasser versenkte Erdplatten w, w, die von der Batterie P N,
+bezw. dem Empfangsinstrumente G zu den Erdplatten führenden
+Leitungen und Z den Zeichengeber darstellen, ohne weiters
+verständlich.
+In intensiver Weise beschäftigte sich James Bowmann-
+L i n d s a y mit dem Probleme der Telegraphie ohne Draht. Eine
+in jeder Beziehung charakteristische, aber unpraktische Per­
+sönlichkeit, widmete er sich nebst seinen anderen Studien
+vielfach der Erforschung der elektrischen Erscheinungen und es
+gelang ihm bereits im Jahre 1835 eine elektrische Lampe zu
+construiren, welche nach seinen Angaben allen Anforderungen
+A
+X
+Fig. 2.
+entsprach. Auch war er der erste oder wenigstens einer der
+ersten, der die elektrische Sehweissung als durchführbar bezeichnet«
+und deren Anwendung für die Erzielung langer Kupferadern
+empfahl. 1843 begann er sich mit der elektrischen Telegraphie
+intensiver zu beschäftigen und fasste bereits die kühne Idee,
+eine telegraphische Verbindung zwischen Amerika und England
+unter Anwendung eines nichtisolirten Drahtes und Verwerthung
+von Erdbatterien herzustellen, nachdem er sich auf Grund von
+Versuchen die Ueberzeugung dieser Möglichkeit verschafft hatte.
+Erst 1853 trat er mit einer neuen Idee zur Telegraphie über
+Wasser ohne Anwendung eines Leiters hervor, welche sich in
+ihren Grundzügen mit der Anordnung von Morse vollständig
+deckt. Die von ihm vorgeschlagene Anordnung ist in Fig. 2 nach
+der Patentbeschreibung vom Jahre 1854 dargestellt. A A bezeichnet
+die Lage der Batterien und Apparate auf der einen Seite des
+Wassers B B, die auf der entgegengesetzten Seite desselben.
+C DE Fsind in das Wasser versenkte Metall- oder Kohlonplatten.
+® R J K isolirt geführte Leitungen. In seinem Patente erwähnte
+er bereits, dass unter normalen Verhältnissen die Entfernungen
+zwischen C E und D Fgeringer sein müssen, als die Entfernungen
+zwischen C D, bezw. E F. Sollte dies aus localen Ursachen
+unmöglich sein, so lässt sich, wie er in richtiger Erkenntnis der
+Ursachen anführt, durch Vermehrung der Elemente, sowie durch
+Vergrösserung der Erdplatten, dennoch eine telegraphische
+Verständigung ermöglichen, wenn nur der durch die Apparate
+hindurchgehende Zweigstrom hinreichend stark ist, um dieselben
+zum Ansprechen zu bringen. Bei seinen praktischen Versuchen
+gelang; es ihm, über den Tayfluss über 2 Arm Entfernung anstandslos
+Nachrichten zu übermitteln.
+Bemerkenswerth bleibt es, dass Lindsay mit Beharr­
+lichkeit dabei blieb, dass es auf dem von ihm angegebenen Wege
+möglich sein müsse, von Europa nach Amerika telegraphisch
+verkehren zu können.
+
+Seite 366.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 30.
+J. W. W i 1 k i n s, ein noch lebender Telegraphen-Ingenieur
+erstattete bereits im Jahre 1845 im Mining Journal den Vorschlag
+zur Durchführung, einer telegraphischen Correspondenz zwischen
+England und Frankreich, welcher, wenn auch noch auf der
+reinen Leitungsmethode beruhend, insoferne von Interesse ist,
+als er ein iiusserst empfindliches Empfangsinstrument angewendet
+wissen will, dessen Constructionsprincipien er auch bereits angab.
+Diese Grundprincipien fanden, wie nachgewiesen wird, später in
+den Weston’schen Galvanometern ihre Verwerthung. Er geht
+von der auch später vielfach bestätigten Ansicht aus, dass der
+von einer galvanischen Batterie in die Erde geführte Strom nicht
+geradlinig zur zweiten Erdplatte zurückkehrt, sondern sich
+strahlenförmig im Erdreiche ausbreitet, um sich dann an der
+zweiten Erdplatte zu verdichten. Je weiter nun diese beiden
+Erdplatten von einander entfernt sind, in desto grösseren Radien
+werden sich diese Erdströme ausbreiten. Trifft nun ein solcher
+Erdstrom einen Leiter, der ihm einen geringeren Widerstand bietet
+als die Erdverbindung, so wird er durch diesen Leiter hindurch
+gehen und ein mit diesem Leiter in Verbindung stehendes, sehr
+empfindliches Empfangsinstrument zum Ansprechen bringen. Er
+beantragt nun längs der Küste möglichst parallel zu derselben
+eine 10—20 Meilen lange Leitung zu errichten, deren beide Enden
+zur Erde geführt sind. In diese Leitung ist eine kräftige
+galvanische Batterie und ein Taster eingeschaltet. Am entgegen­
+gesetzten Ufer befindet sich möglichst nahe zu demselben und
+möglichst parallel zur ersten Leitung, eine zweite gleichfalls
+mit ihren beiden Enden zur Erde geführte Leitung, in welche
+das empfindliche Empfangsinstrument zwischengeschaltet ist.
+Breitet sich nun die bei Stromentsendung in der ersten Leitung
+in die Erde gelangende Elektricitätsmenge in derselben strahlen­
+förmig aus, so wird ein allerdings sehr geringer Theil derselben
+die Erdplatten der zweiten Leitung treffen und durch dieselbe
+hindurch gehen, so dass das Empfangsinstrument zur Erregung
+gebracht werden kann.. Je grösser die Entfernung zwischen den
+beiden Leitungen ist, desto schwächer wird die einwirkende
+Kraft, desto unsicherer die Verständigung. In den Empfangs­
+stromkreis beantragt er ein Instrument einzuschalten, welches,
+aus zehn, zwanzig oder mehr runden oder quadratischen Spulen
+aus feinstem Drahte und von der grössten Leitungsfähigkeit
+hergestellt ist. Diese Spulen sind frei schwebend vor oder inner­
+halb eines oder mehrerer permanenter oder auch Elektromagnete
+situirt. Irgend ein, diese Spulen durchfliessender Strom wird
+durch deren Drehung oder Ablenkung sofort angezeigt. Dies
+musste nach dessen Erklärung einen Empfangsapparat von
+empfindlichstem Charakter bilden, weil dessen Wirksamkeit nicht
+so sehr von der Stärke des die Spulen durchfliessenden Stromes,
+als von der Kraft des Magneten abhängt, welche nach Belieben
+verstärkt werden kann.
+Aehnliche Versuche oderProjecte wurden von Dr. O’S hau gli­
+tt essy 1849, von E. und H. High ton 1852—1872, Dering 1853,
+John II a w o r t h 1862, J. H. Mo wer 1868, M. Bourbouze 1870
+und Mahlon L o o m i s 1872 entweder durchgeführt oder zur
+Ausführung empfohlen. Keines der diesbezüglichen Systeme
+vermochte aber einen realen Erfolg aufzuweisen.
+Es kann daher, da die meisten derselben auf der einfachen
+Leitungs- oder Stromverzweigungsmethode beruhen, von einem
+näheren Eingehen auf sie um so mehr abgesehen werden, als
+hiemit die Zahl der in dieser Richtung hingenommenen Patente
+noch lange nicht erschöpft ist. Erst einer späteren Zeitperiode
+blieb es Vorbehalten, auf anderem Wege dem erstrebten Ziele
+langsam näher zu rücken.
+(Fortsetzung folgt.)
+KLEINE MITTHEILUNGEN.
+Ausgeführte und projectirte Anlagen.
+Oesterreich-Ungarn.
+a) Oesterreich.
+Bischofshofen. (E 1 e k t ri c i t ä t s w e r k.) ln Bischofs­
+hofen wird gegenwärtig eine elektrische Centrale angelegt, für
+die sich allgemeines Interesse von Seiten der Bevölkerung
+kundgibt, da die dortige mit der Lieferung des Stromes be­
+traute Gesellschaft infolge der guten Ausnützung der be­
+stehenden Wasserkraft in den Stand gesetzt ist, den Strom zu
+sehr günstigen Bedingungen abzugeben. Die Ausführung der An­
+lage wurde den Oester reichi sehen Schuckert-
+Werken Wien übertragen. In dem bereits im Bau begriffenen
+Maschinenhause werden zunächst zwei Gleichstrom-Dynamo auf­
+gestellt, deren Leistung je 40 KW beträgt.
+Bludcnz, Vorarlberg (Elektrische Centrale.) Die
+Gemeinde Bludenz hat beschlossen, ein Elektricitätswerk zu er­
+richten, mit dessen Ausführung die Vereinigte Elektrici-
+täts-Actiengeselisehaft in Wien betraut worden ist.
+Zur Aufstellung sind vorgesehen: 3 Drehstromgeneratoren
+von je 400 PS Kraftaufnahme bei 3000 V verketteter Spannung.
+Die Generatoren werden mit Turbinen von 215 Touren pro
+Minute direct gekuppelt. Die Fernleitung erhält eine Länge von
+ungefähr 6 km. Die Niederspannungsleitungen werden theilweise
+oberirdisch, theilweise unterirdisch ausgeführt werden.
+Die Transformatoren werden tlieils in eigenen Häuschen,
+theils in Gebäuden untergebracht werden.
+Die Strassenbeleuchtung wird in der Weise ausgeführt,
+dass jede Glühlampe mittetst eines Relais automatisch von einem
+Centralpunkte aus ausgeschaltet werden kann.
+Bruch, Böhmen. (Elektrische Einrichtung in
+den Brucher Kohlenwerke n.) Die Gewerkschaft
+Bruchei- Kohlenwerke richtet seit einer Reihe von
+Jahren in ihren Schachten mit bestem Erfolge elektrischen Be­
+trieb ein. Die Oester reichischen Schuckert-Werke,
+W i e n haben vor Kurzem in dem Pluto-Schacht eine
+Ventilatorenanlage installirt und sind derzeit damit beschäftigt,
+au ch in dem Oberleute nsdorfer W etter sch achte
+einen elektrischen Ventilator aufzustellen. Den Strom für diesen
+liefert eine Drehstrommaschine, die bei 500 Touren und 2000 V
+Spannung ca. 80 KW leistet und über einen Kilometer von dem
+Ventilator entfernt ist.
+Gmünd, Nieder-Oesterreich. (Elektricitätswerk.)
+Die Stadtgemeinde in Gmünd erhält ein Elektricitätswerk, dessen
+Ausführung die Vereinigte Elektricitäts-Aetien-
+Gesellscliaft in Wien übernommen hat.
+Das Werk wird sich dadurch auszeichnen, dass zu dessen
+Betrieb eine Generatorgasanlage errichtet wird.
+Es gelangen vorläufig zur Aufstellung zwei Gasmotoren
+k 60 PS und ist in Aussicht genommen zur Speisung derselben
+den in nächster Nähe von Gmünd geförderten Budweiser Anthracit
+zu verwenden.
+Kaltem, Tirol. (Elektrische Centrale.) Die Ort­
+schaft Kaltem in Südtirol erhält eine elektrische Centrale, u. zw.
+wird der Betrieb mittelst einer Wasserkraft von 190 m Gefälle
+ausgeführt werden. Zur Aufstellung gelangt eine Turbine, welche
+in directer Kupplung mit zwei Dynamos arbeiten wird und wird
+die Anlage für ca. 1200 Glühlampen eingerichtet und im Gleich­
+strom-Dreileitersystem 2 X 220 V arbeiten.
+Die Ausführung erfolgt durch die V er einigte
+Elektricitäts-Actiengesellschaft in Wien.
+Klagenlurt. (E 1 e k t r i s c h e A n 1 a g e der Schleppe-
+Brauerei bei Klagenfurt.) Die Brauerei U. G r ö m e r
+in Klagenfurt lässt ihre elektrische Anlage derzeit bedeutend
+erweitern, so dass ihre Leistung auf mehr als das doppelte erhöht
+wird. Es gelangt eine Laval’sche Dampfturbine zur Aufstellung, die
+direct mit einer Gleichstromdynamomaschine gekuppelt ist. Die
+Anlage, welche in der nächsten Zeit dem Betriob übergeben
+werden dürfte, wird von den Oester reichischen
+Schuckert-Werken in Wien ausgeführt. Die Dimen­
+sionen der Erweiterung sind derart bemessen, dass nicht nur
+der Strombedarf der Brauerei für Beleuchtung gedeckt erscheint,
+sondern auch der elektrische Betrieb von Motoren ermöglicht ist.
+Kuttenplan, Böhmen. (Elektrische Anlage.) Die
+gräflich Berschem’sche Schlossbrauerei in Kuttenplan richtet
+derzeit eine elektrische Beleuchtungsanlage ein, die demnächst
+dem Betrieb übergeben werden dürfte. Es werden zwei Gleich­
+strommaschinen mit 150 und 180 V aufgestellt, die ihren Kraft­
+bedarf von einer Dampfmaschinenanlage beziehen, von der aus
+auch die Kältemaschinen betrieben werden. Die elektrische An­
+lage wird durch eine aus 83 Zellen bestehende Accumulatoren-
+batterie vervollständigt und dient nicht nur zur Beleuchtung der
+Brauerei, sondern treibt auch mittelst eines Elektromotors die
+entfernt gelegene Pumpe an. Mit der Installation der elektrischen
+Einrichtung sind die Oester reichischen Schuckert-
+Werke in Wien betraut.
+Rieden, Vorarlberg. (Elektrische Centrale.) Die
+Firma Jenny& Schindler in Kennelbach bei
+Bregenz errichtet in Rieden eine Ueberlandcentrale für die
+Ortschaften Rieden, Hard, Lauterach und Kennelbach.
+Mittelst einor Kraftübertragung wird die obiger Firma gehörige
+Spinnerei mit 300 PS versorgt. Die Centrale enthält vorläufig
+zwei Drehstrom-Generatoren von zusammen 350 K W Leistung,
+welche von einer Turbine von 500 PS angetrieben wird. Als
+
+Nr. 30.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 367.
+Reserve dient, eine gleichgrosse Dampfanlage. Der elektrische
+Theil der Anlage wurde der Firma Albert Loacker
+in Dornbirn übertragen.
+Dieselbe Firma errichtet auch in A u (Bregenzer-Wald)
+eine Drehstromcentrale zur Beleuchtung und Kraftübertragung.
+6) Ungarn.
+Budapest. (Anhang zur Concessionsurkunde
+der Budapest-Umgebung elektrischen S t ras sen­
+il a h n.) Der ungarische Handelsminister hat der Budapest-
+Umgebung elektrischen Strassenbahn-Actiengesellschaft zu ihrer
+Concessionsurkunde vom 24. Juni 1895 einen Anhang heraus­
+gegeben, demnach die genannte Gesellschaft von der Verpflichtung,
+die Verbindungslinie Arony-, Toldi- und Nagy Deäkgasse aus­
+zubauen, enthoben und verpflichtet wird, statt dieser Linie eine
+den Verkehrs Verhältnissen der Gemeinde Ujpest besser Rechnung
+tragende, vom Endpunkte der Megyerer Linie bis
+zur Belagasse der nächst Ujpest gegründeten
+sogenannten Földesi-Golonio führende elek­
+trische Eisenbahn auszubauen und während
+der ganzen Concessionsdauer des Hauptnetzes
+in ununterbrochenen Betrieb zu halten. Die neue
+Linie ist bis 1. November 1900 fertig zu stellen und in Verkehr zu
+setzen, und wurden die Bedingungen der erwähnten Concessions­
+urkunde vom Jahre 1895 auch auf dieselbe ausgedehnt. M.
+Erzsebetfalva, Ungarn. (Elektrische Centrale.) Die
+Ungarische Eisenbahn-Verkehrsanstalt errichtet
+in dieser Ortschaft ein Elektricitätswerk, welches zunächst mit
+zwei Dynamos ä 125 PS ausgerüstet wird. Diese Dynamos werden
+sowohl Gleichstrom als Drehstrom abgeben und wird ersterer
+zur Beleuchtung von Erzsebetfalva selbst verwendet, während
+letzterer dazu dienen wird, nach entsprechender Transformation
+die mehrere Kilometer weit entfernte Ortschaft Soroksar zu
+beleuchten.
+Ausserdem errichtet die Eisenbahn- Verkehrsanstalt in
+Erzsebetfalva eine Kraftvermiethungsanlage, -welche durchwegs
+elektrisch betrieben werden wird.
+Die Ausführung der Arbeiten hat dieselbe der V e r-
+einigten Elektricitäts-Actiengesellschaft in
+Budapest übertragen.
+Kismarton, Eisenstadt. (Elektricitätsw erk.) Die
+Stadtgemeinde Eisenstadt errichtet ein Elektricitätswerk, welches
+gleichzeitig das ausgedehnte Schloss sammt Verwaltungs- und
+Wirthschaftsgebäuden des Fürsten Esterhazy mit Strom ver­
+sorgen wird.
+Das Werk wird im Gleichstrom-Dreiloitersystem arbeiten
+und zunächst zwei Dampfmaschinen ä 100 PS mit entsprechend
+starken Dynamos und eine Accumulatorenbatterie erhalten.
+Die Ausführung erfolgt durch die Vereinigte Elek-
+tricitäts -A.-G. in Budapest.
+Deutschland.
+Berlin. Der elektrische Betrieb der Strassen-
+bahn nach Tegel und D a 11 d o r f wurde am 13. d. M.
+eröffnet. Der Betrieb zwischen Berlin und Tegel geschieht aus­
+schliesslich mit Oberleitung, die bis zu den Linden in Berlin
+durchgeführt ist. Der Strom ausserhalb des Berliner Gebietes
+wird vorläufig von der Firma A. B o r s i g aus ihrem neuen
+Werk in Tegel geliefert. Wochentags sind 20, Sonntags 30 zwei­
+achsige Wagen eingestellt. Der Verkehr zwischen Berlin und
+Tegel erfolgt in Abständen von je zehn Minuten. Jeder zweite
+Motorwagen erhält einen Anhängewagen nach Dalldorf. Von
+der Scharrnweber-, Ecke der Borliner Strasse in Reinicken-
+d o r f, werden die Anhängewagen mit Pferden nach Dalldorf
+gezogen.
+Auf der Wannseebahn hat am 13. und 14. d. M. eine
+Versuchsfahrt des ersten, geschlossenen, e 1 e k-
+trisch betriebenen Wagenzuges, wie er später im
+Rahmen des gewöhnlichen Fahrplanes verkehren soll, stattge­
+funden und zu befriedigendem Ergebnisse geführt. Dieser Ver­
+suchszug, der nach dem Plane des Directors Bork von der
+Firma Siemens& II a 1 s k e rücksichtlich der elektrischen
+Ausrüstung ausgeführt worden ist, setzt sich aus 30 Achsen von
+insgesammt 220 t Gewicht zusammen. Sowohl an der bpitze, wie
+am Ende des Zuges befindet sich je ein Motorwagen, die zu
+gleichem Antheile die zur Beförderung des Zuges nöthige Arbeit
+leisten. Durch diese Anordnung wird erreicht, dass beim Richtungs­
+wechsel an den Endstationen ein Umsetzen des Motorwagens
+wegfällt. Der elektrische Strom wird von der durch Holzschutz­
+wände umkleideten Speiseleitung durch seitlich an den Achsen
+angebrachte Abnehmer den Motoren zugeführt. Der vorderste
+Theil der Motorwagen ist als Wagenführer-Raum eingerichtet
+und enthält sämmtliehe zur Bedienung des Zuges erforderlichen
+Apparate. Daneben sind Räume für den Zugführer, das Gepäck etc.
+angeordnet. Zwischen den beiden Motorwagen befinden sich acht
+normale Vorortzugwagen, die etwa 400 Personen zu fassen ver­
+mögen. Zur Bremsung des Zuges wird die übliche Luftdruck­
+bremse benutzt; die vom Wagenführer zu gebenden Pfeifen­
+signale werden ebenfalls durch Pressluft erzeugt. Die Beleuchtung
+der Wagenabtheile und der Signallaternen an den Zugenden er­
+folgt durch elektrisches Glühlicht. Zunächst wird seitens der
+königlichen Eisenbahndirection beabsichtigt, das zur Führung
+des elektrischen Zuges bestimmte Personal auszubilden, und
+etwa sich als zweckmässig herausstellende kleinere Ergänzungen
+und Abänderungen vorzunehmen. Zu diesem Zwecke werden
+daher im Laufe dieses Monats noch elektrische Sonderzüge, die
+jedoch vorläufig nicht zur Personenbeförderung bestimmt sind,
+eingestellt. Nach Abschluss dieser Sonderzugsfahrten wird täglich
+ein elektrischer Zug regelmässig eine Anzahl von Fahrten zur
+Personenbeförderung zwischen Berlin und Zehlendorf (12 lern) im
+Rahmen des bestehenden Fahrplanes (27 Minuten Fahrzeit) aus­
+führen. Da jedoch für diesen Zug eine Reserve nicht besteht, so
+wird, wenn der elektrische Zug zur Ausführung von Unter­
+haltungsarbeiten benutzt wird und daher nicht zur Verfügung
+steht, ein gewöhnlicher Zug fahren. Ueberliaupt wird mit der
+Einstellung dieses Zuges neben der Personenbeförderung im
+Wesentlichen bezweckt, alle diejenigen Umstände festzustellen,
+die zur Beurtheilung einer allgemeinen Einführung des elektri­
+schen Betriebes für Hauptbahnen erforderlich sind. Erst wenn
+diese allgemeinen Vorfragen, zu deren Erledigung ein einjähriger
+Versuchsbetrieb in Aussicht genommen ist, beantwortet sind,
+kann über eine allgemeine Einführung des elektrischen Betriebes
+auf Vollbahnen Entscheidung getroffen werden.
+Breslau. (Städtische Strassenbahnen.) Im
+Einverständnisse mit der von den städtischen Behörden ein­
+gesetzten gemischten Commission hat der Breslauer Magistrat
+beschlossen, eine Zustimmung der Stadtverordneton-Versammlung-
+dazu einzuholen, dass die Stadtgemeinde fortan
+grundsätzlich den Bau und Betrieb neuer
+Strassenbahnlinien in eigener Regie ausführt,
+und dass demgemäss zunächst die staatliche Genehmigung zum
+Bau und Betrieb einer elektrischen Strassenbahn auf der Strecke
+Königsplatz, Nicolaistadtgraben, Schweidnitzer Stadtgraben,
+Museumstrasse, Höfchenstrasse, Höfchenplatz, Hoheuzollernstrasse
+und Kaiser Wilhelmplatz durch die Stadtgemeinde alsbald nach­
+gesucht wird. (Vergl. II. 27, S. 328 „Berlin“ und S. 329
+„ Ch arl Ottenburg-.“)
+Patentnachrichten.
+Mitgetheilt von Ingenieur
+Victor Monath,
+WIEN, I. Jasomirgottstrasse Nr. 4.
+Deutsche Patent anmeldunge n.*)
+Classe
+12. Verfahren zur elektrolytischen Darstellung von Azo- und
+Hydrazoverbindungen.— Farbenfabriken vormals
+Fried r. Bayer& Co, Elberfeld. 30./11. 1899.
+20. Umschaltungs-Einrichtung für Motorwagen auf abwechselnd
+mit Schienenrückleitung und mit oberirdischer Rückleitung
+betriebenen Strecken.— Allgemeine Elektricitäts-
+Gesellschaft, Berlin. 29./12. 1899.
+„ Zugdeckungseinrichtung.— Louis Rousseau, Paris.
+10./10. 1899.
+21. Blitzschutzvorrichtung zum gleichzeitigen Schutz mehrerer
+Leitungen.— Brown, Boveri& Co, Baden (Schweiz).
+20./7. 1899.
+Verfahren zur Schnelltelegraphie mittelst Gleichstromes.—
+Frederick Be d eil, Ithaca (V. St. A.). 15./8. 1899.
+„ Verfahren zur Herstellung von Nuthenankern. Zus. z. Pat.
+109.941.— James Burke, Berlin. 8./2. 1990.
+„ Elektrische Schmelzsicherung.— Elektricität s-G e s e Il­
+se h a ft m. b. II., G e b r. Körner& Mahla, Franken­
+thal. 20./6. 1899.
+*) Die Anmeldungen bleiben nach der Vorprüfung acht Wochen öffentlich
+aufgelegt. Nach§ 24 des Patent-Gesetzes kann innerhalb dieser Zeit Einspruch
+gegen die Anmeldung wegen Mangel der Neuheit oder widerrechtlicher Entuahme
+erhoben werden. Das obige Bureau besorgt Abschriften der Anmeldungen und
+überinmmt die Vertretung in allen Einspruche-Angelegenheiten,
+
+Seite 368.
+ZHiT SCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 30.
+Classe.
+21. Synchronismusanzeiger zur Parallelschaltung zweier Wechsel­
+stromquellen; Zus. z. Pat. 106.68^— Elektricitäts-
+Actien- Gesellschaft, vorm. Schuckert& Co.,
+Nürnberg. 17./3. 1900.
+n Verfahren zur Verhinderung der Funkenbildung am Strom­
+wender von elektrischen Maschinen mit mehreren ungleich­
+artigen, auf denselben Anker wirkenden Feldern.— J. Jona es,
+Bromberg. 23. 9. 1899.
+„ Neuerung an Elektricitätssanrmlern.— Joseph Skwirsky,
+Warschau. 15./11. 1898.
+n Einrichtung zur Umwandlung von ein- oder mehrphasigen
+Wechselstrom in Gleichstrom und umgekehrt mit Hilfe von
+Selbstinductionsspulen mit polarisirtem Eisenkern.— C. Zell,
+München. 24./4. 1899.
+30. Mit der Hand geführtes Massirgeräth mit elektrischem Motor.
+— Reiniger, G e b b e r t& Schall, Erlangen. 3./8. 1899.
+42. Elektrischer Controlapparat für Radrennbahnen.— Aug.
+Anders und Herrn. Heil, Halensee. 26./1. 1899.
+„ Phonograph.— Berliner elektromechanische
+Werkstätte n, G. m. b. H., Berlin. 15./7. 1899.
+20. Schalteinrichtung für solche elektrische Fahrzeuge, bei welchen
+die Regelungsschalter der Fahrmotoren durch Hilfsmotoren
+von einer Stelle aus eingeschaltet werden können.— Union
+Elektricitäts-Gesellschaft Berlin. 4./5. 1899.
+21. Elektricitätszähler für Wechselstrom.— Dr. E. Batault,
+Genf. 25./10. 1898.
+» Verfahren zur Herstellung einer Isolirmasse aus Serpentin­
+abfall.— Dr. Felix Clauss, Meerane i. S. 27./1. 1899.
+„ Hochspannungsausschalter mit Pol hörnern zur Funkenlöschung.
+— Elektricitäts- Actien- Gesellschaft vormals
+Schuckert& Co., Nürnberg. 11./12. 1899.
+n Telephonisches Relais.— Pierre Germain, Auxerre (Frank­
+reich'. 25./3. 1898.
+„ Sammlerelektrode.— Richard Käs, Wien. 16./5. 1899.
+„ Verfahren zur Verbindung von Glühkörpern aus schlecht
+leitenden Stoffen für elektrische Glühlampen mit den
+Stromzuführungsdrähten.— Firma Carl Pieper, Berlin.
+16./9. 1898.
+„ Einrichtung zur verstärkten Uebertragung von Stromschwan­
+kungen aus einem Stromkreis in einen anderen.— E. Rasch,
+G. Ziem und B. R ü 1 f, Nürnberg. 1./9. 1899.
+„ Galvanometer.— Siemens& Halske, Actien-
+Gesellschaft, Berlin. 1./5. 1899.
+„ Vorrichtung zur Drehung einer Achse aus einer Mittellage in
+zwei entgegengesetzte Endlagen.— Siemens& H a 1 s k e,
+Actien-Gesellschaft, Berlin. 18./7. 1899.
+» Vorrichtung zur elektromagnetischen Niederbewegung der
+Tasten einer in der Ferne aufgestellten Schreibmaschine.—
+Joseph Stöckert, Schwelm. 19./9. 1898;
+26. Elektrischer Gasanzünder.— Konrad Hube r t, New-York.
+6-/3. 1900.
+42. Schalltrichter-Parallelführung an Phonographen. ■— Berliner
+Elektro-MechanischeWerkstätten, Ges. m. b. H..
+Berlin. 27./2. 1900.
+„ Phonograph mit parallel zur Walze gelagerter Fördersehraube.
+— Arthur G r e 1 e t und Lucien V i v e s, Paris. 29,/8. 1899.
+21. Selbstthätiger Maximalausschalter.— Reginald Belfield
+London. 13./12. 1898.
+„ Stöpselcontact mit Sperrvorrichtung.— J. H. Bastians und
+O. W ehrmann. 2./1. 1900.
+» Vorrichtung zur Erhitzung eines Elektrolyt-Glühkörpers.—
+Evald Gottstein, Bonn. 14./10. 1898.
+n Vorrichtung gegen Missbrauch bei Gesprächszählern.— Max
+II o e f t, Berlin. 18./8. 1899.
+» Galvanisches Element.— Columbus, Elektricitäts-
+Gesellschaft m. b. H., Ludwigshafen a. Rh. 9./10. 1899.
+„ Vorrichtung an Ferraris’schen Messgeräthen zum Ausgleich
+fehlerhafter hemmender oder treibender Kräfte.— Siemens
+& Hai ske, Actien-Gesellschaft. Berlin. 14./2. 1899.
+„ G.ühlampenfassung mit stromführender Hülse und innerem
+Stromschlusstück. Zus. z. Pat. 103.555.— Siemens&
+Halske, A c t i e n- G e s e 1 1 s c h a f t, Berlin. 7-/9. 1899.
+40. Vorrichtung für elektrochemische und elektrothermische
+Schmelzarbeiten.— Emil Grauer, Lauffen am Neckar.
+20./7. 1899.
+46. Magnetinductionsvprrichtung für Explosionskraftmaschinen mit
+Verhinderung der Zündung beim Rückwärtsanlaufen.—
+Motorfahrzeugwerke II e i n 1 e& W e g e 1 i n, Ober-
+hansen-Augsburg. l./ll. 1899.
+Cla888.
+46. Elektrische Zündvorrichtung für zweicylindrige Explosions-
+kräftmaschinen.— Joh. Ludw. Neujear, Aachen.
+28./10. 1899.
+63. Motorwagen.— Actien- GesellschaftElektricitäts-
+w erke vor m. O. L. K u m m e r& C o., Niedersedlitz i. S.
+5./6. 1899.
+20. Schaltungs- und Leitungsanordnung für elektrische Bahnen
+mit Hochspannungsbetrieb.— G. W i n t e r und E. Futter
+Wien. 24.'8. 1899.
+21. Drehbare Kohlebürste für Dynamomaschinen u. dgl.— Anton
+Auer, Ebenseo (Ob. Oest.). 28./2. 1900.
+„ Relais für Telegraphenleitungen.— G. B r o w n, Bournemouth.
+19./6. 1899.
+Geschäftliche und finanzielle Nachrichten.
+Grazer Tramway-Gesellscliaft. Am 9. Mai fand in Graz
+unter dem Vorsitze des Verwaltungsrathspräsidenten Dr. Moriz
+R. v. Schreiner die XII. ordentliche Generalversammlung
+statt. Nach dem Geschäftsberichte wurden im Jahre 1899 im
+Ganzen 3,858.694 Personen gegen 2,783.715 im Jahre 1898
+mit einer Einnahme von 337.03t fl. gegen 271.575 fl. i. J. 1898
+befördert. Der Reingewinn belief sich inclusive des Vor­
+trages aus dem Jahre 1898 (13.065 fl.) auf 165.430 fl., welche
+Summe in statutenmässiger Weise zur Verwendung gelangte,
+wobei 14.605 fl. auf neue Rechnung vorgetragen wurden.
+Auf die Actie entfiel eine 4°/o'ge Dividende und oine 4°/oige
+Superdividende, auf dio Genussscheine gleichfalls eine
+4%ige Superdividende. Dem Reservefonds wurden 4096 fl.
+zugowiesen. Die Generalversammlung genehmigte den Geschäfts­
+bericht und Rechnungsabschluss und ertheilte dem Verwaltungs-
+rathe das Absolutorium. Der bisherige Revisionsausschuss wurde
+wiedergewählt; die Berichte des Verwaltungsrathes über den Bau
+einiger mit der Stadtgemeinde Graz vertragsmässig vereinbarter
+Linien, sowie über den Vertrag mit der Gemeinde Eggenberg wegen
+Baues und Betriebes der Bahn im Gebiete derselben genehmigt
+und das vom Verwaltungsrathe vorgelegte „Statut des Pensions-
+institutes der Grazer Tramway-Gesellschaft für ihre Bediensteten
+und deren Vit wen und Waisen“ angenommen. In der unmittel­
+bar nach Schluss der Generalversammlung abgehaltenen Ver­
+waltungsrathssitzung wurden der bisherige Präsident und Vice-
+präsident der Gesellschaft wiedergewählt/
+Die Accumulatoren- und Elektricitäts-Werke-Actieu-
+gesellscliaft, Wien zeigt an, dass sie mit der Firma B o e s e
+& Comp., Wien, ein Uebereinkommen getroffen hat, wonach
+sie die Activen der ebengenannten Firma nebst allen Patenten
+käuflich erworben und die Weiterführung des Accumulatoren­
+werkes vom 30. Juni d. J. an übernommen hat.
+Metall-MarktberichtvonBrandeis, Goldschmidt
+& Co., London 13. Juli. Kupfer: Eine gute speculative
+Nachfrage, welche zu Beginn der Woche einsetzte, brachte
+den Preis rasch bis 72'15 Pf. St. Diese Besserung hat sich
+nicht ganz behauptet. Amerika hält weiter zurück und bietet
+nur wenig Waare an. Wir notiren: Standard Kupfer per Cassa
+72 Pf. St. bis 72 Pf. St. 5 sh., Standard Kupfer per 3 Monate
+72 Pf. St. bis 72 Pf. St. 5 sh., English Tough je nach Marke
+75 Pf. St. bis 75 Pf. St. 10 sh., English Best Selected je nach
+Marke 77 Pf. St. bis 77 Pf. St. 10 sh., American and English
+Cathoden 74 Pf. St. 10 sh. bis 75 Pf. St., American and English
+EJectro in cakes ingots and wirebars je nach Marke 75 Pf. St.
+bis 75 Pf. St. 10 sh.— Kupfersulphate: Es fanden Um­
+sätze statt zu 23 Pf. St. 12 sh 6 d. per Frühjahr und bleiben
+Nehmer zu diesem Preise.— Zinn: Der Markt begann schwach
+und fiel bis 139 Pf. St. 10 sh. Casse und 133 Pf St. 10 sh. per
+3 Monate. Auf Deckungen der Contremine und gute Nachfrage
+von Amerika, woselbst Waare sehr knapp ist, hob sich der Werth
+für Cassewaare und Juli prompt rasch wieder bis 143 Pf. St 10 sh.
+Der Preis. für promptes Straits in New-York ist ca. 7 Pf. St.
+über hiesiger Parität. Wir notiren: Straits Zinn per Cassa
+143 Pf. St. bis 143 Pf. St. 10 sh., Straits Zinn per 3 Monate
+137 Pf. St. 10 sh. bis 138 Pf. St., Austral Zinn 143 Pf. St. 10 sh.
+bis 144 Pf. St., Englisches L.& F. Zinn 146 Pf. St. bis 146 Pf. St.
+10 sh., Bancazinn in Holland 831/2 fh, Billiton in Holland 84 fl.
+Antimon fest zu 38 Pf. St. 10 sh.,— Zink ist schwach
+zu 19 Pf. St. 5 sh.— Blei schwach 17 Pf. St. 11 sh. 3 d.—
+Quecksilber fest 9 Pf. St. 1(1 sh.— Silber stetig 28 Pf. St.
+3 sh. 8 d. 6
+Schluss der Iledäction: 17. Juli 1900.
+... Verantwortlicher Rcdacteur: Dr. J. Sahulka.— Selbstverlag des Elektrotechnischen Vereines,
+onmussionst er ag ei Spielhagen& Sch uri ch, Wien.— Alleinige Inseraten-Aufnahme bei Haasenstein& Vogler (Otto Maass) WienundPrae
+Druck von R. Spies& Co., Wien.
+

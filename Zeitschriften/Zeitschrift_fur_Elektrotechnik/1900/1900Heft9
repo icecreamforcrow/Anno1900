@@ -1,0 +1,1494 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 9. WIEN, 25. Februar 1900. XYIIL Jahrgang.
+Bemerkungen der Bedaction: Ein Nachdruck aus dem redactionellen Theile der Zeitschrift ist nur unter der Quellenangabe
+n Z. f. E. Wien“ und bei Originalartikeln überdies nur mit Genehmigung der Redaction gestattet.
+Eie Einsendung von Originalarbeiten ist erwünscht und werden dieselben nach dem in der Redact ions Ordnung festgesetzten Tarife
+homorirt. Eie Anzahl der vom Autor event. gewünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Manuscripte bekannt gegeben werden.
+INHALT:
+Ueber Untersuchungen an Accuinulatoren. A’on M. U. S ch o op,
+Ingenieur 101
+Versuche mit elektrischem Betriebe auf den italienischen
+Eisenbahnen 106
+Verkehr der österreichischen und bosnisch-herzegowinischen
+Eisenbahnen mit elektrischem Betriebe im IV. Quartal 1899 108
+Kleine Mittheilungen.
+Ausgeführte und projectirte Anlagen 109
+Patentnachrichten 110
+Geschäftliche und finanzielle Nachrichten 111
+V ereinsnachrichten 111
+Berichtigung 112
+Lieber Untersuchungen an Accumulatoren.
+Von BT. U. Schoop, Ingenieur.
+Jeder Aecumulator besitzt die wohlbekannte
+Eigenthümlichkeit. desto mehr an Capacität einzubiissen,
+je grösser die Entlade-Beanspruchung ist. Die Capacitäts-
+Abhängigkeit von der Stromstärke ist nun für jedes
+Accumulator-System verschieden, so dass die „Capa-
+citäts-Curve“ gleichzeitig als Charakteristik eines ge­
+gebenen Systemes aufzufassen ist und einen Schluss
+ziehen lässt, ob sich der Accumulator z. B. für „forcirte“
+Entladungen, oder aber mehr für normalen Betrieb
+oder gar nur für Schwachstromlieferung eignet.
+Es schien mir nun der Mühe werth, durch präcise
+Untersuchungen an einzelnen Plantd- und Faure-
+Kathoden bezw. Anoden festzustellen, ob die Capa-
+citäts-Parabel eines Sammlers die Resultate von zwei
+verschieden gestalteten Capacitäts-Diagrammen dar­
+stelle und, wenn dies der Fall ist, in welchem Maasse
+die beiden Elektroden im praktischen Accumulator den
+Capacitäts-Schwankungen ausgesetzt sind.
+Die Definition der Capacität lautet allgemein
+t
+Z=j idt
+O
+wo K die Capacität in Amperestunden (i die Entlade­
+stromstärke in Amperes und t die Zeitdauer der Ent­
+ladung in Stunden bedeuten. Im technischen Sinne ist
+es diejenige Strommenge in Amperestunden, welche ein
+Accumulator leisten kann, bis die Klemmenspannung
+um 10 °/ 0 gesunken ist. Dieser Werth wird deshalb
+als äusserste Grenze angenommen, weil es im Interesse
+der Lebensdauer des Accumulators und der Constant-
+haltung der Betriebsspannung nicht räthlich ist, den­
+selben tiefer hinunter zu entladen oder gar gänzlich
+„auszupumpen“.
+Eine befriedigende Definition der Elektroden-
+(Componenten)-Capacitäten zu geben, ist schon aus dem
+Grunde schwierig, weil sich Bleischwamm- und Blei­
+superoxyd-Elektroden je nach dem betrefienden Systeme
+an der Stromlieferung ganz ungleich betheiligen.
+Selten trifft zu, dass die Capacitäten der beiden
+Elektroden in einem Accumulator dieselben sind, ganz
+abgesehen davon, dass es fraglich erscheint, ob dies
+wegen der früher oder später eintretenden physi­
+kalischen und chemischen Veränderungen der activen
+Massen (und dadurch verursachten Capacitäts-Verschie-
+bungen) wünsehenswerth ist.
+Das Diagramm (Fig lb 1= 4-0 A), zeigt uns
+eine Entladung von zwei Oberflächen-Elektroden*),
+welche genau dieselbe Menge activen Materiales (be­
+zogen auf Pb und Gewicht), nämlich 440 gr besassen.**)
+Man sieht, dass die totale Erschöpfung der beiden
+Platten beinahe zu demselben Zeitpunkte eintritt; mit
+Erhöhung der Beanspruchung fällt jedoch die Kathode
+früher ab als die Anode. Ist nun der Grenzwerth der
+(Gesammt-) Klemmenspannung (1'8 V) gegeben, so braucht
+man nur die beiden correspondirenden Abscissen-Werthe
+der Einzel-Diagramme aufzusuchen, um die Criterien
+für die praktischen Componenten-Capacitäten zu er­
+halten. Wir erhalten in diesem Falle
+für die Anode: 0- 935 V i gemessen zu einer Queclc-
+„„ Kathode: 0-870 V\ silber-Hilfselektrode
+Klemmenspannung: 1'805 V— Grenzwerth.
+Die Einzelwerthe wurden jeweilig auf Ueber-
+einstimmung mit der Klemmenspannung controlirt.
+Wie aus der unten folgenden Tabelle ersichtlich,
+welche die Entladungsdaten der Elektroden-Serien
+eines Tudor-Elementes mit pastirten Negativen und
+Grossoberfiächen-Positiven gibt, ist die Ueberein-
+stimmung zwischen den Componentenspannungen und
+Gesammtspannungen eine recht gute zu nennen und
+die Methode (auf welche meines Wissens zuerst Exner
+aufmerksam gemacht hat) die Vertheilung der Auf­
+speicherungsfähigkeit eines gegebenen Accumulators
+auf die einzelnen Elektroden vermittelst einer neutralen
+Hilfselektrode mit constanter E. M. K. aufzufinden, als
+*) Wie Dr. Sieg kürzlich in einem Vorträge in dem
+Kölnischen Elektrotechnischen Verein mit Recht hervorgehoben
+hat, ist es zu empfehlen, die Bezeichnungen: „Plante- und Gross­
+oberflächenplatten auseinander zu halten; Plante hat jegliche
+Anwendung von Chemikalien für die Formation von Bleisuper­
+oxyd-Platten verworfen.
+**) Als positive Elektrode wog die Platte in gut geladenem
+Zustande 2426 gr, nachdem dieselbe’ zu einor Bloischwamm-
+Eiectrode umformirt worden war, nur mehr 2658 gr.
+Es resultirt somit eine Gewichtsdifferenz von 68 gr, welche
+von der Anode in Form von O festgehalten wurden. Man hat
+folglich nur die Gleichung aufzustellen
+C 2: Pb 0 2= 68: X
+32 (207+ 52)
+woraus x= 507 gr Pb 0 2 oder 440 gr Pb folgt.
+
+Seite 102.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 9.
+Entladung eines Tudor-Accumulators i= OG A const.
+b S H
+P [=3
+P.
+* g
+ZU
+neutr
+EL
+_4_
+r
+zu
+neutr.
+El.
+i Ld
+P fcß.
+© p
+IfS
+G2 cö t>
+—: p. !>
+*§
+,a_
+zu
+neutr.
+El.
++
+zu
+neutr.
+El.
+Ruhezustand
+kurz nach
+beendigter
+Ladung
+11h 25
+11h 27
+11h 30
+Uh 35
+Uh 40
+Uh 45
+Uh 50
+Uh 53
+Uh 56
+2-15
+fl-92
+12-02
+1-85
+11-96
+1- 90
+2- 00
+1-89
+1-995
+Jl-885
+1-995
+1-87
+I- 985
+/1-855
+II- 98
+/185
+11-975
+1-835
+1 97
+0-965
+0-96
+1-00
+0-910
+0-96
+0-905
+0 96
+0-905
+0 960
+0-895
+0-97
+0-88
+0-955
+0-875
+0-945
+0-865
+0-94
+1-17
+0-90
+0-96
+0-985
+1-03
+0-98
+103
+0075
+1-025
+0-97
+1-02
+0-97
+1-02
+0-97
+1-025
+0-97
+1-025
+Uh 58
+12h_
+12h 02
+12h 07
+12h io
+12h 12
+12h 15
+12h 20
+12h 25
+1-83
+I- 97
+II- 82
+[1-965
+1-815
+1-95
+[1-745
+1-955
+1-785
+1-95
+f 1-775
+11-945
+1-76
+1-94
+1-735
+1-93
+1-70
+191
+0-855
+0-935
+0-85
+0-935
+0-845
+0-935
+0-835
+0-935
+0-83
+0-93
+0-825
+0-925
+0-815
+0 925
+0-81
+0-92
+0-785
+0-915
+0-97
+1-02
+0-965
+1-015
+0-96
+1-01
+0-955
+1-01
+0-95
+101
+0-955
+1-01
+0-44
+1-005
+0-925
+0-995
+0-915
+0-98
+durchaus vertrauenserweckend zu bezeichnen. Das Tudor-
+Element, welches (laut Preisliste) während einer Stunde
+mit 66 A zu entladen war,
+zeigte
+am Ende der
+Entladung nur 17 V; es ist: aber hinzuzufügen, dass
+dasselbe schon längere Zeit im Gebrauche war und
+über 150 normale Ladungen bezw. Entladungen durch­
+gemacht hatte.
+Bei Betrachtung der Spann ungs- bezw. Wider­
+standsdiagramme einzelner Elektroden (Fig. 1 a und 1 b)
+drängt sieh die oft discutirte Frage in den Vorder­
+grund, ob der innere Widerstand der Bleischwamm-
+Elektrode grösser sei als derjenige der Bleisuperoxyd-
+Elektrode. Würde die Frage gestellt, ob die Leistungs­
+fähigkeit des Bleischwammes die des Bleisuperoxydes
+übertreffe, so müsste sie offenbar mit ja beantwortet
+werden, wenn auch namhafte Kenner des Bleiaccu-
+mulators (wie Darricus) die Richtigkeit dieser Be­
+hauptung in Abrede stellen.*) Wie ersichtlich, sind die
+beiden Fragen nicht identisch, da trotz der besseren
+Leitfähigkeit des Bleischwammes der innere Wider­
+stand einer Bleischwamm-Platte recht gut den einer
+sonst gleich construirten Bleisuperoxyd-Platte über­
+treffen kann, und zwar infolge von zum Theil schwer
+zu controllirenden Einflüssen, wie zum Beispiel
+Diffusionserscheinungen, Oeclusion der Gase, mehr oder
+weniger inniger Zusammenhang zwischen dem
+Schwammblei bezw. Bleisuperoxyd und der strom-
+führenden Bleiunterlage, welch’ letztere einem beliebigen
+Typus angehören mag. Es ist a priori anzunehmen,
+dass das Bleisuperoxyd-Material an dem Träger weit
+besser haftet als Bleischwamm, welcher nach Verlauf
+einer verhältnismässig geringen Arbeitsleistung physi­
+kalische Structurveränderungen aufweist, die man ins-
+*) Eclairage el. Paris 1899: Etüde theorique sur les piles
+reversibles.
+
+Nr. 9.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 103.
+gemein mit „Einschrumpfen oder Zusammensintern“
+bezeichnet. Die Massefelder einer Gitterplatte zeigen
+dann in der Diagonale verlaufende feine Risse; gleich­
+zeitig ist der Zusammenhang mit dem Gitter lockerer
+geworden und die Capacität beträchtlich zurückge­
+gangen.*) Es ist richtig, dass man durch Zusatz ge­
+eigneter Substanzen (zum Beispiel Bimsstein, Retorten­
+graphit) zur activen Masse das Einschrumpfen, des
+Bleischwammes mehr oder weniger hintan zu halten
+vermag, ohne jedoch zu erzielen, dass die Aufnahme­
+fähigkeit derart behandelter negativer Elektroden
+nach mehreren Jahren gar keine Einbusse erleide. Bei
+Oberfläehenplatten ist der Uebelstand des Sinterns,
+trotzdem er unstreitbar vorhanden ist, vom Auge
+schwer zu constatiren, sehr leicht aber durch directe
+Widerstandsbestimmung der Elektrode (während der
+Arbeit) und wird bewiesen durch den Umstand, dass
+negative Gross-Oberflächenplatten
+sehr rasch die Capacität verlieren!
+Diese Thatsache wird denn auch von der Praxis ent­
+sprechend gewürdigt, und Fabriken, die eine Zeit lang
+negative Oberflächenplatten auf den Markt gebracht
+haben, sind davon abgekommen (Blot Paris), um wieder
+die pastirte Faure-Platte an deren Stelle zu setzen.
+Masseplatten, deren ungenügende Stromzuführung
+meist in einem den Massekuchen einschliessenden Hart­
+bleirahmen besteht, zeigen als Kathoden ein womöglich
+noch ungünstigeres Verhalten, als Oberflächenkathoden,
+indem die Massepastillen nach einer gewissen ge­
+leisteten Arbeit derart zusammenschrumpfen, dass beim
+Schütteln der Platte ein Geklapper entsteht und der
+„Uebergangswiderstand“ bei Ladung und Entladung-
+ungeheure Werthe annimmt, wenn nicht ganz geringe
+Beanspruchungen in Frage treten. Massekathoden ver­
+bieten sich somit für Licht- und Pufferbatterien, Auto­
+mobile und dergleichen von selbst und sollten nur für
+Schwachstromlieferung in Verwendung kommen.
+Für das Studium der einzelnen Faure-Elektroden
+benutzte ich folgende Versuchsanordnung:
+12 positive und 13 negative versandtfähige, for-
+mirte Platten (System A. Hagen, Kölner-Acc.-Werke)
+wurden gemeinschaftlich in einem Gefäss montirt, unter
+Säure (1-17 sp. G.) gesetzt und nun mehreremale mit
+normalem Strome geladen, hezw. entladen, bis ein ge­
+wisser Beharrungszustand eingetreten war. Sämmtliche
+Platten waren von demselben Manne gestrichen und
+nach beendeter Formation auf die Waage gebracht
+worden; Platten mit zu grossem oder zu kleinem Ge­
+wicht wurden ausgeschieden und Gewichtsunterschiede
+von nur± 10 p zugelassen. Eine sorgfältige Beob­
+achtung des Elementes beim jeweiligen Beginne der
+Gasentwiekelung bestätigte die Annahme, dass bei dem
+gewählten Modus sämmtliche Kathoden einerseits und
+sämmtliche Anoden andererseits genau dieselbe Auf­
+speicherungsfähigkeit besassen. Zwei positive und eine
+negative Platte bildeten nun das Untersuchungselement,
+*j Bei der quantitativen Analyse von Bleischwamm, welcher
+in lufttrockenem Zustande mohroren alten und neuen Kathoden
+entnommen worden war, ergaben sich die in beifolgender Tabelle
+zusammengestellten Gewichtsverhältnisse:
+Alte unbraubare
+Neue versandtfertige Alte unbrauchbare Kathode
+o/o form. Kathode der Kathode der einer anderen
+Köllner Aco. Werke K. A. W. deutsch. Acc.-Fabrik
+Pb 93-08
+0 fi-80
+Rückstand 0T2
+98-79
+1-11
+0-10
+95-37
+4-46
+0-17
+in welchem die Bleischwamm-Elektrode, zwei negative
+und eine positive Platte dasjenige Element, in dem
+die Bleisuperoxd-Elektrode einer näheren Prüfung
+unterzogen wurde, um zunächst Charakter und Verlauf
+oer Spannungen, bezw. inneren Widerstände der Elek­
+troden, sowie die Capacitätsabkängigkeit derselben von
+verschiedenen Beanspx-uehungen zu bestimmen. Für
+derartige empfindliche Capacitätsmessungen wäre es
+nicht statthaft, eine bereits entladene Platte aufzuladen,
+um sie wieder zu entladen und dann die so erhaltenen
+Daten zu verwertken. Hingegen ist die Verwendung
+eines „Mutter-Accumulators“, in welchem alle Elek­
+troden bei den erwähnten Vorsichtsmaassregeln einen
+genau gleichmässigen Ladezustand besitzen müssen,
+zweifellos als einwandsfrei zu betrachten. Die Gross-
+oberflächen-Versuchsplatten wurden auf ähnliche Weise
+erhalten.
+Um für die zu untersuchenden Platten genau
+denselben Ladezustand zu erzielen (da ja zu gleicher
+Zeit nur je eine positive und eine negative Elektrode
+zur Beobachtung gelangten, standen die „Mutter-
+Elemente“ fortwährend unter Ladestrom, welch’ letzterer
+nach Entfernung der herausgeschnittenen Platten je­
+weilen entsprechend reducirt wurde. Diese Vorsichts­
+maassregel war geboten infolge der Selbstentladungen,
+welche, besonders bei Plantd-, bezw. Grossoberflächen­
+platten, ziemlich rasch vor sich gehen und zu unrich­
+tigen Resultaten führen können.*)
+Das Verhältnis, in welchem die beiden Elektroden
+eines Accumulators an der Klemmenspannung und
+E. M. K. betheiligt sind, lässt sich, wie bereits erwähnt,
+mit Genauigkeit ermitteln, indem man sich einer „neu­
+tralen“ Hilfselektrode bedient, deren Potential der Ein­
+fachheit halber für graphische Darstellung als Null­
+punkt angenommen wird. In Wirklichkeit setzt sich
+die E. M K., bezw. Spannung zwischen Hilfselektrode
+und Accumulator-Elektrode (z. B. Anode) zusammen aus:
+1 der Potentialdifferenz zwischen der Superoxyd-
+Elektrode und der sie umgebenden Schwefelsäure;
+2. der Potentialdifferenz zwischen der Hilfselek­
+trode und derselben Schwefelsäure.
+*) Eine gut geladene Anode z. B. zeigt im Ruhozustand eino
+massige Gasentwickelung, welche auf die Localaction der an der
+Bleisuperoxyd-Elektrode befindlichen Substanzen zurückzuführon
+ist, wahrscheinlich nach der Gleichung:
+Pb O a 4- H s 0 2= Pb O -f H 2 O -f O,.
+Das derart gebildete Bleisnboxyd nähme hiernach H 2 S Oi
+aus dem freien Elektrolyt zur Bildung von Pb S O4 auf. Nach
+Darr ic us würde die Sauerstoff bildung durch Zersetzung von
+in und an der Bleisuperoxyd-Masse vorhandener Ueberschwefel-
+säure entstehen.— Dass eine Zerstörung des Bleisuperoxyds in
+dem einen oder anderen angedeuteten Sinne vor sich geht, be­
+wies mir unter anderem der folgende Versuch:
+Eine gut geladene negative Gitterelektrode bekam, mit
+einer sehr hohen Stromdichte entladen, nach ca. 10 Minuten
+einen zarten, abor deutlich ausgeprägten Superoxydbeschlag; be­
+sonders an den von der Elektrolyse heftig angegriffenen Stollen
+(Berührungsfläche der Stromzuleitungsfahne mit dem Säurespiegel,
+Rahmen und Verstärkungsrippen des Gitterträgers) zeigte sich
+eine tief dunkelbraune Färbung. Wurde nun den Stromkreis
+geöffnet und das Element sich selbst überlassen, so ging dio
+Umwandlung des Bleisuperoxyds in Oxyd und weisslieh gelbes
+Bleisulfat in für das Auge wahrnehmbarer Weise vor sich; war
+die Belegung eine dickere, so bedurfte es, wie sich erwarten
+lässt, einer zu langen Zeit für diese Art der Beobachtung. Ich
+hielt es für angezeigt, auf diesen kleinen, aber instructiven Ver­
+such hinzuweisen, woil der Umstand, dass für Capacitäts-Bestim-
+mungen die bei der Entladung vorangehende Pause das Resultat
+beeinflusst, gewöhnlich noch zu wenig berücksichtigt wird.
+
+Seite 104.
+7iF.TTSfTFTR.TFT FÜR ELEKTROTECHNIK.
+Nr. 9.
+Zuverlässige Resultate erhält man auch vermittelst
+einer mit Säuregelatin (erhalten durch Zusatz von ver­
+dünntem Natronwasserglas zur Säure) gefüllten, zweck­
+entsprechend gebogenen Glasröhre (s. Fig. 2). Soll z. B.
+Element I auf die Capacität der Anode untersucht
+werden, so verbindet man I und II durch die Gelatin-
+röhre, wie dies Fig. 2 veranschaulicht. Diese Mess­
+anordnung >hat vor der gewöhnlich gebrauchten, bei
+welcher als Hilfselektrode einfach ein Kupfer-, Cadmium­
+stengel u. s. f. in den zu untersuchenden Sammler ge­
+bracht werden, Vieles voraus, indem einerseits an den
+erwähnten Metallen eine die Genauigkeit der Messungen
+störende Polarisation auftreten kann, andererseits das
+Metall der betreffenden Hilfselektrode je nach der
+Natur desselb en mehr oder weniger schnell durch theil-
+weise Auflösung in den Elektrolyten und sodann an
+die Kathode gelangt. Vielfach sind die Capacitäts-
+Componenten des Bleisammlers auch so bestimmt
+worden, dass als Supplementär-Elektrode für die Anode
+ein kleines geladenes Bleischwammplättchen, für die
+Kathode ein analoges Bleisuperoxydplättchen zur Ver­
+wendung kamen; aber auch diese Messmethode kann
+schon deshalb nicht frei von Fehlerquellen sein, weil
+sich die E. M. Ke. der kleinen Messplatten mit der Con-
+centration und Temperatur des arbeitenden Accumu-
+lators verändern, u. zw. nicht unerheblich, wie Dole-
+zalek und Earle (Electrician, 20. Sept. 1895) durch
+ihre werthvollen Veröffentlichungen dargethan haben.
+Um die Vertheilung der E. M. Ke., hezw. Klemmen­
+spannungen an den einzelnen Elektroden zu studiren,
+bediente ich mich mit Vortheil der galvanischen Com-
+bination: Quecksilber, Q,uecksilberoxydulsulfat,Schwefel­
+säure, in eine handliche Form gebracht (s. Fig. 3).
+Zur Erzielung einer constanten Entladestromstärke
+wurde in den Stromkreis eine grosse E. M. K. ein­
+geschaltet, zu welchem Zwecke eine Laboratoriums­
+batterie von über 200 Amperestunden Capacität bei
+dreistündiger Entladung zur Verfügung stand.
+Messmethode.
+Die Messmethode (zuerst von Fuchs und H äb e r-
+lin angewandt und beschrieben, s. Hoppe: Die
+Accumulatoren, 3. Aüfl. und Dr. P. Schoop, die Se-
+cundärelemente II. Theil), bei welcher bei geschlossenem
+Stromkreise die Klemmenspannung und bei geöffnetem
+die E. M. K. gemessen werden, ist bekannt, so dass es
+nicht nöthig ist, dieselbe einer eingehenden Beschreibung
+zu unterziehen; es sei hier nur bemerkt, dass sie in
+den Händen eines geübten Beobachters recht gut zu
+gebrauchende Resultate ergibt und den nicht zu unter­
+schätzenden Vorzug besitzt, dass sich mit derselben
+schnell arbeiten lässt.
+Aus der Relation
+E. M. K.— A p
+i= (f. die Entladung)
+w
+wo i die Stromstärke in Amp., A p die Klemmen­
+spannung und w den Widerstand des Accumulators
+bedeuten, lässt sich sofort der innere Widerstand eines
+Accumulators ermitteln. Greifen wir z B. aus der
+obigen Entladetabelle die ersten zwei Werthe: 1'92 V,
+bezw. 2'02 V heraus und berechnen den inneren Wider­
+stand der Zelle am Anfang der Entladung, so er­
+halten wir:
+w
+2-02- 1-92
+66
+0-00151 H
+und für das Ende der Entladung:
+w=— 91~ 17 0-0032 n.
+ob
+Der innere Widerstand hatte also im Verlaufe
+der einstündigen Entladung um rund das Doppelte zu­
+genommen. Während nun A p und i genau gemessen
+werden können, sind die beobachteten Werthe für
+E. M. K. mit Vorsicht aufzunehmen und nur unter der
+Voraussetzung zu gebrauchen, dass mit einem aperio­
+dischen Präcisions-Instrument gearbeitet wurde. Ver­
+glichen mit der Boccali’schen Brückenmethode mit
+Inductorium und Telephon, zeigte sich für Messungen
+des inneren Widerstandes am arbeitenden Accumulator
+
+Nr. 9.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 105.
+eine gute Uebereinstimmung; eine solche konnte nur
+für das letzte Drittel der Ladung nickt erzielt werden.
+Nebenbei sei erwähnt, dass das Arbeiten nach der
+Boccali’scken Methode ausserordentlich mühsam und
+das Tonminimum schwierig mit Zuverlässigkeit zu
+finden ist, wenn als Messbrücke nicht eine sehr stark
+verdünnte Salzlösung (z. B. Kupfervitriollösung mit
+kupfernen Elektroden) verwendet wird, und im be­
+treffenden Versuchsraume nicht Grabesstille herrscht.
+Boccali benützte (E. T. Z. 1891, Heft 1) für den in
+Entladung begriffenen Accumulator einen Interruptor,
+dessen Stromschwankungen im Telephon gehört wurden;
+schaltet man in den Entladestromkreis die E. M. K.
+einer Dynamo, so kann der Interruptor wegfallen, in­
+dem dann das Telephon auf die Stromundulationen
+des Gleichstromes (hervorgerufen durch die beschränkte
+Anzahl Ankerdrähte) reagirt. Boccali bediente sich
+derselben Methode für Widerstandsmessungen am auf
+Ladung geschalteten Accumulator.
+Interpretation »1er Diagramme.
+Gehen wir nun zur Betrachtung der Fig. 1 a und 1 b,
+welche zur Darstellung bringen, wie sich die Capaci-
+täten, Spannungen und inneren Widerstände von in
+genau demselben Ladezustand sich befindlichen, ver­
+schiedenen Belastungen unterworfenen Bleischwamm-,
+bezw. Bleisuperoxydplatten verändern. Es wurde ver­
+sucht, Oberfläcken-Elektroden und Gitter- Elektroden
+von derselben Capacität zu verwenden, um eine äusserst
+gute Uebersicktlickkeit der Capaeitäts-Charakteristiken
+zu ermöglichen (Fig. 4). Die Bilder lassen erkennen,
+dass dies nur zum Theil gelungen ist, indem einerseits
+die Oberflächen-Elektroden bezüglich der Capacität den
+Gitter-Elektroden sich überlegen zeigen, anderseits die
+gepastete Anode zum Unterschied von der Kathode noch
+nicht ihre volle Capacität erreicht hatte. Die Form der
+Parabel ist durch diesen Umstand selbst nicht beein­
+flusst worden, jedoch gewiss die Lage; man hat sich
+dieselbe entsprechend einer grösseren Capacität, nur
+etwas nach rechts verschoben, zu denken.
+Bei sämmtlichen Entladungen (Fig. 1 a und 1 b) ist
+vorerst zu constatiren, dass der kathodische Widerstand
+erheblich grösser ist, als der anodische und das Verhältnis
+der beiden Widerstände zu einander mit Anwachsen
+von i annähernd dasselbe bleibt. Wie Fig. 1& (i— 4'0 A)
+deutlich zeigt, fallen die beiden Elektroden gleichzeitig
+ab: beide besitzen, praktisch gesprochen, bei schwacher
+Beanspruchung dieselbe Capacität. Bei einer Strom­
+stärke von 10, bezw. 22 A tritt die Erschöpfung der
+Kathode früher ein, trotzdem die E. M. K. der Anoden
+procentualiter schneller sinkt, als diejenige der Kathoden,
+was wiederum auf einen höheren inneren Widerstand
+der letzteren deutet. Ein ähnliches Verhalten legen die
+Gitterplatten zu Tage; nur muss man sich vor Augen
+halten, dass die Kreuzungsstelle der beiden Curven
+(Fig. 4, stark ausgezogen) unter der Annahme, dass die
+positiven Platten die volle Capacität besitzen, etwas
+nach rechts rutscht.
+Welchen Einfluss die Diffusion in und an den
+Elektroden auf deren Capacität hat, geht unzweideutig
+ebenfalls aus Fig. 4 hervor; man vergleiche z. B. die
+ganz ungleiche Wölbung der Curven a und b. Die
+erstere zeigt ein ausgesprochenes Knie, um sodann
+assymptotiseh gegen die Abscissenachse zu verlaufen,
+a nähert sich einer Geraden. Bei den Bleischwamm-
+Elektroden zeigt sich, wie wegen der porösen schwamm­
+artigen Structur des activen Materials von vorneherein
+anzunehmen war, eine weit bessere Uebereinstimmung,
+derzufolge man mit Kecht annehmen muss, dass sich
+die Erscheinungen der Diffusion, Concentrationsströme
+und Occlusion der Gase auf Oberflächen- und Faure-
+Kathoden in einer von einander nicht wesentlich ver­
+schiedenen Weise abspielen.
+Die Dimensionen, Gewichtsverhältnisse der Ver­
+suchsplatten u. dgl. sind in beifolgender Tabelle ge­
+geben:
+-fOberfl. El.— Oberfl.-Pl. -fGitt.-Pl. —Gitt.-Pl.
+Gewicht der Platten mit
+Fahne, formirt u. luft­
+trocken 2396 gr 2328gr
+Gewicht d. unform. Ober­
+flächenplatten, bezw.
+Gitter, ohne Fahne ... 2050(7)' 2050gr
+Säurebespülte Oberfläche 34'6 dm2 34'6 dm2
+Plane Oberfläche 5'75 dm2 5'75 dmi
+Dicke der Platten 11 mm 11 mm
+Fig. 4.
+Die ideale Accumulatoren-Elektrode, in welcher
+für das ganze vorhandene reactionsfähige Blei (ac-
+tive Material) immer das genügende Quantum Schwefel­
+säure vorhanden wäre, in welcher Diffusions- und
+Occlusionsprocesse nicht auftreten könnten, welche
+ferner eine unendlich gute Stromvertheilung besässe,
+ergäbe für die Charakteristik offenbar eine Verticale,
+oder anders ausgedrückt: Die Capacität wäre in jenem
+Falle von der Stromdichte überhaupt unabhängig; wir
+wissen zur Genüge, dass ein derartiger Sammler nicht
+construirt werden kann.
+Die Concentration der Säure war für alle Ver­
+suchsreihen dieselbe (1T7 specif. Gewicht), da ja in
+erster Linie das Verhalten der positiven und negativen
+Platten bezüglich der Capacitätsabkängigkeit von der
+Stromstärke unter den in der Praxis vorliegenden Ver­
+hältnissen interessirte, wo die beiden Elektrodenserien
+in Säure desselben Gewichtes arbeiten. Es ist voraus­
+zusehen, dass, wenn beide Elektroden das einemal in
+schwacher, das anderemal in starker Säure auf das­
+selbe Verhalten untersucht werden, eine bedeutende
+Verschiebung der Bilder eintritt, und zwar im ersten
+1250 gr llfiO^r
+1130 gr 1130 gr
+6'4 o/m2 5'4 dm~
+5'4 dvi2 5'4 <7m2
+6 mm 6 mm
+
+Seite 106.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 9.
+Falle zu Gunsten der Bleischwammplatte, im zweiten
+Falle zu Gunsten der Bleisuperoxydplatte.
+Bemerkenswerth ist der plötzliche Abfall der
+E. M. K. an der positiven und das Heraufschnellen der
+E. M. K. an der negativen Elektrode nach Verlauf
+weniger Minuten nach Beginn der Entladung. Bei
+massigen Beanspruchungen (3 —lOsttindigen Entladungen)
+treten diese nicht etwa rein individuellen Erscheinungen
+weniger deutlich hervor (s. Fig. 1, 2= 4-5), sind aber
+trotzdem vorhanden. Wahrscheinlich bewirkt der vom
+Bleischwamm occludirte Wasserstoff, welcher der
+Schwefelsäure theilweise den Weg zum Bleischwamm
+versperrt und in den Capillarröhren sitzt, eine erheb­
+liche Oberflächenverkleinerung; sowie nun der elek­
+trolytische Process beginnt, wird der vom Bleischwamm
+festgehaltene Wasserstoff in Kürze zu Wasser oxydirt,
+welches langsam in die Säure zu diffundiren das Be­
+streben besitzt. Der früher vom Wasserstoff eingenom­
+mene Platz wird somit kurz nach eingetretener Entla­
+dung des Accumulators von angesäuertem Wasser be­
+setzt sein, wodurch die an der Reaction betheiligte
+Bleischwammoberfläche vervielfacht wird. Zum Tlieil
+wird der occludirte Wasserstoff mechanisch aus der Masse
+gedrängt, was sich leicht an einem gut aufgeladenen
+Accumulator beobachten lässt, wenn dieser auf Entla­
+dung geschaltet wird. Mit fortlaufender Entladung fängt
+der den Bleischwamm durchtränkende Elektrolyt an,
+wasserreicher zu werden, und Hand in Hand hiemit
+bildet sich eine immer dicker werdende Sulfatschicht.
+Wir haben demnach an der in Entladung begriffenen
+Kathode einen stetig zunehmenden inneren Widerstand
+zu erwarten, was sich durch die Entladediagramme
+(Fig. 1 a und 1 b) bestätigt findet. Aus den Fig. 1 a
+und 1 b geht ebenfalls unverkennbar hervor, dass unter
+sonst genau gleichen Bedingungen der innere katho-
+dische Widerstand rascher zunimmt, als der anodische;
+es ist dies identisch mit der schon erwähnten That-
+sache, zufolge welcher die Bleischwamm-Elektrode gegen
+hohe Stromdichten empfindlicher ist, als die Bleisuper­
+oxyd-Elektrode.
+Die hohe E. M. K. einer geladenen Bleisuperoxyd­
+platte, unmittelbar nach der Trennung vom Einflüsse
+des Ladestromes, ist ohne Zweifel in engem Zusammen­
+hang mit der ozonisirten Schwefelsäure in und an der
+Platte. Bekanntlich gibt eine gut geladene positive
+Platte, wenn eine solche an die Luft gebracht und
+deren active Masse mit den Fingern etwas zerrieben
+wird, einen ausgeprägten Ozongeruch von sich, und
+schon Gladstone und Tribe machten in ihrer
+sorgfältigen Arbeit „Ueber die chemische Theorie der
+secundären Batterie“ (1884) darauf aufmerksam, „dass
+bei der Prüfung der verdünnten Säure zwischen den
+Platten einer Plantd- Zelle sich immer Spuren von
+Etwas vorfinden, was übermangansaures Kali bleichte
+und was entweder Ozon oder Wasserstoff-Superoxyd
+sein könnte“. Andere Beobachter schreiben die Erhöhung
+der E. M. K. einem gewissen „activirten“ Zustande des
+Sauerstoffes an der Anode zu.
+Um auf die Versuche über die Abhängigkeit der
+Accumulatoren-Elektroden bei verschiedener Belastung
+zurückzukommen, könnten die hiebei zu Tage ge­
+förderten Resultate etwa wie folgt, zusammengefasst
+werden:
+1. Bleischwammplatten (u. zw. Oberflächen- so­
+wohl wie gepastete Platten) sind bei genau gleicher,
+„absoluter“ Capacität, das heisst derjenigen Capacität,
+welche von den Elektroden im Accumulator geleistet
+werden kann, wenn die Entladestromstärke sehr klein
+gewählt wird, trotz der guten specifischen Leitfähigkeit
+des Bleischwammes, gegen Erhöhung der Be­
+anspruchung empfindlicher als Blei­
+superoxyd-Platten.
+2. Das Verhalten einer Oberflächen-Ivathode weicht
+bezüglich Capacität und Spannung von demjenigen einer
+gepasteten Kathode nicht wesentlich ab, sofern nur die
+ersten 10—25 Entladungen, bezw. Ladungen in Frage
+kommen. In der Praxis sind negative Oberflächen- (oder
+Plantö-) Platten deshalb zu verwerfen, weil sie sehr
+schnell die Capacität einbüssen.
+3. Das active Material der Oberflächen-Elektroden
+wird besser ausgenützt als dasjenige der Elektroden
+mit mechanisch eingetragener Masse; hingegen besitzt
+im allgemeinen die Gitterelektrode eine Erholungs­
+fähigkeit, welche derjenigen von Oberflächen-Elektroden
+überlegen ist.
+4. Der innere Widerstand eines Oberfläckenplatten-
+Accumulators vertheilt sich auf die einzelnen Elek-
+troden-Systeme in ziemlich demselben Verhältnis, wie
+derjenige eines Faure-Accumulators, unter der Annahme
+natürlich, dass die bezüglichen „negativen und posi­
+tiven“ Capacitäten einander annähernd gleich seien.
+5. Für die meisten Systeme wird es sich em­
+pfehlen, die Capacität der Kathoden etwas grösser zu
+bemessen, als diejenige der Anode, besonders dann,
+wenn der Accumulator im Betriebe stark wechselnden
+Belastungen (Pufferbatterien) ausgesetzt wird und Strom-
+stösse hoher Intensität in Frage treten (Automobil).
+Versuche mit elektrischem Betriebe auf den italienischen
+Eisenbahnen.*)
+Man hat festgestellt, dass Italien über 5,000.000 PS
+in seinen Gebirgsflüssen verfügt, die jederzeit nutzbar
+gemacht werden können. Ein nicht unbedeutender An­
+fang zur Ausnützung dieser Wasserkräfte wurde be­
+reits bei Einführung des elektrischen Betriebes auf den
+Strassenbahnen in Mailand (Addafluss), Rom (Wasser­
+fälle von Tivoli), in Genua, Florenz, Neapel, Livorno etc.
+gemacht.
+Der Umstand, dass Italien arm an Steinkohle ist,
+aber über reichliche Wasserkräfte verfügt, hat eine
+lebhafte Bewegung zu Gunsten des elektrischen Be­
+triebes veranlasst.
+Im December 1897 beauftragte die italienische
+Regierung eine aus Ingenieuren des Staates und Dele-
+girten der Mittelmeer- und Adriatischen Eisenbahnen
+zusammengesetzte Commission, die elektrischen Be­
+triebe für Vollbahnen zu studiren.
+Man kam hiebei zur Ueberzeugung, dass Züge,
+welche aus Locomotive, Tender, Gepäckswagen und
+Wagen dreier Classen, welche nur schwach besetzt
+sind, bestehen, vortheilhafter durch einzelne Automotor­
+wagen (mit zwei Classen), sich ersetzen Hessen, welche
+eventuell im Bedarfsfälle noch mit einem Anhänge-
+*) Vide Z. f. E. 1899, pag. 533 u. ff.
+
+Nr. 9.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 107.
+wagen versehen werden könnten. Gegen Dampfbetrieb
+würden sieb noch ausserdem folgende Vortheile geltend
+machen:
+Leichtigkeit des Anfahrens und Anhaltens, hier­
+durch Erhöhung der durchschnittlichen Fahrgeschwin­
+digkeit, Verbilligung der Betriebskosten, Ermöglichung
+eines dichteren Zugsverkehres und Hebung der Fre­
+quenz, Vermeidung von Rauch, Verbesserung der Wagen­
+beleuchtung.
+Es wurde zunächst vorgeschlagen, den Personen-
+vom Lastzugsverkehr zu trennen, bei Einführung des
+elektrischen Betriebes den bisherigen Dampfbetrieb je­
+doch vorläufig noch aufrecht zu erhalten. Weiters wurde
+in Erwägung gezogen, bis zu welcher grösster Länge
+ein elektrischer Betrieb auf Vollbahnen noch als rationell
+angewendet werden könnte.
+Die Commission beendigte ihre Arbeiten im Fe­
+bruar 1899 und kam zu dem Resultate, dass bezüglich
+keines der bis heute bereits in Anwendung gebrachten
+Systeme behauptet werden kann, dass es stets das ratio­
+nellste sei; weiters, dass der elektrische Betrieb jeden­
+falls noch eine bedeutende Verbesserung in technischer
+und ökonomischer Beziehung zur Folge haben dürfte,
+dass jedoch nur die Erfahrung allein über die Vor­
+theile der verschiedenen Arten von Systemen (ob Accu-
+mulatorenbetrieb, Stromzuführung vermittelst einer dritten
+Stromschiene oder reine Oberleitung) zu entscheiden
+vermag.
+Aus diesem Grunde wurden daher verschiedene
+Versuche mit elektrischem Betrieb auf den italienischen
+Bahnen angestellt, und zwar auf den folgenden Linien:
+Rom—Frascati, Mailand—Monza, Bologna—S. Felice,
+Lecco—Colico—Sondrio mit Abzweigung von Colico
+nach Chiavenna.
+I. Mittelmeer-Eisenlbalmg'esellscliaft.
+1. Linie Mailand— Monza.*)
+Diese Strecke bildet einen Theil der Bahnlinie,
+welche Mailand mit der Schweiz über den St. Gott­
+hard verbindet und einen erheblichen Durchgangsver­
+kehr zu bewältigen hat.
+Nachdem die Steigungen sehr geringe sind (mitt­
+leres Gefälle nach Monza 7°/oo) und die Distanz
+zwischen Mailand und Monza nur 13 km beträgt, ent­
+schloss man sich zum Accumulatorenbetrieb, trotz des
+Nachtheiles, eine grosse, todte Last mitzuführen, und
+trotz hoher Erhaltungskosten. Hiedurch entfiel jeglicher
+Umbau auf der Strecke und behielt man den bisherigen
+Dampfbetrieb zum Theile noch bei. Der elektrische
+Betrieb ist seit 8. Februar 1899 in Anwendung und
+verkehren ausser den Dampftrains täglich 11 aus je einem
+elektrisch betriebenen Wagen bestehende Züge hin und
+zurück. Ueber diese Bahn wurde in der „Z. f. E.‘£ im
+Jahrgange 1899 an citirter Stelle bereits ausführlich
+berichtet und mögen zu diesem Berichte nun noch
+einige Daten beigefügt werden.
+Die Wagen, geliefert von der Firma Grondona
+& C o. in Mailand, sind nach dem Muster der amerika­
+nischen Durchgangswagen gebaut und laufen auf
+*) Aus dem Berichte der Revue generale des chemins de
+fer, 1899.
+2 Drehgestellen. Dieselben enthalten 64 Sitz- und 24
+Stehplätze (letztere auf den Plattformen), zusammen
+88 Plätze.
+Je eine Achse der beiden Drehgestelle wird durch
+einen 4poligen 50 PS Elektromotor mit Nebenschluss­
+erregung mittelst Zahnradübersetzung angetrieben; die
+Leistungsfähigkeit der Motoren pro Wagen ist daher
+100 PS.
+Für Speisung der Motoren befinden sich zwischen
+den beiden Drehgestellen unter dem Wagen zwei
+Accumulatorenbatterien von je 65 Zellen, geliefert von
+der Firma Heusemberger in Monza; die Spannung
+beträgt bei Serienschaltung der Elemente 275—235 F.
+Jedes Element besteht aus 11 positiven und 12
+negativen Platten. Die Positiv-Platte (Plantö) hat eine
+active Oberfläche, die achtmal grösser ist, als die
+Plattenfläche. Die Dimensionen der Platten sind
+170X340 w/m, das Gewicht pro Element beträgt
+105 leg, das Totalgewicht der Batterie bezw. sammt
+Gefässen 18.000 leg. Die Capacität der Batterien reicht
+für zwei Hin- und Rückfahrten zwischen Mailand und
+Monza ohne Nachladung, d. i. für eine Fahrt von
+52 km aus, bei einer mittleren Geschwindigkeit von
+40 km pro Stunde.
+Für die Beleuchtung des Wagens dient eine se­
+parate Batterie von 12 Elementen, die nur täglich
+einmal geladen zu werden braucht.
+Die Elektromotoren und alle übrigen elektrischen
+Einrichtungen sind von der Elektr.-Act.-Ges. vormals
+Schuckert& Co. in Nürnberg geliefert.
+Das Eigengewicht des Wagens beträgt.. 34.000 kg
+das der Elektromotoren, Controller, elektr.
+Apparate, der Pumpe und Batterien zus.. 23.500 kg
+das der Beleuchtungsbatterie 500 kg
+das Gesammtgewicht des leeren Wagens ist
+daher 58.000 kg
+des Wagens complett besetzt 65—66 t.
+Für die Nachladung der Batterien liefert die
+Italienische Elektricitäts-Actien-Gesell-
+schaft Edison in Paderno die nöthige Energie,
+welche gleichzeitig auch die elektrische Beleuchtung
+und die Strassenbahnen in Mailand versorgt. Diese Ge­
+sellschaft besitzt in Paderno a. d. Adda ein grosses
+Elektricitätswerk von 13.000 PS. Die Energie wird als
+dreiphasiger Hochspannungswechselstrom von 13.500 V
+nach Mailand geleitet; in der Stadt auf 3660 V trans-
+formirt und vertheilt. Mit dieser Spannung wird die
+Energie dem Centralbahnhofe zugeführt und vermittelst
+Rotationsumformern in Gleichstrom von 300—350 V um­
+gewandelt.
+Betriebsresultate: Die mittlere Entlade­
+stromstärke beträgt für die Hinfahrt zwischen Mailand
+und Monza circa 280—300 A (2’67—2‘87 A pro Kilo­
+gramm Elektrode) bei einer Spannung von 220—230 V.
+Die mittlere Beanspruchung beträgt somit 65 KW.
+Der Strom wird 2 km vor Monza bereits unterbrochen,
+und fährt der Wagen nur infolge seiner lebendigen
+Kraft bis in die Schlussstation.
+(Schluss folgt.)
+
+1) g^icLe statistische Zusammenstellung über die elektrischen Bahnen in Ungarn ist im H. G S. 76 veröffentlicht.
+2) Der Betrieb ist bis auf die liingbahnlinie in Baden eingestellt.
+8) Der Betrieb bleibt während des Winters eingestellt.
+4) Frachtentonnen, beziehw. -Einnahmen.
+
+Nr. 9.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 109.
+Ausgeführte und projectirte Anlagen.
+Oester reich -Ungarn.
+a) Oesterreich.
+Antiesenliofen. (Anordnung der Tracenrevision
+und Stationscommission der p roj ectirten elek­
+trischen Kleinbahn von der Station Antiesen-
+hofen nach Manerkirchen.) Das k. k. Eisenbahnmini­
+sterium hat unterm 2. d. M. die k. k. Statthalterei in Linz be­
+auftragt, hinsichtlich des von Ferdinand Spiegel in Wien vor­
+gelegten Projectes für eine mit der Spurweite von 1 m auszu-
+führende, elektrisch zu betreibende, dem Personen- und Frachten­
+verkehr dienende Kleinbahn mit vorwiegender Strassenbenützung
+von der Station Antiesenhofen der Linie Ried—Schärding
+der k. k. Staatsbahnen zur Station Mauerkirchen der Linie
+Steindorf—Braunau am Inn der k. k. Staatshahnen im Sinne der
+bestehenden Vorschriften die Tracenrevision in Verbindung mit
+der Stations-Commission einzuleiten.
+Pola. (E i s e n b a h n- V o r c o n c e s s i o n e n.) Das Eisen­
+hahnministerium hat dem Fürsten Alfred Wrede in Wien die
+Bewilligung zur Vornahme technischer Vorarbeiten für ein Netz
+elektrisch zu betreibender Kleinbahnen im Gemeindegebiete von
+Pola mit Abzweigungen: a) nach F a s a n a; b) zu den k. und k.
+Pulver- Laboratorien; c) in den Kaiserwald und d)
+nach F i s e 11 a auf die Dauer eines Jahres ertheilt.
+S. Michele. (Anordnung der Tracenrevision
+und politischen Begehung der proj'ectirten
+Localbahn von der Südhahnstation S. Michele
+nach Mezzolombard o.l Die k. k. Statthalterei in Innsbruck
+hat hinsichtlich des von der Marktgemeinde Mezzolombardo vor­
+gelegten Detailprojectes für eine elektrisch, eventuell auch mit
+Dampfkraft zu betreibende normalspurige Localbahn von der
+Südbahnstation S. Michele nach Mezzolombardo die Tracenrevision
+und bei anstandslosem Ergebnisse derselben die politische Be­
+gehung im Zusammenhänge mit der Stationscommission und Ent-
+eignungsverhandlung, sowie Festsetzung der feuersicheren Her­
+stellungen auf den 14. Februar anberaumt.
+Wien. (Elektrische Bahn Wien-Pressburg.)
+Die Errichtung der elektrischen Bahn Pressburg-Wien, von der
+wir schon wiederholt berichtet haben, naht der Verwirklichung.
+Die Pläne sind bereits fertiggestellt. Die Kostenvoranschläge sind,
+wie das „Neue Pester Journal“ meldet, mit 8,640.000 K prälimi-
+nirt. Die administrative Begehung hat bereits stattgefunden. Die
+Erbauung und Finanzirung sollen die Firmen G a n z& C i e in
+Budapest und B a c h s t e i n, Central-Verwaltung für Secundär-
+bahnen, übernehmen. Man plant, eine ungarisch-österreichische
+Actiengesellschaft ins Leben zu rufen, und zwar mit einem Actien-
+Capital von 8,640.000 K, darunter 1,200.000 K Stammactien
+ä 100 K. Der Pressburger Bürgermeister, königlicher Rath
+T h a 11 e r, erliess bereits einen Aufruf zur Betheiligung des
+Publikums an der Zeichnung der Stammactien.
+(Wiener elektrische S t r a s s e n bahn e n: Theil-
+strecken Invalidenstrasse Johann esgasse und
+Getreide mar kt Josefstädterstrasse.— Anord­
+nung der Tracenrevision, Stationscommission
+und politischen Begehung.) Die k. k. Statthalterei in
+Wien hat hinsichtlich des vom Magistrate der k. k. Haupt- und
+Residenzstadt Wien vorgelegten Projectes der Theilstrecke der
+Wiener elektrischen Strassenbahnen: Invalidenstrasse von der
+Ungargasse über den Heumarkt bis zur Johannesgasse und Theil­
+strecke Getreidemarkt von der Friedrichstrabse durch die
+Museumstrasse und Auerspergstrasse bis zur Josefstädterstrasse,
+die Tracenrevision, Stationscommission und politische Begehung
+auf den 21. Februar anberaumt.
+(Linie Prater—Ausstellungsstrasse—Rotunde—
+Südportal.— Anordn ungder Tracern- e v i s i o n u n d
+politischen Begehung.) Die k. k. Statthalterei in Wien hat
+hinsichtlich des vom Magistrate der k. k. Haupt- und Residenz­
+stadt Wien vorgelegten Projectes der Theilstrecke Prater—Aus­
+stellungsstrasse—Rotunde —Südportal der Wiener elektrischen
+Strassenbahnen die Tracenrevision und politische Begehung aut
+den 23. Februar anberaumt.
+b) Ungarn.
+Budapest. (Budapest er S t a d t b a hn-G e s o 11-
+sehaft.— Au sbau be din gun ge n der Linie über
+den Pester Qua i.) Der kgl. Ungar. Handelsmimster hat an­
+lässlich des Ausbaues der Linie am Budapester linksuferseitigen
+Quai der Direction der Budapester Stadtbahn-Gesellschaft die
+Bewilligung zur Erhöhung ihres Actiencapital um 2,000.00 v
+ertheilt— In dem vorbehaltlich der ministeriellen Genehmigung
+zwischen der hauptstädtischen Municipalverwaltung und der
+Direction der Stadtbahnen abzuschliessenden, beiderseits im Prin­
+cipe acceptirten Vertrag sind unter anderem folgende Punkte
+aufgenommen:
+a) die Concessionsdauer der neuen Linie soll unter Ver­
+zicht auf die den alten Linien concessionsmässig eingeräumte
+75jährige Dauer gleichzeitig mit diesen im Jahre 1940 ablaufen;
+b) die vertragsmässige Participation der Commune an den
+Bruttoeinnahmen soll sofort nach Eröffnung des Betriebes in
+Kraft treten;
+c) die Commune behält sich das Recht der Vermiethung
+der durch den Bau geschaffenen Viaducträume vor, deren Er­
+trägnis mit 8 K per Quadratmeter, in Summa mit 28.000 K
+präliminirt ist, gegen 80 percentige Participation der Gesellschaft
+am jeweiligen Bruttoerträgnisse;
+d) nach Fertigstellung der Quaihahn, als letztes Glied dos
+Ringes im Bereiche der linksuferseitigen Bezirke, hat die Gesell­
+schaft die Continuität des Ringverkehres einzuführen und die
+Strecke in vier gleichmässige Zonen mit dem Fahrpreise von je
+12 Heller per Zone einzutheilen.
+(Budapester Strasseneisenbahn-Gese 11schaft.
+— Einführung eines Ringverkehres zwischen
+Pest und Ofe n.) Die Budapester Communalbehörde forderte
+die Direction der Strasseneisenbahn-Gesellschaft zur Einführung
+des in der Concessionsurkunde vorgesehenen Ringverkehres über
+die nunmehr im Zusammenhänge stehenden Linien der Pester
+und Ofner Betriebsnetze der Gesellschaft auf, deren wechsel­
+seitige Anschlüsse mit Berührung des Siidbahnhofes im Norden
+über die Margarethen-Brücke und im Süden über die Franz
+Josefs-Brücke hergestellt sind. Die Einführung dieses Betriebes
+ist im März laufenden Jahres aufzunehmen.
+Hödmezö-Väsärliely. (E1 e k t r i s c h e B a h n.) Der königl.
+ungar. Handelsministor hat mit Erlass vom 24. Jänner 1900, der
+Budapester Actiengesellschaft für elektrische
+Verkehrs Unternehmungen die Bewilligung zur Vor­
+nahme technischer Vorarbeiten im Sinne der bestehenden Normen
+für eine im Betriebe der Stadt Hödmezö-Väsärholy zu erbauendes
+Strasseneisenbahnnetz mit elektrischem Be­
+triebe ertheilt. Das projectirte Strasseneisenbahnnetz wird von
+Hödmezö-V asärhely ausgehen und bis zu den Ziegel­
+werken nächst Kutari-Üt führen.
+Baja. (Concession zu den Vorarbeiten der
+Bajaer elektrischen Vicinalbahn.) Der ungarische
+Handelsminister hat der Volkswirthschafts-Bank die Con­
+cession zu den Vorarbeiten einer einerseits von der Schiffs-
+Station Baja der I. k. k. priv. Donau-Dampfschiffahrts-Gesell-
+schafc im Intravillan der genannten Stadt bis zur Station
+Baja der königl. ungar. Staatsbahnen führenden elek­
+trischen Eisenbahn; anderntheils aber einer von der
+Station Baja der königl ungar. Staatsbahnen aus­
+gehend, die Ortschaften S z e n t -1 s t v ä n, C s a n ä d, S ti k ö s d,
+Nadudvar, Hajos, Miske, Kalocsa, eventuell die Ort­
+schaften iUszöd, Szent -Ben edek, Ujlak und O r d a s
+berührenden, bisDunapataj führenden elektrischen, eventuell
+normalspurigen Vicinalbahn mit Locomotivbetrieb auf die
+Dauer eines Jahres ertheilt. M.
+Kecskemet. (Verlängerung der Concession zu
+den Vorarbeiten der Kecskemcter elektrischen
+Vicinalbahn.) Der ungarische Handelsminister hat den Buda­
+pester Einwohnern B 6 1 a G e r s t e r und E in i 1 T ö r ö k die zu
+den Vorarbeiten einer von der Station Keeskemet der k. ung.
+Staatsbahnen ausgehend, durch die Nagy-Körüsergasse, den Denk­
+platz und die Vasärer Grosse Gasse mit Berührung der Budolfs-
+kaserne bis zu den städtischen Bädern als Hauptlinie und von
+dieser Hauptlinie, beim Deiikplatz abzweigend, einestheils bis zu
+den Dampfmühlen in der Trombitagasse und in der Temploin-
+gasse; anderntheils durch die Nagygasse bis zum Kunstgarten,
+durch die Ilalaser Grosse Gasse bis zur Station R a v a g y der
+Kecskemdt-Fiilöpszalläser Vicinalbahn, und durch die neue Radial­
+strasse (jetzige Nagytemetögasse) als Flügelbahnen zu führenden
+elektrischen Stadtbahn, ferner für die in Anschluss an
+diese Linie zu bauende, über die Miklös-Kolonie und V&gij&räs
+bis J&szkerekegyhäza und fortsetzungsweiso eventuell
+bis zur Station Lajosmizse der Budapest- Lajosmizseer
+Vicinalbahn zu führende normalspurige Locomotiv-, eventuell
+elektrische Vicinalbahn ertheilte Vorconcession auf die
+Dauer eines weiteren Jahres verlängert.
+Deutschland.
+Detmold. (Lippisches Elektrieitätswerk in
+Detmol d.) Unter dieser Firma fand in Detmold die Gründung
+
+Seite 110.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 9.
+einer Actiengeseilschaft mit einem Actiencapitai von vorläufig
+600.000 Mk. statt. Die Gesellschaft übernimmt die nahezu fertig-
+gestellte elektrische Strassenbahn vom Bahnhof Detmold bis
+Berlebeck und Hiddesen nebst der dazu gehörigen elek­
+trischen Centrale und wird diese Bahn nach Horn-Extern-
+stein erweitern, sowie einen elektrischen Aufzug nach dem
+Hermannsdenkmal anlegen. Weiter wird die Gesellschaft elek­
+trisches Licht und Kraft zum Betriebe von Motoren abgeben.
+Dem Aufsichtsrath gehören u. a. an Herr Bankdirector Klötzer
+(Dresdener Creditanstalt), sowie die Herren Beck und D e n s o,
+Directoren der Elektricitäts-Actien-Gesellsehaft O. L. K u m m o r
+& C o. in Dresden.
+Patentnachrieliten.
+Mitgetheilt von Ingenieur
+Victor Monatli,
+WIEN, I. J asomi r gottstra ss e Nr. 4.
+Auszüge aus Patentschriften.
+Allgemeine. Elektricitäts-Gesellschaft in Berlin.— Schaltvor-
+richtung, insbesondere für Zelleuschalter, mit plötzlicher
+Stromnnterbrecliung.— Classe 21, Nr. 105.165 vom 29. No­
+vember 1898.
+Diese Schaltvorrichtung für Zellenschalter ist dadurch gekenn­
+zeichnet, dass sich bei der Bewegung der Hauptbürste a zwei
+durch Widerstände d mit dieser und unter einander verbundene
+und an einem beweglichen Hebel b isolirt befestigte Hilfsbürsten
+c k unter dem Einfluss einer Rast f oder ähnlicher mechanischer
+Vorrichtungen derart einstollen, dass einerseits durch Voraneilen
+der einen Bürste c der Stromschluss mit der Hauptbürste a über
+den einen Widerstand d so lange hergestellt wird, bis die Haupt-
+bürsto a das nächste Stromschlussstück erreicht hat, und dass
+andererseits die andere Bürste k hierbei der Hauptbürste a nach­
+eilt, den Kurzschlussstrom plötzlich unterbricht und auf diese
+Weise die Funkenbildung auf eine unschädliche Stelle g des
+Zellenstromschlussstückes h beschränkt. (Fig. 1.)
+Fig. 1. Fig. 2.
+Heinrich Bumb in Charlottenbnrg.— Elektrolytisches Ent­
+kohlungsverfahren.— Classe 40, Nr. 105.572 vom 2. De-
+cember 1898.
+Das Verfahren dient zur Verringerung des Procentgehaltes
+einer Eisenlegirung an Kohlenstoff durch die Elektrolyse der
+Chlorverbindungen von Aluminium, Chrom, Magnesium, Mangan,
+Nickel und Wolfram gleichzeitig mit der des Eisenchlorürs unter
+Benutzung von trichterförmigen Zersetzungszellen. Der Trichter 6
+taucht mit dem Rande seiner unteren Mündung in die durch die
+Feuerung c flüssig erhaltene Legirung ein und nimmt das zu
+olektrolytisirende Metallsalz auf. Bei der Zersetzung dos Elektro­
+lyten wird das ausscheidende Metall von dem Metallspiegel äuf-
+genominen. Es tritt hiedurch eine Anreicherung der Eisenschmelze
+und damit gleichzeitig eine relative Verminderung des Kohlenstoff­
+gehaltes ein. (Fig. 2.)
+Westinghouse Electric Company, Limited in London.— Ver­
+fahren nebst Einrichtung, um das Nachbleiben des Stromes
+in Wechselstromkreisen zu beeinflussen.— Classe 21, Nr. 105.460
+vom 24. November 1896.
+Um das Nachbleiben des Stromes durch Einschalten ent­
+sprechend gestalteter Synchronmotoren zu vermindern, wird ein
+umlaufender Wechselstrom-Gleichstrom-Umwandler benutzt, dessen
+Feldmagnet mit Nebenschluss- und Hauptstromwickelung versehen
+ist, so dass wachsende Belastung des Gleichstromkreises infolge
+Verstärkung des Magnetfeldes das Nachblciben dos Stromes im
+Wochsolstromkroise vermindert.
+O. Krueger& Co., Offene Handels-Gesellschaft in Berlin.— Ein­
+richtung zur Anzeige von Stromentweichungen aus elek­
+trischen Leitungen.— Classe 21, Nr. 105.461 vom 28. Mai 1898.
+Der dem entwichenen Strombetrage entsprechende Unter­
+schied zwischen der vor und der hinter der Fehlerstelle oines
+bestimmten Leiters herrschenden Stromstärke wird an einem ge­
+eignet geschalteten Galvanometer angezeigt.
+„Helios“, Elektricitäts-Actien-Gesellscliaft in Köln-Ehrenfeld.
+- Anker für Wecliselstrom-Motorzähler mit ungleichmässig
+vertheilter elektrischer Leitungsfähigkeit.— Classe 21,
+Nr. 104.820 vom 8. Jänner 1898.
+Um den Anker von Wechselstromzählern nach F e r r a r i s-
+sehen Princip, bei welchem zur Ueberwindung der Anfangs­
+reibung irgend eine schwache bewegende Kraft hinzugofügt ist,
+durch die Einwirkung des Nebenschlussfeldes zu arretiren, wenn
+im Hauptleitungskreise kein Strom fliesst, wird der Anker in
+seiner Masse discontinuirlich gestaltet und somit seine elektrische
+Leitungsfähigkeit ungleich vertheilt. Es kann dies entwodor da­
+durch erreicht werden, dass man im Anker Löcher anbringt, oder
+dass man die Fleischstärke des Ankers an manchen "Stellen
+schwächt, oder endlich dadurch, dass man den Anker aus Mo-
+tallen verschiedener Loitungsfähigkeit zusammensetzt,
+Otto Claude Immiscli in London.— Schaltung für durch
+Sammler betriebene Elektromotoren.— Classe 20, Nr. 105.018
+vom 1. März 1898.
+Zur Regelung der Geschwindigkeit des Elektromotors wird
+eine Hilfsbatterie verwendet, u. zw. werden Haupt- und Hilfs­
+batterie entweder hintereinander oder. gegeneinander geschaltet,
+oder die Hilfsbatterie wird ganz ausgeschaltet.
+Leipziger elektrische Strassenbahn in Leipzig.— Selbst-
+thätige Signal Vorrichtung für elektrische Strassenbahueu.—
+Classe 20, Nr. 104.981 vom 8. Juni 1898.
+Die selbstthätige Signaleinrichtung für elektrische Bahnen
+gehört zu derjenigen Art, bei welcher durch den Stromabnehmer
+die Verstellung von Umschaltern und damit die Ein- bezw. Aus­
+schaltung von Signallampen erfolgt. Bei der vorliegenden An­
+ordnung sind an jedem Ende der zu deckenden Strecke jo zwei
+Umschalter angeordnet, welche durch Anschläge am Strom­
+abnehmer oder Wagen stets in ein und derselben Richtung gedreht
+werden und abwechselnd Stromkreise ein- und ausschalten, zum
+Zwecke, die Abgabe der richtigen Signale auch dann zu ermög­
+lichen, falls Wagen dieselbe Strecke in gleicher Richtung hinter­
+einander durchlaufen. Um andererseits bei Befahren der Strocko
+in entgegengesetzter Richtung Vorsignale solcher Art geben zu
+können, dass noch während des Befahrens der Strecke ein Wagen
+von seiner beabsichtigten Einfahrt einem andern entgegen
+kommenden Wagen Meldung machen kann, ist der Einfahrtschalter
+ein Stück vor der Weiche, der Ausfahrtschalter dagegon dicht
+an der Weiche oder Kreuzung angeordnet.
+Reginald Belfleld in London.— Wecliselstrom-Glcicbstrom-
+Transformator.— Classe 21, Nr. 105.232 vom 28. August 1897.
+Der Anker des rotirenden Umformers trägt nur eine Wicke­
+lung (gemeinschaftlich für Gleich- und Wechselstrom). Der fest­
+stehende Foldmagnet besitzt gar keine oder nur oino in sich ge­
+schlossene Wickelung. Hiedurch werden Regelungsvorrichtungen
+zur Sicherung des synchronen Laufes und gleich bleibender
+Spannung im Secundärnetz überflüssig.
+Geschäftliche und finanzielle Nachrichten.
+Kabelläbrik- Actiengesellschaft Pressburg- Wien. Der
+Directionsrath dieser Gesellschaft hat in seiner letzten Sitzung
+über die Bilanz pro 1899 Beschluss gefasst. Dieselbe ergibt ein
+Bruttoerträgnis von 515.495 fl. Hievon wurden bezahlt: Löhne,
+Gehalte, Assecuranzen und diverse Auslagen mit 268.014 fl.,
+Steuern mit 15.170 fl., statutenmässige Abschreibungen mit
+77.147 fl. Sodann kommen noch für bezahlte Zinsen 8331 fl. und
+für Dubiosen 3220 fl. in Abzug, so dass 143.610 fl. zur Verfügung
+der Generalversammlung verbleiben. Der Directionsrath wird der
+für den 11. März d. J. einzuberufenden Generalversammlung vor­
+schlagen, auf das Actiencapitai von 1,200.000 fl. gleich dem Vor­
+jahre eine Dividende von 9 Percent= 18 fl. auf jede Actie
+zur Vertheilung zu bringen und den nach Dotirung des Reserve-
+
+Nr. 9.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 111.
+fonds und der Tantieme an die Direction und die Beamten ver­
+bleibenden Betrag von 11.587 fl. auf neue Rechnung vorzu­
+tragen.
+Budapester Allgemeine Elcktricitiits-Actien-Gesellschaft.
+Nach Abschreibungen und Amortisationen bei theihveise erhöhten
+Quoten, ferner nach Dotirung des Erneuerungsfonds mit 20.000 K
+ergibt sich pro 1899 ein Reingewinn von 557.887 K, aus
+welchem eine 6proc. Dividende per Actie zur Auszahlung
+gelangt. Ausser der statutenmässigen Dotirung des Reservefonds,
+Tantieme der Direction u. s. w. wird die Creirung eines Special-
+Reservefonds mit 40.000 K vorgesehen. Der Restbetrag von
+49.084 K wird auf neue Rechnung vorgetragen.
+Ungarische Eisenbahnverkehrs- ActiengeseUschaft. Im
+Laufe des Jahres 1899 wurde das auf 4,000.000 lv erhöhte Actien-
+capital der Ungarischen Eisenbahnverkehrs-Actiengesellschaft voll
+eingezahlt. Im Sommer wurde der elektrische Betrieb auf sämmt-
+lichen Linien der Temesvärer Strasseneisenbahn eröffnet. In
+Arbeit verblieben mit Schluss des Jahres die Umgestaltungs­
+arbeiten und der Bau neuer Linien der Strasseneisenbahn von
+Arad, Nagyvarad und Debreczen, sowie die Vorbe­
+reitung zur Anlage elektrischer Centralstationen in mehreren
+Städten des Alfölds, welche im Laufe des Jahres 1900 dem Be­
+triebe übergeben werden sollen.
+' Grosse Berliner Strassenbalm. Wir entnehmen dem Ge­
+schäftsberichte für 1899 Folgendes: Die Umwandlung des Balm­
+netzes für den elektromotorischen Betrieb wurde im Berichts­
+jahre erheblich gefördert. Am Schlüsse des Jahres 1899 waren
+neunzehn Linien mit elektrischer Betriebskraft ausgerüstet. Für
+die weitere Durchführung des Motorenbetriebes im laufenden
+Jahre liegt ein umfassendes Bauprogramm vor, so dass die Um­
+gestaltung des Gesammtnetzes am Jahresschlüsse im Wesentlichen
+beendet sein wird. Die Gesellschaft hat im Berichtsjahre
+188,000.000 Personen gegen 172,000.000 Personen in 1898, mithin
+16,000.000 Personen mehr befördert und dafür 19,695.864 Mk.
+gegen 18,249.377 Mk. in 1898, mithin 1,446.487 Mk. mehr einge­
+nommen. An Wagenkilometern sind 44,924.467 gegen 37,772.595
+in 1898, mithin 7,151.872 km mehr geleistet. Die Betriebsrechnung
+schliesst in Einnahme mit 20,348.094 Mk., in Ausgabe mit
+10,913.285 Mk. und demnach im Heb erschoss mit 9,434.809
+Mark ab. Das Gewinn- und Verlust-Conto ergibt eine Einnahme
+einschliesslich Zinsen und Vortrag aus 1898 von 9,749.120 Mk.
+Nach Abzug der Hypothekenzinsen (68.487 Mk.), Obligations­
+zinsen (438.012 Mk.), Uesammtabschreibungen und Rückstellungen
+rund (Sä,230.000 Mk.), Gemeindeabgaben aus dem Personen-Ver­
+kehr (1,686.434 Mk.), zusammen von 4,391.182 Mk., verbleiben
+5,357.938 Mk. Aus dem Reingewinn erhalten nach Dotirung
+des Reservefonds und unter statutenmässigen Tantiemen die
+Aetionäre auf das gegenüber dem Vorjahre verdoppelte Actien-
+capital 10’5o/o Dividend e; auf neue Rechnung sind 25.450 Mk.
+vorgetragen. Mit den Zuweisungen aus den Betriebsüberschüssen
+des Berichtsjahres ergibt sich ein Bestand für den Reservefonds
+von 4,074.863 Mk., für den Erneuerungsfonds von 2,333.150 Mk.,
+für den Bahnkörper-Amortisationsfonds 15,020.755 Mk., für den
+Beamten-Unterstützungsfonds von 656.844 Mk. Das Bahnnetz
+der Gesellschaft ist im Berichtsjahre um 32.865 m neuerbaute
+Geleiseanlagen erweitert worden und hat damit einen Umfang
+von 356.731 m erreicht, von denen Ende 1899: 351.399 m im
+Betriebe standen. Die Betriebsleistungen stellten sich auf 44,924.467
+Wagenkilometer gegen 37,772.592 im Vorjahre, also lim 18%
+höher. Im Dienste der Gesellschaft befanden sich am Ende des
+Berichtsjahres 5357 Personen, in ihrem Besitze 4608 Pferde und
+1720 (darunter 524 Motor-) Wagen. Die Leistungen der Gesell­
+schaft für gemeinnützige Verbesserungen der Verkehrswege,
+deren Kosten der Stadtgemeinde Berlin durch die erstere erspart
+geblieben sind, bezifferten sich bis Ende 1899 auf 29,987.508 Mk.
+ferner für Pflasterrente, Abgaben aus den Verkehrs-Einnahmen,
+Strassenreinigung, Einkommensteuer etc. auf 30,781.566 Mk., so
+dass sich eine Gesammtleistung der Gesellschaft im Gemeinde-
+Interesse ergibt von 60,769.075 Mk.
+Der amerikanische Kupferring. Dem „Beil. Börs.-C.“
+schreibt man aus London: Jüngst verbreitete Gerüchte über eine
+Neugestaltung der amerikanischen Kupfervereinigung finden jetzt
+ihre Bestätigung durch die Bildung eines besonderen (Konsortiums,
+das in New Versey als „The United Metall Selling
+Compan y“ registrirt worden ist. Diese Company soll die Func­
+tion eines Verkaufsagenten für die Amalgamated Cop per
+Company ausüben. Die Firma Lewisohn Brot he r s ist
+in die neue Company aufgegangen, welche mit einem Capital von
+5 Millionen Dollars arbeitet. Directoren derselben sind William
+R o c k e f e 1 1 e r, Henry H. Roger s, Leonard und Adolf
+Lewisohn und Charles C. B e a m a n. Die neue Vereinigung
+wird die Position der gegenwärtigen Beherrscher des Marktes
+ausserordentlich stärken. In hiesigen Interessentenkreisen wächst
+die Befürchtung, dass ein ernsthafter „Corner“ vorbereitet wird.
+Der amerikanische Ring controlirt die Hauptmasse, wenn nicht
+die Gesammtheit der verfügbaren Versorgung an Kupfer.
+Zink-Trust in (len Vereinigten Staaten? Man schreibt
+dem „Berk Börs.-C.“ aus Chicago vom 5. d. M.: In Kansas City
+werden seit einiger Zeit eifrig Verhandlungen gepflogen, deren
+Ziel die Gründung eines gigantischen Zink-Trustes bildet, der
+die Zink-Production in den Vereinigten Staaten ebenso contro-
+liren soll, wie es bezüglich der Kupfer-Production durch die
+Amalgamated Copper Co. der Fall ist. Nicht nur die Zink-Gruben,
+sondern auch die Schmelzwerke sollen vom Truste betrieben
+werden. Sämmtliche grossen Zinkgruben-Besitzer im Hauptzink-
+gewinnungs-Bezirke der Vereinigten Staaten, Joplin, Missouri,
+haben Anfragen erhalten, zu welchen Bedingungen sie dem zu
+gründenden Truste ihr Besitzthum abtreten würden. Von grossen
+Gesellschaften sollen die United Zinc Co., die American Zinc Co.,
+die Missouri Zinc Fields Co. und die Cloverdale dem Trust (man
+spricht von einem Actiencapitale von 50 Millionen Doll.) bei­
+treten. Die Urheber dieses Projeetes, für dessen Realisirung man
+wohl eine günstigere Gestaltung des Geldmarktes abwarten wird,
+wurden bisher nicht genannt.
+Vereinsnachrichten.
+Chronik des Vereines.
+31. Jänner. —Vereinsversammlung. Der
+Vorsitzende, Prof. Carl Sch lenk, eröffnet die Sitzung
+und ertkeilt, nachdem keine geschäftlichen Mittheilungen
+vorliegen, dem Director Herrn Ernst Egger das Wort
+zu dem angekündigten Vortrage: „Der elektrische
+Antrieb der Waggonhebewerke in Station
+Hauptzollamt der Wiener Stadtbahn.“
+Der Vortragende hebt in der Einleitung seines
+Vortrages die Wichtigkeit des Aufzugwesens, das durch
+die Einführung des elektrischen Antriebes an Verbreitung
+zugenommen hat, hervor. Speciell der directe elektrische
+Antrieb, das ist also jene Construction, bei welcher die
+Schnecke des Aufzuges mit dem Elektromotor direct
+gekuppelt wird, hat eine weite Anwendung gefunden.
+Der Vortragende übergeht hierauf zur Besprechung
+des elektrischen Waggonhebewerkes der Stadtbahn nach
+dem Patente A. Freissler, dessen ausführlichere
+Erörterung deshalb von Interesse ist, weil zur Zeit der
+Projectirung desselben noch keine ähnliche Ausführung
+bestand, und, wenn vom Schiffshebewerke bei Dortmund
+abgesehen wird, auch heute noch nicht besteht.
+Redner zeigt zunächst, zum Theil an der Hand
+von Plänen, dass eine anstandslose Abwickelung des
+Dienstes im Hauptzollamte nur durch Schaffung einer
+solchen Einrichtung ermöglicht wurde.
+Zuerst dachte man an die Herstellung eines hy­
+draulischen Aufzuges. Die hohen Anlage- und Betriebs­
+kosten, der schädliche Einfluss des Frostes auf die
+Rohrleitungen und endlich der Umstand, dass die Stadt­
+bahn ein eigenes Elektricitätswerlc besitzt, waren für
+die Wahl des elektrischen Aufzuges bestimmend. Es
+handelte sich dann nur noch darum, zwischen directem
+oder indirectem Antriebe zu wählen. Die Baudirection
+der Stadtbahn hat sich für den ersteren entschieden.
+Der Firma A. Freissler wurde die complete Lieferung
+übertragen; die elektrische Ausrüstung erfolgte durch
+die Vereinigte Elektricitäts-Aetien-Ge­
+sellschaft in Wien.
+Der Vortragende entwirft in ausführlicher Weise
+die Gesammtanordnung des Hebewerkes. Dasselbe ist
+in einem eigenen Gebäude untergebracht, das als ein
+Zubau zum Hauptzollamte ausgeführt wurde. In diesem
+Gebäude münden zwei Geleise der Stadtbahn auf b e-
+wetliche Brücken ein. Diese Brücken sind so
+
+Seite 112.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 9.
+construirt, dass Waggons von grössten Dimensionen
+(14 m lang und 3'2 m breit), eine Maximalbelastung
+von 30.000 kg, aufgenommen werden können. Jede der
+beiden Brücken hängt an acht Gail i’schen Ketten, die
+mit Gegengewichten versehen sind. Die Gegengewichte,
+die auch ein Pendeln der Brücken vermeiden sollen,
+sind so bemessen, dass die Brücken mit halber Nutz­
+last ausbalancirt sind. Die Bewegung des Fahrstuhles
+erfolgt durch 40 PS elektrische Motoren. Die Hubhöhe
+beträgt 6 m.
+An den elektrischen Antrieb wurden verschiedene,
+zum Theil schwer erfüllbare Bedingungen gestellt. Die
+erste Bedingung war, ein derart automatisches Arbeiten
+des Aufzuges herzustellen, dass sich die Thätigkeit des
+Fahrstuhlwärters nur auf die Bewegung des Steuerhebels
+aus der einen in die andere Lage zu beschränken hat.
+Dann wurde eine Einschaltdauer der 40 PS-Motoren
+von 6 Secunden verlangt, d. h. die Motoren müssen in
+6 Secunden auf 800 Touren kommen. Für die Aus­
+schaltdauer waren 3 Secunden vorgeschrieben. Ferner
+wurde eine automatische Ausschaltvorrichtung in den
+Endstellungen und eine Vorrichtung zur automatischen
+Abstellung des Fahrstuhles, falls diese Ausschaltvor­
+richtungen nicht functioniren sollten, gefordert. In Be­
+zug auf die Stromstärke war eine Bedingung insoferne
+gestellt, als die Anlaufstromstärke über ein gewisses
+Maass nicht ansteigen durfte. Besonders wichtig ist es,
+die Ausschaltdauer einzuhalten, damit nicht Differenzen
+zwischen dem, Niveau der beweglichen Brücken und
+ienem der Zufahrtsgeleise eintreten.
+Die verwendeten Motoren, die bei verschiedenen
+Belastungen eine annähernd gleiche Tourenzahl auf­
+weisen müssen, sind Nebenschluss -Motoren von
+40 PS effectiver Leistung bei 800 Touren. Es sind
+Kapselmotoren, ähnlich der Wagentype. Die Funken­
+bildung ist sehr gering, die Bürstenstellung eine fixe,
+weil ja die Motoren nach beiden Richtungen laufen
+müssen; der Wirkungsgrad ist 86%, bei halber Be­
+lastung etwas weniger.
+An mehreren Schaltungstafeln bespricht der Vor­
+tragende hierauf den Reversier- Apparat, welcher
+von den bestehenden Systemen abweicht. Diese Systeme
+haben das charakteristische Merkmal, dass das E i n-
+s cha 11en automatisch, das Ausschalten hingegen
+entweder von Hand aus oder durch den Fahrstuhl er­
+folgt. Hier ist jedoch eine vollkommen automatische
+Bedienung des Aufzuganlassers vorhanden, und zwar
+wird dies erreicht durch einen Hilfsmotor sammt zuge­
+höriger Hilfsvorrichtung. Dieser Hilfsmotor, ebenfalls
+ein Nebenschlussmotor, hat einen doppelten Collector, und
+ist für eine Leistung von 1 PS, die zugleich zum An­
+ziehen der Bremsen verwendet wird, gebaut. Zum An­
+lassen des Hauptmotors arbeiten beide Motoren des
+Hilfsmotors in Hintereinanderschaltung, während
+sie beim Abstellen parallel geschaltet werden; der
+Hilfsmotor läuft einmal mit 750, das anderemal mit
+1500 Touren. Es ist nöthig, dass der Motor im richtigen
+Momente zum Stillstände kommt. Das wird in folgender
+Weise erzielt: Am Umfange eines gusseisernen Rahmens
+sind vier Momentausschalter angebracht, die bei der
+Drehung eines gezahnten Contactrades von vier Mit­
+nehmerknaggen desselben zum Ausschalten gebracht
+werden. Dieses Contactrad wird in sehr einfacher Weise
+vom Hilfsmotor betrieben. Auf die Steuerung des Hilfs­
+motors wirken Sicherungsvorrichtungen derart ein, dass
+eine automatische Ausschaltung in den Endstellungen
+erfolgt; im Handbereiche des Fahrstuhlwärters ist eine
+Zugvorrichtung angebracht, die ebenfalls auf den auto­
+matischen Endausschalter einwirkt.
+Die Betriebsstromstärke des vollbelasteten Motors
+beträgt ca. 30 A bei 480 V Spannung.
+Beim Anschalten beträgt die Stromstärke 100 bis
+120 A, sie steigt und fällt nicht plötzlich, damit Stüsse
+vermieden werden.
+Die Stromkosten für die Hebung einer Tonne auf
+6 m betragen 1 Heller bei einem Strompreise von
+28 Hellern pro Hektowattstunde. Die Anlage ist seit
+17. Jänner v. J. im Betriebe und wird täglich zur He­
+bung von 80 bis 100 Waggons benützt. Für den Fall
+des Versagens des elektrischen Stromes sind derartige
+Reservevorrichtungen vorhanden, dass eine Störung im
+Betriebe nicht eintreten kann; bis jetzt sind diese Vor­
+richtungen noch nicht in Action getreten.
+An den Vortrag, für dessen Abhaltung die Ver­
+sammlung durch lebhaften Beifall dankt, knüpft sich
+eine Debatte nicht an.
+Der Vorsitzende, Prof. Carl Sch lenk, beglück­
+wünscht die Erbauer des Hebewerkes zu der erfolg­
+reichen Lösung des seltenen und schwierigen Problems
+und schliesst, dem Herrn Director Ernst Egger für
+die Abhaltung des Vortrages den Dank aussprechend,
+die Sitzung.
+Das Präsidium hat über mehrfache Anregung zur
+Pflege der Geselligkeit ein Vergnügungscomitd
+eingesetzt.
+Dieses Comitö, mit Herrn Ernst Jordan als Ob­
+mann, beschloss,
+am 7. März d. J. im Hotel Savoy (Englischer Hof),
+Wien, VI. Mariahilferstrasse 81, im grossen Saale 4
+einen Geselligkeitsabend mit heiterem Programme
+und Tanz
+zu veranstalten, bei dem auch eingeführte Gäste herz­
+lich willkommen sind.
+Herrenkarten zu zwei Kronen werden den in Wien
+domicilirenden Herren Mitgliedern zur eventuellen Be­
+nützung zugesendet. Der Eintritt für Damen ist frei.
+Karten sind überdies sowohl in der Vereinskanzlei, I.,
+Nibelungengasse 7, ab 4 Uhr nachmittags, als auch am
+Geselligkeitsabend beim Eintritte erhältlich.
+Die nächste Vereinsversammlung findet Mittwoch
+den 28. Februar 1. J., im grossen Saale des Ingenieur-
+und Architekten-Vereines, I., Eschenbachgasse 9, 2. Stock,
+7 Uhr abends, statt.
+Referat über.: „Elektricitätszähler
+mit doppeltem Tari f.“
+Die Vereinsleitung.
+Berichtigung: In dem Hefte 8 ist auf Seite 100, Spalte 1,
+Zeile 4 von unten ein Druckfehler unterlaufen; es muss heissen:
+„Es zeigte sich, dass der 2 P8-Motor ein cos cp= 0'84, der
+20 PS'-Motor ein cos cp= 0’89 erreicht hatte.“
+Schluss der Redaction: 20. Februar 1900.
+Verantwortlicher Redacteur: Dr. J. Sahulka.— Selbstverlag des Elektrotechnischen Vereines.
+Commissionsverlag bei Spielhagen&Schuri ch, Wien.— Alleinige Inseraten-Aufnahme bei Haasenstein& Vogler (Otto Maass), Wien und Prag.
+Druck von R. Spies& Co., Wien.
+

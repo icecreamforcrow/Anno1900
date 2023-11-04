@@ -1,0 +1,1196 @@
+
+[ 2023-06-29 10:38:59.022 - 19001124 - Seite 1 ]
+WikN, Samstag, 24. November 1900.
+51. Jahrgang. Nr. 48.
+Preis ohne Erkenntnisse: 16 L ganz-, 8 X halb-,
+4 K vierteljährlich.
+Preis mit Erkenntnissen: 20 L ganz-,
+10 K halbjährlich.
+Allgemeine ößerreicMKe
+Erscheint jeden SamStag.
+Einzelne Nummern L 40 b.
+Mannskripte werden nicht retournirt.
+Verantwortliche Redacteure: vr. Eduard Coumont, Or. Carl Schreiber.
+Verlag u»d Administration: Manz'lchr K. und k. Hof-Verlags- und Univrrfitäts-Buchhandlung in Wien, I., Kohlmarkt 20.
+Zuschriften an die Redaction: Wie«, XIX., Billrothstraße 55.
+Inhalt» Pros. Dr. Hans S p e r l: Einzelnes aus dem Gebiete des österreichischen Proceß- und Privatrechtes.— Dr. Felix M a y e r: Ueber den Minoritäten-
+schntz bei Aktiengesellschaften.— Coumvnt: Zur Plenarvcrsammlung der n. Ü. Advocatenkammcr vom 21. November 160t).— Kleine Mit­
+theilungen.— Beilage: Amtsblatt.
+Für die k. IV Abonnenten der Gerichts-Zeitung „Ausgabe mit Erkenntnissen" liegt der heutigen Nummer Bogen 18 und 19 der strafrechtlichen Entscheidungen
+Neue Folge II bei.
+Einzelnes aus dem Gebiete des österreichischen Procest­
+und Privatrechtes.
+i.
+Mathematisch-Juristisches zum Problem der
+Befriedigung einer Simultanhypothek im Falle
+einer Zwangsversteigerung (§ 222 Ex. Ordn.).*)
+Von Professor Dr. Hans S p e r l in Wien.
+Die Methode, nach welcher eine auf mehreren Pfandgrundstücken
+ungetheilt haftende Forderung aus dem Werthe der Grundstücke zur
+zwangsweisen Befriedigung zu gelangen hat, ist in ihrem leitenden
+Principe schon durch die österreichische Concursordnung vom 25. Decem­
+ber 1868 (8 37) festgesetzt worden. Die Execntionsordnung vom
+27. Mai 1896 brachte dieselbe Norm in bestimmtere, erschöpfende
+Fassung und übertrug sie in ihren 8 222, gleichzeitig eine bisher
+höchst zweifelhafte Gestaltung— Behandlung der Simultanhypothek
+und der Nachhypotheken, wenn nur ein im Verbände haftendes
+Gut verkauft worden ist— genau regelnd. So klar und einfach der
+im zweiten Absatz des 8 222 E. O. enthaltene Hauptgrundsatz dem
+ersten Anscheine nach auch lauten mag, so gab er doch der Literatur
+und Praxis genug zu denken, zu schreiben und zu zweifeln J ), Und
+wenn nun auch im Gesetze voller Aufschluß über die Berechnungsweise
+der, dem Simultangläubiger aus den durch Veräußerung der Pfand­
+güter verfügbar gewordenen Befriedigungsmassen zukommenden Theil­
+beträge zu finden ist, wenn auch alle den Gegenstand behandelnden
+Schriftsteller entsprechende mathematische Formeln aufstellen 3 ), so kann
+doch die exccutionsrechtliche Praxis täglich Gestaltungen bringen, welche
+*) Der vorliegende Aufsech ist entstanden Über Anregung und unter
+freundlicher Mitwirkung des Herrn Dr. Alois W alte r, k. k. Ncaischnlprofessor
+in Grnz. Der mathematische Theil beruht hauptsächlich auf den von ihm in
+dankenswerther Weise zur Verfügung gestellten Berechnungen. Herr Professor
+W alter war aus richterlichen Kreisen, in Leoben um die Durchrechnung
+eines eoncreten derartigen Falles ersucht worden; er gab sodann die Anregung
+zur juristischen Behandlung des Problems.
+*) Aus der österreichischen Literatur seien hervorgehoben: K r a i n z-
+P fa ff, System§ 288, S. 716 (2. Anst.), Burckhard t, System des österr.
+Priv. R. in, 45b, Exn er, österr. Hypothekenrecht, Ji, 298, Stnbenrau ch,
+Commentar zum B. G. B., 7. Anst, von Schuster und Schreiber, I,
+S. 618 fs., Pitreich, Ger. Halle 1883, dir. 9, Ofne r. jur. Bl. 1886, Nr. 18
+und 36, dann ebenda 1885. Nr. 27, Schauer, österr. Gerichts-Zeitung >890,
+S. 312, Schütz, Ger.-Ztg. 1894, S- 105, Hoegel, 1894, Nr. 22/ V. L.,
+Notar-Ztg. 1897, Nr. 1 und 2, SKo feit selb, Ger.-Halle >898, S. 36, 37,
+B u m, jur, Bl, >898, S. 517, Fürst l, Commentar zur Ex. Ordn., zu 8 222,
+Czörnig, Gcr.-Ztg, >890, S. 179 und in seinen Vorlesungen zur Executions-
+ordnung, S. 216, Neumann, Executivnsrecht, S. 340 ff.
+“) Allerdings nicht in allgemeiner Fassung als algebraische, ständig
+giftige Formel, wie es hier geschieht, sondern durch Ausführung conereter,
+bestimmte Ziffern verwendender Beispiele; vgl, u. a. Cz ör n i g, S. 216
+und 217, N e u m a n n, Executivnsrecht, S. 340, 341. Bei letzterem Schrift­
+steller unterläuft insofern ein Irrthum, als auf S. 341 der für x gewonnene
+Werth nicht 3600 sondern 1800 X betrngeti muß, wie auch im Weitere»
+richtig angenommen wird.
+den von Gesetz und Theorie dem Berechnungsschlüssel als normal zu­
+grunde gelegten Sachverhalt überqueren und derart verschieben, daß
+die sterothpe Formel nicht mehr zur Lösung des Problems ausreicht.
+Ein Fall dieser Art ereignete sich unlängst in der Praxis; er bietet
+Anlaß zu einer umfangreichen Rechenarbeit und führt zugleich zur
+Gewinnung von bisher nicht aufgestellten Berechnungsformeln für
+bestimmte Combinationen. Es dürfte daher nicht ohne Interesse sein,
+die bezüglichen Ergebnisse hier mitzutheilen.
+Zuvor muß der allgemeine Grundsatz für die normale Gestaltung
+bestimmt werden. Die in 8 37 Conc. Ordn. und nun in
+8 222 E. O. enthaltene Regel besagt, daß die simultan haftende
+Forderung aus den nach Ergebniß des Zwangsverkaufes bei jedem
+Pfandgut am Beginn des Rangsraumes der Simultanhypothek verfüg-
+baren Fonds verhältnißmäßig bezahlt werden solle. Aber nur
+dem schließlichen Effecte nach, denn der Gläubiger, dem alle verpfän­
+deten Grundstücke ungetheilt haften, hat das Recht, aus einer einzelnen
+Realität mehr zu entnehmen, als dem Verhältnisse entspricht, oder auch
+sich aus ihr ganz bezahlt zu machen. In solchem Falle hat die
+Berechnung deS Verhältnisses, in welchem die Simultanhypothek prin­
+cipiell aus den Veisteigerungserlösen der im Verbände hastenden
+Güter zu befriedigen gewesen wäre, praktisch die Bedeutung, daß die
+durch die übermäßige Entnahme aus einem Meistbote verkürzten Nach-
+gläubiger dieser einen Realität die Herstellung des richtigen Verhält­
+nisses verlangen können und dadurch erwirken, daß sie aus den Meistboten
+der anderen Realitäten den ihnen vom Gläubiger vorweg genommenen
+Betrag wieder dem gesetzlichen Verhältniß entsprechend zugewiesen er­
+halten. Immer muß also das Verhältniß, in welchem die Simultan­
+hypothek aus den mehreren Meistbotsmassen principiell zu bezahlen
+wäre, berechnet werden.
+Das Gesetz (8 222 Abs. 2 E. O.) sagt uns: Die einzelnen
+Massen haben mit jener Theilsumme beizutragen, die sich zur Gesammt-
+forderuug verhält wie „der bei jeder einzelnen Liegenschaft nach Be­
+richtigung der vorausgehenden Ansprüche erübrigende Rest der Ve»
+theilungsmasse zur Summe aller dieser Reste". Mit anderen Worten:
+Die nach Tilgung aller der Simultanhypothek vorausgehenden Lasten
+bleibenden Meistbotsreste haben die Forderung des Verbandgläubigers
+nach Verhältniß ihrer Höhe zu bezahlen. Nennen wir bei einer zwei
+Liegenschaften I und II ergreifenden Hypothek den bei der ersten
+bleibenden Rest R lf jenen bei der zweitens, die Gesammtforderung 1?
+und fragen wir nach den gesetzmäßigen Befriedigungsquoten, so gelangen
+wir (x die Quote aus dem ersten, y jene aus dem zweiten Meistbot)
+zu den Formeln:
+x: F= R,: (R t -/ R,)
+v: F=: (Li- |- B,).
+Also zwei Gleichungen, beide ersten Grades mit je einer Unbe­
+kannten, deren jede sich ohneweitcrs durch Auflösung ergibt:
+x -LXA
+N,+ «2
+und y
+F X «2
+Hg
+1
+
+
+[ 2023-06-29 10:38:59.022 - 19001124 - Seite 2 ]
+tNr. 48.)
+- 3S0
+Die Summe dir so gefundenen Tangenten x und y muß, wie
+auch die Probe unserer abstract (algebraisch) durchgeführten Rechnung
+sofort zeigt s ), gleich sein dem Betrage der Simultanforderung.
+Wir sahen, wie leicht und rasch die Berechnung ist, wenn nur
+eine einzige Simultanhypothek auf den zwangsweise versteigerten Gütern
+lastet. Kaum nenne nswerth schwieriger gestaltet sich die Sache, wenn
+zwei— oder selbst mehrere— Simultanhypotheken concurriren, sofern
+nur ihre Raugsaufeinanderfolge bei allen Pfandgütern genau dieselbe
+ist. Unsere früher entwickelte Formel reicht hier vollkommen aus und
+die Rechnung bleibt immer, selbst dann, wenn sich zwischen die zwei
+oder mehreren Simultanhypotheken andere, nicht simultan haftende,
+Hypotheken im Range cinschiebcn sollten, eine einfache, die jeder Jurist
+ohne Beihilfe eines Mathematikers zu machen imstande sein muß. Auch
+diese Gestaltung soll an einem abstracten Beispiel versinnlicht werden.
+Die versteigerten Liegenschaften I und II zeigen folgende Belastung—
+wobei jeder große Buchstabe eine Pfandforderung bedeutet, die Forderungen
+B und D also simultan haften:
+Liegenschaft I j Liegenschaft 11
+1.
+Rang:
+A|
+B
+2.
+Rang:
+B!
+C
+3.
+Rang:
+E j
+R
+4.
+Rang:
+D|
+I)
+Im Rangsverhältniß zu einander betrachtet, stehen die Simultan-
+forderungen B und D bei beiden Grundstücken gleich, überall geht die
+Forderung B voraus. Die oben aufgestellte Grundformel wird hier so
+angewendet, daß vorerst die aus den Massen I und II für die ver-
+hältnißmäßige Befriedigung der Forderung B entfallenden Summen
+berechnet und diese dann seinerzeit bei Ermittlung der für Befriedigung
+der Hypothek v entfallenden Quoten zur Herausrechnung der dort ver­
+fügbaren Reste [ßj und des obigen Beispiels) benützt werden. Die
+Sache bleibt deshalb einfach, weil wir es hier zwar mit mehreren
+unbekannten Größen zu thun haben, aber nur mit solchen, die n a ch-
+einander aus bekannten Größen bestimmt werden, derart, daß
+nach Ermittlung der auf die erste Simultanhypothek B entfallenden
+Berhältnißbeträge auf Grund der nun im Range der späteren Hypo­
+thek II verfügbaren Meistbotsreste nunmehr wieder unsere Grund­
+formel platzgreift.
+Eine wirkliche Schwierigkeit tritt uns erst dann entgegen, wenn
+die für beide Simultanhypotheken aufzusuchenden Tangenten aus den
+zwei FeilbietungSerlösen einander gleichzeitig und Wechsel-
+weise derartig beeinflussen und bestimmen, daß ihre Ziffern nicht
+durch hintereinander selbständig angestellte einfache Rechnungen
+ermittelt, sondern nur gleichzeitig dargestellt werden können, also
+durch eine intensivere Rechnungsoperation. Dies ist dann der Fall,
+wenn sich die Simultanhypotheken in ihrem Range kreuzen,
+das heißt, jede Simultanforderung ist im Verhältniß zur anderen bei
+einer Liegenschaft im Range voraus, bei der zweiten im Range zurück.
+Solche Rangsüberkreuzungcn kommen alltäglich vor; sie können beispiels­
+weise auf folgende Art entstehen: Jemand besitzt zwei Liegenschaften,
+die erste belastet mit der Forderung A und hinter dieser mit dem
+SparcassensaHe B, welcher zugleich auf der zweiten Liegenschaft als erste
+und einzige Satzpost haftet. Er wird säumig mit der Zinsenzahlung an
+den Gläubiger A, dieser kündet ihm die Forderung oder klagt sie gar
+ein, beläßt sie aber schließlich dem Hypothekarschuldner wieder unter
+der Bedingung, daß er die Forderung auch auf dem zweiten Gute
+sicherstelle. Das geschieht; natürlich im Range hinter dem Sparcasse-
+satz B, dem aber die jetzt hier neu entstandene Simultanforderung A
+am ersten Gute im Rang vorausgeht. Auch im Wege der Satz-
+weichung kann eine Rangsüberkreuzung herbeigeführt werden, wenn
+bei zwei ganz regelrecht in überall gleicher Rangsfolge einver­
+leibten Simultanhypotheken der vorangehende Gläubiger dem nach­
+folgenden eine sich nicht auf alle im Verbände haftenden Güter
+erstreckende Satzweichung bewilligt. Oder durch Zwischenfälle im Ein­
+treten der für die Priorität der beiden erst einzuverleibenden Simultan­
+hypotheken maßgebenden Zeitpunkte, so daß z. B. bei der ursprünglichen
+Eintragung der Simultanhypothek die Haupteinlage in der Reihen-
+3) Wir erhalten: x+ y
+und abgekürzt gleich F.
+F X R,+ F x B,, .. F (H,+ R 3)
+K,+ R a gleich E(+ Rj
+folge A—B, die Nebeneinlage, weil sich die dahin abgetretene Eingabe
+des A irgendwie verspätet hat, in der Reihenfolge B—A einverleibt
+hat (vgl. Z 110 Grb. Ges.).
+Wenn wir den Typus der uns jetzt beschäftigenden Fälle wieder
+wie früher darstellen, so ergibt sich uns— zur Vereinfachung soll von
+dritten Zwischenhypotheken ganz abgesehen worden— folgendes Bild:
+"|I Liegenschaft
+II. Liegenschaft
+1.
+Rang:
+Vorhypotheken: V)
+ebenso: V 2
+2.
+Rang:
+A
+B
+3.
+Rang:
+B
+A
+A zu ermitteln, die oben entwickelte Grundformel, die Proportionen:
+~ B a und y a: A— B 3: Rj -s- B a
+A= R x: Rj
+^beziehungsweise die Auflösungen:
+A X Ri
+A X B»
+;)
+- E x+ R a u -^—K,+ R 2
+zu verwenden, so sehen Wir sofort, daß hier jede Proportion zwei
+Unbekannte enthalten muß. Untersuchen wir die erste sich auf die
+Liegenschaft I beziehende. Hier ist im vierten Glied die Größe R 2
+enthalten, das ist der aus der Masse II nach Bezahlung der dem
+Gläubiger A dort vorangehenden Satzposten verbleibende Betrag.
+Dieser ist aber gleich der Meistbotsmaffe Ll 2 weniger die Vor-
+hypotheken V 2 und weniger den auf die andere, hier vorausgehende
+Simultanhypothek B nach§ 222 E. O. aus der Liegenschaft II ent­
+fallenden Theilbetrag y b. Ebenso wird es bei Bildung der übrigen
+Proportionen gehen. Wenn wir zur Vereinfachung die constant wieder­
+kehrenden Größen durch m x und M a —V a durch m 2 ersetzen,
+werden die Proportionen— wir wollen sie als die Grund­
+gleichungen bezeichnen— lauten:
+.,,_. x a: A= m,: m,
+Liegenschaft I j^. B= (m,— x a)
+A— ra 2— y b
+B— m a:( m i
+Liegenschaft II
+y a
+yt
+(m 2— y b)
+; (m,- x a) -j-
+: (m 3— y b) j-
+—* a) -\~ m 2
+Wir haben also vier Gleichungen, jede mit zwei
+Unbekannten. Andere Beziehungen, um eine der unbekannten
+Größen zu finden, gibt es nicht. Zunächst muß aus den vorhandenen
+vier Gleichungen künstlich eine solche Gleichung geschaffen werden, die
+nur eine unbekannte Größe enthält, die sogenannte Endgleichung.
+Gehen wir von der ersten und vierten, dasselbe Unbekanntenpaar ent­
+haltenden Gleichung aus und setzen wir das Product der äußeren
+Glieder gleich dem der innern:
+x a (m, m 2— y b)— A m x und
+y b (in x— x a -f m a)= B m 3
+Oder unter Auflösung der Klammer und anderer Gruppirung
+der Summanden:
+x a (m, 4- m 2)— x a y b— A m x
+y b (m x 4- m 2)— x a y b— B m 2.
+Subtrahiren wir die zweite von der ersten, so erhalten wir eine
+neue richtige Gleichung:
+(x a— y b) (m x 4' m a)= A m x— B m 2 und daraus y b=
+x a— —- 1 -' ,—- Dieser Wert für y b nun in die erste unserer
+m x 4" m a
+vier Gleichungen eingesetzt, so ergibt sich nach mehreren Zwischen-
+rechnungen Z die Endgleichung:
+(m x 4- m a)— xj,
+/A m x— B m 3
+\ nij m 3
+)
+— A nij
+oder dieselbe auf Null reducirt:
+*) Die vollständige Wiedergabe dieser, nach möglichster Vereinfachung der
+Formel strebenden längeren Zwischenrechnungen kann hier unterbleiben, da der
+Leser sie unschwer selbst vornehmen kann und er überdies einen Beweis der
+Richtigkeit obiger Endgleichung in den weiter unten vorgenommenen Rechnungs­
+Proben findet.
+
+
+[ 2023-06-29 10:38:59.022 - 19001124 - Seite 3 ]
+391
+[9tr. 48.]
++
+(B m 3— A m 1)— (w, m 3);
+m l H- m 2
+)+
+A m,— 0
+also eine quadratische Gleichung mit einer einzigen Unbe­
+kannten x R. Diese letztere ist nun aus der gegenwärtigen Gleichung zu
+berechnen ^) und gelangen wir so zur Formel:
+(m,+ m,) a+ Am,-Bjn,l+ m s) s+ (A m,— E m; )p— 4 A m, (in,+ m») a
+(m, -t- uy
+Durch Einsetzung dieser und der weiters sich ergebenden Werthe
+in die anderen drei unserer oben aufgestellten Grundgleichungen werden
+die drei uns bisher noch unbekannten Meistbotstangenten ebenfalls gewonnen.
+Nur um die Richtigkeit unserer algebraischen Formel erproben zu
+können, sollen— obschon dies in der Praxis, wie später erwähnt
+werden wird, nicht nöthig ist— auch die analogen abstracten Formeln
+für Xb, y a, 7h hier aufgeschrieben werden:
+(Am, +m:, (2 A+ B)— (m,+ m,)! J ~|. V [(nb+mJ’+fAm,- Bn> 2 )|'! -4Am,
+2 (m,+ m,)^
+T’.m,+ m, (2 B+ A)— (m, +■ m,)-^ \/ [m,+ m..)' J +(Am,—Em.)| s —4Am l (m,4 m 2 )-
+2 (m, m.)
+yb=-
+Bm ;;— Am,+ (m,+ v/ [(m,+ m,)"-+( Am, -Bm,)]:- 4 Am, (m, -|- m.J J
+im,■ m..
+Die den Simultangläubigern A und B zukommenden Theil­
+beträge müssen zusammen die Ziffer ihrer Forderung ergeben. Summirt
+man die obigen algebraischen Werthe entsprechend, so ergibt sich that­
+sächlich, daß x a -f- y a gleich ist A, und x b -j- y b gleich B. Ferner
+ergibt sich durch Zusammenzählung:
+X,
+m, (A -|- B)
+***1 “1“ Nlz
+uuä y a+ y b=-
+u>^(A -)- B)
+in, -j- m„
+und durch Division dieser zwei Gleichungen die dritte Gleichung:
+(x a+ xi>): (y a+ y b)— m,: m 3.
+Diese letztere zeigt uns, daß die aus dem Meistbot der Liegen­
+schaften I und II zur Bezahlung der Simultanhypotheken A und B
+entnommenen Beträge zu einander im selben Verhältnisse stehen, wie
+die nach Deckung der Vorhypotheken verfügbaren beiden Maffenreste
+und m 3; also das, was das Gesetz (§§ 37 Conc. O. und 222
+E. O-) vorschreibt.
+Der eine Meistbotsvertheilung arbeitende Richter wird die Sache
+viel einfacher machen, als hier, der Vollständigkeit und theoretischen
+Folgerichtigkeit zu Liebe geschehen ist. Er braucht nur eine der
+hier entwickelten Schlußformeln z. B. jene für x a, zu benützen und
+mit Einsetzung der concreten Ziffern durchzuführen*** 6 ). Den erzielten
+Werth setzt er in die zweite und vierte unserer Anfangsgleichungen, das
+dadurch gefundene y a in die dritte ein und hat dann nur mit ein­
+fachen Gleichungen ersten Grades zu thun. Er bedarf also der langen
+und mühsam auszurechnenden Formeln für x b, y a und y b nicht.
+e) Nach der allgem einen Auflösnngsformel der quadratischen Gleichungen:
+x—— ~2 wobei vorherige Zuröckführung der Gleichung
+auf die typische Form: x’ -i ax -t- b— 0 vorausgesetzt ist.
+6) Somit werden wir zum Zwecke des praktischen Gebrauches für den
+Fall der Rangskreuzung zweier Simultanhypotheken nur eine einzige G r u n d-
+formel als Rechnungsschlüssel aufstellen. Sie lautet wie oben:
+(in,+ m a) a+ Am,— Biii 2^ \/ [(iu, -+- m a) s+ (Am, —Um 3 )] 4 —4Aiii 1 (in 1 +iii a) 2
+xa- 2 (in, -f- im,)"
+Die concrete Durchführung dieser Formel ergibt infolge des_ vor
+der Wurzel zwei Werthe; der eine von ihnen ist [tote sich auch sofort
+zeigt, wenn die oben für ya, xb und yb entwickelten Gleichungen mit concreten
+Ziffern ausgeführt werden] entweder mit Minuszeichen, also negativ oder von
+weit höherem Betrag als A, in beiderlei Füllen, obschon mathematisch richtig
+und logisch wohlbegründet, praktisch nicht brauchbar. Zur Verwendung gelangt
+nur der positive Werth, der immer kleiner ist als A (bezw. als B) und dieser
+wird zur Auffindung von xb, ya und yb in die Grundgleichungen eingesetzt.
+Der praktische Rechner wird noch gar manchen abktirzenden Vortheil anwenden
+können nach Art des Falles; so z. B. wenn auf zwei Realitäten ohne
+Z w i s ch e n h y.P o t h e k e n zwei sich kreuzende Simultanhypotheken haften
+(obiges Beispiel) und wenn beide Meistbote zur vollen Zahlung der Simultan-
+forderungen ausreichten. Hier können die Tangenten xa+ xb als eine
+einzige Unbekannte x, bann ya -n yb= y, die Forderungen A+ B= J
+angenommen und unsere a l l e r e r st e einfache Grnndformel angewandt werden.
+Dem Praktischen Bedürfnisse bei der Meistbotsvertheilung und bezüglich der
+Nachhypotheken ist dadurch genügt.
+Eine der vierTangenten muß aber unbedingt nach
+der von uns aufgestellten Formel berechnet werden, widrigens
+die ganze Vertheilung unrichtig wäre.
+Ein concretes Beispiel möge die bisherige abstracte Durch­
+führung veranschaulichen.
+Die nach Tilgung der Vorhypotheken bleibenden Beträge seien
+bei der Liegenschaft I gleich l 0.000 (m,), bei II gleich 5000 (m 3 ),
+die Forderungen sollen A 3000 und B 1000 betragen. Verwenden
+wir die oben allgemein entwickelte Formel, so finden wir x a gleich
+2052'85, und y a gleich 947 15, also zusammen 3000, dann x b—
+613 81 und y b— 386 19, also zusammen 1000 Auch zeigt sich,
+daß x a -]- x b— 2666 67 und y a -j- yb— 1333 33 sich zu ein­
+ander genau so verhalten, wie die verfügbaren Fonds m, (10000) zu
+m 3 (5000).
+Die vorstehenden Darlegungen beweisen, daß bei Zusammentreffen
+zweier sich im Range kreuzender Simultanhypotheken schon recht
+umständliche Rechnungen und die Auflösung einer Gleichung zweiten
+Grades nothwendig werden. Noch schwieriger und länger wird die
+Berechnung, wenn man es mit drei solchen den Rang überquerenden
+Simultanhypotheken zu thun hat. Ein Beispiel dieser Art wäre:
+L iegenschaft I. I Liegenschaft II.
+1. Rang:
+Vorhypotheken V,
+Borhypotheken V 3
+2.
+Rang:
+A
+B
+3.
+Rang:
+B
+C
+4.
+Rang:
+C
+A
+Hier enthalten zwei der Anfangsgleichungen, die nach§ 222
+E. O. zu bilden sind, je vier, zwei Gleichungen je drei Unbekannte
+und zwei Gleichungen je zwei Unbekannte. Die zur Berechnung ein­
+zelner von den sechs Tangenten führende Gleichung ist eine solche
+dritten Grades, sogenannte kubische Gleichung. Sollte es
+vorkommen, daß vier, fünf oder noch mehr Simultanhypotheken sich im
+Range Überkreuzen, so hat dies zur Folge, daß sich bei der Auflösung
+Gleichungen höheren als dritten Grades ergeben können.
+Auch andere Schwierigkeiten werden sich häufig einstellen; so
+z. B. wenn mehr als zwei Realitäten da sind 7 ), oder
+wenn sich zwischen die kreuzweise evneurrirenden Simultansorderungen
+noch andere Einzelhypotheken einschieben— alles Verwicklungen, auf
+die hier einzugehen zu weit führen würde.
+Eine andere sich unwillkürlich aufdrängende Frage soll aber nicht
+umgangen werden: ist der den Meistbotsvertheilungsbeschluß arbeitende
+Richter verpflichtet, kann ihm zugemuthet werden, derartige schwierige
+Berechnungen selbst, ohne Beihilfe eines kundigen Mathematikers, aus­
+zuführen? Wenn es sich auch nur um zwei im Range übereinander
+') Wir erhalten schon bei drei Realitäten, die im Verbände für zwei
+Hypotheken haften, da hier sechs Tangenten zu ermitteln kommen, sechs Grund-
+gleichungen, drei mit je drei Unbekannten und drei mit je zwei Unbekannten.
+Zunächst muß eine der Unbekannten aus einer der letztgenannten Gleichungen
+berechnet werden, um dann substituirt werden zu können, und diese Berechnung
+führt zu einer Endglcichung zweiten, unter Umständen dritten Grades.
+In Kürze soll hier die verhältnißmüßig häufig zu erwartende Combination
+dargestellt werden, wenn zwei sich kreuzende Hypotheken auf drei G r u n d st ü ck e n
+haften. Der Kürze halber nennen wir die Summe der nach Tilgung der Bor-
+hypotheken bleibenden drei Vertheilungsfonde Ll [also in, -+ m, -+- m s— M]
+Liegenschaft I.
+Liegenschaft JI.
+Liegenschaft III.
+(Tangenten x a, b ,)
+(Tangenten yb, a,)
+(Tangenten z a, b,)
+1. Rang: Vorhypotheken
+Vorhypotheken
+Vorhypotheken
+2.„ A
+B
+A
+3. B
+A
+B
+Hier ergeben sich für die Tangenten x a und yb die [in die übrigen
+Grundgleichungen einzusetzenden] Werthe:
+2 A M tn,
+xa=——-
+M (M -f A)— m ;i (A -f- B), f. jM( M— A) m. (A j- B)j 3— 4 M :2 Bm ;J
+M (M— A) 4- nL. (A+ B) (M— A) ■+ in* (A -f- B)p— 4 M 2 Um,
+Die Sache vereinfacht sich dadurch, daß mehrere bekannte Größengruppen,
+insbesondere der Wurzelausdruck, in beiden Formeln vorkommen, daher nur
+einmal ausgerechnet zu werden brauchen. Ueberhaript wickelt sich die Sache bei
+Benützung der hier abstract aufgestellten Auflösungsformeln in Praxis, wenn
+concrete Ziffern vorliegen, wesentlich einfacher ab, als man beim ersten Anblick
+der obigen Formeln zu glauben geneigt sein möchte.
+1*
+
+
+[ 2023-06-29 10:38:59.022 - 19001124 - Seite 4 ]
+Mr. 48.]
+392
+greifende Simultanhypotheken handelt, wenn der Richter auch in der
+oben angedeuteten Weise praktisch vorgeht, nur eine der Tangenten
+\fi. S3. x a] nach unserer Formel aufsucht und sie dann in die
+drei Grundgleichungen ersten Grades einsetzt, selbst dann ist die
+Rechenarbeit umfangreich und schwierig, Pvtenziren und Wurzel-
+ziehen unvermeidlich und für einen in derlei Rechnereien nicht
+ständig eingeübten höchst mühsam. Wenn sich aus den gerade früher
+entwickelten Gründen Gleichungen höheren Grades ergeben sollten, ist
+die Benützung von Logarithmen nicht zu umgehen. Mathematische
+Kenntnisse können allerdings in einem gewissen Grade, soweit sie
+Bestandtheil jeder höheren Berufsausbildung sind, und insbesondere
+soweit sie mit der Ausübung des Geschäftes eines praktischen Juristen
+regelmäßig verbunden zu sein pflegen, vvm Richter verlangt werden.
+Execution und anßerstrcitige Gerichtsbarkeit, zuweilen auch Processe,
+stellen tagtäglich die Richter vor die Nothwendigkeit, größere Berech­
+nungen verschiedener Art selbst zu machen. Aber hier handelt es sich
+um Rechenarbeit, die darüber hinausgeht und die billigerweise als
+Durchschnittsanforderung dem Richter nicht zugemuthet werden kann.
+Einzelne rechengewandte Richter werden sie leisten, allein anderen muß
+es freistehen, einen sachkundigen Mitarbeiter heranzuziehen. Bor dem
+Jahre 1898 lag die Sache für den Richter sehr bequem; auf Grund
+eines stereotyp in den Feilbictungsbedingnissen enthaltenen Paragraphen
+mußte der E r st e h e r einen bis ins letzte fertig ausgearbeiteten
+Entwurf der Meistbotsvertheilung dem Gerichte vorlegen. Hier !var
+es Sache des ErfteherS, beziehungsweise seines Advocaten, wie und
+mit wessen Hilfe er die nöthigen Rechnungen zustande brachte. Er war
+durch nichts behindert, einen Rechnungsfachmann beizuziehen; dessen
+Bezahlung oblag in der Regel ihm selbst, "lüeit ja die Kosten des
+Bertheilungsentwurfes und aller anderen mit der Bertheilung und den
+übrigen gerichtlichen Schritten verbundenen Kosten den Ersteher trafen
+und eine bei jeder gerichtlichen Feilbietung, sehr zur Schädigung
+ihres objectiven Ergebnisses, im voraus zu berücksichtigende Last des
+Käufers bedeuteten.
+Nach heutigem Rechte macht der Executionsrichter selbst den
+Bertheilungsbefchluß 8 ), folglich auch alle darin vorkommenden Rechnungen.
+Doch muß es ihm— wofür wir uns schon früher entschieden
+haben— gestattet sein, hiezu, wenn es aus Anlaß einer mitspielenden
+Simultanhypvthek oder aus sonstigen Gründen a) nothwendig ist, einen
+Mathematiker beizuziehen. Dabei fragt sich nur noch zweierlei: unter
+welchen juristischen Gesichtspunkt fällt diese Heranziehung einer fach­
+männischen Hilfskraft, etwa unter den eines Sachverstäudigenbeweises
+oder unter den eines sogenannten Jnformationsbehelfes, und wer bezahlt
+den Rechnungskundigen? In beiden Richtungen kann uns die Antwort
+nicht schwer fallen. Ein Beweis wird hier nicht aufgenommen;
+daher auch von einem Rechte der Executionsparteien, an der Arbeit,
+welche Richter und Mathematiker gemeinsam machen, theilzunehmen
+nicht die Rede sein kann. Die Betheiligten mögen den Hinausgegebenen
+Beschluß Prüfen, nachrechnen und wenn nöthig, Berichtigung verlangen,
+eventuell recurriren. Die Verwendung eines Mathematikers ist aus­
+schließlich dem Ermessen des Richters überlassen, der das ob, wie und
+in welchem Umfang, welche Person, ganz allein bestimmt. Wenn er
+will und kann, mag er auch die schwierigen Rechnungen selbst machen.
+Zieht er aber einen Fachmann heran, so ist das nur die Beschaffung
+der für eine Amtshandlung nothwendigen internen Behelfe, eine amt­
+liche Information, die weder unter Controle oder Mitwirkung der
+Parteien steht, ncch in den Civilproceßgesetzen geregelt ist. Der Richter
+ist auch keineswegs an die amtliche Sachverständigenliste gebunden.
+Die Bezahlung des Rechnungskundigen anlangend, so ist es klar,
+daß die bezüglichen Kosten durch das Zwangsversteigerungsverfahren
+herbeigeführt worden und zu dessen Abwicklung unbedingt nothwendig
+sind. Der erste unter den betreibenden Gläubigern, dessen Feilbietungs-
+h In der Executivnsvrdnung ist dies schon, wenn auch nicht mit stachen
+Worten ausdrücklich gesagt, so doch als Grundsatz enthalten. Meines Wissens
+wird es in der Praxis auch zum allergrößten Theile so gehalten und gittg das
+Justizministerium vom selben Standpunkte aus, als es (in Beilage zum Min.
+j 8. Bl. IV vom 28. Februar 1900) Beispiele für Bertheilungsbeschlüsse hinaus-
+gab. Natürlich konnte in diesen Musterbeispielen der verwickelte Fall der
+Simultanhnpothek nicht zur Darstellung kommen.
+*) Z. B. wenn der gegenwärtige Werth einer durch längere Jahre noch'
+laufenden, jetzt aber abzulösenden Rente berechnet werden soll oder wie lange
+Zeit ein verfügbares Capital für die Zahlung einer bestimmten Rente ausreicht,
+oder bei gewissen Zinsesziicseurechnungen n. dgl., Fälle, in denen Rechenmaschinen
+oder Logarithmen verwendet werden müssen.
+antrag mittelbar diese Kosten verursacht hat, ist zunächst zu ihrer Be­
+streitung verpflichtet, sie fallen unter „die Kosten dieser Execution"
+und der Gläubiger kann gemäß §§ 74 und 216, letzter Absatz E. £>.,
+ihren Rückersatz aus der Bertheilungsmasse im Range seiner vollstreck­
+baren Forderung verlangen. Etwa aus dem Charakter der Heran­
+ziehung eines Mathematikers als Jnformationsbehelf den Schluß ziehen
+zu wollen, daß das Gericht aus Staatsgeldern diesen Fachmann zu
+bezahlen habe, wäre ganz verfehlt. Die Meistbotsvertheilung geschieht
+im Interesse, folglich auch auf Kosten der Parteien.
+Ueber den Mimmtätenlchutz bei Artienqel'ellschastcn.
+Bon Tr. Felix M a y e r, k. l. Gerichisseretür in Wie».
+1. Einleitende Bemerkungen.
+Durch den Associationszug der Menschheit und insbesondere durch
+die Nothwendigkeit, wirthschaftlich kräftige Unternehmen zu schaffen, ist
+die Bereinigung der Individuen zu Verbänden in unseren Tagen
+immer häufiger geworden. Das innerhalb derselben geltende Majoritäts­
+princip ist nun im Laufe der Zeit zu so unumschränkter und auch
+mißbräuchlich angewendeter Herrschaft gelangt, daß sich die Anzeichen
+eines Rückschlages bereits allenthalben zu regen beginnen. Der ur­
+sprüngliche Grundsatz, daß bei Corporationsentscheidungen nicht die
+para niaior, sondern die pars sanior den Ausschlag geben solle, ist
+durch die Fiction verdrängt worden, daß die para waior als solche
+auch die para aanior sei; dagegen richten sich die kräftigen Be­
+strebungen der Reaction.
+Mit dem MajoritätsPrincipe wurde ja auch die gewaltthätige,
+rücksichtslose Unterdrückung der Minoritäten geboren. Aufgabe des
+Rechtsgedankens ist es, jetzt jene Grenze zu finden, wo die Zulässig-
+keit, den Majoritätswillen gegen die dissentirende Minderheit zur Geltung
+zu bringen, geleugnet werden muß.
+Der Kampf zwischen Majorität und Minderheit vollzieht sich auf
+internationalem und staatsrechtlichem Gebiete ebenso wie innerhalb der
+privaten Associationen. Die Reaction gegen die brutale Gewalt, welche
+in der rücksichtslosen Anwendung des Majoritätsprincipes gelegen ist,
+tritt auf politischem Gebiete in dem Bestreben deutlich zutage, die
+schiedsgerichtliche Beilegung völkerrechtlicher Differenzen obligatorisch
+zu machen'), ebenso in den verzweifelnden Obstructionsbestrebungen
+einzelner in der Minderheit befindliche Parteien innerhalb der staat­
+lichen Vertretungskörper. Freilich ist hier jene vom Rechtsgedanken
+gebotene Grenze für das Majoritätsprincip zunächst in der Berfassungs-
+gesetzgebung gezogen, durch welche der Majorität gewiffe unüber-
+schrcitbare Schranken gesetzt, der Minderheit aber und dem einzelnen
+Individuum die Ausübung der staatsbürgerlichen Rechte gewährleistet
+wird. Damit schien jeder Minderheit die Möglichkeit gegeben, alle
+jene Mittel anzuwenden, welche geeignet sind, ihre Umbildung und
+Erweiterung zur Majorität herbeizuführen; trotzdem schwankt auch
+hier das Majoritätsprincip, weil dessen Geltung auf gewissen Gebieten
+nicht nur im altdeutschen Sinne, wonach die Stimmen gewogen und
+nicht gezählt werden sollten, sondern überhaupt bestritten wird. So be­
+zeichnet Georg I e l l i n e k in seinen großzügigen und hochinteressanten,
+wie es scheint, nicht hinreichend beachteten Ausführungen über das
+Recht der Minoritäten a) das religiöse, nationale und sociale Gebiet
+als solche, auf welchen die Majorisirung der Minderheit als unzulässig
+erkannt werden müsse. Bon dieser schwierigen staatsrechtlichen Frage,
+deren Behandlung nicht blos vom juristischen, sondern auch vom Stand­
+punkte des Politikers lebhaft interessiren muß, kann hier freilich weiter
+nicht die Rede sein. Wir wollen dem Majoritätsprincipe bei einer
+privatrechtlichen Gesellschaftsform, der Actiengesellschaft nachgehen und
+feststellen, wie hier seinen Auswüchsen begegnet wird.
+II. Das Major.itätsprincip bei Actiengesell­
+schaft e n.
+Die staatliche Macht hat nicht nur auf materiellem und formalem
+Gebiete das Recht in feste, zweckentsprechende Bahnen gelegt, sondern
+auch den Rechtsschutz, vie Ahndung jeder Störung sich zur Aufgabe
+') Steinbach: Zur Friedensbewegung.
+*) „Das Recht der Minoritäten", in G r ü n h u t 's Zeitschrift für Privat»
+und öffentliches Recht Band 25, S. 429 sf.
+
+
+[ 2023-06-29 10:38:59.022 - 19001124 - Seite 5 ]
+[9ir. 48.]
+— 3!J3—
+gestellt und übernommen. Die staatliche Fürsorge konnte mit der Aus­
+gestaltung der einzelnen Rechtsinstitute so weit gehen, das Verbot der
+Selbsthilfe zu statuiren und diese selbst nach Maßgabe als eine der
+Ahndung unterliegende Rechtsverletzung zu erklären.
+Wie gegenüber den einzelnen Individuen, so erscheint der Staat als
+oberster Rechtshort auch jenen Rechtssubjecten gegenüber, welche durch
+eine Association mehrerer physischer Personen gebildet wurden. Es soll
+nun im Nachfolgenden untersucht werden, welche Stellung der Staat
+bei Conflictsfällen zwischen Majorität und Minderheit oder einzelnen
+Individuen innerhalb gebildeter Associationen, insbesondere aber im
+Rahmen von Actiengefellschaflen eingenommen hat und einzunehmen
+berechtigt ist, wobei die Grenze festzustellen sein wird, bei welcher die
+Unterwerfung der Minorität unter den Mchrheitswillen endigt, und der
+ersteren die Möglichkeit der Rechtsdurchsetzung auch gegen den Willen
+der Majorität offen steht.
+In unserem Actienrechte ist das Majoritätsprincip geradezu zum
+Dogma geworden. Das Majoritätsprincip ist an sich ideal-demokratisch,
+denn ihm liegt „die Idee der völlig gleichwerthigen Individuen" •’) zu­
+grunde; es ist aber gerade deshalb in seiner Reinheit absolut undurch­
+führbar, daher ungerecht, weil eben eine Gemeinschaft völlig gleich-
+werthiger Individuen in der Realität nicht existirt. Dieses demokratische
+Princip verwandelt sich im Actienrechte in ein plutokratisches, denn
+nicht mit dem einzelnen Individuum ist das Stimmrecht verknüpft,
+sondern mit der Actie, und die Stimmenanzahl richtet sich nach dem
+Actienbcsitze. Hieraus ergibt sich, daß im Actienrechte das demokratische
+Mehrheitsprincip in das jeder socialpolitischen Machtoertheilung zuwider­
+laufende Gegentheil verwandelt wird, und es kann daher die schranken­
+lose Unterwerfung der Minorität unter das Dictat der Mehrheit nicht
+so, wie etwa bei anderen freiwilligen Rechtsgemeinschaften ‘) mit der
+Motiviruug gerechtfertigt worden: volenti non lit iujnri».
+Richt das gleichwerthige Interesse der Actienbesitzer entscheidet,
+sondern das Großcapital; denn eine Personenmehrhcit von Klein-
+actionüren steht in der Regel einer Personenminderheit von Groß­
+aktionären als Minorität gegenüber. Gleichwohl läuft das Interesse
+beider Parteien nicht nothwendigerweise parallel; ja es wirkt, wie sich
+an zahlreichen Beispielen nachweisen läßt, oft gerade in einander entgegen­
+gesetzter Richtung, da zu dem allgemeinen Interesse an der Gesellschaft das
+Sonderinteresfe des Einzelnen tritt, die einander keineswegs decken
+müssen. Unter diesen Umständen würde in der Auslieferung der
+Minorität an die Mehrheit eine Sanction der Ausbeutung gelegen
+fein, welche der Staat schon vom öffentlichrechtlichen Standpunkte aus
+zu dulden nicht in der Lage sein kann. Die fortschreitende Entrechtung
+der Minorität würde vielleicht sogar zur Folge haben, daß sich das
+zur Investition in Actienunternehmungen geneigte Capital zurückziehen
+und somit die Bildung neuer, sowie die Erweiterung bereits bestehender
+Actiengesellschaften erschwert, wenn nicht ganz in Frage gestellt werden
+würde.
+Thatsächlich hat nun auch der Staat die Actiengesellschaften
+untcr seine besondere Obhut gestellt, indem er, abgesehen von seiner
+Justizhoheit, eine besondere Aussicht der Verwaltungsbehörde statuirte.
+Die Uebcrwachung der Actienunternehmungen seitens der Aufsichts­
+behörde geht jedoch nur von ö f f e n t l i ch r e ch t l i ch e n Gesichts­
+punkten ausH, während die Verfolgung von Verletzungen privater
+Rechtssphäre den betheiligten Interessenten vorbehalten bleibt. Es kann
+sonach die Verwaltungsbehörde allenfalls in die Lage kommen, Ver­
+fügungen zu treffen, die sich als Minderheitsschutz darstellen; allein
+regelmäßig werden diese Fragen im Rechtswege zur Entscheidung zu
+gelangen haben, weshalb auch hier nur die letztere Seite staatlicher
+Schutzthätigkeit in Betracht gezogen werden soll. Es stehen somit der
+Minderheit, beziehungsweise dem Einzelactionär zweierlei Wege offen,
+ihre durch Majoritätsbeschlüsse gekränkten Rechte zu verfolgen, die Be­
+schwerde an die Verwaltungsbehörde und die gerichtliche Klage. Der
+erstere Weg wird nur dann eingeschlagen werden können, wenn mit
+der Gefährdung der Privatrechte auch eine Verletzung öffentlichrccht-
+licher Interessen verbunden war. Hier wird, wie oben bemerkt, aus­
+schließlich vom zweiten Wege die Rede sein können, auf welchem das
+b) Je llinek, n. a. O. S. 45t.
+. st Rudolf Polt a k: Ueber die Bestellung des Massevcrwalterst in
+Grünhut's Zeitschrift Band 24, S. 349, der dn Nichtigkeit des Majoritcits-
+princips im Concurse energisch bekänipfr-
+s) Aetienregulativ vom 20. September l899, R. G. Bl. Nr. 17b,§ 56.
+Gericht allein die zum Schutze lediglich privatrechtlicher Verhältnisse
+berufene Behörde ist.
+IH. Die Rechte der Activ näre.
+Was das Klagerecht des Aktionärs gegenüber Mehrheitsbeschlüssen
+anbelangt, so erscheint die formelle Klagelegitimation von Theorie
+und Praxis anerkannt °), obwohl das Handelsgesetzbuch hierüber eine
+Bestimmung zu treffen unterlassen hat. Mit der grundsätzlichen Zulassung
+der Anfechtungsklage wurden logischerweise nur im Sinne des Princips
+dieser Rechtsverfolgung jene Consequenzen gezogen, welche aus der An­
+erkennung von Rechten der einzelnen Actionäre gegenüber der Gesell­
+schaft und entgegen den Beschlüssen der Mehrheit der Generalversamm­
+lung nothwendigerweise sich ergeben mußten. Es versteht sich von selbst,
+daß von einer formalen Berechtigung zu dieser Anfechtungsklage nur
+dort die Rede sein kann, wo dem geltend gemachten Anspruch auch ein
+derartig selbstständiges Recht zugrunde liegt. Diese selbstständigen, auch
+gegen die Gesellschaft zu verfolgenden, mit dem Aktienbesitze verbundenen
+Rechte pflegt man mit dem technischen Ausdrucke „Sonderrechte"
+zu bezeichnen.
+Es muß darauf hingewiesen werden, daß die Frage der Defi­
+nition der Sonderrechte in der Literatur zu verschiedensten Meinungs­
+äußerungen Anlaß gegeben hat 7 ).
+Laband erblickt darin ein Recht, welches dadurch qualificirt
+wird, daß es nicht mehr in der Mitgliederschaft enthalten, sondern
+gleichsam aus derselben herausgewachsen, zu einer von ihr unabhängigen
+Existenz gelangt ist. E n d e m a n n begreift hierunter alle an die
+Eigenschaft als Actionär gesetzlich oder vertragsmäßig geknüpften, außer­
+halb des Bereiches der Generalversammlung stehenden Societätsrechte
+im Gegensatze zu den Collcctivrechtcn. In der allgemeinen Begründung
+zum deutschen Actiengesetze§ 13 werden sie als Rechte bezeichnet, die
+unabhängig von dem Willen der übrigen Actionäre ausgeübt werden
+und daher dem Actionär auch nicht durch den Beschluß der General­
+versammlung entzogen werden können. Staub, ebenso L e h m a n n
+versteht unter Sonderrechten schlechthin jene Rechte, welche unentziehbar
+sind, Wehrend dagegen nur die Vermögensansprüche des Actionärs.
+Hahn schließt wieder das Anfechtungsrecht von den Sonderrechten aus.
+Hiezu kommt die Unsicherheit in der Terminologie, da neben den
+Sonderrechten Jndividualrechte, Einzelrechte, Minderheitsrechte u. s. w.
+unterschieden werden, deren Begriffe zum größten Theile ineinander­
+fließen und eine praktische Verwerthung der hiedurch geschaffenen
+Distinctionen nicht nnr unzweckmäßig, sondern vielfach unmöglich er-
+scheinen lassen.
+Trotz dieser lebhaften Controversen ist es nicht möglich gewesen,
+eine treffende Definition zn construiren, weil die Sonderrechte an sich
+heterogen sind und nur in dem Merkmale sich vereinigen, daß sie gegen
+die Gesellschaft selbst geltend gemacht werden können. Demzufolge
+scheint die von Alexander aufgestellte, von Staub als zu weit­
+gehend bezeichnete Definition, welche unter den Sonderrechten, alle jene
+Rechte versteht, welche den Mitgliedern als solchen, d. h. im Verhält­
+niß zur Körperschaft zustehen, gerade wegen ihres weiten Umfanges
+dem Richtigen am nächsten zu kommen. Dagegen wirkt die gegensätzliche
+Unterscheidung von Collectiv- und Sonderrechten, je
+*) Endema u n, S. 570 sf.; R e n a u d, a. a. O.; Stau b, 2. 514;
+entgegengesetzt die Begründung zur oberstgerichtlichen Entscheidung vom
+19. Juni 1883, Z. 6164, A. C. 1090; dafür N. O. Jö. G 25, ©. 307,
+N. «. 3, S. 126.
+'■) v H a h n, Commentar, Bd. 1, S. 698, ß 2 zu Art. 216;
+v. C a n st e i n, Lehrbuch des dster. Handelsrechtes, Bd. 1, S. 506 ss.;
+B e h r e n d, Lehrbuch des H. R 1, S. 797,§ 118; Gierte, Genossenschafts-
+theorie, S. 240 sf.; Neu kam p, Zeitschrift für H. R. 38, S. 42 ff.;
+L a b a n d in Hirt h's Annalen. 1874, S. 1499 sf.; S t o b b e, D. Privat-
+recht 1,§ 53, S. 425; R i n g, Commanditgei., S. 283 ff., 340 ff.;
+P e t e r s e n, S. 416 sf.; T h'ö l,§ 161; L S w e n f e l d, S. 367 ff.;
+H e r g e n h a h n, Ges. Berf., 116 ff.; Julius L u b s z i n s k y, Minder-
+heilsrechte, Berlin 1892; Eduard H a l li e r, Jnaugural-Diff., Hamburg 1892-
+Karl G l ü n i ck e, Klagen der einzelnen Actionäre, Berlin 1884, End e-
+m a n n, Handbuch, Bd. I, S. 567; Franz P v l i tz e r, Oesterr. Handels­
+recht, 8 70; R e n a n d in B u s ch's Archiv für H. u. W. R. 45, S. 298 ff.;
+G o l d s ch m i d l, Syst. der H. R.; Primke, g 121; Dernb ur g,
+224, 229; R einzäunen, Rechte der Äetionäre, 1881; Aronius in Zeit­
+schrift für H. u W. R., 45, S. 123 ff.; Staub, S. 507,§ 2 zu Art. *21;
+L e h in a n n in K o h l e r und R i n g's Archiv, 9, S. 297 ff.; L i p p m a n n
+in G. Z. 39, S. 204 ff.; Alexander, Die Sonderrechte "7>e§' Actionärs,
+Berlin >892: Cosak, S. 649; Allgemeine Begründung zum denlschen Actien-
+gcsetz§ 13, Bd. B, S. 154 ff.
+
+
+[ 2023-06-29 10:38:59.022 - 19001124 - Seite 6 ]
+[9lr. 48.]
+394—
+nachdem die Rechte nur im gemeinschaftlichen Interesse mit den anderen
+Aetionären oder blos indem jedes einzelnen Aktionärs ausgeübt werden
+können, insoscrne verwirrend, als eines der hervorragendsten Collectiv-
+rechte— des Stimmrccht— im Falle seiner Entziehung durch die
+Mehrheit zweifellos gegen die Gesellschaft verfolgt werden kann und
+somit diese Eigenschaft mit den von ihnen untierschiedenen Collectiv-
+rechten theilt. Auch ein zweites, oftmals zur Definition herangezogenes
+und zweifellos auch vollkommen zutreffendes Merkmal der Sonderrechte, die
+Unentziehbarkcit durch die Generalversammlung, erscheint zu Unter-
+scheidungszweckcn nicht recht tauglich; denn in dem Begriffe der diesen
+Sonderrechten gegenüber gestellten entziehboren Rechte scheint mir ein
+offenbarer Widerspruch zu liegen. Ein Recht, welches beliebig durch
+dritte Personen entzogen werden kann, ein Recht, hinter welchem nicht
+die allgemeine Sanction des Rechtsschutzes gegen jedwede Verletzung
+oder gar Entziehung steht, scheint mir überhaupt ein Recht nicht
+zu sein*).
+ES handelt sich also bei dieser von den Sonderrechten unterschiedenen
+Gruppe von sogenannten entziehboren Rechten nicht um bestimmte, den
+Actionären zustehende Rechte, sondern blos um den Ausdruck des
+Willens. Der Wille des einzelnen Actionärs kann allerdings nach
+dem der Verfassung der Actiengesellschaften zugrunde liegenden
+Majoritätsprincip einfach unterdrückt werden, denn er wird eben aufgesogen
+durch die Mehrheit der ihnen entgegenstehenden Einzelwillen. Für diese
+zwangsweise Unterdrückung des Einzelwillens durch die Majorität in
+der Generalversammlung existirt aber eine Grenze und diese beginnt
+dort, wo der Eigenwille des Actionärs in einem Sonderrechte wurzelt.
+Diese Sonderrechte nun, welche das geltende Handelsgesetz weder
+dem Namen, noch expresse dem Inhalte nach kennt, die also ihre Aner­
+kennung lediglich der Theorie und Rechtsprechung zu verdanken haben,
+lassen sich in zwei Hauptgruppen unterscheiden und zwar einerseits in
+Rechte specifisch vermögensrechtlichen Inhaltes, andererseits in Rechte,
+die darin gipfeln, auf die Verwaltung, Geschäftsführung und das ganze
+Schicksal der Actiengcsellschast einen mitbestimmenden Einfluß zu
+nehmen. Die ersteren können als V e r m ö g e n s r e ch t e schlechtweg,
+die letzteren als gesellschaftliche Herrschaftsrechte
+bezeichnet werden 9 ).
+(Fortsetzung folgt.)
+Zur Plrnarvrrsammlung der n. ö. AdiwratrilKiiinmkr
+vom 21. Nouemlikr 1900.
+Als eingeschobener Punkt der Tagesordnung wurde über Auftrag
+des Kammerausfchusfes ein Referat über eine vom Referenten als „Geheim­
+erlaß" declarirte Justizministerialverordnung mit dem angegebenen Datum
+vom 20. October 1900, Z. 13.876, erstattet und darin Folgendes aus­
+geführt: Bezüglich der Einklagung von Forderungen der cumulativen Waisen­
+cassen habe bisher die Uebung bestanden, für jeden Fall der Einklagung, ohne
+Rücksicht auf die Höhe des Streitgegenstandes, einen Advocaten oder
+einen Notar zum Curator zu bestellen und diesen mit der Durchführung
+des Streites zu beauftragen. Der erwähnte Erlaß ober lege den Ge­
+richten nahe, in Erwägung zu ziehen, ob eine solche Bestellung in dem
+einzelnen concreten Falle auch nothwendig sei. Wenn diese Frage ver-
+neint werde, könne mit der Aufnahme der Klage und der eventuellen
+Vertretung der Waisencassen auch ein richterlicher Beamter betraut
+werden. Ferner werde, wie der Referent des Näheren ausführte, in
+dem gegenständlichen Erlasse die Aufmerksamkeit der Gerichte darauf
+gelenkt, daß es sich empfehle, in den Schuldscheinen und Cessionen
+über Darlehen, welche aus dem Vermögen der cumulativen Waisencassen
+gegeben werden, die Bestimmung aufzunehmen, daß sich der Schuldner
+im Wege der Prorogation der Competenz des betreffenden Bezirksgerichtes
+auch in jenen Angelegenheiten unterwerfe, welche sonst nach der Höhe
+der Streitsumme zur CompeKnz der Gerichtshöfe gehören würden.
+Auf Grund dieser thatsächlichen Voraussetzungen wurde fohin vom
+Referenten eine außerordentlich scharfe Resolution beantragt, deren ge­
+nauer Wortlaut bereits aus den Mittheilungen der Tagesblätter bekannt
+ist, und die im Wesentlichen dahin geht, daß die Plenarvecsammlung
+aus diesem Anlasse mit tiefstem Bedauern ersehen habe, daß das Justiz-
+°) Precaristische Rechte, vgl. K r a i n z, 8. Aufl.,§ 360, Note 5.
+p) Staub, Vorbemerkung zu Art. 216, S. 476 sf.
+Ministerium nicht davor zurückscheue, die von der Gesetzgebung gestellten
+Grenzen der sachlichen Zuständigkeit der Gerichte in einer wichtigen
+Gruppe von Rechtssachen dauernd zu verrücken, richterliche Beamte
+ihrem eigenen Berufe zum Nachtheile des Geschäftsganges zu entziehen,
+den Advocaten vornehmlich auf dem flachen Lande einen Theil ihrer
+berufsmäßigen Agenden zu nehmen, sowie durch das Gebot der
+Prorogirung dafür zu sorgen, daß diese Schädigung des Advocatenftandes
+auch den Wechsel der Personen und Tendenzen in der Justizverwaltung
+überdauere. Es wurde die Verguickung von Advocatur- und richterlichen
+Beamten beklagt, welche geeignet sei, die für die Rechtspflege unerlöß.
+liche Selbstständigkeit beider Stände zu untergraben und schließlich gegen
+die behauptete advocatenfeindliche Tendenz des Erlasses Protest erhoben.
+Auf dieses Referat folgte eine von den Anhängern der Resolution
+zum Theile außerordentlich leidenschaftlich geführte Debatte, bei welcher
+sämmtliche Redner, mit Ausnahme eines einzigen Cvntrasprechers, den
+Ausführungen des Referates vollständig Beifall zollten und die Angriffe
+gegen den fraglichen Erlaß an Schärfe womöglich noch zu überbieten
+versuchten.
+Vergebens wurde dagegen von dem einzigen Contraredner geltend
+gemacht, daß es absolut nicht angehe, auf Grund einer Abschrift des
+Erlasses, die man sich in einer discret verschwiegenen Weise verschafft
+habe, bezüglich welcher also die Authenticität mangle, eine Resolution
+zu fassen, die nach Form und Inhalt einen maßlos gehaltenen
+Angriff gegen die Justizverwaltung enthalte, und daß es vielmehr
+ein Gebot ruhiger, sachlicher und objectiver Stellungnahme zu dem
+im Referate erwähnten Erlasse sei, vor allem über den Inhalt
+desselben, seine Entstehungsursache, sowie über den Zweck dieses
+Erlasses sich Klarheit zu verschaffen, daß es ferner absolut nöthig sei,
+die Einwirkung des Erlasses auf die advocatorischen Agenden zu über­
+prüfen, zu erheben, ob in der That der von so vielen Rednern
+pathetisch hervorgehobene Borwurf, daß dieser Erlaß die Advocatur um
+ihr Brot bringe, wenigstens zum Theile gerechtfertigt sei, und daß
+somit eine Vertagung dieser Angelegenheit, ein neuerlicher Bericht und
+eine sorgfältige Vorbereitung desselben sich aus diesen Gründen und
+auch deshalb als unerläßlich darstelle, weil eine Angelegenheit, welcher
+vom Ausschusse eine so besondere Bedeutung beigelegt, und die von so
+vielen Rednern als die Erschütterung des Fundamentalprincipes der
+Advocatur und als eine Beeinlrächtigung der nothwendigen materiellen
+Grundlage der Berufsausübung dargestellt werde, nicht so ohneweiters
+zwischen zwei anderen Punkten der Tagesordnung erledigt werden
+könne, sondern durch genaue Bekanntgabe der beantragten Resolution
+vor Beschlußfassung hierüber sämmtlichen Collegen mitgetheilt und diesen
+die Gelegenheit geboten werden müsse, zur Plenarversammlung zu kommen
+und ihre Anschauungen hierüber zum Ausdrucke zu bringen, während
+eine Versammlung, deren Präsenzliste— die Mitglieder des Ausschusses,
+des Disc'plinarrathes und der Prüfungscommission, kurz die ganze Gefolg­
+schaft des Kammerausschusses inbegriffen— nur 115 Mitglieder aus­
+weise, also einen verschwindenden Bruchtheil der 1000köpfigen Wiener
+Advocatur repräsentire, keine mit ausreichender Autorität ausgerüstete
+Stätte sei, von welcher aus diese Frage erledigt werden könne;
+vergebens wurde in meritorischer Beziehung darauf hingewiesen,
+daß die Prorogation auf das bezirksgcrichtliche Forum bei Hypothekar­
+darlehen nicht nur bei Forderungen von Waisencassen, sondern auch
+bei anderen Forderungen im Interesse des Gläubigers, dem nach dem
+Geschäftsgänge eine raschere Eintreibungsmöglichkeit geboten werde,
+gleichwie im Interesse des Schuldners gelegen sei, dem hiedurch ein
+namhafter Kostenaufwand erspart werde, daß eine solche Prorogation
+schon jetzt in vielen Fällen üblich geworden sei, sich mit dem Gesetze
+im Einklang befinde, und daß daher gegen die generelle Adoptirung
+dieses von vielen gewiß achtbaren Advocaten in zahlreichen Fällen ange-
+wendeten Mittels auf Hypothekardarlehen, die von cumulativen Waisen­
+cassen stammen, nichts eingewendet werden könne;
+vergebens wurde betont, daß in allen Fällen, in denen nicht
+Anwaltszwang besteht, die Aufnahme von Klagen und Executions-
+anträgen bei Gericht gesetzlich zulässig sei, und daß somit gegen den
+Eintritt von richterlichen Beamten zur Vertretung von Waisencassen
+ein gesetzliches Hinderniß nicht bestehe;
+vergebens wurde die Versammlung darauf aufmerksam gemacht,
+daß es nicht empfehlenswerth sei und zur Förderung des Standes
+gewiß nicht beitrage, wenn jeder Act der Justizverwaltung, jeder
+Versuch, eine Verbilligung der Rechtspflege herbeizuführen, ausschließ-
+
+
+[ 2023-06-29 10:38:59.022 - 19001124 - Seite 7 ]
+395—
+[9tr. 48.]
+lich vom Standpunkte des advocaiorischen Verdienstes gewürdigt und
+jede befürchtete Verringerung des Erwerbes zum Ausgangspunkt für
+geharnischte Resolutionen gemacht werde;
+vergebens wurde hervorgehoben, daß die Tendenz der Justiz­
+verwaltung, das in wirthschaitlichen Nothstand gerathene Individuum
+nicht noch durch einen nicht vollständig gerechtfertigten Kostenaufwand
+belasten zu lassen, eine heilsame, im Interesse der Bevölkerung gelegene
+Maßregel sei, welche angesichts der Tendenz der cumulativen Waisen-
+cassen, bei ihren Darlehen vornehmlich eine Unterstützung des mittleren
+Bauernstandes herbeizuführen, und eine Erleichterung der Darlehens­
+aufnahme, eine Verringerung der Kosten derselben, somit eine wesentliche
+Unterstützung des wirthschaftlich Schwächeren zu bringen, geradezu als
+socialpolitische Maßregel erscheint, über welche nicht ohneweiters,
+ohne genaue Kenntniß der Vorgeschichte des Erlasses, ohne genaue
+Bedachtnahme auf die beabsichtigten Wirkungen desselben, abgeurtheilt
+werden könne;—
+die leidenschaftlich erhitzte Versammlung ging, durch die
+temperamentvollen und pathetischen Ausführungen einiger Redner auf­
+gestachelt, über diese Ausführungen des einzigen Contrareduers hinweg,
+verwarf dessen Antrag auf Vertagung, Vornahme von Erhebungen
+und spätere Berichterstattung und beschloß mit allen Stimmen gegen
+eine die eingangs erwähnte Resolution.
+Nachdem diese Resolution nun einmal gefaßt worden, und
+die Aufregung des Rednerkampfes geschwunden ist, erscheint es gewiß
+am Platze, sich nochmals in aller sachlichen Ruhe mit den in der
+Resolution vorausgesetzten Prämissen, sowie mit ihren Erwägungen
+selbst zu beschäftigen und die Wirkung in Betracht zu ziehen, welche
+diese Resolution wahrscheinlich nach sich ziehen wird.
+Die erste Voraussetzung der Resolution besteht darin, daß an­
+genommen wird, es sei in dem fraglichen Erlasse den Gerichten empfohlen
+worden, bei Hypothekardarlehen, welche aus cumulativen Waisencassen
+gegeben werden, die Clausel aufzunehmen, daß sich der Schuldner auch
+in Angelegenheiten über 500 fl. der Competenz des Bezirksgerichtes
+unterwerfe. Daraus wird der Vorwurf erhoben, daß die Justizverwaltung
+durch diese, dem Gerichte gegebene Anleitung die von der Gesetzgebung
+gestellten Grenzen der sachlichen Zuständigkeit der Gerichte in einer
+wichtigen Gruppe von Rechtssachen dauernd verrücke.
+Es unterliegt nun gar keinem Zweifel, daß das nach den §§ 91,
+81 und 49 Jur. Norm für Hypothekarsachen sachlich und örtlich zu­
+ständige Bezirksgericht im Sinne des§ 104 Jur. Norm auch für
+solche Klagen durch Parteienvereinbarung zuständig gemacht werden
+kann, welche sonst nach der Höhe des Streitgegenstandes vor den ört­
+lich cowpetentcn Gerichtshöfe gehören würden. Gesetzlich ist also die
+empfohlene Prorogation vollständig einwandfrei und es wird nicht, wie
+die Plcnarversammlimg ausgesprochen hat, eine Verrückung der von der
+Gesetzgebung gestellten Grenzen der Zuständigkeit herbeigeführt, sondern
+innerhalb der gesetzlichen Zuständigkeitsgrenzen von einer Vereinbarung
+Gebrauch gemacht, welche das Gesetz ausdrücklich im§ 104 Jur. Norm
+als ein Mittel hinstellt, um in einem gegebenen Falle aus Zweckmäßig­
+keitsgründen die Rechtsprechung des Bezirksgerichtes jener des Gerichts­
+hofes vorzuziehen. Da im Falle der Gewährung eines Darlehens aus
+der cumulativen Waisencasse diese als Gläubigerin, der Darlehens­
+werber als Schuldner, somit beide als die möglichen Parteien in einem
+künftigen eventuellen Rechtsstreite erscheinen, so kann an der Legalität
+der Prorogirung gewiß nicht gezweifelt werden. Es kann also nur die
+Frage erörtert werden, ob eine solche Prorogation bei Darlehens-
+gewährvngen, insbesondere wenn solche von cumulativen Waisencassen
+herrühren, einem Theile oder beiden Parteien solche Vortheile gewährt,
+welche die Anwendung dieses gesetzlichen Mittels der Verbesserung der
+gewöhnlichen Competenzbestimmungen aus überwiegenden Zweckmäßig-
+keitsg, linden als geboten erscheinen lassen. Diese Frage muß unbedingt
+bejaht werden. Das bezirksgerichtliche Verfahren ist in vielfacher Be­
+ziehung einfacher, functionirt rascher, begründet eine Bequemlichkeit für
+die Parteien, welche dem Gerichtsorte näher sind, deren persönliches
+Erscheinen daher leichter bewerkstelligt werden kann, ermöglicht die
+Sache vor einem, den Streittheilen bekannten mit den örtlichen Ver­
+hältnissen und den namentlich bei der überaus häufigen Vergleichs-
+weisen Regelung des Streitfalles wesentlich in's Gewicht fallenden
+örtlichen und allgemein wirthschafllichen Verhältnissen des Landes­
+theiles vollkommen vertrauten Richter zu bringen, erleichert
+durch diese persönlichen Momente den Abschluß des Rechtsstreites
+durch einen wirthschaftlich schon nach einem uralten Bolkssprich-
+! Worte jedem Processe vorzuziehenden Vergleich, entbindet die
+Parteien vom Anwaltszwange, setzt die Zuziehung eines Advocaten in
+das Belieben und in die Vorsicht des Parteienwillens, entlastet also den
+Proceßkostenaufwand. Eine solche Prorogation ist also im allgemeinen
+im Interesse des Gläubigers, der gewiß rascher zum Ziele kommt, ohne
+an irgend einem Rechte oder an einem wirksamen Rechtsmittel gegen
+einen ihm etwa ungünstigen Urtheilsausspruch einzubüßen und entlastet
+den Schuldner im Falle des Bersagens seiner Zahlungsmittel und des
+Eintrittes eines wirthschaftlichen Nothstandes in namhafter Weise.
+Namentlich in jenen Fällen von Darlehensgewährungea, welche bei
+vorhandener ausreichender Sicherheit der Elocirung von vorneherein
+nur die regelmässige Zahlung der Zinsen und eventuellen Amortisations­
+raten in Aussicht nehmen und zur Kündigung und Eintreibung des
+Darlehenscapitales nur in den seltensten Fällen schreiten wollen, wo
+also bei den jeweilig nothwendig werdenden Schritten nur Zinsen- und
+kleinere Capitalsraten, somit geringere Summen in Betracht kommen,
+wird durch die Vereinbarung der bezirksgerichtlichen Competenz auch
+für Beträge über 500 st. eine von den Betheiligten im concreten Falle
+geradezu als eine Wohlthat empfundene Rechtserleichterung geschaffen.
+Seit der Wirksamkeit der neuen Jur. Norm haben sich auch
+gegen früher die Fälle der Prorogation bedeutend gemehrt; sie sind
+vielfach in die Schuldscheinsformularien der Hypothekaranstalten r)
+übergegangen und werden auch nach meiner Erfahrung bet Darlehens­
+gewährungen zwischen Privaten, bei denen Advocaten interveniren, mit
+Vorliebe aufgenommen— alles in richtiger Erkenntniß der rechtlichen und
+wirthschaftlichen Bedeutung und Zweckmässigkeit der Anwendung dieses
+Competenzbestimmungsmittels.
+Es ist also wirklich kein Grund zu finden, warum dasselbe gerade
+dann angeschlossen sein soll, wenn es sich um kumulative Waisencassen
+und deren Schuldnern handelt, weil auch in diesem Falle die gleichen
+Zweckmäßigkeitsgründe vorhanden und die gleichen Erwägungen
+gegeben find, welche in anderen Fällen die Prorogation befür­
+worten lassen. Ja im Gegentheile! Ich glaube, daß die Momente,
+welche zu Gunsten der Raschheit und Verbilligung des Verfahrens
+sprechen, in noch höherem Masse vorhanden sind, weil es mit dem
+Wesen eines von staatlichen Behörden verwalteten, unter der Autorität
+eines Richters elocirten, aus geringfügigen Beiträgen der ärmsten
+Waisen angesammelten Fondes unvereinbar wäre, in den nothgedrungenen
+Fällen gerichtlicher Geltendmachung der Rechte der Waisencasse mehr
+als den nothwendigsten Kostenaufwand anschwellen zn lassen, und ich
+bin von der Anschauung durchdrungen, daß es gerade in solchen Fällen
+geboten ist, der Bevölkerung zu beweisen, daß Darlehen aus den Waifen-
+cassen zwar billiges Geld bieten, daß aber auch auf die Nichteinhaltung
+der vereinbarten Zahlungsmodalitäten eine rasche Handhabung der
+Gerichtsbarkeit folgt, jedoch selbst in diesem äußersten Falle eine ange­
+messene Rücksichtnahme darauf eintrete, daß der Schuldner nur mit den
+nothwendigsten Gerichtskosten beschwert wird.
+Kreise, welche landwirthschaftlichen Interessen näher stehen und
+wissen, wie unendlich schwer ein jeder, den in städtischen Berhältntffen
+aufgewachsenen Personen relativ geringfügig scheinender Kostenaufwand
+den wirthschaftlich nothleidenden Bauernstand drückt, wird also die von
+der Plenarversammlung der n. ö. Advocatenkammer so überaus heftig
+bekämpfte Maßregel im allgemeinen Interesse der Rechtspflege und der
+Volkswirthschaft als eine richtige und zutreffende bezeichnen müssen.
+Die zweite Annahme der Resolution richtet sich dagegen, daß
+künftighin zur Vertretung kumulativer Waisencassen nicht, wie bisher,
+in allen auch dem Anwaltszwange nicht unterliegenden Fällen nur
+Advocaten mit der Eintreibung von Forderungen betraut werden sollen,
+sondern daß es dem Ermessen des Gerichtes überlassen bleibt, ob in
+einem einzelnen Falle advocatorische Vertretung geboten ist, und daß,
+wenn das Gericht diese nicht für geboten erachten sollte, die Vertretung
+durch einen richterlichen Beamten vorzunehmen sei. Die Resolution
+meint, daß hiedurch richterliche Beamte ihrem eigentlichen Berufe zum
+Nachtheile des Geschäftsganges entzogen werden, und hält die Ueber-
+nähme solcher Agenden durch richterliche Beamte für eine Verqnickung
+von Magistratur und Advocatur, welche die Selbstständigkeit beider
+Stände untergraben müsse.
+0 So heißt es in den bei der n. ö. Landeshypothekenanstalt gebräuch­
+lichen Formularien: „7. In allen Streitigkeiten aas diesem Darlehen unterwerfe
+ich mich o h n e R ü ck s i ch t auf d e n B e t r a g der Gerichtsbarkeit jenes
+Bezirksgerichtes, in dessen Sprengel die verpfändeten Realitäten gelegen sind".
+
+
+[ 2023-06-29 10:38:59.022 - 19001124 - Seite 8 ]
+[9tr. 48.j
+SOG
+Auch hier ist der Standpunkt der Legalität und Opportunität
+nur dadurch zu gewinnen, daß man die in Aussicht genommenen Maß-
+nahmen nicht auf den Fall der cumulativen Waisencassen beschränkt,
+sondern im allgemeinen die Frage auswirft, inwieweit die bekämpfte
+Vertretung durch richterliche Beamte mit dem Gesetze sich im Einklang
+befindet.
+Dabei ist gewiß darauf hinzuweisen, daß es eine alte Institution
+des österreichischen Processes ist, daß in jenen Streitigkeiten, in welchen
+kein Anwaltszwang besteht, die Aufnahme der Klagen zu Protokoll
+möglich ist, und daß der Richter rcchtsunkundige Parteien, welche nicht
+durch Advocaten vertreten sind, zu belehren und ihnen bei der Vor­
+nahme von Proeeßhandlungen an die Hand zu gehen hat. Insbesondere
+im alten Summarverfahren hatte bekanntlich die richterliche Manuduction
+eine scharfe Formulirung und eine allerdings zum Theile durch den
+üsu 8 forensiw des alten Verfahrens vielfach in das Gegentheil ver­
+kehrte zweckmäßige Regelung erführen.
+Gesetzlich besteht also gewiß nicht das geringste Hinderniß
+dagegen, eventuell die Klage der Waisencasse zu Protokoll zu nehmen
+und die Durchführung des Verfahrens, wenn zweckmäßig, in andere
+Hände, als in jene advoeatorischer Curatoren zu legen. Ob aber in
+dem einzelnen Falle genügende Zweckmäßigkeitsgründe vorhanden
+sind, um mit einer solchen Bestellung eines Proccßcurators, der nicht
+Advocat ist, vorzugehen, ist ausschließliche Sache der unabhängigen
+richterlichen Judicatur, ebenso wie z. B- die Entscheidung der Frage,
+ob in einem concreten Falle Zweckmäßigkeitsgründe dafür sprechen, daß zum
+Vormunde eines Minderjährigen oder zum Curatvr einer Pflegebefohlenen|
+Person ein Advocat bestellt werden muß, oder aber, ob die Führung
+dieser Agenden auch einer nicht zum Advocatenstande gehörigen Person-
+lichkeit anvertraut werden kann.
+Im allgemeinen also ist der Borwurf der mangelnden Legalität,
+den die Resolution erhebt, ungerechtfertigt, und im speciellen Falle
+bleibt es dem Ermessen des Gerichtes überlassen, wer als Vertreter der
+Waisencasse fungiren soll. Die Befürchtung, daß der Geschäfts­
+gang dadurch leiden könnte, ist gewiß unbegründet, weil nicht anzu­
+nehmen ist, daß die Gerichte den gewiß möglichen Andrang von Amts-
+geschäften nicht selbst zu überblicken und zu würdigen vermögen werden,
+wenn die Frage der Auswahl der Person des Vertreters der Waisen­
+casse spruchreif wird. Hat das Gericht keinen Beamten verfügbar,
+dann wird sich eben die Nothwendigkeit der Bestellung eines advo-
+catorischen Curators ergeben.
+Es darf dabei nicht übersehen werden, daß es sich bei den Pro­
+cessen der Waisencassen erfahrungsgemäß in der überwiegenden Mehr-
+zahl der Fälle um kleine Beträge handelt, daß Einwendungen gegen den
+der Natur der Sache nach, ich glaube wohl die ausnahmslose Regel
+bildenden Zahlungsauftrag im Mandatsverfahren zu den Seltenheiten
+gehören, und daß auch im Falle der Einbringung von Einwendungen
+gegen den Zahlungsauftrag der Inhalt dieser Einwendungen dem Gerichte
+einen Aufschluß über die aufzurollenden That- und Rechtsfragen, und somit
+die Möglichkeit bietet, zur Proceßführung selbst einen Wechsel in der Person
+des Vertreters der Waisencasse eintreten zu lassen, falls ein specieller Fall
+größere Proceßgewandtheit, Theilnahme an umfaßenden Beweiserhebungen
+oder die Erörterung schwieriger Rechtsfragen erheischt, für welche Zeit
+und Ausbildung des betreffenden richterlichen Vertreters der Waisencasse
+vielleicht nicht ausreichend erscheinen. Voreingenommenheit des Gerichtes
+oder ein Nachtheil der Rechtspflege ist auch in dem Falle, daß dem
+Erkenntnißrichtcr ein College als Parteienvertreter gegenübersteht, meiner
+innersten Ueberzeugung nach ebenso wenig zu besorgen, als mir jemals
+ein Fall bekannt geworden ist, daß die richterliche Manuduction im
+alten oder neuen Verfahren, die Wage der Entscheidung zu Gunsten
+derjenigen Partei geleitet hätte, welche sich richterlicher Belehrungen
+erfreute. Ohne Angabe thatsächlich vorgekommener Mißbräuche dem
+österreichischen Richterstande mit solchen von den Anhängern der
+Resolution in der Discussion wiederholt hervorgehobenen Befürchtungen
+zu kommen, ist ein vollständig verfehltes Argument.
+Es erübrigt also nur noch die letzte Voraussetzung der Resolution,
+die behauptete advocatenfeindliche Tendenz des gegenständlichen Erlaßes
+in's Auge zu faßen. Auch diese Annahme und der darin gelegene
+Borwurf gegen die Justizverwaltung ist ebensowenig begründet, als
+seine Vorgänger es waren.
+Vor allem wird übersehen, daß die Vertretung der cumulativen
+Waisencassen eigentlich den Fiuanzprocuraturen obliegen würde, und
+daß auch in der I. M. B. v. II.. November 1865, Z. 10.087-, nur
+vorgeschrieben wird, es seien zur Vertretung dieser Lassen „Beamte
+der Justiz- oder auch der politischen Sphäre oder eigens hiezn
+aufzustellende Bevollmächtigte zu entsenden." Es ist somit voll­
+ständig in der Ordnung, wenn die Gerichte neuerlich darauf auf­
+merksam gemacht werden, daß bei Rechtssachen der gegenständlichen
+Art bei welchen die Vertretung durch Advocaten nicht obligatorisch ist,
+eine namhafte Kostenersparniß durch die Ausdehnung der richterlichen
+Beihilfe bei der Einleitung der Forderungseintreibung erzielt werden
+kann. Darin liegt keine Beeinträchtigung der Unabhängigkeit und
+Freiheit der Judicatur, welche in dem speciellen Falle, wenn das
+Bedürfniß vorliegt, durchaus nicht gehindert ist, Advocaten zu Curatoren
+zu bestellen. Es liegt aber auch keia Eingriff in dem gesetzlich
+gewährleisteten Besitzstand der Advocatur vor, weil der Anwaltszwang
+unberührt bleibt. Die besprochene Verfügung hat hauptsächlich
+ländliche Verhältnisse im Auge. In der Plenarversammlung
+vom 21. November d. I. waren aber mit einer einzigen Ausnahme
+nur Stadtadvocaten zugegen, und es sind Klagen aus den ländlichen
+Bezirken über den behaupteten Entgang advoeatorischer Agenden über­
+haupt nicht vorgelegen. Bei richtiger Geschäftsführung wäre es also
+Sache des Kammerausschusses gewesen, vorerst sachliches Materiale für
+die vom Referenten behaupteten schädlichen Wirkungen des in der Re-
+solution bekämpften Vorgehens zu sammeln, und nur wenn diese Vor­
+bereitung eine empfindliche Einschränkung advoeatorischer Berufsthätigkeit
+bewiesen hätte, in Ernst und Würde Stellung zu nehmen, Vorschläge
+zu machen, für die betroffenen Collegen Compensationen zu fordern.
+Jedenfalls hätte ein so gearteter Vorgang eine ganz andere Wirkung
+hervorgebracht, als die besprochene Resolution, welche leider nur ein
+Schritt weiter auf jener verhängnißvollen Bahn ist, auf welche die
+Standesvertretungen sich hindrängen lassen, und auf welcher man nie
+das gewünschte Ziel erreichen kann.
+Die Resolution enthält also eine bedenkliche Unterschätzung der
+Postulate der Rechtspflege und der wirthschaftlichen Bedürfnisse auf dem
+Lande. Sie stehl nicht im Einklang mit jenem Standcsidealismus,
+welchen die Advocatur unbedingt nöthig hat, und sie charakterisirt sich
+nicht als der Ausdruck eines berechtigten und daher zu berücksichtigenden
+Standesinteresse, sondern als ein Standesegvismus, dem auch in diesem
+Falle entschieden entgegengetreten werden muß, um so mehr, als die geringe
+Zahl der Theilnehmer der Plenarversammlung vom 21. d. M. nicht das
+Recht besitzt, im Namen der gesammten Advocaten Oesterreichs zu sprechen.
+Coumont.
+Kleine Mittheilungen.
+(Wiener Juristische Gesellschaft.) Mittwoch, den
+28. November 1900, 7 Uhr Abends, findet im II. Staatsprüfungssaale
+der juridischen Facultät in dem neuen Universitätsgebäude (I., Franzens­
+ring) eine Plenarversammlung der Wiener Juristischen Gesellschaft statt.
+Tagesordnung: Vortrag des Herrn Dr. Robert Ritter von
+Neumann- Ettenreich, k. k. Oberlandesgerichtsrath rc. in Wien:
+„Einstweilige Verfügungen."
+Dr. Leopold Anton und Marie Die r l 'iche P c e i s a u f g a b e n-
+st i s t u n g.
+Dkr Ausschuß der n. ö. Advocalenkammer als Curatortum der Dr. Leopold
+Anton und Marie Dierl'schen Preisausgabenstistung hat mittels Kundmachung
+im August 1898 den stiftuugsmäßigen Preis von 100 Ducaten für die beste
+Lösung der Preisaufgabe: „Die Lebensversicherung nach österreichischem Privat-
+rechte" ausgeschrieben.
+Nach vollzogener Prüfung der innerhalb des festgesetzten Termines ein­
+gelaufenen Bewerbungsschristcn hat der Ausschuß in seiner Sitzung vom
+16. October 1900 beschlossen, dem Autor der mit dem Motto: „Aliis prodesse
+non nocendo aliia“ versehenen Arbeit, Herrn Dr. Bernhard Brecher, Hof- und
+Gerichtsadvocaten in Wien, den ausgeschriebenen Preis von Einhundert Ducaten,
+dem Autor der mit dem Motto: „8unm onigns" versehenen Arbeit, Herrn
+Dr. Rudolf Hauenschild, Hof- und Gerichtsadvocaten in Wien, aber einen
+Accessitpreis von 50 Ducaten zu verleihen.
+Druckerei der k. Mener Zeitung.
+Für den Druck verantwortlich: Jos. Kohl.
+

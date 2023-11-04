@@ -1,0 +1,1633 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 7. mm, 11. Februar 1900. XVIII. Jahrgang.
+Bemerkungen der liedaction: Ein Nachdruck aus dem redactionellen Theile der Zeitschrift ist mir unter der Quellenangabe
+„Z. f. E. Wien“ und bei Originalartikeln überdies nur mit Genehmigung der Redaclion gestattet.
+Die Einsendung von Originalarbeiten ist erwünscht und werden dieselben nach dem in der Redactionsordnung festgesetzten Tarife
+hcmorirt. Die Anzahl der vom Autor event. gewünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Manuscripte bekanntgegeben werden.
+INHALT:
+Selbstthätige Lnde- und Entladevomchtung für Aecumulatoren.
+Von M. C. Scho op 77
+Doppelbogenlampe von Körting& Mathiesen 73
+Kleine Mitthoilnngen.
+Verschiedenes 79
+Ausgeführte und projeetirte Anlagen.
+Literatur-Bericht.
+Patentnachrichten
+Geschäftliche und finanzielle Nachrichten
+Vereinsnachrichten.
+80
+80
+81
+84
+8o
+Selbstthätige Lade- und Entladevorrichtung für Accu-
+mulatoren.
+Von M. U. Sclioop, Ingenieur.
+Handelt es sich darum, die Lebensdauer eines
+Accumulators unter gewissen Arbeitsverhältnissen fest­
+zustellen, bezw. zu garantiren, und diese Frage ist be­
+kanntlich in der Praxis sowohl für den Käufer, als auch
+für den Fabrikanten von enormer Tragweite, so können
+zwei Wege eingeschlagen werden:
+Man wartet entweder ruhig ab, bis der Batterie­
+käufer das Schadhaftwerden der Batterie meldet und
+energisch reclamirt, oder aber (und dieser Weg em­
+pfiehlt sich jedenfalls eher als der erste!) man sucht
+sich über die voraussichtliche Lebensdauer des Accu­
+mulators in der Weise Rechenschaft abzulegen, dass
+man denselben zu Hause unter den der Praxis ent­
+sprechenden Bedingungen ladet und entladet, bis sich
+unzweideutige Zeichen von Altersschwäche und Gebrech­
+lichkeit einstellen. Auch dieser Modus lässt an Bequem­
+lichkeit und Promptheit nicht wenig zu wünschen übrig,
+wenn es auch in gewissen Grenzen zulässig ist, die
+Dauerprobe durch Erhöhung der Beanspruchungen etwas
+abzukürzen. Auf ähnliche Art werden ja häufig auch
+die Glühlampen auf ihre Lebensdauer untersucht, in­
+dem durch dieselben Ströme von der D/g—2mal höheren
+(als betriebsmässigen) Spannung geleitet und während
+der Versuchsdauer Leuchtvermögen und Stromverbrauch
+gemessen werden; hiebei sollen praktisch ganz gut zu
+verwerthende Anhaltspunkte über die voraussichtliche
+Lebensdauer der Lampen zu erhalten sein. Die Parallele
+hinkt etwas, kann aber doch aufgestellt werden.
+Die Untersuchung eines untauglich gewordenen
+Accumulators wird sich natürlich nicht nur auf die
+Feststellung der Capacitätsabnahme beschränken, sondern
+auch auf Vertheilung der Spannungen und Widerstands­
+verhältnisse an den einzelnen Elektroden-Serien zu er­
+strecken haben. In diesem Sinne sind derartige Labo­
+ratoriums-Feuerproben sehr instructiv und jedem Accu-
+mulator-Fabrikanten dringend zu empfehlen, wenn es
+auch unmöglich ist, im Versuchsraume alle jene Fac-
+toren zu berücksichtigen, welche die Lebensdauer einer
+Batterie schädlich beeinflussen können und sich in der
+Praxis meist einer zuverlässigen Controle entziehen; in
+der Regel werden also Laboratoriums-Resultate besser
+ausfallen, als Resultate der Praxis.
+Um einen oder mehrere Sammler der Dauerprobe
+zu unterwerfen, kann man sich mit Vortheil einer Vor­
+richtung bedienen, wie sie durch untenstehende Figur
+veranschaulicht wird. Die Untersuchungszelle a ist an
+ein Contact-Voltmeter angeschlossen, welches auf die
+Grenzwerthe 2‘7 V und P8 V eingestellt ist und einen
+Stromkreis scliliesst, sobald die Klemmenspannung einen
+dieser Werthe, z. B. 18 T 7, erreicht hat. Der Relais­
+strom nimmt seinen Weg durch die Spule Sj, hiebei
+den Eisenkern E in letztere kräftig hineinziehend; die
+mit dem Messingbälkchen B ausgestattete Wippe erhält
+durch den in Bewegung gesetzten Eisenanker einen
+kleinen Stoss, der genügt, die Wippe auf die andere
+Fig. 1.
+Seite zu werfen, so dass die vier Zellen ah cd, wie er­
+sichtlich, wieder auf Ladung gesetzt werden. Der Strom­
+lauf für den Ladevorgang ist dann folgender: Der
+Strom tritt bei Klemme K\ in den Quecksilbernapf IV,
+des Commutators, von Napf N, durch den Stromwender­
+bügel zu Napf A 2, nimmt seinen Weg weiter durch das
+Amperemeter A m mit Nullstellung in der Mitte der
+Scala, die Versuchselemente ah c d und kehrt durch die
+Näpfe Nr, und N i zurück. Sckliesst man die auto­
+matische Lade- und Entladevorrichtung an ein be­
+stehendes Beleuchtungsnetz an, so wird man als Vor­
+schaltwiderstand zweckdienlich eine kleine Lampen-
+
+Seite 78.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 7.
+batterie verwenden, während der Entlaclestrom durch einige
+entsprechend dimensionirte Widerstandsspiralen W W
+geschickt wird.
+Ist der Spulenwiderstand des Relais so gross, dass
+der Erregerstrom dieses letzteren praktisch zu vernach­
+lässigen und nicht imstande ist, die Capacität des­
+jenigen Elementes, welchem derselbe beständig ent­
+nommen wird, zu beeinträchtigen, so kann die Erre­
+gung selbstverständlich ohne weiteres für die ganze
+Dauer des Versuches an dem gleichen Elemente ange­
+schlossen bleiben; beträgt jedoch der Relaisstrom einige
+Zehntel-Amperes, so wird schon nach einigen Ladungen,
+bezw. Entladungen, eine ungünstige Beeinflussung des
+Elementes zu constatiren sein, indem sich die an das
+Relais abgegebene Strommenge für die Entladung addirt,
+bei der Ladung subtrahirt. .In diesem Falle wird die
+Relais-Erregerleitung zweckmässig von Zeit zu Zeit an
+ein anderes Element angelegt.
+Werden derartige Dauerzellen mit einem einer ein-
+stündigen Entladung entsprechenden Strom beansprucht
+und mit dem „zweistündigen“ Strom geladen, so können
+somit pro 24 Stunden je acht Entladungen und acht
+Ladungen oder pro Monat 240 Entladungen erzielt werden.
+Doppelbogenlampe von Körting& Mathiesen.*)•
+In rler Bogenlampentechnik hat sich schon seit
+längerer Zeit das Bestreben geltend gemacht, Lampen
+mit zwei hintereinander geschalteten Lichtbogen her­
+zustellen, wovon mehrere Patente Zeugnis ablegen.
+Diese Lampen sollten namentlich dazu dienen, bei
+110 V einzeln geschaltet zu werden, da zu dieser
+Schaltung oftmals das praktische Bedürfnis drängte.
+Obwohl die vor einigen Jahren erschienene Lampe mit
+eingeschlossenem Lichtbogen dieser Anforderung in­
+soweit genügte, als auch sie ungefähr das Doppelte der
+normalen Spannung eines offen brennenden Bogens,
+also ca. 80 V verbrauchte und demnach bei 110 V ein­
+zeln zu schalten war, so war die Frage der Hoch­
+spannungsbogenlampe dadurch doch nicht völlig gelöst.
+Die bekannte Unruhe des Lichtes lässt die Verwendung
+der Dauerbrandlampe an manchen Orten nicht zu, und
+der geringe Wirkungsgrad des Lichtbogens bildet ein
+weiteres Hindernis für ihre Verwendung. Diese Nach­
+theile können nur in verhältnismässig wenigen Fällen
+durch die lange Brenndauer überwunden werden.
+Die P irma Körting& Mathiesen in Leutzsch-
+Leipzig hat nun im vorigen Jahre eine als Neben­
+schlusslampe ausgebildete Doppelbogenlampe mit offen
+brennendem Bogen (D. R.-P. Nr, 67.705, 69.782, 87.464
+und 96.068) auf den Markt gebracht, die sich bereits
+in der Praxis bewährt hat. Sie war auch in der Aus­
+stellung, die gelegentlich des letzten Verbandtages in
+Hannover stattfand, im Betriebe zu sehen.
+Diese Lampe ist in den Fig. 1 und 2 dargestellt.
+Sie charakterisirt sich als eine Vereinigung zweier
+selbstständiger Regelwerke, die beide auf einer gemein­
+schaftlichen Grundplatte aufgebaut sind. Die Regel­
+werke gehören zu der bekannten Type, bei denen& ein
+Magnet mit Schwebeanker ein schwingendes Laufwerk
+bethätigt, wie besonders aus der Fig. 2 ersichtlich ist,
+die das eine Regelwerk beinahe vollständig erkennen lässt.
+Es besteht dieses Werk aus dem mit Nebenschluss­
+wickelung versehenen Magneten a und dem Laufwerk b,
+welches durch die Zugstange o mit dem Magnet-
+*) Ans „Elektr. Anz.“ 1900, Heft 4.
+anker m verbunden ist. Die erforderliche Gegenkraft
+des Magneten wird durch die Spiralfeder n gebildet.
+— Die entsprechenden Theile des zweiten Regelwerkes
+tragen, soweit sie in der Abbildung sichtbar sind, die
+gleichen Buchstaben mit dem Index 1, z. B. aj u. s. w.
+— Das Flügelrad p des Laufwerkes b findet seinen
+Anschlag auf der Zunge <7, welche von dem doppel-
+armigen Hebel v getragen wird, und diese sowie die
+zweite Zunge stehen unter dem gemeinschaftlichen
+Einflüsse des Wärmecompensators k, der das nach
+Massgabe der Erwärmung des Lampenkopfes bei gleich­
+bleibender Regelspannung sich einstellende Zurück-
+Dg. 1. Fig. 2.
+treten der Schwebeanker m durch Zurückdrängen der
+Anschlagzungen ausgleicht und dadurch die Regel­
+spannung nahezu constant erhält.
+Die Gewichtsveränderung der Kohlenstifte wird
+durch die seitliche Lagerung des Laufwerkes unschäd­
+lich gemacht, so dass die Regelspannung auch hiervon
+nicht beeinflusst wird.
+Die Laufwerke sind zur Verhinderung plötzlicher
+Bewegungen mit Luftdämpfern t versehen. Die Licht­
+bogenspannung kann durch Verstellen der Schraube ,9,
+wodurch die Spiralfeder n mehr oder weniger gespannt
+wird, regulirt werden.
+
+Nr. 7.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 79.
+Der Vortheil dieser Doppelbogenlampe besteht
+darin, dass man sie beispielsweise bei 110 V einzeln
+und bei 220 V zu zweien schalten kann. Dieser Vortbeil
+kommt namentlich bei der letztgenannten Spannung,
+die sich für städtische Centralen immer mehr einzu­
+führen beginnt, zur Geltung, da nicht jeder Consument
+4 bis 6 Lampen der sonst gebräuchlichen Arten ver­
+wenden kann.
+Die Doppelbogenlampe kommt also gleich der
+Nernstlampe dem Bestreben, die Betriebsspannung in den
+Centralen höher als bisher üblich zu wählen, sehr ent­
+gegen. Es ist zwar ein Nachtheil in Bezug auf die Be­
+triebskosten vorhanden, die bei der Doppelbogenlampe
+höher als bei der Einbogenlampe zu stehen kommen,
+da statt eines Paares Kohlen deren zwei pro Lampe
+von freilich geringerer Stärke, aber doch etwas höherem
+Gesammtpreise verbraucht werden. Ferner ist die Licht­
+intensität zweier Lichtbogen nicht so gross, wie die
+eines Bogens von gleichem Energieverbrauch, denn der
+Wirkungsgrad wächst bekanntlich unter normalen Ver­
+hältnissen vorzugsweise mit der Stromstärke.
+Der Lampe mit eingeschlossenem Bogen ist die
+Doppelbogenlampe hingegen betreffs der Intensität
+wesentlich überlegen.
+Wenn nun auch die Betriebskosten der Doppel­
+bogenlampe sich höher stellen als die der Einbogen­
+lampe, so ist doch der Vortheil der ersteren hinsicht­
+lich der Schaltungsweise so gross, dass sie für Centralen
+mit 220 V verfügbarer Spannung von wesentlicher Be­
+deutung ist, und sie dürfte sich deshalb namentlich
+hier ein Feld erobern. W. Mathiescn.
+KLEINE MITTHEILUNGEN.
+Verschiedenes.
+An derk. k. Stnatsgewerbescliule in Wien X. (Favoriten)
+gelangt mit Beginn des Schuljahres 1900/19nl eine Lehrstelle für
+mathematische und mechanisch-technische Fächer (einschliesslich
+Elektrotechnik) mit den norinalmässigen Bezügen (Jahresgehalt
+2800 K., Activitätszulage 1000 K. und Gewährung von fünf Quin-
+quennaizulagen, die beiden ersten zu 400 K., die drei anderen
+zu 600 K.) zur Besetzung. Die Lehrverpflichtung erstreckt sich
+auf alle Abtheilungen der Anstalt.
+Bewerber haben die, an das k. k. Ministerium für fültus
+und Unterricht zu richtenden Competenzgesuche mit einem Curri­
+culum vitae, dem Gesundheitszeugnisse, den Studien- und Ver-
+wendungszeugnissen, und zwar, wenn sie bereits im öffentlichen
+Dienste stehen, im Wego ihrer Vorgesetzten Behörde, bis längstens
+1. April 1. J. bei der Direction der Anstalt (Wien, X. Bezirk,
+Eugengasse Nr. 81) einzureichen.
+Für die Verleihung dieser Stolle ist der Nachweis über die
+mit günstigem Erfolge beendigten Studien der Maschinenbau­
+schule einer technischen Hochschule, einer längeren praktischen
+Verwendung im Maschinenbaufache und über entsprechende elektro­
+technische Kenntnisse ein wesentliches Erfordernis.
+Der Nachweis einer elektrotechnischen Praxis ist erwünscht.
+Osterreise des Wissenschaftlichen Club. Der Wissen­
+schaftliche Club in Wien veranstaltet in der Zeit vom 7. bis 16. April
+d. J. eine Gesellschaftsreise nach Dalmatien, für
+welche seitens des Oesterreichisehen Lloyd der grosse, elegant
+eingerichtete Dampfer „Vorwärts“ zur Verfügung gestellt wurde.
+Es werden folgende Orte berührt: Triest, Miramar, Pola, Abbazia,
+Zara, Bebenico, die Kerkafälle bei Scardona, Trau, Spalato,
+Salona, Comisa, die berühmte blaue Grotte von Busi, ev. Lissa
+und Lesina, ferner Gravosa, Ragusa, Cannosa, die Insel Lacroma,
+Cattaro, Risano, Perasto, die Insel Madonna della scolpello und
+Njegus in Montenegro. Gäste sind bei dieser Clubreise freund-
+1 i c li s t w i 11 k o m m e n. Die Preise der Fahrscheine betragen
+ab Wien und zurück für die I. Classe 280 Kronen, für die II. Classe
+200 Kronen. Ausführliche Programme dieser Reise können von
+der Kanzlei des Wissenschaftlichen Club, Wien, I. Eschenbach­
+gasse 9, bezogen werden.
+Die Nernstlaiupe wird jetzt, nach der „B. B.Z.“, in
+Göttingen dem Publikum zur Benutzung überlassen. Das Eloktri-
+citätswerk Göttingen hat eine Bekanntmachung erlassen, wonach
+die neuen Lampen, die bekanntlich von der Allgemeinen
+Elektricitäts-Gesellschaft als Patentinhaberin herge­
+stellt werden, „nach Massgabe der fortschreitenden Fabrikation“
+den bisherigen Consumenten von elektrischem Licht zur Ver­
+fügung gestellt werden. In dieser Bekanntmachung heisst es: Die
+Lampen werden geliefert für eine Leuchtkraft von 25 NK und
+verbrauchen trotzdem ungefähr nur so viel Strom, wie eine zelin-
+kerzige Glühlampe. Die Lieferung von Lampen mit Selbstzündung
+müssen wir einstweilen aus geschäftlichen Griindon zurückhalten.
+Zur Zündung der Nernstlampen stellen wir Spiritus-Apparate
+kostenlos zur Verfügung, da die Lampe unter keinen Umständen
+mit Streichhölzern angezündet werden darf. Die Lampe nebst Zu­
+behör ist durch Patente geschützt; sie bleibt Eigenthum der Ge­
+sellschaft und darf lediglich für die Installation Verwendung
+finden, für welche sie im Anschluss an das Städtische Elektri-
+citätswerk abgegeben wird. Die Gesellschaft vermiethet die Lampen
+den Consumenten und ersetzt sie, wenn sie abgenutzt sind. Die
+abgenutzten Exemplare sind beim Umtausch abzuliefern. Für jede
+installirte Nernstlampe wird ein Miethspreis von 50 Pf. pro Monat
+erhoben.
+Die Telegraphen- und Telepliondrälite als Wetter­
+propheten. Wir lesen in den „Braunschweiger Neuesten Nach­
+richten“, Nr. 293, III, den nachstehenden, den Zusammenhang des
+Singens der Telephon- und Telegraphendrähte mit den Witterungs­
+verhältnissen betreffenden Brief: „Vor einiger Zeit (Donnerstag,
+30. November v. J.) musste ich auf einer kleinen Haltestelle der
+Eisenbahn, in der Nähe eines benachbarten Ortes, wohin ich als
+Arzt gerufen worden war, warten, um den nächsten Eisenbahn­
+zug zur Rückkehr nach hier zu benutzen. Dicht bei der Wärter-
+bude dieser Haltestelle stehen Telegraphenstangen als Träger
+vieler Drähte. Da vernahm ich ein tiefes, nicht sehr lautes Tönen
+derselben, welches mich lebhaft an die mehrjährigen Beobach­
+tungen in dem Orte meines früheren Wirkungskreises erinnerte.
+Dort stellte ich regelmässige Beobachtungen des Singens der Tele­
+graphendrähte an, um eine Prognose des Wetters für die nächsten
+zwei Tage festzustellen. AVie vielleicht Vielen bekannt ist, macht
+sich das tönende Geräusch der Telegraphendrähte vor dem Ein­
+tritte schlechten AVetters bemerkbar. Gegen einen Mitfahronden
+äusserte ich nun am obigen Tage meine Ansicht dahin, dass zwei
+Tage später, am Sonnabend, 2. December, bestimmt schlechtes
+AVetter eintreten würde. Diese meine Bemerkung wurde mit
+zweifelndem Lächeln ontgegengenommen. Es befremdete mich
+durchaus nicht, da man ja guten Grund hat, so Vielen, die sielt
+als gelegentliche AVetterpropheten aufwerfen, Misstrauen entgegon-
+zubringen. Meine Vorhersage erwies sich aber auch diesesmal als
+richtig. Nachdem wir uns am Freitag den ganzen Tag des
+schönsten AVetters zu erfreuen hatten, stellte sich schon am
+frühen Morgen (les Sonnabend etwas Regen ein, und diesem
+folgte den ganzen Tag über Regenschauer mit starkem AVindo.
+Ich gestatte mir nun, in Anknüpfung obigen kleinen Er­
+lebnisses hiermit auf die Erscheinung des Singens der Tole-
+graphendrähte und die Beziehungen derselben zu dem kommenden
+AVetter aufmerksam zu machen, und theile im Folgenden meine
+Beobachtungen mit, einmal, weil ich annehme, dass Manche auf
+diese Erscheinung nicht aufmerksam geworden sind, dann aber
+auch, da Jeder durch die Beobachtung des Bingens der Drähte
+sich in erwünschter Weise Aufklärung verschaffen kann, wie sich
+das AVetter in den nächsten zwei Tagen gestalten wird.
+Ich habe bei meinen Beobachtungen festgestellt, dass das
+Singen und Brummen der Telegraphendrähte immer schlechtes
+AVetter (Regen, Schnee, Wind oder Sturm) mit Sicherheit anzeigt.
+Ich beobachtete aber ferner, dass auch die Zeit, wann der Um­
+schlag des Wetters zu erwarten steht, durch die Höhe oder Tiefe
+der Töne angezeigt wird. Bei tiefem Tönen der Drähte erfolgt
+jener in 30—48 Stunden, während der hohe, singende, beinahe
+pfeifende Ton auf den Eintritt schlechten Wetters schon in 6 bis
+10 Stunden schliessen lässt. Aber auch die Stärke der Töne gibt
+Anhalt über die Art des kommenden AVetters, und zwar, dass jo
+stärker das Singen der Telegraphendrähte ist, das AA^ettor desto
+schlimmer wird. Ist z. B. das Singen nur schwach und geschieht
+es in tiefem Tone, so wird in 80—48 Stunden Regen ohne sehr
+starken Wind erfolgen; bei sehr starken, hohen, pfeifenden Tönen
+ist in 6—10 Stunden Regen (Schnee) mit Sturm zu erwarten.
+Manche Leser erinnern sieh wohl noch des mit hoftigon
+Stürmen begleiteten grossen Schneefalls dicht vor Weihnachten
+lb86, eines Wetters, welches in ganz Mitteleuropa auftrat und
+eine Niederschlagsmenge des geschmolzenen Schnees von nicht
+weniger als lfi’80 mm an einem Tage ergab. In heftigem Schnee­
+gestöber begab ich mich am 21. Decembor des erwähnten Jahres
+
+Seite 80.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK. Nr. 7.
+in ein Restaurant in einen Bekanntenkreis. Auf dem Wege dahin
+musste ich das Bahngeleise überschreiten und kam dabei an Tele­
+graphenstangen vorüber; hier vernahm ich von den Drähten ein
+aussergewöhnlich starkes, singendes und pfeifendes Tönen. Ich
+machte meinen Bekannten Mittheilung über diese Beobachtung
+mit der Bemerkung, dass das Wetter bald noch viel schlimmer
+werden würde, und zwar binnen wenigen Stunden. Schlimmer
+kann es ja gar nicht werden, wurde mir zur Antwort; aber meine
+Aussage erwies sich als richtig; in der Nacht brach ein furcht­
+bares Unwetter mit starkem Schneefall und orkanähnlichem Sturme
+los, sodass auf vielen Bahnstrecken Verkehrsstockung eintrat;
+eine Menge Züge blieben unterwegs liegen. Denjenigen, welche
+damals durch diese Unfälle an der Weiterreise verhindert wurden
+und sich deshalb Tage lang in benachbarten Orten einqnartiren
+mussten, wird dieser unfreiwillige Aufenthalt unvergesslich ge­
+blieben sein.
+Es liegt mir dabei natürlich vollkommen fern, den Werth
+der auf Grund rein wissenschaftlicher Beobachtung von hervor­
+ragenden Männern gegebenen Wetterprognosen durch diese meine
+Mittheilungen irgendwie abzuschwächen. Beobachte ich doch selbst
+mit grossem Interesse mit meinen Wetterinstrumenten täglich die
+Wetterlage und mache ich doch seit einer langen Reihe von
+Jahren meine täglichen genauen Notirungen darüber.
+Zu dieser meiner Mittheilung veranlasst mich auch der
+Wunsch, dass auch Andere zur weiteren Beobachtung der Tele­
+graphendrähte als Wetterpropheten angeregt werden, denn es ist
+immerhin möglich, dass sich aus jenen Beobachtungen noch
+weitere Schlüsse ziehen lassen. Dr.Eydam.“
+Geschäftsresultate von Kabelgesellschaften. Wie der Vor­
+sitzende der kürzlich abgehaltenen Generalve. Sammlung der
+East ern T elegraphCompan j*) Marquis v. Twee d d al e
+erklärte, habe infolge des Krieges in Südafrika die
+Beförderung von Zeitungsdepeschen eine nicht unwesentliche Ver­
+zögerung erlitten, aber aus Gründen, die von der Gesellschaft
+nicht hätten geändert werden können. In dieser Hinsicht habe an
+erster Stelle die von der Regierung geübte peinliche Censur nach­
+theilig gewirkt, sodann sei die Ueberlastung der Landlinie in Süd­
+afrika mit Regierungsdepeschen für den allgemeinen Verkehr
+hinderlich gewesen. Von aussergewöhnlich grossen Einnahmen in­
+folge des Krieges könne daher auch nicht die Rede sein, denn
+einestheils seien die Tarife mit dem 1. September 1899 um 20%
+herabgesetzt worden, anderentheils sei der Verkehr mit Regie­
+rungsdepeschen zum halben und mit Pressdepeschen zum vierten
+Theilc des Tarifsatzes so überlastet, dass die Zeitungen schon
+begonnen hätten, die vollen Tarife zu zahlen, nur um ihre De­
+peschen einigermassen prompt befördert zu erhalten. Da im
+Uebrigen die Kabel auch nur eine begrenzte Transportfähigkeit
+besässen, sei man dazu geschritten, die Wortzahl jeder einzelnen
+Depesche so viel wie möglich zu reduciren. Wenn alle diese Um­
+stände in gehörende Berücksichtigung gezogen und dabei die
+vermehrten Betriebsspesen im Auge behalten würden, sowie die
+Spesen für die Auslegung eines dritten Kabels nach Capstade, so
+werde man sich davon überzeugen, dass die durch den Krieg
+etwas grösser gewordenen Einnahmen bei Weitem nicht aus­
+reichten, um die durch die Störung des commerciellen Geschäftes
+hervorgerufenen Mindereinnahmen wieder auszugleichen.
+Ausgeführte und projectirte Anlagen.
+Oesterreich.
+Wien. (Anordnung der Tracenrevision u n d
+politischen Begehung der Wiener elektrischen
+strassenbahnen, Linie Prater [Ausstellung s-
+s t r a sse]— Rotunde Südportal.) Das k. k. Eisenbahn­
+ministerium hat unterm 15. Jänner die k. k. Statthalterei in Wien
+beauftragt, hinsichtlich des vom Magistrate der k. k. Haupt- und
+Residenzstadt Wien vorgelegten Projectes der Linie Nr. 31 der
+Wiener elektrischen Strassenbahnen Prater, (Ausstellungsstrasse)—
+Rotunde Südportal die Tracenrevision und bei anstandslosem Er­
+gebnisse dieser Amtshandlung unmittelbar anschliessend an die­
+selbe die politische Begehung des gedachten Projectes vorzu­
+nehmen. Gleichzeitig wurde die k. k. Statthalterei ermächtigt, im
+Falle eines anstandslosen Commissionsergebnisses den Bauconsens
+im Namen des k. k. Eisenbahnministeriums ex commissione zu
+ertheilen.
+Deutschland.
+Dessau. (Umwandlung der Gasbahn in eine
+elektrische Bahn.) Am 2. d. M. hat in Dessau eine ausser-
+*) Vergl. H. 6, S. 76.
+ordentliche Generalversammlung der Dessauer Strassen-
+bahn-Gesellsehaft stattgefunden. Nach einer lebhaften
+Debatte wurde die Umwandlung der bisherigen nicht rentablen
+Gasbahn in eine elektrische Bahn durch die Süddeutsche
+Eisenbahn- Gesellschaft (Bachstein-Berlin) beschlossen.
+Das bisherige Grund-Anlagecapital von 500.000 Mk. soll auf 250.000
+Mark rodneirt, bezw. 2 Actien ä 1000 Mk. zu einer Actio ä 1000 Mk.
+zusammengelegt werden. Zur Weiterführung der Bahn bis vorläufig
+nach Elbhaus (Wallwitzhafen) und später, wenn weitere Ge­
+nehmigung erfolgt, nach Eosslan, soll eine Capital-Erhöhung
+der 250.000 Mk. auf 1,300.000 Mk. erfolgen.
+Literatur-Bericht.
+Atti (lella Associazione Elettroteclinica italiaua. Heft V,
+1899. Dieses mit Ende November 1899 ausgegebene Schlussheft
+des Bandes 11 des Organes des Elektrotechnischen Vereines in
+Italien, enthält drei fachliche Artikel und die Vereinsnachrichten
+pro zweiten Semester des bezeichneten Jahres.
+Der erste der besagten Artikel beschäftigt sich mit dem
+von Joseph A 1 f i e ri am 5. Juli 1899 in der Vereinssection Neapel
+gehaltenen Vortrag über die eben damals vollendete, nach dem
+gewöhnlichen Trolley-System elektrisch betriebene Tramwaylinie
+in Neapel. Diese vom Pariserhouse Thomson Houston unter
+Leitung des belgischen Ingenieurs H e 11 e b u c k ausgeführte
+Anlage verlauft, vom Nationalmuseum ausgehend, 900 m bis zur
+Piazza Rosa, wo sich die Linie verzwoigt. Hier setzt sich der
+circa 5650 m lange Zweig längs des Corsos Victor Emanuel bis
+zum Hafen fort, mit 6'9o/o Maximalsteigung und 21 m kleinstem
+Krümmungsradius, während der zweite 3150 m lange Zweig nach
+Voinero führt und 7’9o/ 0 Maximalsteigung und 25 m kleinsten
+Bogenradius aufweist. Den Betriebsstrom liefert das Elektricitäts-
+werk der S o c i e t ä, Generale per l’Illuminazione,
+welches für den Tractionszweck eine zweicylindrige, mit Auspuff
+und Condensation ausgestattete Dampfmaschine von 220 PS auf­
+gestellt hat, die zwei symmetrisch gelagerte, bei 200 Umdrehungen
+in der Minute und 575 V je 150 A leistende Dynamomaschine
+mittelst Riemenübertragung antreibt. Ausserdem ist eine aus
+300 Tudor-Elementon bestehende Pufferbatterie von circa
+1400 Amperestunden Capacität vorhanden. Zu jeder der drei
+Streckentheile ist eine eigene Speiseloitung unterirdisch zugeführt,
+die beiläufig in der Mitte der betreffenden Theilstrecke an die
+Oberleitung ansehliesst. Der gesammte Wagenpark besteht aus
+15 Motorwagen und zehn Beiwagen, die ganz nach amerikanischen
+Typen hergestellt sind und 40, bezw. 37 Personen aufnehmen
+können und 4 t, bezw. 2’5/ schwer sind. Für den normalen Dienst
+stehen stets nur zwölf Wagen im Verkehre. Die Motorwagen
+laufen auf zwei vierräderigen Truckgestellen, von denen eines
+mit einem 25 pferdigen Motor der General ElectricCom-
+pany in New-York versehen isf. Jeder Wagen hat zwei
+mechanische Handbremsen und eine elektromotorische Bremse,
+die, wenn Beiwagen mitfahren, an beiden Fahrzeugen gemeinsam
+wirken. Irgend welche Besonderheiten sind an dieser ersten
+elektrischen Stadtbahn Neapels nicht vorhanden. Die Gesammt-
+linien, welche der S o c i e t ä N a p o 1 i t a n a d e i Tram, der
+Eigenthümerin der obigen Linie bereits concessionirt sind und
+suecessive nach gleichem Systeme ausgebaut werden soll, be­
+laufen sich auf 200 7cm.
+Der zweite Aufsatz gibt einen Vortrag wieder, welchen
+Quirino Majorani am. 5. Februar 1899 im physikalischen
+Institute zu Rom gehalten hat betreffend seiner interessanten
+Experimente zur Gewinnung ausSergewöhnlicher dynamischer
+Ströme. Der betreffende Apparat ist aus zwei ineinander ge­
+steckten Blechtrommeln gebildet; jode dieser Trommeln hat zwei
+voneinander isolirte Hälften, wovon die eine aus Zink-, die andere
+aus Kupferblech besteht. Die beiden Hälften der inneren Trommel,
+welche auf einem mit einer Drehachse versehenen Holzcylinder
+angebracht ist, sind mit einem zweilappigen, auf der Cylinder-
+achse sitzenden Collector in leitende Verbindung gebracht; gegen
+den Collector stützen sich zwei gegenständige, federnde Strom­
+abnehmer. So lange in dem soeben geschilderten Apparate die
+gleichnamigen Metallhälften gegenüberfiegen, ist das Potential an
+den beiden Klemmen 0; wird aber der innere Cylinder gedreht
+und gelangen die ungleichnamigen Metalle einander
+gegenüber, so steigt das Potential bis zu einem bestimmten
+Maximum, welches eintritt, sobald die vollen Flächen einander
+zugekehrt sind und wieder auf 0 zurücksinkt, wenn die vollen
+Flächen der gleichnamigen Metalle einander gegenüber
+liegen. Wird die innere, bewegliche Trommel mittelst einer An­
+triebvorrichtung in rasche Rotationen versetzt, so ist im Schlüsse
+zwischen den beiden vorgedachten Contactfedern ein continuir-
+licher Strom nachweisbar, der beispielsweise bei 1 mm Entfernung
+
+Nr. 7.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seide Öl.
+zwischen den beiden Trommeln, einer halben Mantelfläche von
+8ö ci»2 und bei 20 Umdrehungen in der Secunde mit 2'42 X 10~ 9 A
+gemessen wurde. Kräftigere Wirkungen sind mit einem Versuchs­
+apparate zu erzielen, bei dem auf einer Achse eine Reihe von
+Metallscheiben aufsitzen, die sich wie die Zähne eines Kammes
+in einem gleichfalls aus lauter Metallscheiben gebildeten, fest­
+stehenden Cylindergehäuse drehen können. Die eine Hälfte aller
+beweglichen, sowie sämmtlicher unbeweglichen Scheiben ist aus
+Kupferblech, die andere aus Zinkblech hergestellt; die halben
+Scheiben gleichen Metalles sind untereinander leitend verbunden,
+von den Scheibenhälften des anderen Metalles jedoch isolirt;
+ausserdem stehen die beweglichen Seheibenhälften mit je einer
+an der Drehachse angebrachten Collectorlamelle in Contact. Die
+mit einem solchen Apparate, bei dem zehn rotirende Scheiben
+mit einer Gesammtoberfläche von zweimal 1327 cm2 vorhanden
+sind, die von den feststehenden Scheiben 2-5 mm abstehen, lässt
+sich bei 20 Umdrehungen in der Secunde ein Strom von P5 X
+X IO— 8 A gewinnen. Werden in derartigen Versuchsapparaten
+statt Zink und Kupfer andere Metalle angewendet, so ändern sich
+die Stromverhältnisse, und auf Grund der diesfälligen Spannungs­
+messungen haben sich— auf Silber bezogen— unter sonst
+gleichen Umständen nachstehende Ziffern ergehen: Aluminium -f-
+1 TO; Zink -|— 0'90; Eisen-|-0'50; Messing-|-0'45; Kupfer+ 0'40;
+Gold— 0’20. M a j orani ist nun der Anschauung, dass die Er­
+gebnisse seiner Versuche und insbesondere eine gewisse Parallele
+der vorstehenden Ziffern mit der Spannungsreihe als ein Beleg
+für die Contacttheorie angesehen werden dürfe und ladet die
+Physiker zu weiteren Reflexionen darüber ein.
+Der dritte Artikel bezieht sich auf den von A g a t i n 0
+Virgil ito am 6. September 1899 in der Vereinssection
+Palermo gehaltenen Vortrag über sein elektro-automatisches
+Blocksignal für Eisenbahnen, das mehr oder minder den ameri­
+kanischen Signalanordnungen dieser Gattung und namentlich dem
+bekannten, in allen Fachblättern seinerzeit wiederholt besprochenen
+H a 11’schen System nachgehildet ist. Das italienische System
+darf jedoch fraglos als wesentlich einfacher, weitaus billiger und
+vielfach zweckdienlicher angesehen werden, als alle venvandten
+automatischen Anordnungen. Die Einrichtung lässt sich ganz
+unverändert ebenso für eingeleisige, wie für zwei- oder mehr­
+geleisige Bahnstrecken verwenden und besitzt den aussergewöhn-
+lichen Vorzug, dass jeder Zug, welcher sich innerhalb eines
+Blockabschnittes befindet, sowohl nach rückwärts als nach vor­
+wärts durch optische Haltsignale gedeckt wird, so dass die Fahrt­
+richtung des gedeckten Zuges für seine Sicherung und die Art
+des Functionirens der Signale ganz und gar unmassgebend ist.
+Alles das wird durch eine einfache Gegenstromschaltung erreicht.
+Die Bahnstrecke ist nämlich nach gewöhnlicher Art in Block­
+abschnitte eingetheilt und in jedem dieser Abschnitte ist der eine
+Schienenstrang des Bahngeleises als isolirte Leitung angeordnet,
+während der zweite, nicht isolirte Schienenstrang für alle Ab­
+schnitte als gemeinsame Rückleitnng dient. Am Anfänge und
+ebenso am Ende jedes isolirten Schienenstranges ist mittelst
+Anschlusskabel je ein Relais und eine Batterie (aus „Cupron-
+Elementen) eingeschaltet, deren zweiter Pol zur Rückleitung an-
+schliesst. Sämmtliche Batterien längs der ganzen Strecke sind
+gleich stark und werden von den zwei nachbarlich aneinander-
+stossenden Blockabschnitten gemeinschaftlich ausgenützt; alle
+sind mit demselben Pole an die Rückleitung gelegt. So lange
+kein Zug sich auf den Strecken befindet, sind also alle Block­
+abschnitte stromleer, weil die einander entgegengeschalteten
+Batterien unwirksam bleiben; sämmtliche Relaisanker, die im Local-
+schlusse zugehörige elektrisch-optische Signale bethätigen, sind ab­
+gerissen und die letzteren zeigen „f r e i.“ Fährt ein Zug in einen
+Blockabschnitt ein, so erfolgt durch die eisernen Radgestelle der
+Fahrzeuge ein Kurzschluss zwischen dem isolirten und dem nicht
+isolirten Schienenstrange des Geleises. Die am Ende und An­
+fänge des Abschnittes stehenden Batterien werden demnach wirk­
+sam und die bezüglichen angezogenen Relaisanker stellen die
+zugehörigen optischen Signale auf „Halt“; ein Zustand, der erst
+aufhört, bis der Zug den Abschnitt vollständig verlassen hat.
+Wir werden vielleicht späterhin auf dieses einfache, selbstthätige
+Signalsystem nochmals zurückkommen.
+Der weitere Inhalt des Heftes erstreckt sich endlich auf
+die Sitzungsberichte der verschiedenen Sectionen des Vereines,
+auf den Mitgliederausweis und auf das Inhaltsverzeichnis des
+II. Bandes der Vereinszeitschrift. Alles in allem gibt, das be­
+sprochene Heft neuerlich ein erfreuliches Zeugnis über die
+Rührigkeit und das gedeihliche Erblühen des Vereines dei
+italienischen Elektrotechniker, der zur Zeit sieben Zweigvereme
+umfasst und dem 625 Personen, sowie 75 wissenschaftliche In­
+stitute und industrielle Firmen als Mitglieder angehören.
+Generatoren, Motoren und Steuerapparate für elektrisch
+betriebene Hebe- und Transportmascliinen. Unter Mitwirkung
+von Ingenieur E. Veesenmeyer, herausgegeben von Ober­
+ingenieur Dr. F. Niethamme r. Mit 805 in den Text ge­
+druckten Zeichnungen. Verlag von Julius Springer in Berlin
+und R. Oldenburg in München.
+Der Elektromotor scheint prädestinirt zu sein, alle übrigen
+Antriebsmaschinen für Hebe- und Transportmittel zu verdrängen;
+die Vortheile gegenüber dem hydraulischen Antriebe liegen auf
+der Hand. Grundbedingung eines sicheren und einwurfsfreien
+Betriebes elektrischer Hebezeuge ist zweckmässige Bauart und
+sachgemässe Anbringung aller erforderlichen Hilfs- und Sicher­
+heitsvorrichtungen. Es ist daher eine dankenswertbe Arbeit des
+Verfassers, die in dem umfangreichen Werke, niedergelegt ist,
+dem Elektroingenieur die Bedingungen, die heim Krahn- und
+Aufzugbau, rücksichtlich des elektrischen Theiles, zu erfüllen
+sind, in zusammenhängender Weise darzustellen; in richtiger
+Erkenntnis, dass es für den Constructeur vom grössten AVertli
+ist, in der Praxis erprobte Ausführungen elektrisch betriebener
+Hebe- und Transportmaschinen zu kennen, sind die unterschied­
+lichen Constructionen in Skizzen und photographischen Ab­
+bildungen aufgenommen, die musterhaft reproducirt sind und
+Details mit wünschenswerther Deutlichkeit erkennen lassen.
+Im ersten Abschnitte, der zum Theil theoretischer Natur
+ist, gibt der Verfasser eine übersichtliche Darstellung über die
+Eigenschaften der Gleich- und AVechselstrommaschinen und der
+Elektromotoren, beschreibt die Steuerapparate und Bremsen, die
+Kupplungen und AVendegetriebe; der zweite Theil enthält
+Gesammtanordnungen von Hebezeugen, die eine praktische Er­
+probung durchgemacht haben. K.
+Erläuterungen zu den Siclierlieitsvorscliriften des A r er-
+bamles Deutscher Elektrotechniker. Im Aufträge des Vor­
+standes herausgegeben von Dr. C. L. W e b e r. Dritte vermehrte und
+verbesserte Auflage. Im Verlage von Julius S p r i n g e r, Berlin
+und R. Oldenburg, München. Preis 2 Mk. 60 l’fg.
+Patentnachrichten.
+Mitgetheilt von Ingenieur
+Victor Monatli,
+WIEN, I. Jasomirgottstrasse Nr. 4.
+Deutsche Paten tan mel dünge n.*)
+Classe
+4. Vorrichtung zum Befestigen der Schutzglocken für elektrische
+Glühlampen.— F. Christians. Berlin. 19./8. 1899.
+21. Sammlerelektrode mit Masseträger aus Isolirstoff.— William
+Moore Mc D 0 u g a 11, New-Jersey, V. S. A. 19./6. 1899.
+„ Umschalter für elektrische Leitungen.— George Joseph
+Schoeffel, Brooklyn, V. S. A. 7./12. 1897.
+„ Vorrichtung zur zeitweisen elektrischen Beleuchtung mit einer
+Tauchbatterie.— Robert Schreiber, Berlin. 18./5. 1899.
+„ Erregungsflüssigkeit für Sammelbatterien.— Dr. Alfred
+Sternberg, Berlin. 29./7. 1898.
+20. Vorrichtung zur Ein- und Ausschaltung des Meldestromes für
+den oberen Flügel an Signalmasten.— C. S t a h in e r, Georg­
+marienhütte. 20./10. 1897.
+„ Stromzuführung bei elektrischen Bahnen mit Thoilleiter-
+betrieb.— Union Elektricitäts-Gesellschaft,
+Berlin. 5./9. 1899.
+21. Dynamometer mit magnetischer Dämpfung— Allgemeine
+Elektricitäts-Gesellschaft, Berlin. 26./7. 1899.
+„ Schmelzsicherung für elektrische Stromkreise.— Harry Philipp
+Davis, Pittsburg. 2-/5. 1899.
+„ Verfahren zur Herstellung einer innigen Verbindung zwischen
+Platin- oder Platinmetallen und nichtmetallischen Körpern.—
+Firma W. C. II e r a e u s, Harn.au. 7-/3. 1899.
+„ Astastisches Wattmeter für Gleich- und Wechselstrom.—
+Hartmann& Braun, Frankfurt a. M. 18./7. 1899.
+„ Verfahren zur Montirung von Glühlampengruppen.- Gustav
+A. Harter, Chicago. 7./1L 1899.
+Schleifringanordnung für elektrische Maschinen.— Benjamin
+Garve Lamme, Pittsburg, V. S. A. 25./9. 1899.
+„ Fernsprech- Verbindungssystem zwischen zwei Fernsprech-
+Vermittlungsämtern.— Telephon-Apparat -Fa b r i k
+Fr. Welle s, Berlin. 15./4. 1899.
+*) Die Anmeldungen bleiben nach der Vorprüfung acht Wochen öffentlich
+aufgelegt. Nach§ 24 des Patent-Gesetzes kann innerball» dieser Zeit Einspruch
+gegen die Anmeldung wegen Mangel der Neuheit oder widerrechtlicher Entnahme
+erhoben werden. Das obige Bureau besorgt Abschriften der Anmeldungen und
+übernimmt die Vertretung in allen Einspruchs-Angelegenheiten.
+
+Seite 82.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 7.
+Clasße.
+26. Elektrischer Zünder für Gäsglühlielitbrenner.— Paul H off­
+mann, Charlottenburg. 20./7. 1899.
+47. Elektrisch auszulösende Fernstellvorrichtung für Niederscliraub-
+ventile.— Mec h. Treibrieraen-WebereiundSeil-
+fabrik Gustav Kunz, A.-G., Treuen i. S. 30./3. 1899.
+20. Unterirdische Stomzuführungs- Einrichtung für elektrische
+Bahnen.— J. Bernhei m e r, Frankfurt a. M. 24./2. 1899.
+n Ein Rollenstromabnehmer für elektrisch betriebene Fahrzeuge.
+— Ernst P reu ss, Charlottenburg. 17./4. 1899.
+„ Schutzvorrichtung gegen schädliche Ueberspannungen.— All­
+gemeine Elektricitäts- Gesellschaft, Berlin.
+5./4. 1899.
+„ Anzeige- und Beleuchtungsvorrichtung für selbstthätige Aus­
+schalter’.— G e b r. R u h s t r a t, Göttingen. 18./2. 1899.
+12. Apparat zur Elektrolyse von Wasser.— Dr. Oscar Schmidt,
+Zürich. 12./6. 1899.
+21. Elektricitätszähler mit durch Pendelcontactwerk bedienter Re-
+gistrirvorrichtung.— August Beetz, Posen. 29./4. 1898.
+„ Träger für an Wänden zu führende isolirte Stromleitungen.
+— Stanislaus Berger, Trier. 5./7. 1899.
+„ Verfahren zur Herstellung von isolirenden, wasser- und säure­
+beständigen Leisten, Deckeln und anderen Formstücken—
+Ludwig Grote, London. 10./10. 1898.
+„ Verfahren zur Aenderung der Geschwindigkeit eines oder
+mehrerer Elektromotoren mit Compound-Feldwickelung.—
+Edward Aibberd Johnson, New-York. 25./5. 1899.
+„ Stromunterbrecher; Zus. z. Pat. 105.974.— Johann Lahne,
+Aachen. 30./9. 1898.
+„ Als Geber und Empfänger arbeitender Typendruck-Telegraph.
+— Siemens& Halske, Actien-Gesellschaft, Berlin. 20./6.
+1898.
+„ Anzeigevorrichtung für das Durchschmelzen von Sicherungen.
+— Siemens& Halske, Actien-Gesellschaft, Berlin. 10./3.
+1899.
+„ Typendruck-Telegraph.— Siemens& Halske, Actien-
+Gesellschaft, Berlin. 18./5. 1899.
+„ Anordnung zur Herstellung einer Phasenverschiebung von 90°
+zwischen zwei magnetisirenden Feldern.— Union, Elek­
+tricitäts-Gesellschaft, Berlin. 8./8. 1899.
+„ Amperestundenzähler.— A. Willmann& Co., Freiburg
+i. Schl. 8./9. 1899.
+82. Trockenapparat mit elektrischer Heizvorrichtung.— Dante
+R o g e a t& Cie., Lyon. 7./1. 1899.
+20. Regler für elektrische Bahnen mit Umschalter zur Richtungs­
+änderung.- A. E. Sc an es, London. 26./4. 1898.
+„ Ein Quecksilber-Stromumschalter für elektrische Bahnen mit
+Theilleiterbetrieb.— E. Würl, Prag. 5./1. 1898.
+21. Masseträger für Sammlerelektroden.— Dr. Richard von
+Grätzel, Köpenick. 28./10. 1898.
+„ Kohlestromschlussstück mit Befestigung durch Ueberwurf-
+mutter.— Friedr. Krupp, Essen. 11./4. 1899.
+„ Einrichtung zum Vorwärmen von aus Leitern zweiter Classe
+bestehenden Leuchtkörpern durch einen Lichtbogen.—
+Körting& M athiesen, Leutzsch, Leipzig. 6./1. 1899.
+„ Sammlerelektrode aus übereinander liegenden Blechstreifen.
+— Sächsische Accumulatorenwerke Actien-
+gesellschaft, Dresden. 15./5. 1899.
+26. Elektrische Sieherheitsvorrichtung für Gasbeleuchtungsanlagen-
+— E. G. Meyer, Hamburg. 30./9. 1899.
+42. Elektrischer Kreisel für Gyroskope.— Berliner M a-
+s chin e nb au- A c ti enges e 11 sch a f t, vormals L.
+Schwarzkopff, Berlin. 27./5. 1899.
+83. Uhrwerk mit elektromagnetischer Hebung des Treibgewichtes.
+— Fred. Isac._Getty, Chicago. 111, V. S. A. 11./9. 1899.
+12. Herstellung einer Diaphragmenelektrode für elektrolytische
+Zellen.— James Hargreaves, Lancaster. 19./10. 1898.
+20. Eine sich selbstthätig nachspannende Leitungsanordnung. •—
+Siemens& Halske, Actiengesellschaft, Berlin. 11./3. 1899.
+21. Bogenlampen-Aufhänge-Vorrichtung.— Allgemeine Elek­
+tricitäts-Gesellschaft, Berlin. 18./9. 1899.
+„ Verfahren zur Herstellung von Glühfäden für elektrische
+Lampen.— M. Böhm, Berlin. 19./1. 1899.
+„ Stromunterbrecher für elektrische Hochspannungs-Leitungen.
+— Roger Ducornot, Puteaux, Seine. 14./2. 1899.
+„ Vorrichtung zum Füllen und Entleeren von Batterien.—
+W. A. Th. Miller und Adolf K rü g e r, Berlin. 17./6. 1899.
+„ Verfahren zur Anregung von Nernst’schen Glühkörpern; Zns.
+z. Pat. Nr. 104.872.— Allgemeine Elektricitäts-
+Gesellschaft, Berlin. 19./8. 1898.
+Classe.
+21. Geber für Telegraphenapparate.— National Magneto-
+Electric -Telegraph- Company, Springiield, Ohio,
+V. S. A. 21./8. 1899.
+„ Verfahren zur Herstellung von elektrischen Glühkörpern nach
+Patent 108.506; Zus. z. Pat. 108.506.— Phärmaceutisches
+Institut Ludwig Wilhelm Gans, Frankfurt a. M. 4./11.
+1898.
+„ Wechselstrom-Motorzähler.— Albert Peloux, Genf. 2./5.
+1899.
+„ Schablonenwickelung.— Siemens& Halske, Actien­
+gesellschaft, Berlin. 9-/9. 1899.
+„ Anordnung der beweglichen Spule bei oscillirenden Gleich­
+stromzählern, um ein Versagen des Relais unschädlich zu
+machen.— Ernst Wagmüller, München. 24-/5. 1899.
+Oiasse. Deutsche Patente rtheilungen.
+20. Elektrischer Zugdeckungs-Signalapparat.— Iv. M a r t i n, Mann­
+heim-Wal dhof. 23./6. 1898.
+„ Elektromagnetisch verstellbare Weiche.— II. Korn, Schöne­
+berg. 10-/3. 1899.
+„ Eine Kreuzung für elektrische Eisenbahnen mit stromleitender
+Mittellinie.— J. Mc. L. M u r p h y, Torrington, England. 13./12.
+„ Eine Anordnung der Stromleitungskabel bei elektrischen Hoch­
+bahnen.— L. Bruns& H. R. Ottesen, Hannover. 21./5.
+1899.
+21. Einrichtung zum Kühlen elektrischer Transformatoren.—
+F. A. Berry, Ashloy, England. 20./3. 1898.
+„ Schaltung zur Verstärkung elektrischer Wellen.— Dr.F.Braun,
+Strassburg i. E. 26./1. 1899.
+„ Doppelschreiber zur Erzeugung von Estienneschrift.— G.Bu sse,
+Kolberg. 5./3. 1899.
+„ Elektricitätszähler für Dreiphasenstrom mit vier Leitungen.—
+Dr. II. Aron, Berlin. 28./5. 1899.
+40. Schaltungsweise elektrischer Oefen bei Verwendung von mehr­
+phasigen elektrischen Wechselströmen.— Elektricitäts-
+Actiengesellschaft, vormals Schuckert& Co.
+Nürnberg. 4./11. 1897.
+49. Schneidzange für Isolirrohre für elektrische Leitungen.—
+W. Michowsky& H. v. Appen, Bergedorf b. Hamburg.
+5. /4. 1898.
+83. Elektrischer Aufzug mit gleichzeitig als Stromzuführung dienen­
+der Antriebsfeder.— Dr. II. Aron, Berlin. 28./5. 1899.
+12. Drahtgewebekathode für elektrolytische Verfahren nach Art
+des in der Patentschrift 76.047 beschriebenen.— J. II a r-
+greaves, Lancaster, Engl. 19./1. 1899.
+20. Luftweiche für elektrische Bahnen.— O. J o e d i c k e, Mühl­
+hausen i. Th. 8-/2. 1899.
+,. Ein Stromabnehmer für elektrische Bahnen mit Oberleitung.
+— P. von Szentkiralyi, Budapest. 7-/5. 1899.
+„ Stromabnehmerschienen an elektrischen Motorwagen.— The
+Foreign Electric Traction-Company, New-York,
+13./10. 1895.
+„ Luftweiche für elektrische Fahrzeuge mit zwei oder mehr
+hinter einander angeordneten Stromabnehmern.— Bro wn,
+Bove ri& Co., Baden, Schweiz und Frankfurt a. M.
+6. /5. 1898.
+21. Unverwechselbare Schmelzsicherung mit Schutzvorrichtung
+gegen Benutzung falscher Einsätze für zu grosse Stromstärke
+und zu geringe Spannung.— Siemens& Halske, A ctien-
+gesellschaft, Berlin. 24./5. 1899.
+„ Elektrisches Mess- und Signalinstrument.— II. W. Sulli wa n,
+London. 23./11. 1897.
+„ tichaltungsweise zur Verhinderung des gleichzeitigen Brennens
+mehreret von einer Centrale aus gespeister elektrischer Lampen­
+gruppen.— R. Lenner, Foligno, Italien. 31./12. 1898.
+„ Bogenlampe mit zwei in Reihe geschalteten Lichtbogen.—
+Körting& Mathiesen, Leutzsch-Leipzig. 21./2. 1899.
+„ Stromsammler mit Magnesiumelektroden.— Firma: Ingenieure
+Felix L a n d 6, Edmund Levy, Berlin. 28./1. 1899.
+„ Verfahren zur Herstellung von Elektrodenplatten.— J. G.
+II a t h w a y, London. 16./2. 1899.
+„ Verfahren zum Empfangen und zoitweisen Aufspeichern von
+Nachrichten, Signalen oder dergl.— V. P o u 1 s e n, Kopen­
+hagen. 10./12. 1898.
+„ Thermoelektromotor.— C. Mayer, München. 7./2. 1899.
+42. Fahrpreisanzeiger für mehrere Taxen.— Bank für elek­
+trische Industrie, Berlin. 5-/5. 1898.
+„ Selbstcassirendes, elektrisch betriebenes Glücksspiel.— C. Gon-
+zal ez& Perez, Madrid. 7./12. 1898.
+„ Elektrisches Log.— A. G. Brookes, London. 91/6. 1897,
+
+Nr. 7.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 83.
+C lasse.
+65. Auf die Marconische Funkentelegraphie gegründete Vor­
+richtung zur Verhütung von Sehiffszusammenstössen.— R. von
+H o r v a t h und M. Cohn. 27./8. 1898.
+Aufgebote.
+Wien, am 15. Jänner 1900.
+Patentclasse.
+12. S c h o o p Max Ulrich, Ober-Ingenieur in Hivschwang.—
+Elektrolytischer Wasser ze rsetzungs-Ap parat:
+Bestehend aus einem als Anode fungirenden Elektrolytbehälter,
+auf dessen isolirtem Boden röhrenförmige, mit" oben ge-
+geschlossenen Glas- oder Caolinröhren umgebene Bleikathoden
+aufruhen, welche zwecks Circulation und Ableitung des ab­
+geschiedenen Wasserstoffs oben und unten mehrfach durchlocht
+sind.— Angemeldet am 13. Juli 1899.
+15. Deutsch Richard, Friedrich, Privater in Wien.— Schreib­
+apparat zur Niederschrift von auf Tasten­
+instrumenten gespielten Musikstücken, ge­
+kennzeichnet durch einen, aus zwei Theilen bestehenden, an
+dem Instrumente befestigten Rahmen, welcher eine untere
+und eine obere Contactleiste trägt, die mit Contactstiften
+versehen sind und mit welchen beim Anschlägen der Tasten
+Contactfedern in Berührung treten, wobei von einer Strom­
+quelle gelieferte elektrische Ströme geschlossen und die Elektro-
+magnote erregt werden, welche die Typenhebel bethätigen,
+deren Schreibstifte dadurch gegen das über Rollen bewegte
+Notenpapier gedrückt werden und so ein Verzeichnen der
+Töne bewirken. Durch Niederdrücken eines Pedales wird der
+Tactstrich verzeichnet. Zur Niederschrift einer Partitur sind
+die Elektromagnete quer über das Notenpapier verstellbar.—
+Angemeldet am 13. April 1899.
+20. M e t h Emanuel, Kaufmann in Königshütte, Ob.-S.— Elek­
+trischer Stationsmelder: Das elektromagnetisch be-
+thätigte Antriebsschaltrad für die Stationsnamentrommel ist
+nur auf einem Theile seines Umfanges mit Zähnen versehen,
+wobei die Zähnezahl gleich der Anzahl sämmtlicher vom
+Apparat anzuzeigender Stationen ist, zum Zweck, ein Weiter­
+schalten zu verhindern, wenn der Apparat den Namen der
+letzten Station anzeigt. Um nur immer einen der auf der
+Trommel in Reihen nebeneinander angeordneten Stationsnamen
+sichtbar zu machen, sind Klappen angeordnet, welche von
+durch Nutenscheiben bewegte Hebel entsprechend^betlhitigt
+werden.— Angemeldet am 8. April 1899.
+21 a. Siemens& Halske, Actiengesellschaft in Berlin.—
+Typendrucktelegraph: Um das Typenrad eines als Geber
+und Empfänger arbeitenden Typendruckers in der Druck­
+stellung aufzuhalten, sind Stifte vorgesehen, die beim Nieder­
+drücken der Drucktasten in den Weg eines mit der Typen­
+radwelle gekuppelten Armes gebracht werden. In einer anderen
+Ausführungsform halten die durch Niederdrücken der Druck­
+tasten vorgeschobenen Stifte die vorerwähnte Typenradwelle
+nicht direct auf, sondern die Stromschlussvorrichtung des
+Gebers, mit dem die Typenradwelle federnd gekuppelt ist.
+Hiedurch wird bewirkt, dass die Typenradwelle den Auslüse-
+magneten noch um einen Schritt weiter schaltet. Ferner ist
+noch eine besondere Einrichtung zur selbstthätigen elektrischen
+Ausschaltung der Stromschlussvorrichtung und Umschaltung
+des Apparates in die Empfängerstellung vorgesehen.— An­
+gemeldet am 7. Jänner 1899.
+21 d. La m m e Benjamin Garver, Elektrotechniker in Pittsburgh,
+V. St. v. A. -— Verfahren zur Aenderung und
+Regulirung der Ganggeschwindigkeit der
+Gleichstrommotoren und Gleichstrom-Wechsel-
+stro m-U mformer: An den Anker werden mittelst Schleif­
+ringen Drosselspulen oder Condensatoren angeschlossen; da­
+durch werden in dem Anker Ströme hervorgerufen, welche in
+Bezug auf die elektromotorische Kraft in der Phase verschoben
+sind und eine Rückwirkung auf das Magnetfeld üben. Bei
+Anschaltung von Drosselspulen wird das Feld geschwächt und
+daher bei unveränderlicher elektromotorischer Kraft auf der
+Gleichstromseite die Tourenzahl des Motors oder Umformers
+gesteigert; bei Anschaltung von Condensatoren wird dieselbe
+verringert. Werden die an den Anker eines Gleichstroin-
+Wechsolstrom-Umformers angeschalteten Drosselspulen un­
+verändert belassen, so wird durch ihre Wirkung die Touren­
+zahl des Umformers innerhalb gewisser Grenzen constant er­
+halten, wenn an der Wechselstromseite Motoren angeschaltet
+oder abgeschaltet werden. —• Angemeldot am 28. Februar 1899.
+36 b. T schernof f Dimitris, Elektriker in St. Petersburg.■
+Elektrischer Gaswärmer: Ein mit einer Anzahl Ein-|
+Paten tclasse.
+strömungsöffnungen und einer Abströmdüse versehenes Rohr
+ist von einem Mantelrohr umgehen. Durch die Einströmungs-
+Öffnungen des inneren Rohres sind elektrische Heizkörper
+durchgeführt und über die ganze Länge des inneren Rohres
+vertheilt, so dass das Gas, welches im Mantelrohre eintritt,
+sich beim Durchstreichen an den heissen Heizkörpern erwärmt.—
+Angemeldet am 20. Jänner 1899.
+Wien, am 1. Februar 1900.
+21 b. Liebert Julius August, Kaufmann in Wien.— Galva­
+nische Batterie fürtragbäre elektrische L am-
+p en, gekennzeichnet durch eine ausKaliumbichromat, Schwefel­
+säure, Salmiak, Mercurisulfat und Wasser zusammengesetzte
+Erregerflüssigkeit.— Angemeldet am 11. März 1899.
+„ L o b d e 11 Edwin Lyman in Chicago.— Elektrischer
+Stromsammler mit Platten, deren active Masse durch aus der
+Platte herausgebogene Lappen gehalten wird, dadurch gekenn­
+zeichnet, dass die Platte mit rechteckigen Oefi'nungen versehen
+ist, deren Ränder derart eingeschnitten sind, dass nur schmale
+Stege stehen bleiben, die bei dem Herausbiegen der Lappen in
+eine, zur Plattenoberfläche senkrechte Ebene, mit den Lappen
+in einer Ebene zu liegen kommen. Die Isolationsplatten zwischen
+den Elektroden bestehen aus durchlässigem Material und sind
+auf beiden Seiten derart mit sich kreuzenden Nuthen ver­
+sehen, dass sich kreuzende Rippen stehen bleiben. Behufs Ab­
+leitung des Stromes und festen Zusammenhaltens der Elek­
+troden werden letztere mit Lappen versehen, die in Oeffnungen
+einer stromleitenden Platte gesteckt und daselbst verlöthet
+werden.— Apgemeldet am 23. Mai 1899.
+„ Societe d’Etüde des Piles Electriques in Paris.
+— Galvanisches Element: Die negative mit Pergament­
+papier umhüllte Elektrode ist in einen Sack aus nichtleitendem
+Material eingeschlossen, während die positivo Elektrode aus
+einem hohlen Kupferkörper besteht, der mit warmer Luft ge­
+speist wird und dessen Wandungen für den Elektrolyten durch­
+lässig sind (Gewebe oder gelochte Metallbleche), damit sowohl
+die Luft, als auch der Elektrolyt auf das Anodenmetall zur
+Einwirkung gelangen können. Die Luft wird eingepumpt und
+tritt durch den Elektrolyten aus.— Angemeldet am 26. Mai 1899.
+„ Berliner Accumul atoren-Elektricitäts-Gesell-
+schaft, Firma m. h. II. Dr. Lehm a n n& M a n n in
+Berlin.— Verfahren zum Formiron von Sammler-
+platten, dadurch gekennzeichnet, dass die Oberflächen zu­
+nächst in dem Bade einer organischen Säure der Fettreihe in
+Bleisalz umgewandelt, dann ausgelaugt und schliesslich in
+einem Elektrolyten gewöhnlicher Art zu Bleisuperoxyd oxydirt
+werden.— Angemeldet am 3. Mai 1899.
+„ Blumenberg Henry jun., Chemiker, Wakefield.— Erre-
+gerflüssigkeit für galvanische Batterien:
+Bestehend aus einer Lösung von Aluminiumsulfat, einem Alkali
+oder Erdalkalibisulfat (Natriumbisulfat) und einem Alkali oder
+Erdalkalichlorat (Natriumchlorat). Das Aluminiumsulfat kann
+durch Kalium-, Natrium oder Ammoniumalaun ersetzt werden.
+— Angemeldet am 30. Mai 1899.
+„ Strecker, Dr. Hans, Chemiker in Köln.— Verfahren
+zur Herstellung von positiven Masseplatten
+für Accumulatoren: Durch Mengen von Bleiglätte und
+Bleicarbonat wird eine Masse gebildet, deren Ausdehnung bei
+der Behandlung mit Schwefelsäure der Ausdehnung der
+Mennige (Ph 3 0 4) bei derselben Reaction entspricht, worauf
+diese Masse, mit Alkalilösung schwach befeuchtet, in einen
+geeigneten Rahmen gebracht und in einer angesäuerten Salz­
+lösung formirt wird. Der mittlere Theil der Platte kann ent­
+fernt und die hiedurch entstehende Oeft'nung durch einen
+Rahmen versteift sein.— Angemeldet am 5. Juni 1899.
+21 d. Auer Anton, Schmiedmeister in Ebonsee.— Drehbare
+Kohlenbürste: Als Stromabnehmer dient eine um einen
+durchgehenden Bolzen drehbare Kohlenbürste, deren Quer­
+schnitt die Form eines Polygones hat, wobei eine Seitenfläche
+als Schleiffläche dient, während gegen zwei andere Seitenflächen
+Führungsfedern drücken.— Ängemeldet am 31. März 1899.
+21g. Matthias Josef, Telegraphensecretär in Stuttgart.—
+Thermobatterie: Die einen Elektroden sitzen auf den
+Vorsprüngen der anderen Elektroden auf, die an der der
+Wärmequelle zugewendeten Seite horaustreten. Zwei benach­
+barte Elemente werden durch eine Brücke aus gutleitendom
+Material verbunden. Zum Schutze der Elektrode wird die eine
+Elektrode mit einem Thonmantel umgeben, der soitlieho Löcher
+trägt.— Angemeldet am 12. April 1899.
+73. F e 11 e n& Guilleaume, Firma in Wien.— Drahtseil
+mit einer aus Faijondr ii h t e n gebildeten, glatten
+Unterlage für die Deckdrähte: Die Deckdrähte
+
+Seite 84.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 7.
+des Seiles oder der Litze ruhen auf einer glatten Unterlage
+aus segmentförmigen Fagondrähten.— Umwandlung des Pri­
+vilegiums 48/2430 mit der Priorität vom 1. Juni 1896.
+MusteiTCcht.
+Erlass des Handelsministeriums vom 7. August
+1899, Zahl 36946.
+Ein Verzicht auf das ausschliessliche Benützungsrecht an
+einem Muster ist während der ganzen Schutzdauer zulässig. Die
+durch einen solchen Verzicht erfolgende Erlöschung des Musters
+ist im Register ersichtlich zu machen und zu verlautbaren. Das
+erloschene Muster ist in das offene Archiv für Freimuster zu
+übertragen.
+Markenrecht.
+Beschluss des Verwaltungsgerichtshofes vom
+20. November 1899, Zahl 5905.
+Derjenige, auf dessen „Klage“ oder wie immer benannte
+Anzeige die Löschung einer Marke mangels ihrer Registrirungs-
+fähigkeit (§ 21, lit. d. M. Sch. G.l erfolgte, ist zu einer Beschwerde
+an den Verwaltungsgerichtshof gegen das Löschungserkenntnis
+des Handelsministerium nicht legitimirt.
+Die Registrirung eines gegen§ 3 oder§ 4 M. Sch. G.
+verstossenden Waarenzeichens muss von Amtswegen rück­
+gängig gemacht werden, begründet jedoch keinen Eingriff in
+subjective Rechte.
+Entscheidung des Handelsministeriums vom
+13. März 1899, Zahl 6071.
+Die individualisirende Kraft des Eigennamens (§ 10 M.
+Sch. Ges.), welche für den befugterweise gebrauchten Namen
+einer dritten Person wie für den Namen oder die Firma des
+Markenbesitzers gilt, wird durch die Verbindung mit Ausdrücken
+beschreibender Art in einem Wortzeichen nicht aufgehoben.
+Nur solche Worte, welche Ort, Zeit und Art der Her­
+stellung, die Beschaffenheit, die Bestimmung. Preis-, Mengen­
+oder Gewichtsverhältnisse einer Waare betreffende Angaben aus­
+schliesslich, insbesondere ohne jeden individuellen
+Charakter enthalten, mithin rein beschreibend sind, sind
+von der Begistrirung als Marken ausgeschlossen.
+Zu dem ein Waarenzeichen zum Freizeichen machenden
+allgemeinen Gebrauche gehören die Erfordernisse der Recht­
+mässigkeit und Gutgläubigkeit.
+Privilegienwesen.
+Entscheidung des Handelsministeriums vom
+27. September 1899, Z. 12926.
+Ein Privilegium auf eine aus dem Deutschen Reiche ein­
+geführte Erfindung, für welche bereits zur Zeit des Ansuchens
+um Erthoilung des Privilegiums ein Gebrauchsmusterschutz im
+Deutschen Reiche bestand, erlischt gemäss§ 9 lit. c Priv.-Ges.
+mit dem Tage des Aufhörens dieses Gebrauchsmusterschutzes.
+Die behauptete spätere Erwerbung eines neuerlichen Ge­
+brauchsmusterschutzes für denselben Gegenstand bleibt für die
+Frage der Erlöschung eines solchen Privilegiums ausser Betracht.
+Paten trecht.
+Entscheidung der Beschwerde- Abtheilung B
+vom 19. December 1899, Z. 10101.
+Die Bestimmung des§ 39 Pat.-Ges, dass gegen alle Be­
+schlüsse der Anmelde-Abtheilungen die Beschwerde an die Be­
+schwerde-Abtheilung stattfinde, erfahrt durch§ 63 Abs. 1 Pat.-Ges.
+keine Einschränkung.
+Eine Verlängerung der zweimonatlichen Frist (§ 58 Pat.-Ges.)
+zur Erhebung eines gegen die Ertheilung eines Patentes zu lich­
+tenden Einspruches erscheint beim Vorhandensein erheblicher
+Hindernisse gegen dessen sofortige Substantiirung nicht ausge­
+schlossen.
+Neues Vorbringen vor der Beschwerde-Abtheilung.
+an die Leitung I und den Punkt K angeschlossen. Der Punkt K
+wird dann mit der Leitung II durch eine regelbare Drosselspule L)
+verbunden, welche so abgeglichen werden kann, dass in der
+Nebenschlussspule a ein auf der Spannung zwischen den Leitungen I
+und III senkrecht stehender Strom, in der Nebenschlussspule b
+dagegen ein mit dieser Spannung in der Phase übereinstimmender
+Strom entsteht. (Fig. 1.)
+Fig. 1. Fig. 2. Fig. 3.
+Franz Trinks in Braunschweig.— Eine Vorrichtung zur wech­
+selnden Einschaltung zweier Stromkreise in zwei elektrische
+Leitungen nach Art der im Patent Nr. 79.034, Patentanspruch 5,
+geschützten Einrichtung.— Classc 21, Nr. 105.719 vom 25. De­
+cember 1897. (Zusatz zum Patente 79.034 vom 12. Juli 1893.)
+Die Schaltstücke a f i und e h k besitzen in Wirklichkeit
+eine gemeinsame Drehachse, sind aber der Uebersichtlielikeit
+halber hier nebeneinander gelegt und durch eine Kuppelstange
+verbunden In der gezeichneten Stellung kommen die Strom­
+schlüsse -f- A X- A und -(- B X— B zustande. Nach erfolgter
+Umschaltung würde der Stromlauf -f- A X—A und -j- B Y—B
+sich ergeben; es wird also abwechselnd X von A— A und 4- B— B
+und ebenso V von -|- B— B und -\- A— A durchflossen werden.
+Die Vorrichtung soll an Stelle des in Patent 79.034 beschriebenen
+Stromvertausches benutzt werden. (Fig. 2.)
+Allgemeine Elektricitäts-Gesellschaft in Berlin.— Solbstthütiger
+elektromagnetischer Ausschalter mit stromführendem Elektro­
+magnetanker.— Classe 21, Nr. 105.180 vom 11. September 1898.
+Dieser selbstthätige elektromagnetische Ausschalter gehört
+zu denjenigen, bei welchen der die Stromunterbrechung herbei­
+führende Anker zwischen den Polen eines Hufeisenmagneten B
+drehbar angeordnet ist. Hier dient der Anker C selbst als Leiter
+zwischen den beiden feststehenden Stromschlussstücken 6 <■,
+welche zur Funkenlöschung in dem magnetischen Felde des von
+dem zu unterbrechenden Strom erregten Sehaltmagneten A ange­
+ordnet sind; der Anker C wird durch eine Feder E derart beein­
+flusst, dass er schnell aus der Schlusslage herausbewegt wird.
+(Fig. 3.)
+Franz Emil Singer in Stenn bei Zwickau.— Verfahren zur
+Verhinderung der festen Niederschläge auf der Kohle bei
+galvanischen Elementen.— (Jlasse 21, Nr. 105.282 vom 18. Jän­
+ner 1899.
+Die Kohle wird mit einem dünnen Ueberzuge aus Gement
+versehen. Der Cementüberzug ist einestheils genügend porös, um
+den Stromdurchgang zu ermöglichen, anderentheils imstande,
+ein Ansetzen der Niederschläge auf der Kohle zu verhindern.
+Siemens& Halske, Actien-Gesellschaft in Berlin.— Gleich­
+zeitige Einstellung der Schalter mehrerer Motorwagen von
+einem Punkte aus.— Classe 20, Nr. 104.940 vom 27. Mai 1898.
+Bei elektrisch betriebenen Zügen soll die gleichzeitige und
+gleichmässige Einstellung der auf den einzelnen Motorwagen unter­
+gebrachten üblichen Schalter von einem Punkte aus dadurch
+geschehen, dass auf dem Motorwagen befindliche synchron laufende
+Hilfsmotoren mittelst Vorgelege und elektromagnetischer Kup­
+pelungen je nach der Stellung des im Führerstand nntergebrachten
+Steuerungshebels sämmtliche Schalter gleichzeitig und in gleichem
+Masse zu Ein- oder Ausschaltbewegungen veranlassen oder in den
+jeweilig erreichten Lagen stillsetzen.
+Auszüge aus Patentschriften.
+Carl Raab in Kaiserslautern.— Inductionsmessgeräth für Drei­
+phasenstrom.— Classe 21, Nr. 105.087 vom 13. November 1897.
+(Zusatz zum Patente 100.748 vom 20. Mai 1897.)
+Die mit den Hauptstromspulen zusammenwirkende Neben­
+spule a wird an die Leitung 111 und an einen Punkt K, die mit
+der Ilauptstromspule II zusammenwirkende Nebenschlussspule b
+Geschäftliche und finanzielle Nachrichten.
+Elektrische Kleinbahn im Mansfelder Bergrevier, Actien-
+gesellscliaft in Berlin. Wie der Geschäftsbericht für das zweite
+Betriebsjahr betont, hat sich die Erwartung der Verwaltung, dass
+die Bahn im Laufe des Jahres 1899 dem Verkehre werde über­
+geben werden können, nicht erfüllt. Es wird jedoch nunmehr
+damit gerechnet, die Bahn noch im Frühjahr des Jahres 1900
+dem Verkehr zu übergeben. Am Schlüsse des Berichtsjahres
+
+Nr. 7.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 85.
+waren der Unter- und Oberbau der gesammten Bahnlinie bis auf
+Einlegung einer Kreuzung mit den Geleisen der Gewerkschafts­
+bahn und einige kleine Regulirungsarbeiten vollendet; die Hoch­
+bauten für die Kraftstation sind fertig-gestellt und bezogen. Die
+maschinellen Anlagen der Kraftstation sind gleichfalls fertig­
+gestellt und die Maschinen bereits probeweise in Gang gesetzt
+worden. Sämmtliche Betriebsmittel sind angeliefert und die Motor­
+wagen vollständig montirt; lediglich die elektrische Strecken-Aus­
+rüstung ist noch nicht vollständig beendet. Die Anmeldungen aus
+Interessentenkreisen auf Abnahme elektrischer Energie zur Licht­
+end Krafterzeugung waren so erheblich, dass eine Erweiterung
+der Kraftstationsanlage notluvendig wurde, welche letztere es nun­
+mehr ermöglicht, ausser dem zum Bahnbetriebe erforderlichen
+Strom die doppelte Menge elektrischer Energie an Dritte abzu­
+geben, als ursprünglich vorgesehen war. Ueber die Beschaffung
+der zu dieser Vergrösserung, sowie zur Ausführung der Haus-
+anschlussleitungen erforderlichen Geldmittel ist unter dem
+17. August 1899 mit der Commandit-Gesellschaft Kramer& Co.,
+welche den Betrieb der Bahn führen wird, ein Uebereinkommen
+getroffen, nach welchem die Firma K r a m e r& C o. die Erweite­
+rungsarbeiten gegen eine feste Entschädigung von 81.000 Mk. über­
+nimmt, während bezüglich Aufbringung der Kosten für die Haus­
+anschlussleitungen, abgesehen von einigen Aenderungen, die Be­
+stimmungen des Betriebs-Vertrages Platz greifen. In demselben
+Abkommen hat sich die Firma Kramer& C o. auch damit ein­
+verstanden erklärt, dass die von ihr zu stellende Betriebscaution
+bis zur Höhe von 150.000 Mk. zur Bestreitung der nothwendig
+gewordenen Vergrösserung des Anlagecapitals gegen Vergütung
+von 4^ Zinsen pro anno verwendet wird. Die Verhandlungen
+mit der Stadt E i s 1 e b e n über die Benutzung der städtischen
+Strassen und Plätze behufs Abgabe elektrischer Kraft an Dritte,
+die Verhandlungen mit der Mansfeld’schen Kupferschiefer
+bauenden Gewerkschaft über Abgabe von Elektricität zu
+Licht- und Kraftzwecken, sowie die Verhandlungen mit der könig­
+lichen Staatsbahnverwaltung über die elektrische Beleuchtung der
+Staatsbahnhöfe Mansfeld und Hettstedt sind noch nicht
+zum endgiltigen Abschluss gelangt. Ueber die Arbeiter-Trans­
+porto ist eine Vereinbarung mit der vorgedachten Gewerkschaft
+nicht zustande gekommen. Eine Vereinbarung über die gewerk­
+schaftlichen Transporte nach der S a i g e r h ü 11 e ist bis jetzt
+noch nicht erzielt, worden, und eine Verlängerung der Bahn in
+der Richtung nach Sanderslehen daher vorläufig noch nicht
+in Aussicht zu nehmen. Auf Grund eines mit der Al 1 ge m einen
+Deutschen Kleinbahn-Gesellschaft, Actien- Ge­
+sellschaft unter dem 25. Jänner 1899 geschlossenen Ab­
+kommens wurden die fehlenden 75°/ auf das Actiencapital im
+Februar 1899 eingefordert. Die Allgemeine Deutsche Kleinbalm-
+Gesellschaft hat nach diesem Abkommen auf nominell 4,500.000 Mk.
+Actiencapital pro 1899 4$ Bauzinsen und für die nächstfolgenden
+drei Jahre 1900 bis 1902 4p2$ P- a. Dividende garantirt und ist
+verpflichtet, den Fehlbetrag an der Dividende sofort nach Fest­
+stellung- derselben durch die Generalversammlung an die Gesell-
+schaftscasse abzuführen. Hiedurch ist das Actien-Einzahlungs-
+Conto ausgeglichen. Der aus der Bilanz ersichtliche Gewinn
+von 79.162 Mk. ergibt sich aus den Conto-Correntzinsen, welche
+die eingeforderten Actien-Einzahlungsgelder erbrachten, nach Ab­
+zug der im verflossenen Jahre der Gesellschaft erwachsenen Ver­
+waltungskosten von 4363 Mk. Von diesem Gewinn sind 3958 Mk.
+in den gesetzlichen Reservefonds zu legen, während die anderen
+Fonds erst mit Betriebseröffnung der vollen Bahn dotirt werden.
+Es verbleiben hiernach zur Zahlung von Bauzinsen 75.204 Mk.
+Zur Abgewährung von 4$ Bauzinsen auf das Actiencapital von
+4,500.000 Mk. sind aber 180.000 Mk. erforderlich; es hat also zu­
+folge obenerwähnten Abkommens die Allgemeine Deutsche Klein­
+bahn-Gesellschaft zur Erfüllung dieser Summo den Betrag von
+104.795 Mk. der Gesellschaft zur Verfügung zu stellen, so dass
+sie in der Lage ist, den Dividendenschein pro 1899 mit
+4$ zur Einlösung zu bringen.
+Dresden- Glaucliauer Elektricitäts- Gesellschaft Emil
+Klemm, Schubert& Hagedorn. Unter dieser Firma haben sich
+die elektrotechnischen Fabriken Emil Klemm in Dresden und
+Schubert& Hagedorn in Glauchau vereinigt und haben
+ihren Hauptsitz in Dresden begründet Der bisherige Mitinhaber
+der Firma Emil Klemm, Herr Paul Wachsmut h, tritt der
+neuen Gesellschaft als Commanditist bei. Neben der Herstellung
+elektrischer Beleuchtungs- und Kraftübertragungs-Anlagen ist
+Specialität der Bau elektrischer Transport- und Grubenbahnen.
+Elektrische Gasfernzünder G. m. b. H. in Hamburg und
+Berlin. Unter dieser Firma ist eine G. m. b. H. mit einem Stamm-
+capital von UO.'OoMk. begründet worden. Die Actien-Gesellschaft
+Schaffer& Wa 1 cker inferirte ihre bisherige Gasfernziinder-
+Abtheilung mit Waaren und Maschinen für 50.000 Mk. und Patente
+von 30,000 Mk. Buchwerth, zusammen also 80.000 Mk. Buchwerth
+und empfing dafür 40.00!iMk. Antheilo dos neuen Unternehmens
+Ferner wurde von Herrn Ernest Schmidt sein neues, zum
+Patent angemoldetes System von elektrischen Gasfernzündern
+gegen 20.000 Mk. baar und 30.000 Mk. Geschäftsantheilen ein­
+gebracht.
+Compagnie Parisienne pour l’Industrie des Chemins de
+fer et des Tramways Electri<(ues. Dem „Herl. Börs. C.“ wird
+aus Paris vom 25. d. M. geschrieben: Gestern erfolgte die Grün­
+dung der Compagnie Parisienne pour l’I n d u s t r i e
+desCh-emins de fer et desTramwaysElectriques
+mit einem Capital von 25 Millionen Francs, eingetheilt in hundert­
+tausend Actien ä 250 Fr cs. Es handelt sich um einen neuen Trust
+für elektrische Unternehmungen. Zu den hauptsächlichsten Gründern
+gehören die Banque de Paris et des Pays Bas, die
+Banque Internationale de Paris, die Compagni e
+Russe francaise de Tramways, die Ateliers du
+Nord de la France, die Bankhäuser A. J. Stern und
+Com p., Benard& J ari slowsky, hier, E. J. E in p a i n
+in Brüssel etc, mithin die gleiche Gruppe, welche bereits die
+Metropolitanbahn für Paris unternommen hat. Dem neuen Trust
+dürften in erster Linie verschiedene neulich vergebene Pariser
+Linien zufallen..
+Metall-Marktbericht von Brandeis, Goldschmidt& Co.,
+London, 2. Februar. Kupfer: Begann ruhig ä 70 Lstr. 10 sh.
+Casse, hat sich aber im Laufe der Woche infolge guter Consuin-
+frage, während gleichzeitig Amerika mit Verkäufen zurückhielt,
+erheblich befestigt. Standard-Kupfer für prompte Lieferung fängt
+wieder an, sehr knapp zu worden, und die Rückprämie hat sich ver-
+grössert. Heute wurde bis 72 Lstr. 2 sh. 6 d. Casse und 70 Lstr.
+17 sh. 6 d. jjer drei Monate bezahlt. Wir notiren: Standard per
+Casse 72 Lstr. 2 sh. 6 d. bis 72 Lstr. 7 sh. 6 d., Standard por
+drei Monate 70 Lstr. 15 sh. bis 71 Lstr., English Tough je nach
+Marke 75 Lstr. 15 sh. bis 76 Lstr. 5 sh., English Best Selectod
+je nach Marke 76 Lstr. 15 sh. bis 77 Lstr. 10 d., Amerikanische
+und englische Kathoden 73 Lstr. 10 sh. bis 74 Lstr., amerikanische
+und englische Electro in Cakes, Ingots und Wirobars je nach
+Marke 74 Lstr. bis 74 Lstr. 10 sh.— Kupfers ul tat: Zu
+24 Lstr. bis 24 Lstr. 5 sh. fanden ganz erhebliche Deckungs-
+käufe statt. Bei dem steigenden Kupfermarkte ist eine Wieder-
+erhöhung des Conventionspreises zu gewärtigen.— Zinn: Der
+Markt war sehr aufgeregt und stieg bis 130 Lstr. Casse, während
+gleichzeitig für drei Monate nur 124 Lstr. 15 sh. erzielt wurde.
+Gestern verflaute sich der Artikel bis 125 Lstr. 10 sh. Casse und
+123 Lstr. per drei Monate, hat aber heute wieder scharf nach
+oben reagirt und schliesst 128 Lstr. Casse und 125 Lstr. 10 sh.
+per drei Monate. Die Bancaauction verlief zur Durchschnittsparität
+von 127 Lstr. 10 sh. Wir schliessen: Straits per Casse 128 Lstr.
+bis 128 Lstr. 5 sh., Straits per drei Monate 125 Lstr. 10 sh. bis
+125 Lstr. 15 sh., Australzinn je nach Marke 128 Lstr. bis 128 Lstr.
+5 sh., English Latnb& Flag 131 Lstr. bis 132 Lstr. Banca in
+Holland 76- 25 fl., Billiton in Holland 76'00 fl.— Zink: stetig,
+22 Lstr. 10 sh. bis 22 Lstr. 12 sh. 6 d.— Blei: hat sich weiter
+gehoben und notirt 16 Lstr. 10 sh. bis 16 Lstr. 12 sh. 6 d.—
+Quecksilber: unverändert, 9 Lstr. 12 sh. 6 d. in erster,
+9 Lstr. 11 sh. 6 d. in zweiter Hand.
+Statistik vom 1. bis 31. Jänner 1900.
+Einfuhren: Blei Quecksilber
+Aus Spanien 59.799 19
+„ Australien 94.655—
+„ anderen Ländern .... 48.321 300
+202.785 Mulden 319 Flaschen.
+Vereinsnachrichten.
+Chronik dos Vereines.
+10. Jänner 1900.— Vereinsversammlnng.
+Der'Vorsitzende, Prof. Carl Sch lenk, ex’öffnet die
+Versammlung und ertheilt zunächst dem Ingenieur
+F. Fischer das Wort.
+Dieser theilt mit, dass der Niederösterreichische
+Gewerbe-Verein eine Ausstellung von Kleinmotoren
+veranstaltet, wo hauptsächlich verschiedene neue Con-
+structionen von elektrischen Motoren zu sehen sind.
+Die Vereinsmitglieder werden von ihm im Namen des
+Gewerbe-Vereines zur Besichtigung dieser Ausstellung,
+die im Niederösterreichischen Gewerbe-Verein abge­
+halten wird, eingeladen.
+
+Seite 86.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 7.
+Nach dieser Mittheilung ertheilt der Vorsitzende
+dem Herrn Dr. Stefan Meyer das Wort zu dem an­
+gekündigten Vortrage „Ueber magnetische Eigen­
+schaften der Elemente.“
+Der Vortragende bemerkt in der Einleitung, dass
+sich ein Körper, den man in ein magnetisches Feld
+bringt, entweder dahin zu begeben trachtet, wo sich
+die Kraftlinien verdichten— er wird sich in die Rich­
+tung der Kraftlinien einstellen— oder er wird vom
+Magnetfelde abgestossen und sich senkrecht zu dem­
+selben einstellen. Ersteres Bestreben wird ein Eisen­
+stäbchen zeigen— es ist paramagnetisch —,
+ein typisches Beispiel für den zweiten Fall bildet
+W i s m u t, welches diamagnetisch ist.
+Zwischen dem Zuge oder dem Drucke p, der vom
+magnetischen Felde auf den Körper ausgeübt wird und
+der Intensität M des Magnetfeldes besteht bekanntlich
+die einfache Relation
+P= Q &P
+für alle Körper, die schwach magnetisch sind.
+Dabei ist Q eine von Quincke eingeführte Con-
+stante. In letzterer Zeit benützt man aber diese Formel
+weniger, sondern führt, um auf das absolute Masssystem
+zu kommen, die Magnetisirungszahl
+ein, wobei g die Acceleration der Schwere ist.
+Diese Magnetisirungszahl ist die cha­
+rakteristische Grösse für die Eigenschaft
+der Elemente. Ihre Bestimmung ist sehr einfach,
+wenn man die Feldstärke kennt; man bestimmt ledig­
+lich den Zug oder Druck, den ein Körper im Magnet­
+felde erfährt.
+Der Vortragende bemerkt, dass sich die nach­
+folgenden Ausführungen auf Lösungen von Flüssigkeiten,
+auf Pulver und feste Stückchen von Körpern beziehen,
+und bespricht hierauf zunächst das von Quincke
+angegebene Verfahren zur Bestimmung der Magneti­
+sirungszahl für Flüssigkeiten: Der eine Schenkel eines
+U-förmig gebogenen, mit der Flüssigkeit gefüllten Glas­
+rohres wird in das homogene magnetische Feld ge­
+bracht; ist die Flüssigkeit paramagnetisch, so
+wird sie in die Höhe gezogen, und zwar solange, bis
+der Druck der Flüssigkeit dem magnetischen Zuge
+das Gleichgewicht hält. Dia magnetische Flüssig­
+keiten werden dabei abgestossen.
+Diese Methode hat aber den Nachtheil, dass die
+Flüssigkeitssäule bei starkem Magnetfelde nicht in
+seinem homogenen Theile erhalten werden kann,
+ausserdem müsste das Glasrohr ideal cylindrisch sein,
+sonst spielt die Capillaritätsconstante eine bedeutende
+Rolle.
+Der Vortragende hat gemeinschaftlich mit Prof.
+Jäger eine Methode erdacht, die diesem Uebelstande
+abhilft. Bei dieser Methode wird nicht die Steighöhe
+der Flüssigkeit direct abgelesen, sondern es wird der
+Ueberdruck gemessen, welcher erforderlich ist, den
+Flüssigkeits-Meniscus nach Erregung des Magnetfeldes
+wieder in seine ursprüngliche Stellung zu bringen.
+Dieser Druck wird an der Volumänderung gemessen,
+die man einem weiten Gefässe f (vergl. Fig. 1), in
+welches der dem Magneten abgewandte Schenkel des
+U-förmigen Rohres r auslauft, ertheilen muss; diese
+Volumänderung erfolgt durch Aenderung des Queck­
+silberstandes in einer mit dem weiten Gefässe ver­
+bundenen Capillarröhre r 1; an welche ein Schlauch s
+mit einem zur Aufnahme des Quecksilbers bestimmten
+Gefässe u angeschlossen ist. Die genaue Einstellung
+des Flüssigkeits-Meniscus auf den ursprünglichen Stand
+erfolgt mit Benützung des Mikroskops. Zur Vermeidung
+von Temperaturdifferenzen ist das Gefäss f mit Eis
+umgeben. Den magnetischen Druck oder Zug p erhält
+man sodann aus der Formel
+in welcher P den äusseren Luftdruck, V das grosse
+Luftvolumen im Gefässe f und v die Volumenänderung
+in der Capillarröhre r l bedeutet.
+Durch entsprechende Wahl der Capillarröhre und
+des grossen Luftgefässes lässt sich die Genauigkeit
+der Methode in weiten Grenzen variiren; es muss aber
+vermieden werden, die Messung bei plötzlichen Luft­
+druckänderungen, bei windigem Wetter vorzunehmen;
+ausserdem darf man nicht allzu geringe Mengen der
+zu untersuchenden Flüssigkeit besitzen.
+Eine andere Methode der Bestimmung der Mag­
+netisirungszahl für Flüssigkeiten besteht in der
+Messung aus D u r c h f 1 u s s z e i t e n: Das in einem
+cylindrischen Glasgefässe eingeschlossene, im magneti­
+schen Felde befindliche Flüssigkeitsvolumen lässt man
+ausserhalb des Magnetfeldes aus einer Capillare aus-
+laufen. Dazu wird, wenn nur der hydrostatische Druck
+allein wirkt, der Magnet also nicht erregt wird, eine
+gewisse Zeit nötkig sein; diese Zeit wird grösser, wenn
+die Flüssigkeit paramagnetisch ist, im anderen Falle,
+also bei diamagnetiscken Flüssigkeiten, wird sie
+kleiner werden. Die Höhe, um welche die Flüssigkeit
+in dein Gefässe fällt, ist proportional der Durehfluss-
+zeit und dem hydrostatischen Drucke, bezw. der Diffe­
+renz aus diesem und dem durch das Magnetfeld er­
+zeugten Drucke. Aus diesen Beziehungen lassen sich
+einfache Gleichungen aufstellen und aus denselben die
+Magnetisirungszahl ermitteln.
+Die einfachste Methode, die auch zur Bestimmung
+der Magnetisirungszahlen von Pulvern und festen
+Körperstückchen verwendet werden kann, beruht
+auf der Messung mittelst einer vollständig eisen­
+freien Wage: An Stelle der einen Wagschale wird
+ein sehr dünnwandiges Glasrohr, dessen unteres Ende
+
+Nr. 7.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 87.
+geschlossen ist, mit dem zu untersuchenden Element
+angebracht. Dieses Glasrohr -wird in das homogene
+magnetische Feld eingestellt. Den magnetischen Zug
+kann man dann direct durch das Gewicht auf der
+zweiten Wagschale bestimmen; theoretisch richtig wäre
+diese Methode allerdings nur dann, wenn das Glasrohr
+unendlich lang wäre; sie liefert aber praktisch völlig
+genaue Resultate, weil nur die Differenz der Quadrate
+der Feldstärken an den beiden Rohrenden in Be­
+tracht kommt.
+Der bei den Messungen verwendete Magnet ist
+ein grosser Ringmagnet von der Firma Schuck ert
+mit einem Durchmesser von über 1 m und einem Kern­
+durchmesser von circa 20 cm. Die Stromstärke betrug
+30 A. Bei einer Poldistanz von 2 cm hatte die Feld­
+stärke so ziemlich das Maximum von 20.000 C. G. S.
+Einheiten erreicht.
+Hat man nur geringe Mengen der zu unter­
+suchenden Substanz, so müssen relative Messungen,
+z. B. bezogen auf Quecksilber, vorgenommen werden.
+Der Vortragende führt aus, dass er mit Professor
+J ä g e r eine grosse Reihe von Messungen ausgeführt
+und überraschende Resultate gefunden habe.
+Im allgemeinen wurde festgestellt, dass die
+Magnetisirungszahl x eine Function der Temperatur
+und der Natur des betreffenden Elementes und der
+Feldstärke ist.
+Bei den stark magnetischen Körpern
+Ai Cr Fe" Co Fe"' und Mn verhält sich x nahezu wie
+2: 2V„: 3: 4: 5: 6.
+In Lösungen ist also pro Molecül der Substanz
+das Mangan im Verhältnis von 6: 5 stärker magnetisch
+als das Eisen.
+Später hat der Vortragende den grössten Theil
+der zugänglichen Elemente in grüsstmöglicher Reinheit,
+und dann auch Verbindungen derselben, und zwar in
+erster Linie solche aus blos zwei Componenten (Halogen­
+verbindungen und Oxyde), untersucht.
+Er führt eine Tabelle vor, in welcher die Magneti-
+sirungszahlen der Oxyd e, auf ein Atom des Metalles
+reducirt, eingetragen und mit dem Atommagnetismus
+der Elemente zusammengestellt sind. Unter Atom­
+magnetismus ist dabei die Magnetisirungszahl, bezogen
+auf ein Grammatom verstanden. Die Tabelle zeigt,
+dass die Magnetisirungszahl durch Oxydation allgemein
+herabgedriickt wird, obwohl Sauerstoff paramagnetisch ist.
+Ein ganz merkwürdiges Verhalten zeigen die
+Halogenverbindungen: es verhält sich z. B.
+der Molecularmagnetismus (d. i. die Magnetisirungszahl,
+bezogen auf ein Gramm-Moleciil pro Liter Flüssigkeit)
+der Fluoride, Chloride, Bromide und Jodide
+angenähert wie 2: 3: 4: 5. Eine gewisse Gesetzmässig­
+keit befolgen gleiche Halogenverbindungen verschiedener
+Metalle; so steigt die Magnetirungszahl bei
+Li CI Fa CI K CI Rb CI und Cs CI
+annähernd, wie 2: 3: 4: 5: 6
+oder genau, wie 0"017: 0'024: 0035: 0- 037: 0'047
+Deutliche Beziehungen untereinander zeigen ge­
+wisse Oxyde. Bezeichnet man mit M das Metall, so
+wird der Molecularmagnetismus umsomehr herab­
+gedrückt, je mehr Sauerstoff vorhanden ist. In der Reihe
+M O, V 8 Hz 0 4, Vä M -i °v M °2
+nimmt der Molecularmagnetismus von links nach
+rechts ab.
+Der Begriff des Atommagnetismus setzt eigentlich
+voraus, dass man den Magnetismus zweier Elemente in
+deren Verbindung addirt wiederfindet. Das ist nur
+theilweise der Fall. Es zeigt sich, dass der Molecular­
+magnetismus der paramagnetischen Verbindungen
+kleiner ist als die Summe der Atommagnetismen der
+Bestandtheile; das ist z. B. der Fall bei den Oxyden
+von Mn, Fe, Co und Ni. Bei den diamagnetischen
+Substanzen wird die Additivität recht gut erfüllt, wenn
+die Summe der Atomvolumina grösser ist als das that-
+sächliche Volumen der Verbindung; dort hingegen, wo
+eine bedeutende Vergrösserung des Volumens der Ver­
+bindung eintritt, ist der Molecularmagnetismus kleiner
+als die Summe der Atommagnetismen. Das ist z. B.
+der Fall bei
+Ag J mit— 0'056 Molecular- und— (K>68 1 g ummo ,j er
+Hg J2„ —0110„„ —01 16) Afom-
+Pb J 3„ —0405„„ —0-118 |magnotismcn
+Das Vorgesetzte —Zeichen zeigtDiamagnetismus an.
+Aus den qualitativen, vom Vortragenden durch­
+geführten Untersuchungen ergaben sich folgende Re­
+sultate: Ein diamagnetisches Element verbunden
+mit einem diamagnetischen Elemente gibt immer
+eine dia magnetische Verbindung; eine viel­
+leicht nur scheinbare Ausnahme davon bilden einzelne
+Kupferverbindungen; das dürfte wohl davon herrühren,
+weil Kupfer niemals frei ist von starkmagnetischen Me­
+tallen, wie z. B. Nickel.
+Die Verbindung zweier paramagnetischer
+Elemente ist in der Regel ebenfalls paramagnetisch.
+Sind jedoch solche Elemente schwach magnetisch, dann
+können sie eine dia magnetische Verbindung er­
+geben; schwach magnetische Metalle werden, mit Sauer­
+stoff verbunden, diamagnetische Oxyde.
+Aeusserst interessante Resultate ergaben die
+seltenen Erden; dieselben sind stark paramagnetisch.
+Es zeigt sich z. B., dass sie in .der gleichen Verbindung,
+wie die Gruppe Cobalt, Nickel und Eisen, nicht nur
+ebenso stark magnetisch sind, wie die Eisengruppe,
+sondern dass das Erbium in Er 2 0 3 viermal so stark
+magnetisch ist als Fe 2 0 3. Wäre also Erbium in reinem
+Metall ebenso stark magnetisch als Eisen, so könnte
+man aus Erbium mit Rücksicht auf dessen specifisches
+Gewicht Dynamomaschinen bauen, deren Gewicht sechs­
+mal kleiner wäre als das solcher Maschinen aus Eisen.
+Der Vortragende bespricht auch das Verhalten
+des Kr y stallwassers in einzelnen Verbindungen.
+Es zeigt sich, dass dasselbe im allgemeinen nicht so
+viel vom Diamagnetismus herunterdruckt als dem
+Wasserwerthe entsprechen würde. Wenn k den Molecular­
+magnetismus des wasserhältigen, k‘ den des wasserfreien
+A
+Salzes bedeutet, so ist die Differenz- zwischen dem
+7 n
+thatsächlich gefundenen Wertlie k und dem berechneten
+k‘ nahezu gleich 0'005 für ein Molecül Wasser.
+Zum Schlüsse zeigt der Vortragende an einer
+graphischen Darstellung den Zusammenhang zwischen
+dem Atom volumen und dem Atommagnetismus.
+Die diesen Zusammenhang darstellende Curve (vergl.
+Eig. 2), welche man erhält, wenn man die Atom­
+gewichte als Abscissen und die Atomvolumina als Or-
+dinaten aufsteigend aufträgt, nimmt einen periodischen
+Verlauf.
+Das -)- und— Zeichen geben den Para-, bezw.
+den Diamagnetismus an.
+
+Seite 88.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 7.
+Fig.
+Die Maxima beider magnetischer Qualitäten
+scheinen gegenüber den Extremen der Atomvolumen-
+curve etwas nach links verschoben zu sein. Die Curve
+zeigt, dass die stark magnetischen Elemente stets nur
+in den Minimis und den diesen vorhergehenden Theilen
+der Curve zu finden sind. Eine Ausnahme davon bildet
+nur der Sauerstoff. Die diamagnetischen Elemente be­
+finden sich in den aufsteigenden Theilen der Curve;
+die secundären Minima der Curve sind entweder
+schwach paramagnetisch oder schwach diamagnetisch.
+In der Gruppe der seltenen Erden fällt die stark mag­
+netische Eigenschaft des Erbiums und Ytterbiums auf.
+Die ganz seltenen Elemente Radium und Polonium
+erweisen sich in Doppelverbindungen paramagnetisch.
+Bezüglich der Gesammtgruppe der paramagnetischen
+Elemente scheint es als wäre die 1., 3, 5. und 7. Ab­
+theilung stärker magnetisch als die 2., 4. und (I. Ab­
+theilung.
+Mit sinkender Temperatur, also bei Verkleinerung
+des Atomvolumens, nimmt der Magnetismus zu, während
+in Verbindungen, wo das Volumen zunimmt, die Sus-
+ceptibilität fällt.
+Herr Dr. M e y e r schliesst mit dem Bemerken,
+dass es durch weitere Fortschritte auf dem einge­
+schlagenen Wege wohl möglich sein wird, jenen Gipfel
+zu erreichen, von wo aus sich der Einblick in den
+inneren Aufbau der Elemente erhellen wird.
+Die zahlreiche Versammlung dankt dem Vor­
+tragenden durch lebhaften Beifall.
+In der Discussion fragt Dr. Breslauer, ob ein
+Einfluss der Dissociation der Lösungen vorhanden ist;
+der Vortragende erwidert, dass sich ein solcher Ein­
+fluss nicht zeigen lasse.
+Die Frage des Ing. Eichberg, ob bei den
+seltenen stark magnetischen Erden Ilysteresiserschei-
+nungen bemerkbar seien, beantwortet der Vortragende
+dahin, dass sich bei diesen Verbindungen keine Ab­
+hängigkeit von der Feldstärke (also auch keine Hysteresis)
+nachweisen lasse.
+Nachdem sich hierauf niemand mehr zum Worte
+meldet, schliesst der Vorsitzende, dem Herrn Doctor
+Meyer für dessen hochinteressanten Vortrag den
+Dank aussprechend, die Versammlung.
+Mittwoch, 24. Jänner.— Excursion zur
+Besichtigung der Kleinmotoren-Ausstellung im
+Nieder österreichischen Gewerb e-V e r e i n e.
+Die Mitglieder des Elektrotechnischen Vereines wurden
+von dem Vicepräsidenten des Gewerbe-Vereines. Herrn
+Fabrikanten Bujatti begrüsst. Herr Hofrath Volk-
+m er dankte im Namen des Vereines für die Einladung.
+Hierauf gab Herr Ingenieur Fischer, welcher das
+Arrangement der ganzen Ausstellung übernommen hatte,
+einen Ueberblick über dieselbe und übernahm gemeinsam
+mit den Ingenieuren der ausstellenden Firmen die
+Führung. Sämmtliche Motoren und Apparate waren in
+Betrieb. Ein Bericht über die sehr geschmackvoll aus­
+gestattete und instructive Ausstellung erschien im
+Hefte 5 unserer Zeitschrift.
+Das Präsidium hat Uber mehrfache Anregung zur
+Pflege der Geselligkeit ein Vergnügungscomitö
+eingesetzt.
+Dieses Comitb, mit Herrn Ernst Jordan als Ob­
+mann, beschloss,
+am 7. März d. J. im Hotel Savoy (Englischer Hof),
+Wien, VI. Mariahilferstrasse 81, im grossen Saale,
+einen Oeseiligkeitsalbend mit heiterem Programme
+und Tanz
+zu veranstalten, bei dem auch eingeführte Gäste herz­
+lich willkommen sind.
+Herrenkarten zu zwei Kronen werden den in Wien
+domicilirenden Herren Mitgliedern zur eventuellen Be­
+nützung zugesendet. Der Eintritt für Damen ist frei.
+Karten sind überdies sowohl in der Vereinskanzlei, I.,
+Nibelungengasse 7. ab 20. Februar d. J., 4 Uhr nach­
+mittags, als auch am Geselligkeitsabend beim Eintritte
+erhältlich.
+Die nächste Vereinsversammlung findet Mittwoch,
+den 14. Februar 1. J., im Vortragssaale des Wissenschaft­
+lichen Club, I., Eschenbachgasse 9, 1. Stock, 7 Uhr
+abends statt.
+Discussionsabend.
+Die Vereinsleitung
+Schluss der Bedaction: G. Februar 1900.
+Verantwortlicher Redacteur: Dr. J. Sahulka.— Selbstverlag des Elektrotechnischen Vereines.
+Coinmissionsverlag bei Spielhagen&Schurich, Wien.— Alleinige Inseraten-Aufnahme bei Haasenstein& Vogler (Otto Maass), Wien and Prag.
+Druck von R. Spies& Co., Wien.
+

@@ -1,0 +1,1572 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 40. WIEN, BO. September 1900. XVIII. Jahrgang.
+Bemerkungen der Redaction: Ein Nachdruck aus dem redaciionellen Theile der Zeitschrift ist nur unter der Quellenangabe
+„Z. f. E. Wien“ und bei Originalartikeln überdies nur mit Genehmigung der Redaction gestattet._
+Die Einsendung von Originalarbeiten ist erwünscht und werden dieselben nach dem in der Redactionsordming festgesetzten larife
+honorirt. Die Anzahl der vom Autor event. gewünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Manuscripte bekanntgegeben werden.^
+INHALT:
+Rundschau 477
+Uubev Hoehspannungs-Accumulatoren. Von M. U. Sclioop 478
+Die Anwendung des Mikrophons in der Deutschen Reichspost-
+verwaltung. Von J. Bau mann 479
+Die Elektrotechnik auf der Pariser Weltausstellung 1900.
+Ausstellung der Vereinigten Telephon- und Telegraphen­
+fabrik C z e i j a, N i s s 1& C 481
+Stand der Fahrbetriebsinittel der österreichischen elektrischen
+Eisenbahnen am 31. Decemher 1899
+Kleine Mittheilungen.
+Verschiedenes
+Ausgeführte und projectirte Anlagen
+Patentnachrichten
+Geschäftliche und finanzielle Nachrichten
+483
+484
+484
+484
+486
+Rundschau.
+In der Zeitschrift „L’Ind. Elec.“ beschreibt
+Zwiefei einen Booster für Dreiphasenstrom, um die
+Spannung in der Empfangsstation zu verändern, wenn
+der Generator constante Spannung erzeugt, oder um
+die Spannung in der Empfangsstation constant zu er­
+halten, wenn die am Generator eine veränderliche ist;
+er kann auch in Verbindung mit synchronen Convertern
+verwendet werden, die zum Laden von Accumulatoren
+dienen, um die Spannung in der Empfangsstation in
+dem Maasse, als der Ladevorgang vorschreitet und die
+Spannung der zu ladenden Batterie steigt, zu erhöhen.
+Der Apparat gleicht einem Dreiphasentransformator mit
+veränderlicher gegenseitiger Induction. Seiner Construe-
+tion nach ist er ähnlich einem Inductionsmotor mit dem
+Unterschiede, dass der „Rotor“ sich nicht dreht, sondern
+blos verstellt werden kann, wodurch die relative Lage
+der primären und secundären Spulen geändert wird,
+entsprechend dem angestrebten Zwecke.
+Die Spulen des feststehenden Theiles dieses
+Boosters sind in Serie mit den drei Phasen, während
+die des beweglichen Theiles hiezu parallel geschaltet
+sind. Liefert der Generator constante Spannung E und
+ist die in jeder der Spulen des feststehenden Theiles
+inducirte E. M. K. c, dann hat der vom Booster gelieferte
+Strom eine Spannung, die gleich ist der vectoriellen
+Summe von E und e ]/3. Der Werth dieser letzt­
+genannten Summe variirt aber mit der Phasendifferenz
+zwischen E und e, die von der gegenseitigen Stellung
+des fixen und beweglichen Theiles des Boosters abhängt.
+In dieser Form hat der Apparat zwei Nachtheile;
+erstens muss infolge des Umstandes, dass der Rotor
+das Bestreben hat, sich zu drehen, eine Bremse ange­
+bracht werden, um ihn in der jeweils gewünschten
+Stellung zu erhalten, und um ihn in einer dem vor­
+genannten Drehsinne entgegengesetzten Richtung zu
+drehen ein beträchtliches äusseres Moment aufgewendet
+werden, zweitens erzeugt dieser Apparat eine Phasen­
+verschiebung.
+Diese beiden Nachtheile können aber überwunden
+werden, indem man die Maschine doppelt ausführt, so
+dass die beiden auf gemeinsamer Achse sitzenden
+Rotoren sich in entgegengesetzter Richtung zu drehen
+streben; damit wird zugleich auch der zweite Nachtheil
+behoben.
+Wilson berichtet in Lond. „Elec.“ über von ihm
+an einem zweipoligen, zweiphasigen synchronen. Con­
+verter für 12 KW mit Trommelarmatur und weichem
+Eisenkern angestellte Versuche, um herauszufinden,
+wie die Felderregung bei Aenderung der Belastung
+geändert werden muss, wenn der Converter mit con-
+stanter Tourenzahl läuft, die Differenz der Spannung
+an den Schleifringen constant ist und der Leistungs­
+factor seinen Maximalwerth hat; er fand, dass die Er­
+regung des Generators bei steigender Belastung erhöht
+werden musste, während die Erregung des Converters
+eine Verminderung um ungefähr 2% zeigte, als die
+Belastung von 0 auf 8 K W erhöht wurde.
+Diese Resultate sind mit den von Pars hall
+und H o b a r t bei einem dreiphasigen Converter er­
+langten im Widerspruch; diese Beobachter fanden, dass
+die Felderregung eine stärkere war bei voller Belastung
+als beim Leerlauf, und zwar betrug die Erhöhung ca.
+%•
+A. L. Rice discutirt im Augusthefte des „Am.
+Elec.“ die zwei für die Strassenbeleuchtung mit in
+Serie geschalteten Bogenlampen für Wechselstrom in
+Betracht kommenden Methoden, nämlich die Methode
+mit constantem Strom und die mit constantem Potential;
+in beiden Fällen erhalten die Lampen immer den
+gleichen Strom, weshalb Einrichtungen vorhanden sein
+müssen, um den Strom für jeden Lampenkreis constant
+zu erhalten. Bei der ersten Methode gelangen Trans­
+formatoren zur Verwendung, die Strom von veränder­
+licher Intensität bei constanter E. M. Iv. aufnehmen und
+praktisch constanten Strom bei veränderlicher E. M. K.
+abgeben; die zweite Methode macht die Benützung von
+inductiven Regulirmechanismen für jede Gruppe in
+Serie geschalteter Bogenlampen nothwendig. A. L. Rice
+kommt zum Schlüsse, dass beide Systeme praktisch
+brauchbar sind und gute Resultate liefern. Die Kosten
+sind nicht wesentlich verschieden, neigen sich aber zu
+Gunsten der zweiten Methode. Dieser Vortheil wird aber
+leicht dadurch wett gemacht, dass die erstere Methode
+bei Veränderungen in der Vertheilung der Lampen der
+Montage nicht jene Schwierigkeiten bereitet, wie die
+letztere.
+In dem Septemberhefte des „Street Railway
+Journal“ lenkt J. C. Henry die Aufmerksamkeit
+auf die Thatsache, dass die gewöhnlich angewendeten
+
+Seite 478.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 40.
+Verth eil ungssysteme für elektrische Bahnen im Mittel­
+punkte der Stadt eine hohe Spannung und in den Vor­
+orten eine niedrige Spannung hervorrufen; er empfiehlt
+im Gegensätze hiezu ein Vertheilungssystem mittelst
+Gleichstrom, wobei zwar das Dreileitersystem zur An­
+wendung gelangt, die Dynamos jedoch auf jeder Seite
+des Systems verschiedene Spannungen haben sollen.
+So empfiehlt er auf einer Seite des Systems Dynamo­
+maschinen von 450 V; diese Dynamos würden den im
+Mittelpunkte der Stadt befindlichen Wagen speisen; auf
+der anderen Seite lässt er Dynamos von 640 V arbeiten,
+die für die Wagen in den Vororten bestimmt sind,
+wobei die neutrale Leitung an Erde gelegt werden
+soll; für Fernlinien, auf denen die Fahrgeschwindigkeit
+eine grosse ist und die sich ausserhalb der Vororte
+befinden, empfiehlt er die Benützung der beiden Aussen-
+leiter, die eine Spannung von 1100 V haben. Dies
+würde allerdings zwei Fahrdrähte erfordern, was gewiss
+kein Nachtheil ist. Auf allen drei Sectionen kann man
+dieselben Motoren benützen.
+Ueber Hochspannungs-Accumulatoren.
+Von M. ü. Sclioop.
+Hochspannungs-Accumulatoren kommen für manche
+Zwecke immer mehr und mehr in Gebrauch, und zwar
+hauptsächlich dort, wo die Forderung einer durchaus
+constanten E. M. K. gestellt werden muss. Der Gedanke
+liegt nahe, für gewisse elektrische Untersuchungen,
+bei denen die Stromquelle hochgespannte Ströme zur
+Verfügung zu stellen hat, wie z. B. für Kabeldurch-
+schlagsversuche, Aichungen von Hochspannungsinstru­
+menten und dergl. mehr, transformirten Wechselstrom
+zu benützen; aber der Bedingung, eine von jeglichen
+Schwankungen freie elektrische Kraft zu haben, wird
+hiebei nicht Genüge geleistet, und meist treten bei Be­
+nützung hochgespannter Wechselströme unangenehme
+und verwickelte Erscheinungen auf, die zu eliminiren
+oft recht schwer hält und deshalb geeignet sind, das
+Endresultat zu entstellen.'")
+Auch hochgespannte Gleichströme entsprechend
+gebauter Dynamomaschinen sind infolge der unver­
+meidlichen Spannungsänderungen für gewisse Mess­
+zwecke ungeeignet, und besonders hinsichtlich der Ab­
+stufungsfähigkeit des Messstromes recht unbequem in
+Schaltung und Handhabung. Hingegen lassen sich
+Spannungs-Abstufungen bei Accumulatoren-Batterien in
+ideal einfacher Weise erreichen, und für die Ladung,
+die je nach der Beanspruchung und Capacität der
+Batterie nur alle 8 oder 15 Tage einmal zu erfolgen
+hat, ist keine Hochspannungsmaschine nöthig.
+Auch gegenüber Primärelementen besitzen Accu-
+mulatoren für die besagten Zwecke Vortheile, auf die
+ich gar nicht weiter einzugehen brauche.
+Was nun die Bauart von Hochspannungs-Accu­
+mulatoren anbelangt, so liegt es in der Natur der Sache,
+dass die leitenden Gesichtspunkte durch die Bedingung
+einer möglichst vollkommenen Isolation von vorneherein
+*) Eine geistreiche Methode, hochgespannten Gleichstrom
+mittelst einer Stromquelle von geringerer Spannung zu erzeugen,
+ist Herrn Dir. Müller in Hagen patentirt. Dieselbe beruht im
+Wesentlichen darauf, dass einö entsprechend grosso Zahl Accu-
+mulatoren mit Hilfe eines rotirenden Umschalters gruppenweise
+nach einander geladen werden, während sie dauernd für die Ent­
+ladung in Serie geschaltet bleiben.
+gegeben sind. Wird z. B. nicht Vorsorge dafür ge­
+tragen, dass ein Ueberkriechen der Säure oder ein
+Verschütten von Wasser (beim Nachfiillen) unmöglich
+gemacht ist, so werden diö Verbindungsdrähte und
+Isolirschicliten binnen kurzem leitende Flächen dar­
+stellen, auf denen sich Nebenschlüsse üppig entwickeln
+können. Hauptsächlich jedoch wird hiedurch ein Ort,
+wo auf verhältnismässig kleinem Platze viele Hunderte
+von Sammlern zusammengepfercht sind, für den mani-
+pulirenden Beobachter gefährlich, ein Umstand, dessen
+Wichtigkeit man nicht unterschätzen darf.
+Ein Hochspannungs-Accumulator, der sich vor­
+züglich bewährt hat, und von den Kölner Accum ula-
+toren -W erken, G. Hagen in Kalk bei Köln für
+Glühlampenfabriken, elektrotechnische Laboratorien,
+Kabelfabriken hergestellt wird, veranschaulicht in natür­
+licher Grösse nebenstehende Skizze. (Fig. 1.) Der Be­
+hälter ist ein sogenanntes kleines Pulverglas mit weitem
+Hals (dieser Form begegnet man häufig in Apotheken),
+durch den die Elektroden eingeführt sind. Die Elek­
+trodengerippe werden, wie dies auch bei den gewöhn­
+lichen Accumulatorgittern üblich ist, mit activeni
+Material vollgeschmiert und sodann formirt.
+Fig. 1.
+Die Capacität derartiger Elementchen kann in
+den meisten Fällen recht klein sein, obwohl zu em­
+pfehlen ist, eine gewisse Grenze nicht zu unterschreiten;
+sonst genügten ja schliesslich zwei Weichbleidrähte in
+einem mit Säure angefüllten Probierröhrchen, in welches
+man eine Weile Strom durchschickt, dessen Richtung
+von Zeit zu Zeit geändert wird. Eine gewisse Capacität
+muss auch schon aus dem Grunde vorhanden sein,
+weil bekanntlich in jedem Accumulator stille Ent­
+ladungen stattfinden, die je nach der individuellen Bau­
+art des Elementes, der Reinheit der Ausgangsmate­
+rialien und der mehr oder weniger sorgfältigen Be­
+handlung geringere oder höhere Werthe annehmen
+werden. Ein Hochspannungs-Accumulator (siehe
+Fig. 1) der Kölner Accumulatorenwerke besitzt ein
+
+Nr. 40.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 479.
+Abgabevermögen von gut 3/ 4 Amperestunden bei ein-
+sttindiger'Entladung und dem zulässigen Spannungs­
+abfall von 10 %.
+Die Elektroden haben unten einen kleinen Stiel,
+auf dem sie stehen; mit diesem werden sie in zwei auf
+dem Boden in bestimmtem Abstande festgekitteten
+Glasftisschen gesetzt, zwischen welche wiederum ein
+Glasröhrchen gestellt wird, um eine gegenseitige Be­
+rührung der beiden Elektroden unmöglich zu machen.
+Zwei seitlich angebrachte, schlitzförmige Löcher sind
+für den Abzug der Gase (bezw. atmosphärische Luft
+beim Nachfüllen von destillirtem Wasser) bestimmt.
+Den Abschluss der „Montage“ bilden endlich das
+Einsetzen des mit entsprechenden Durchführungen ver­
+sehenen Gummistöpsels, das Verlöthen der Verbindun­
+gen und das Einfüllen der Säure. Zweckmässig werden
+je 25 Stück solcher Elemente in einen Holztrog zu­
+sammengestellt (siehe Fig. 2) und die Zwischenräume
+mit Paraffin ausgegossen.
+Die Aufladung der Hochspannungsbatterie ge­
+schieht jeden Samstag mit einer 70 Volt-Maschine,
+wobei die einzelnen Kästen zu je 25 Stück vermittelst
+einer einfachen und sinnreichen Schaltvorrichtung
+parallel geschaltet werden.
+Die Wartung der Batterie erstreckt sich lediglich
+auf das Nachfüllen von destillirtem Wasser, was ca.
+alle 2 Monate einmal zu geschehen hat.
+Die Anwendung des Mikrophons in der Deutschen Reichs­
+postverwaltung.
+Von J. Baumann.
+Die Entwickelung des Mikrophons bildet einen
+der interessantesten Abschnitte in der Geschichte der
+Elektrotechnik. Hier, wie sonst, war das Wachsthum
+des Bedürfnisses die Triebkraft des Wandels. Konnte
+man zu Beginn des Fernsprechwesens der Meinung zu­
+neigen, der Fernsprecher werde seine Hauptaufgabe in
+Der weitere Zusammenbau der Hochspannungs­
+batterie hängt natürlich von der Höhe der gewünschten
+Spannung ab, sowie von dem zur Verfügung stehenden
+Ladeströme.
+Da es für gewisse Zwecke von Nutzen ist, den
+inneren Widerstand der Messbatterie zu kennen, er­
+mittelte ich denselben und fand ihn zu 0‘1 0; als
+approximative Controle machte ich sodann eine Kurz­
+schlussentladung und beobachtete den Kurzschlussstrom
+am Amperemeter, er ergab sich zu 1P0 A bei PO Y
+Klemmenspannung.
+Der Kurzschlusseffect der aus 2200 Elementen
+bestehenden Batterie entspräche somit 33 PS.
+Eine von den Kölner-Accumulatoren-Werken ge­
+lieferte Hochspannungsbatterie von 2 200 Elementen (siehe
+Fig. 2) wurde für das bekannte Kabelwerk von Felten
+und Guilleaume in Mülheim a. Kh. geliefert.'')
+*) Unmittelbare Veranlassung zu der Bestellung war ein
+Beschluss von Stadträthen, dahin lautend, dass bei der Anschaffung
+eines Kabels die Bedingung zu stellen sei, dass das Kabel mit
+4000 V Gleichstrom geprüft sein müsse.
+Fig. 2.
+der Vermittelung des mündlichen Verkehrs innerhalb
+der verhältnismässig engen Grenzen der Städte und
+deren nächster Umgebung finden, so belehrte der Gang
+der Dinge bald eines anderen. Heute spricht man
+zwischen Paris und London, Berlin und Wien, New-
+York und Chicago und der telephonische Verkehr von
+Stadt zu Stadt und Land zu Land hat eine Bedeutung
+angenommen, die in gewissem Betracht jener des Verkehrs
+in den Ortsnetzen nichts nachgibt. Mit der raschen Ent­
+wickelung des Fernverkehrs und der zunehmenden
+Länge der zu überwindenden Entfernungen traten an
+die Sender Ansprüche heran, welchen die älteren,. im
+Nahverkehr noch so befriedigenden Mikrophone nicht
+genügen konnten. Man suchte sich zu helfen, so gut es
+ging, ja bis zu der Unbequemlichkeit, für den Nah­
+verkehr und den Fernverkehr in derselben Sprechstelle
+zwei verschiedene Sender zu verwenden. Der Zustand
+war unhaltbar: die über die Ortsnetze nicht genügend
+hinaustragenden Constructionen mussten Sendern, welche
+in gleicherweise dem Nah- und Fernverkehr genügten,
+endgiltig und überall weichen.
+
+Seite 480.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 40.
+In Deutschland hat sich die Sache folgender-
+massen entwickelt: Nachdem die Reichspostverwaltung
+im Jahre 1886 von der Verwendung des Siemens’schen
+Magnettelephons als Sender ab, und zur Verwendung
+des Mikrophons überzugehen beschlossen hatte— in
+Bayern wurde für die Einrichtung der staatlichen Fern­
+sprechanlage im Jahre 1881 von vornherein die An­
+wendung des mehrcontactigen Mikrophons auf meine Em­
+pfehlung hin als Grundlage des Betriebes angenommen—
+ferner die Mängel der eincontactigen Mikrophoncon-
+structionen immer allgemeiner sich geltend machten,
+kam die in diesem Jahre erscheinende Construction des
+mehrcontactigen Walzenmikrophons mit senkrechter
+Sprechplatte von Mix& Genest einem stark em­
+pfundenen Bedürfnis entgegen. Sie behauptete jahrelang
+ihren Platz als Modell der Reichspostverwaltung. Wie
+Sockel, Vs natüi'l. Grösse. Sprechtrichter.
+Fig. 2.
+alle übrigen Constructionen mit horizontalen Lagerflächen
+der Walzen, konnte auch dies Mikrophon mit senk­
+rechter Sprechplatte den erhöhten, Ansprüchen des Fern­
+verkehrs nicht endgiltig genügen. Es trat eine Periode
+ein, in welcher den Theilnehmern mit bedeutendem
+Fernverkehr neben dem Mikrophon für den Ortsverkehr
+ein zweites weittragendes Mikrophon zur Verfügung ge­
+stellt wurde. Als solches wurde ein Körnermikrophon
+in der bekannten Berliner’schen Anordnung, in welcher
+eine constructionsgemässe, reguläre Beeinflussung der
+Wirksamkeit nicht statt hat-, vielfach verwendet. Vom
+Jahre 1895 ab benutzte die Reichspostverwaltung für
+den erwähnten Zweck ein von Stock& Co. in Berlin
+construirtes Kohlen-Scheiben-Mikrophon, das sich durch
+gute, dauernd gleich bleibende Lautübertragung aus­
+zeichnete und während einiger Jahre ausschliesslich in
+den Betrieb gestellt wurde, bis in neuester Zeit das von
+Siemens& Halske angegebene Ivohlen-Beutel-
+Mikrophon an der Verwendung theilnahm. Doch waren
+damit die Bemühungen, ein allseitig und für den Nah-
+und Fernverkehr gleich brauchbares Mikrophon zu be­
+schaffen, nicht eingestellt, und die Reichspostverwaltung
+veranstaltete im Jahre 1899 eine ausgedehnte Reihe
+vergleichender Versuche, welche zu der Annahme der
+im Folgenden beschriebenen Construction der Actien-
+gesellschaft Mix& Genest führten. Nach dem Um­
+fange, in welchem die Construction bereits im Gebrauch
+zur Verwendung bestimmt ist, kann dieselbe als das
+neue Modell der Reichspostverwaltung bezeichnet werden.
+In Fig. 1 ist das Mikrophon im Querschnitt dar­
+gestellt. Der Schalltrichter p führt die Luftschwingungen
+der kreisförmigen Sprechplatte aus Kohle m zu, nach­
+dem letztere ein vor m angebrachtes Schutzgitter passirt
+haben. In der Mitte der Scheibe m liegt ein in Mitte
+der gerillten Kohlenscheibe l befestigter wollener
+Pinsel t an, dessen Druck gegen m eine stärkere oder
+schwächere Dämpfung der Schwingungen von m be­
+wirkt. Die gerillte Kohlenscheibe 1 ist mit einem Stoff­
+ring umgeben, dessen oberer Rand ausgefranst ist. Die
+ausgespreizten Fäden sind an dem Rande von m rings
+festgeklebt, so dass zwischen m und l ein Raum ent­
+steht, welcher die Kohlenkörner aufnimmt. Die Scheibe l
+ist auf der Blattfeder n befestigt, welche vermittels der
+Schraube s eingestellt werden kann und so den Druck
+des Körnerinhalts gegen die Sprechplatte m regelt.
+Diese Theile des Instrumentes sind in einer Metall­
+kapsel vereinigt, welche der Rand der Sprechplatte
+aussen umfasst und letzterer den Strom zuführt, welcher
+bei Schraube h eintritt, über die Lagerbüchse g und
+das Gehäuse zu m gelangt. Von den Kohlenkörnern
+geht der Strom über l zur isolirt durchgeführten Ver­
+bindung von n zur Blattfeder e, an welcher wiederum
+isolirt zu b durchgeführt der Zapfen c anliegt. Die
+Contactstellen zwischen der Stromzuführungsfeder b,
+Zapfen c und Feder e sind mit Platinstiicken ausge­
+rüstet.
+Die das Mikrophon selbst umschliessende Metall­
+kapsel ist derart in das drehbare Gehäuse eingesetzt,
+dass dieselbe leicht herausgenommen werden kann.
+Sollte dies aus irgend einem Grunde z. B. Bruch der
+Sprechplatte nöthig werden, so hat man nur den Deckel
+durch Oeffnen des Bajonettverschlusses abzuheben, wor­
+auf die Kapsel unmittelbar zugänglich und entfern­
+bar ist.
+Sollte sich nach längerem Gebrauche die Ver­
+ständigung infolge Zusammenlagerns der Kohlenkörner
+weniger wirksam gestalten, so kann man durch ein­
+faches Drehen des Mikrophons innerhalb der fest mit
+der hölzernen Lagerrosette a verbundenen Lagerbüchse g
+derart eine Umlagerung der Kohlenkörner bewirken,
+dass die frühere Leistung wieder hergestellt ist.
+Die Anordnung ist compendiös, klar und über­
+sichtlich im Aufbau, einfach in der Behandlung und
+kann vermöge der äusseren Gestaltung leicht an den
+verschiedenen gebräuchlichen Formen von Fernsprech­
+gehäusen an Stelle älterer Constructionen angebracht
+werden. Die Auswechselbarkeit der eigentlichen Mikro­
+phonkapsel, welche nur die billigsten, absolut nöthigen
+und in letzter Linie wirksamen Theile zusammen­
+gefasst enthält, gestattet auch jenen Fällen, in welchen
+ein dauerndes Versagen durch etwa dem Ermüden der
+
+Nr. 40.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 481.
+Metalle ähnliche Erscheinungen eintreten sollte, auf
+die einfachste und billigste Weise gerecht zu werden.
+Die dreitheilige Fig. 2 zeigt das Mikrophon aus-
+einandergenommen.
+Die Elektrotechnik auf der Weltausstellung in Paris 1900.
+Ausstellung der Vereinigten Telephon- und Telegraphen­
+fabrik, Czeija, Nissl& Co.
+Die Firma hat sich an der Ausstellung in Paris
+in hervorragender Weise betheiligt, indem sie nicht
+nur in einer eigenen, in geschmackvoller Art arrangirten
+Collectiv-Ausstellung ihre Erzeugnisse vorführte, son­
+dern auch in den Special-Expositionen des k. k. österr.
+Eisenbahnministeriums, der k. k. Post- und Telegraphen-
+Centralverwaltung und des k. k. hydrographischen
+Central-Bureaus eine grosse Anzahl von Apparaten bei­
+stellte.
+Auf dem Gebiete der Telephonie ist die Firma
+besonders reichlich vertreten. Die verschiedenen Formen
+und Constructionen von Telephonstationen und Um­
+schaltern sammt Nebenapparaten beweisen die nicht
+unbedeutende Entwickelung dieser Industrie.
+Hervorzuheben wären namentlich die Tisch-Tele-
+phonstationen, wie sie Fig. 1 darstellt.
+Fig. 1.
+In einem nett ausgestatteten Metallkästchen von
+etwas über 14 cm Länge, 14 cm Höhe und 9 cm Breite
+sind sämmtliche Bestandtheile, die zu einer Telephon­
+station mit Magnetinductorbetrieb gehören, selbst­
+verständlich ausgenommen das Mikro-Telephon, welches
+ja zur Hand sein muss, untergebracht.
+Der Apparat kann, in der Mitte eines Doppel­
+schreibtisches placirt, von beiden Seiten bequem benützt
+werden, weil für jede Seite eine Inductorkurbel an­
+geordnet ist.
+Die Bestandtheile der Telephonstation sind, zu­
+folge Unterbringung derselben im geschlossenen Metall­
+kasten, vor Beschädigungen und vor dem Verstauben
+vollständig geschützt.
+In Fig. 2 ist eine Tisch-.Telephonstation für
+Batterieanruf dargestellt, welche mit einem in sehr be­
+quemer Weise zu bethätigenden Linienwähler für 12
+Nebenstationen versehen ist.
+Der automatische Telepnon-Umschalter, Con-
+struction Nissl, wurde schon seinerzeit in dieser
+Zeitschrift besprochen.*)
+Die gegenwärtige Ausführungsform dieses Apparates
+bei abgehobenem Kasten zeigt die Fig. 3. Wie be­
+kannt, ermöglicht dieser Umschalter die Benützung einer
+gemeinsamen Leitung nach dem Centralamte durch
+mehrere Telephonabonnenten in der Art, dass jeder
+Abonnent die Centrale anrufen, und umgekehrt, jeder
+Abonnent von der Centrale aus angerufen werden kann.
+Die an den Apparat angeschlossenen Abonnenten sind
+nicht in der Lage, sich gegenseitig in den Gesprächen
+zu stören, und ist das Abhorchen des eingeleiteten Ge­
+spräches durch eine andere Station vollständig aus­
+geschlossen. Der Apparat hat sich im mehrjährigen
+praktischen Betriebe gut bewährt.
+Im Telegraphenapparat-Fache hat die Firma die
+mannigfaltigsten Constructionen von Relief-Farbschreib-
+und Typendruck-, sowie Nebenapparaten ausgestellt.
+Hervorzuheben wäre die neueste Construction
+eines Morse-Farbschreibers, wie aus Fig. 4 ersichtlich.
+Der Apparat ist mit einem neuartigen, von der
+Firma construirten Farbgefässe versehen, das durch
+eine Excenterbewegung von der horizontalen Stellung
+bis zu einer Extremlage gebracht werden kann, so
+dass das Farbrädchen stets in ausreichendem Maass e
+und gleichmässig mit Farbe versehen wird. Es kann
+hiedurch die Farbe bis auf einen sehr kleinen Rest
+aufgebraucht werden. Das Farbgefäss, welches auf dem
+Bilde neben dem Schreibapparate liegend dargestel't
+ist, zeigt einen rechtwinkelig abstehenden Vorsprung
+mit ovalem Loch, in das ein Excenter eingreift. Durch
+Drehung des rändrirten Knopfes kann das Gefäss um
+eine Achse, die senkrecht unter dem Schreibrädchen
+liegt, mit nur 2 Fingern leicht und sicher bewegt
+werden.
+Die Firma, welche den ganzen Bedarf an Tele­
+graphen-Apparaten für die k. k. österr. Post- und
+Telegraphenverwaltung seit einer Reihe von Jahren liefert,
+erzeugtauch speciell ganz vorzüglich construirte Hughes-
+apparate.
+In den letzten Jahren wurden Versuche gemacht,
+das sehr beschwerliche Aufziehen des Gewichtes mit
+dem Fusse durch motorische Kraft zu ersetzen. Die
+Einführung des elektrischen Stromes in die Telegraphen­
+centralen hat die praktische Verwirklichung dieser Idee
+möglich gemacht. Man construirte kleine Elektro-Mo-
+toren, welche ohne Vorschaltwiderstände direct von dem
+Strome des Staatsnetzes betrieben werden. Nach mehr-
+*) Z. f. E. 1894, pag. 325.
+
+Fig. 3.
+
+Nr. 40.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 483.
+fachen Versuchen, den Motor entweder direct auf das
+Räderwerk des Hughes-Apparates wirken zu lassen,
+oder zum Aufzug des Gewichtes zu benützen, entschied
+sich die k. k. österr. Post- und Telegraphen-Central-
+verwaltung für den directen Antrieb. Die Fig. 5 zeigt
+einen solchen, mit directem Elektro-Motorantricb ver­
+sehenen Hughes-Apparat. Der Elektro-Motor ist unten
+zwischen den Eisenständern des Tischgestelles an­
+überträgt mittelst einer Ledersehnur die
+unterliegen
+.gebracht und
+Bewegung nach dem Räderwerke des Hughes-Apparates.
+Um den Apparat ohne Zeitverlust sofort in Bewegung
+setzen zu können, sind keinerlei Vor schalt- oder Anlass­
+widerstände vorgesehen. Das plötzliche Angehen des
+Motors hätte aber zur Folge, dass die Zähne des Räder­
+werkes, infolge der stossweisen Wirkung, einer sehr
+würden, weshalb die
+das erste vom Motor
+angetriebene Zahnrad nachgiebig, d. h. federnd auf der
+Achse sitzt, und so den Stoss des rapid angehenden
+Elektro-Motors vermindert. Derlei Apparate functioniren
+im k. k. Telegraphen-Centralamte in Wien seit Jahres­
+frist zur vollen Zufriedenheit.
+Die Anwendung der Elektricität im Eisenbalm-
+Signalwesen macht stetige Fortschritte.
+Die in dieses Gebiet gehörigen, von der- Firma
+Apparate beweisen, dass dieselbe auch in
+raschen Abnützung
+Firma- die Anordnung traf, dass
+ausgestellten
+dieser Richtung sehr rührig ist.
+Es wären mehrfache Qmstructionen hervorzuheben,
+doch sei insbesondere auf das in Fig. 6 veranschaulichte
+Laufwerk, Construetion Czeij a, hingewiesen. Bei den
+früher üblichen Wächterschlagwerk-Construetiotien waren
+die der Abnützung unterliegenden Bestandtheile inner­
+halb der Gestellwände untergebracht. Sollte eine ent­
+sprechende Reinigung, Oelu’ng oder Austausch der Be­
+standtheile vorgenommen werden, so musste man das
+ganze Laufwerk zerlegen. Die im Bilde dargestellte
+Construction zeigt, dass alle zur Auslösung sowie: zur
+Arretirung dienenden Apparatbestandtheile aussen, u. zw.
+auf der' Vorderwand so angebracht sind, dass jedes
+einzelne Element bequem abnehmbar ist. Die Gestell­
+wände, in welchen das Räderwerk lagert, brauchen des­
+halb nicht abgenommen werden. Dadurch, dass der
+Auslösehebel entlastet, und für die Arretirung des
+Werkes Excenter verwendet werden, ist die Empfind­
+lichkeit dieses Schlagwerkes selbst für schwache, variable
+Ströme gesichert. Durch die Anordnung der Excenter wird
+jede Erschütterung des Apparates vermieden, und kann
+derselbe auch infolge dessen für sehr schwache Ströme
+eingestellt werden.
+Schliesslich sei noch erwähnt, dass durch eine
+Reihe von ausgestellten Registrirapparaten für Wind­
+end Wasser-Geschwindigkeitsmessungen dargethan ist,
+welche Vielseitigkeit auch der Schwachstrom in dieser
+Anwendung besitzt.
+Stand der Fahrbetriebsmittel
+der österreichischen elektrischen Eisenbahnen am 31. Decoinber 1899.1)
+Bezeichnung der Bahnen
+60 in
+•Cy©
+tß G
+[ M
+G
+Personenwagen
+G
+©
+ÖD.
+cö
+£
+o
+PQ:
+CS3
+L a s t w a g e n
+2
+§£
+SB£
+o Z
+P3‘
+-u G
+© .©
+-bß
+Summe der
+Porsonen-
+und Last­
+wagen
+- M
+M
+Schnoo-
+Pflüge
+v
+aß
+Baden —Yöslau
+Bau- und Betriebs- Gesellschaft für
+städtische Strassenbahnen in Wien.
+Belvedere Prag —Thiergarten Bubenc..
+Grazer elektrische Kleinbahn
+Graz—Maria-Trost (Pölling)
+Olmützer elektrische Kleinbahn?)
+Pilsener ,,„
+Prager„_„• v
+Prag (Königl. Weinberge)—Zizkov....
+Prag (Smichow)—Ivosir
+Prag—Wisotsclian—Lieben
+Praterstern Wien—Kagran
+Aussiger elektrische Kleinbahn
+Bielitz-Bialaer Eloktricitäts- und Eisen­
+bahn-Gesellschaft
+Czernovvitzer Strassenbahn
+Gmundener Elektricitäts-Actien-Gesell­
+schaft
+Lemberger Strassenbahn
+Linz—Urfahr—Pöstlingberg
+Mödling—Hinterbrühl
+Reichenberger Strassenbahn
+Teplitzer Elektricitäts- und Kleinbahn-
+Gesellschaft
+8-04
+1402
+1-38
+13-65
+5-25
+5- 35
+10- 05
+3- 08
+11- 96
+1-80
+6- 84
+6 02
+7 19
+4 84
+6-72
+2 53
+8-33
+0-25
+4- 43
+6-22
+9 94
+1w»
+T'vO't'yuaOL'
+normal
+1 445
+normal
+1
+1
+1
+1
+0-9
+1
+1
+12
+117
+2
+40
+8
+16
+3
+24
+B
+183)
+10
+16
+6
+12
+4
+24
+11
+8
+8
+Zusammen. 144-49
+14
+358
+13
+74
+23
+B
+2
+61
+5
+2
+9
+;2
+48
+;7
+Ü1
+25
+191
+2
+63
+Fl
+16
+5
+85
+10
+20
+19
+10
+10
+12
+4
+26
+29
+15
+25
+3 11
+13 62
+1 45
+4 62
+2-4S
+1- 50
+1-62
+7 11
+5-56
+2- 92
+3 16
+2-23
+2 07
+1-79
+1-58
+3 12
+4-64
+3 39
+1- 29
+2- 52
+236 594 4 27
+3
+0-57
+1-30
+0-08
+0 20
+0T2
+0 30
+13 0-09
+25
+191
+2
+63
+16
+10
+9
+86
+10
+20
+19
+16
+11
+12
+4
+27
+29
+15
+8
+28
+311
+13-62
+1- 45
+4- 62
+305
+1*50
+2- 92
+7-19
+5- 56
+2 92
+3- 16
+2 23
+2- 27
+1-79
+1-58
+3- 24
+4- 64
+3 39
+1- 29
+2- 82
+1) Aus dem Verord. Bl. F. E. u. S. 105, 15. Sept. 1900.
+2) Wurde am 1. April 1899 eröffnet; über die Fahrbetriebsmittel liegen keine Daten vor.
+3) Darunter 2 Aecnmulatorenwagen.
+0 97
+0 56
+0 13
+0 21
+0-29
+0 24
+0 20
+607 4-36 12 0 09
+M. Z.
+
+Seite 484.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 40.
+KLEINE MITJHEILUNGEN.
+Verschiedenes.
+Eine bedeutsame physikalische Entdeckung. Die ,,Magdeb.
+Ztg.“ schreibt: Eine physikalische Entdeckung ersten Ranges hat
+der Physiker Leuard gemacht, berühmt durch seine ausser­
+ordentlich bahnbrechenden Arbeiten auf dem Gebiete der un­
+sichtbaren Strahlen. Im Jahre 1895 ergründete Lenard bereits
+an den bekannten Kathodenstrahlen die Eigenschaft einor durch­
+dringenden Kraft und einer photographischen Wirkung, und
+dieser Fund war es, der vornehmlich zur Entdeckung der
+Röntgonstrahlen führte. Damals wies er nach, dass die Kathoden­
+strahlen nicht nur innerhalb der bekannten Hittorfschen Röhre
+zu beobachten sind, sondern durch deren Glaswand hindurchzu­
+dringen und in den freien Raum hinauszutreten vermögen. Die
+jetzige Entdeckung ist wohl noch bedeutsamer, da sie auf einen
+ganz eigentümlichen Zusammenhang zwischen der Elektricität,
+den Kathodenstrahlen und dem Lichte hinweist. Es ist eine be­
+kannte Fähigkeit der auf der äussex-sten violetten Seito der
+Regenbogonfai-ben liegenden Lichtstrahlen (ulti-a-violetten Strahlen),
+elektrisch geladene Körper zu entladen. Es entstand die Frage,
+wo denn die Elektricität dieser Körper nach der Bestrahlung
+eigentlich bleibt. Jetzt ist das Räthsel, zu dessen Aufklärung die
+gewagtesten Vormuthungen von den Gelehrten hei-boigezogen
+werden mussten, gelöst: unter dem Einfluss des ultra-violetten
+Lichtes verwandelt sich die elektrische Ladung eines Körpers in
+Kathodenstrahlen, die in den freien Raum hinausgehen. Besonders
+auffallend sind die beiden Tliatsacben, dass einmal nur eine ne­
+gative Ladung von jenen Lichtstrahlen in Kathodenstrahlen ver­
+wandelt wird, und dass zweitens auf solche Weise Kathoden­
+strahlen auch im völlig luftleeren Raume oder wenigstens indem,
+was man nach der Leistung der heutigen Luftpumpen als solchen
+bezeichnen muss, erzeugt und foi-tgepflanzt werden können; bis­
+her galt eine elektrische Entladung in einem solchen für un­
+möglich. Lenard hat ferner festgestellt, dass die auf diesem
+Wege ei-zeugten Kathodenstrahlen sich mit einer Geschwindigkeit
+fortpflanzen, die nur 1/30 von der des Lichtes betlägt, sie sind
+danach die langsamsten Sti’ahlen, die je entdeckt wurden, da be­
+kanntlich die Foi-tpflanzung der Elektricität die des Lichtes um
+ein Vielfaches übertrifft.
+Auszeichnungen österreichischer elektrotechnischer
+Finnen und Aussteller auf der Weltausstellung in Paris 1900.
+Zu der unter dieser Spitzmai'ke an gleicher Stelle gebrachten
+Liste der auf der Pariser Weltausstellung Prämiirten theilt uns
+die Firma Siemens& Ilalske zur theilweisen Richtigstellung
+die ihr, bezw. ihren Mitarbeitern verliehenen Preise mit:
+Grand Prix in Classe 23,
+Grand prix, eine goldene und eine silberne Medaille in
+Classe 25,
+Ober-Ingenieur Pichelmayer zwei goldene Medaillen,
+Ingenieur 0 s s a n n a eine goldene Medaille,
+Ingenieur Gabriel eine goldene und eine silberne Medaille,
+Die Ober-Ingenieure Maller, Moder egge r, W e 11-
+d e 1 i n, sowie Ingenieur Prochaska je eine silberne Medaille.
+Ausgeführte und projectirte Anlagen.
+Oesterreich-Ungarn.
+a) Oesterreich.
+Dornbirn. (Anordnung der Tracenrevision
+und politischenBegehungderprojectirtenelek-
+t rischen Kleinbahn von Dornbirn nach Gütle.l
+Das k. k. Eisenbahnministerium hat unterm 11. September die
+k. k. Statthalterei in Innsbruck beauftragt, hinsichtlich des von
+Theodor Schenkel, Ingenieur in Gi'az, voi'gelegten Detail-
+projectes für eine schmalspurige Kleinbahn mit elektrischem Be­
+triebe von Dornbirn nach Gütle die Tracenrevision und Stations­
+commission, wobei auch die Frage wegen Benützung der in
+Anspruch genommenen Strassen klarzustellen sein wird, und bei
+anstandslosem Ei-gebnisse dieser Verhandlung anschliessend an
+dieselbe die politische Begehung im Zusammenhänge mit der
+Enteignungsverhandlung vorzunehmen.
+Mistek. (Elektrische Beleuchtung.) Die Firma
+Alois Lemberger in Mistek hat vor Kurzem die Weberei um
+180 Stühle vergi-össei-t; die elektrische Beleuchtung dieses Baues
+nebst diversen Nebenräumlichkeiten, durch ca.. 250 Glühlampen,
+sowie die Aufstellung einer neuen Schalttafel für die ganze Anlage
+von rund 1000 Lampen besorgt die Oesterreichische
+Union E.-G. in Wien. (Ingenieur-Bureau Mähr.-Osfrau). Ji.
+b) Ungarn.
+Budapest. (P r o j e c t einer elektrischen Eisen­
+bahn in die Festung in Budapest.) Der Schriftsteller
+Mur. Szekula ist bei dor Gemeinde der Haupt- und Residenz­
+stadt Budapest um die Concession für die Vorarbeiten einer in die
+Budaer (Ofner) Festung führenden elektrischen Eisenbahn ein­
+gekommen. Die projectirte neue Bahn würde von der Budaer
+Ringbahnlinie der Budapester Strassenbahn (mit elekti-ischem Be­
+triebe) abzweigen und durch die Vermezögasse und Värfokgasse,
+dann durch das gewesene Wienerthor in die Wei'böczygasse und
+von hier nahezu in gerader Linie bis zum Szt. Gyöi’gy (St. Georgs-)
+platz vor der königlichen Burg führen. M.
+(Zur Frage der Verlängerung der Budapester
+elektrischen Untergrundbahn.) Die Generalvei--
+sammlung des Municipiums der Haupt- und Residenzstadt Buda­
+pest hat im Voijalire den Beschluss gefasst, die Direction der
+Budapester elektrischen Untergrundbahn aufzufordern, dass die­
+selbe ihre Linie vom Endpunkte am Giselaplatze, u n t e r i r d is ch
+bis zum Eskü(Schwur-)platz und von hier durch die lvossuth
+L a j 0 s Gasse bis zum Museumring verlängert. Gegen
+diesen Beschluss wurde von zwei Seiten an den königl. ungarischen
+Minister des Inneim appellii’t. Der Minister vei'ständigte nun das
+Municipium, dass sowohl der Beschluss, als auch die Appellation
+gegenstandslos erscheint. Die Gesellschaft hat nämlich dem
+königl. ungarischen Handelsminister gegenüber erklärt, dass sie
+die vei'langte Linienverlängernng auszubauen nicht gesonnen ist,
+umsomehr als der mit der Stadtgemeinde abgeschlossene Vertrag
+der Stadt kein Recht dazu gibt, die fragliche Verlängerung zu
+fordern. Die Linienveidängerung wird also nicht ausgebaut
+werden. M.
+Patentnachrichten.
+Aufgebote. *)
+Classe. Wien, am 1. September 1900.
+21. F eiten& Guilleaume, Fii’ma in Wien.— Z u g-
+Strumpf aus Flechtwerkfür elektrische Kabel:
+Die Zugvon-ichtung besteht aus einem Flechtwerk aus Hanf
+oder anderen Faserstoffen oder auch aus Draht, Drahtlitzen
+u. dgl., dessen Maschen sich bei einem Zug in der Längs­
+richtung proportioxxal der Zugstäi'ke zusammenziehen.— An-
+genxeldot am 19. October 1899.
+— Knickerbocker Trust Company in New-York.—
+Elektricitätssammler mit zweipoligen Elek­
+troden und einer oder mehreren zweipoligen Zwischen-
+elokti-oden, dadurch gekennzeichnet, dass diese letztei-en ohne
+Einlagerung einer Metallseele mit einer Füllung aus fein zer-
+theilter wirksamer oder wirksam zu machender Masse ver­
+sehen sind, dei’art, dass diese Masse allein die leitende Ver­
+bindung zwischen den entgegengesetzten Elektrodenseiten her­
+stellt. Grössere Zwischenelektroden dieser Art werden aus
+einer Anzahl von je in besonderen nicht leitenden Sechseck-
+Rahmen gefassten Theilelektroden aufgebaut.— Angemeldet
+am 13. Juni 1899.
+— Telephon-Apparat-Fabrik Fr. W e 11 e s in Berlin.
+— Schaltungsanordnung zum Verkehr
+zwischen zwei Fernsprechämtern: Bei einer
+Schaltungseinrichtung, bei welcher das Ankunftsende dor Ver-
+bindungsleitung mit einem Ueberwachungssignal versehen ist,
+das ein Zeichen gibt, sobald die Veibindung mit der Ver­
+bindungsleitung an dem einen Ende untei-brochen wird,
+während sie am anderen Ende besteht, liegt voi-genauntes
+Uebei-wachungssignal in zwei Sti-omki-eisen; der eine dieser
+Stromkreise wird durch ein Relais geschlossen, wenn das Ab­
+gangsende der Verbindungsleitung verbunden wird, der andere
+durch ein zweites Relais, wenn das Ankunftsende der Ver­
+bindungsleitung verbunden wird. Bei gleichzeitiger Erregung
+*) Yon den nachstehenden Patent-Anmeldungen einschliesslich der
+Gesuche um Umwandlung von angesuchten oder ertheilten Privilegien in
+Patente erfolgt hiemit, nach geschehener Vorprüfung, die öffentliche Bekannt­
+machung im Sinne des§ 57 und der §§ 120 und 121 Pat. Ges.
+Gleichzeitig werden diese Anmeldungen mit sämmtlichen Beilagen und
+die Beschreibungen zu diesen Umwandlungagesucheu in der Auslegehalle des
+k. lc. Patentamtes durch zwei Monate ausg elegt.
+Innerhalb dieser Frist kann gegen die Ertheilung jedes dieser angemeldeten
+Patente und gegen die Umwandlung jedes dieser Privilegien Einspruch
+erhoben werden. Ein solcher Einspruch ist schriftlich in zweifacher Ausfertigung
+beim k. k. Patentarate einzubringen.
+Vom heutigen Tage an treten für die nachverzeichneten Gegenstände zu
+Gunsten des Patentwerbers oder Umwandlungswerbers einstweilen die
+gesetzlichen Wirkungen des Patentes ein.
+
+Nr. 40.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 485.
+beider Relais wird ein im Nebenschluss zum Ueberwachungs-
+signal liegender Stromkreis geschlossen, so dass das Signal
+erlischt.— Angemeldet am 18. Jänner 1900 mit der Priorität
+desD. R. P. 110626, d. i. vom 5. Mai 1899.
+Wien, am 15. September 1900.
+Classe.
+21.Lamme Benjamin Garver und Mailet John Purington,
+beide Elektrotechniker in Pittsburgh.— Anker Wickelung
+für Wechselstrommaschinen: Bei einer mehr­
+poligen Wechselstrom-Dynamo mit Stabwickelung ist in den
+einzelnen einer Phase und einem Pole entsprechenden Stab­
+gruppen der mittlere Leiter oder einer der beiden mittleren
+Leiter mit dem zunächst gelegenen seitlichen Leiter der
+nächsten Gruppe derselben Phase verbunden, wodurch alle
+Endverbindungen die gleiche Form erhalten können. In einer
+speciellen Ausführungsform bestehen zu diesem Zwecke die
+Ankerstäbe aus drei Stabsorten von verschiedener Länge,
+u. zw. kurzen Stäben, welche an den Stirnflächen des Ankers
+nur wenig vorragen, langen Stäben, welche an beiden Stirn­
+flächen stärker vorragen, und Stäbon mittlerer Länge,
+welche nur an einer Stirnfläche stärker vorragen. In den auf
+einander folgenden Stabgruppen jeder einzelnen Phase ist ein
+mittlerer Stab, abwechselnd ein kurzer bzw. ein langer Stab,
+während auf beiden Seiten die Nachbarstäbe aus Stäben
+mittlerer Länge gebildet sind, die nur auf einer Ankerseite
+vorragen.— Angemeldet am 15. August 1899.
+— Lamme Benjamin Garver, Elektrotechniker in Pittsburgh.
+— Einrichtung an Transformatoren zur Ver­
+änderung der elektromotorischen Kraft in
+der Secundär Wickelung: Am Transformator ist ausser
+der secundären AYickelung noch eine dritte Wickelung mit
+veränderlicher Windungszahl angeordnet, welche mit der
+primären Wickelung eines zweiten Transformators verbunden
+ist, dessen secundäre Wickelung in den Secundärkreis des
+ersten Transformators eingeschaltet ist.— Angemeldet am
+8. August 1899.
+— Pope manufacturing Company, Firma in Hartford,
+Connecticut (U. S. A.).— Einrichtung zur Sicherung
+von Sammler batte rien gegen die Entladung
+über eine zulässige Grenze hinaus: Bei dem
+eine gewisse Grenze überschreitenden Spannungsabfall erfolgt
+eino Signalabgabe oder Batterieausschaltung, jedoch nur, wenn
+nicht gleichzeitig eine abnormale Stromstärke eintritt.—
+Angemeldet am 27. April 1899.
+— Reed Charles John, Ingenieur in Philadelphia.— Rogier
+zum Betriebe von Elektromotoren mit ver­
+schiedenen Arbeitsgeschwindigkeiten: Der
+Regler ist so beschaffen, dass bei einer bestimmten Stellung
+desselben die Feldmagnetspulen der Triebmaschine, sowie
+auch diese selbst aus dem Stromkreise ausgeschaltet werden,
+so dass die zum Betriebe der Triebmaschine dienenden
+Secundärbatterion von Aussen geladen werden können; bei
+den anderen Stellungen des Reglers worden zwischen den
+Enden der Feklmagnetspulen und den Polen der Theilbatterien
+unveränderliche Verbindungen hergestellt.— Angemeldet am
+4. März 1899.
+— Siemens& Galske, Actiengesellschaft, Firma
+in Wien.— Verfahren zur Herstellung einer
+st romleit enden Verbin düng zwischen Leiter n
+erster und zweiter Classe: Die Enden des Leiters
+zweiter Classe werden mit geeignetem Material, wie Metall
+oder sauerstofffreien Metallverbindungen, zur Weissgluth er­
+hitzt, um sie in einen plastischen Zustand zu versetzen,
+welcher das Einbringen der Leiter erster Classe ermöglicht.
+— Angomeldet am 7. September 1899.
+86. D a v i d Lucien und David Toni, Levierer in Lyon.—
+Elektrische LevierVorrichtung für Karten­
+schlagmaschinen: Bei Maschinen dieser Art, bei welchen
+die die gleiche Farbe oder gleiche Bindung aufweisenden, von
+einander isolirten Zonen einer die Musterzeichnung tragenden,
+mit Metallbelag versehenen Karte mittelst eines Umschalters
+nacheinander in einen Stromkreis eingeschaltet werden können,
+welcher einen Kamm, den isolirten Metallzähnen desselben
+entsprechende Elektromagnete und eine Batterie enthält: Die
+Anordnung eines Zwischenapparates, welcher zwischen den
+Elektromagneten und den Nadeln der die Kartenschlag-
+maschine bethätigenden Jacquardvorrichtung zur Verminderung
+der elektrischen Arbeit eingeschaltet und aus einer Gruppe
+von mit den Jacquardnadeln übereinstimmenden Hilfsnadeln,
+die einzeln mit ebenso vielen, als Anker für die Elektro­
+magnete dienenden Pendeln verbunden sind, sowie aus einem
+Ciasse.
+horizontalen, durch einen Daumen hebbareu Rost und einem
+verticalen Rost besteht, welch letzterer die Hilfsnadeln jener
+Pendel zurückstösst, die von ihren Elektromagneten unbeein­
+flusst bleiben und daher durch den horizontalen Rost gehoben
+werden.— Angemeldet am 27. Juni 1899.
+89. S c h o 11 m e y e r Gustav in Dessau.— Vorfahren zur
+Reinigung von Zuckersäften durch Eloktro-
+dialyse und mit Ozon: Die Säfte werden einer gleich­
+zeitigen Behandlung mit Ozon und Elektrodialyse mit lös­
+lichen Elektroden unterworfen.— Angemeldet am 6. März
+1900.
+Entscheidungen.
+Patentrecht.
+Entscheidung des Patentamtes (Besch w.-Ab t h. A
+vom 30. A p r i 1 1900, Z. 4602.
+Zur Umwandlung angemoldeto Privilegien unterliegen, so­
+lange die Ertheilung des Umwandlungspatentes nicht endgiltig
+beschlossen ist, hinsichtlich ihrer Aufrechthaltung ausschliesslich
+den Vorschriften des Privilegiengosetzes.
+Entscheidung dos Patentamtes (Besch w.-A b t h. A)
+vom 30. April 1900, Z. 4661.
+Der Tag, an welchem der Beschluss über die endgiltigo
+Ertheilung eines deutschen Patentes zugestellt worden ist (Art. 4,
+I. Abs. des Uebereink. mit dem Deutschen Reiche vom 6. Dec.
+1891, R. G. Bl. Nr. 23 ex 1892) ist ausschliesslich aus der, (nach
+Punkt 1, Z. 2 der Min.-Vdg. vom 8. Nov. 1892, R. G. Bl. Nr. 214)
+in allen Fällen bei der inländischen Anmeldung beizubringenden
+Bescheinigung des deutschen Patentamtes zu entnehmen.
+Die dreimonatliche Frist des Art. 3 des cit. Ueborein-
+kommens endet mit dem Ablauf desjenigen Tages des dritten
+Monates, welcher durch seine Zahl dem Tage entspricht, an dem
+die Zustellung des Ertheilungsbeschlusses erfolgte.
+An diesem letzten Tage der Frist muss spätestens
+die inländische Anmeldung erfolgt sein, wenn hierlands die Be­
+günstigungen aus dem Ueberoinkominen goltond gemacht worden
+sollen.
+Markenschutz.
+Erlass des Handelsministeriums vom 1. No­
+vember 1899, Z. 39302.
+Als Tag der Löschung einer nicht rechtzeitig erneuerten
+(§ 21b M Sch. Ges.) Marke ist der zehnte Jahrestag der ur­
+sprünglichen Registrirung in das Register einzutragen.
+Markenreclit.
+Erkenntnis des Verwaltungsgerich tsho'fes vom
+8. Novombe r 1899, Z. 9269.
+Bei der Beurthoilung, ob dio Voraussetzung des§ 3,
+M. Sch. Nov., für die Löschung einer Marke gegeben soi, kommt
+es auf die Aehnlichkeit der beiderseits hinterlegten Marken i in
+Ganzen an, wobei einem bestimmten Markeneleinento von
+vorneherein eine prävalirende Bedeutung nicht zusteht.
+Nach dem Umstande, ob das Publicum einzelne Bestand-
+theile einer Marke nicht mit der in seinein eigenen Interesse
+gebotenen, wenngleich nur gewöhnlichen Aufmerksamkeit prüft,
+kann sich die täuschungsfähige Aehnlichkeit von Markenbildern
+nicht bestimmen.
+Erkcnntnisdes Verwaltungsgerichtshofesvom
+22. December 1899, Z. 10266.
+Dagegen, dass ein Unternehmen dasselbe Warenzeichen
+für zwei oder mehrere von ihm betriebene Unternehmungen
+hinterlegt, besteht keinerlei Anstand.
+Durch den Uebergang einer dieser Unternehmungen an
+eine dritte Person, kann dann dieselbe Marke für verschiedene
+Unternehmer bestehen.
+Mitgetheilt von Ingenieur
+Victor Monath,
+WIEN, I. Jasomirgottstra ss e Nr. 4.
+Liste der jüngst ertheilten österreichischen Patente.
+Classe.
+20. Pat.-Nr. 2094. Stromleitungsanordnung für elektrische Hoch­
+bahn.— Louis Johann Bruns und Hans Realf Ott es e n,
+beide Ingenieure in Hannover. 15./3. 1900.
+
+Nr'; 40.
+Seite 486.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Classe.
+20. Pat.-Nr. 2097. Antriebswerk für Zug'schranken mit Verläute-
+zwang.— Felix W a 1 d n e r, Bahnmeister der k. k. öster­
+reichischen Staatsbahnen in Passau. 15./5. 1900.
+21. Pat.-Nr. 2095. Einrichtung zur Regelung der elektromotorischen
+Kraft.— Benjamin Garver L a m m e, Elektrotechniker, in
+Pittsburgh (V. S. A.) 15./3. 1900.
+„ Pat.-Nr. 2122. Körnermikrophon.— Anton P o 1 1 a k, Elektro­
+techniker in Budapest, und Vereinigte Elektricitäts-Actien-
+Gesellschaft in Budapest. 15./5. 1900.
+„ Pat.-Nr. 2127. Stationsrufer.— Stanislaus K1 e c z k o w s k i,
+k. k. Postcontrolor in Itzkany (Bukowina). 15./4. 1900.
+„ Pat.-Nr. 2155. Hammervorrichtung für Drucktelegraphen.—
+Fredorick II ach mann, Ingenieur in Milwaukee, Charles
+Pfeifer, Apotheker in Biymuth und Casper Ems t, Bankier
+in St. Paul (V. S. A.) 15./3. 1900.
+„ Pat.-Nr. 2157. Schaltung von Drelifeldmossgeräthen zur Er­
+zielung von 90° Phasenverschiebung.— Firma: Siemens
+& Halsko in Wien. 1./5. 1900.
+„ Pat-Nr. 2203. Vorrichtung zum sprungweisen Vorschieben
+von Contactbürsten.— Firma Scheibe r& Kwavss er
+in Wien. 15./4. 1900.
+„ Pat.-Nr. 1875. Verfahren zur Aenderung und Regulirung der
+Gangsgeschwindigkeit der Gleichstrommotoren und Gleich­
+strom- Wochseistromumformer.— Benjamin Garvor Lamme
+Elektrotechniker in Pittsburgh. 15 /1. 1900.
+„Drehbare Kohlenbürste.— Anton Auer, Schmiedomoister
+der k. k. Saline in Ebensee (Ober-Oesterr.) 1./2. 1900.
+„ Pat.-Nr. 1890. Vorrichtung zur elektrischen Uebermittlung von
+sichtbaren Worten, Chifforn oder mehrstelligen Zahlen mittelst
+einer einzigen Drahtleituug.— Friedrich D r e x 1 e r,Ingenieur
+in Wien. 1./3. 1900.
+„ Pat.-Nr.1898. Lampenstundenzähler für elektrische Beleuchtungs­
+anlagen.— Alfred T z a u t, Ingenieur in Lausanne (Schweiz)
+15./3. 1900.
+„ Pat.-Nr. 1901. Klinke für Fernsprech-Vermittlungsämter.—
+Firma: Telephonapparatefabrik Fr. Well es in Berlin. 1./4
+1900.
+„ Pat.-Nr. 1903. Relais mit winkelförmig gebogenem strom-
+führenden Polstiick und um seine Unterkante pendelnd ge­
+lagertem Anker.— Firma: Telcphonapparatfabrik Fr. Welles
+in Berlin. 15./4. 1900.
+„ Pat.-Nr. 1905. Typendrucktelegraph.— Dr. Luigi Cerebotani,
+Professor in München und Albert Silbermann, Fabrikant
+in Berlin 1./4. 1900.
+„ Pat.-Nr. 1918. Frittröhre.— Richard v. Horvat h k. k. Post-
+und Telegraphen-Officialund Moriz Cohn, Schriftsteller, beide
+in Wien. 15./3. 1900.
+„ Pat.-Nr. 1919. Verfahren zur Erzeugung bewehrter Kabel und
+Vorrichtung hiezu.— Edward Hibberd J o h n s o n, Elektriker
+in New-York (U. S. A.) 1./4. 1900.
+48. Pat.-Nr. 1951. Verfahren zur Herstellung von Metallüberzügen,
+bezw. Gewinnung von Metallen auf elektrolytischem Wege.—
+August Hermann M i e s, Bürgermeister in Büdesheim (Rhein­
+hessen). 1./5. 1900.
+80. Pat.-Nr. 1908. Verfahren zur Herstellung einer bituminösen
+Steinmasse für Isolirkörper unterirdischer Leitungen.— Johann
+Jungbluth, Elektriker in Köln a. Eh. 15./4. 1900.
+20. Pat.-Nr. 2073. Elektrischer Stationsanzeiger.— Siemens&
+Halske, Wien. 1./4. 1900
+21. Pat.-Nr.2041. Elektrischer Accumulator.— Thomas Be n gou gh,
+Stenograph in Toronto, Canada. 1./5. 1900.
+„ Pat-Nr. 2042. Herstellung von Elektroden für elektrische
+| Accumulatoren.— Charles P o 11 a k, Director der Accumu­
+latorenwerke System Pollak, in Frankfurt a. M. Umwandl. d.
+Priv. vom 10./5. 1894, 44/1506.
+„ Pat.-Nr. 2062. Galvanische Batterie mit flüssigkeitsdichtem den
+Abzug von Gasen durch den Depolarisator zulassendem Ver­
+schluss.— Siemens& Halske in Wien. 15./4. 1900.
+83. Pat -Nr. 2074. Elektrische Uhr.— Fred Isaac G e t ty, Fabrikant
+in Chicago. 1./5. 1900.
+85. Pat.-Nr 2012. Filter mit elektrischer Wasserreinigung.—
+William Luther Teter und John Allen Heany, beide In­
+genieure in Philadelphia. 1./5. 1900.
+Auszüge aus Patentschriften.
+H. St. Maxim in London.— Einrichtung zum selbsttliätigen
+Regeln von Zügen, die aus elektrisch betriebenen Motorwagen
+bestehen.— Classe 20, Nr. 110.570 vom 19. April 1899.
+Eine starre Stange E ist mittelst geeigneter Kupplung
+(z. B. Zahnstange und Zahnsector) mit der elektrischen Steuerung U
+jedes Wagens A verbunden und befähigt, in Folge einer Be­
+wegung eines der Wagen mit Bezug auf die anderen, aus ihrer
+Normalstellung, in der sie durch mechanische Mittel (z. B. Flüssig-
+koits- odor Federbremse 6) gehalten wird, sich zu verschieben
+und dabei die Steuerung D des betreffenden Wagens derart ein-
+zustellon, dass die Stärke des in den Motor B gesandten elektrischen
+Stromes entweder vermindert oder vermehrt wird, je nachdem
+die Bewegung des Wagens beschleunigt odor verzögert war. (Fig. 1.)
+Andrew L. Itikcr in Borougli of Brooklyn, N. Y. Y. S. A.—
+Elektrische Anlassvorrichtung mit elektromagnetisch aus­
+gelöster Aussclialtvorrichtung.- Classe 21, Nr. 110.764 vom
+8. Deccmber 1898.
+Gegenstand vorliegender Erfindung bildet oine elektrische
+Anlassvorrichtung mit elektromagnetisch ausgelöster Ausschalt­
+vorrichtung. Die Ausschaltung wird sowohl bei übermässigem
+Anwachsen des Stromes boi Ueberlastung, als auch durch Ein­
+rücken der Bremse zu Folge eines dadurch geschlossenen be­
+sonderen Stromkreises bewirkt.
+Fig. 2. Fig. 3.
+Eine Ausführungsform besteht darin, dass die Oeffnung
+der Ausschaltvorrichtung D, die in bekannter Weiso nur bei
+völlig eingeschaltetem Widerstand durch den Arm H der Rege­
+lungsvorrichtung geschlossen werden kann, durch Lösung der
+Sperrung O mittelst des Elektromagnetes S mit zwei Wickelungen
+bewirkt wird. Die eine der Wickelungen liegt im Hauptstromkreis
+und die andere in oinem durch den Bremshebel E zu schliessenden
+Zweigstromkreis. (Fig. 2.)
+Ernst Preuss in Charlottenburg.— Ein Rollcnstromabnelimer
+für elektrisch betriebene Fahrzeuge.— Classe 20, Nr. 111.010
+vom 18. April 1899.
+Die Stromabnehmerrolle r läuft auf einem kugelförmigen
+Zapfen z derart, dass sich die senkrechte Mittelebene der Rolle
+den Curven des Leitungsdrahtes entsprechend einstellen kann,
+während ein Kippen der Rolle aus oiner senkrechten in eine
+schiefe Ebene durch entsprechende Anschlagrollen a ver­
+hindert wird. (Fig. 3.)
+Geschäftliche und finanzielle Nachrichten.
+Brunner elektrische Strassenbahnen. Der Stadt­
+gemeinde Brünn wurde im Vereine mit der O e s ter­
+reich ischen Union-Ele kt ricitäts-Gesellschaft
+in Wien die Bewilligung zur Errichtung einer Actiengesellschaft
+unter der Firma: „Brunner elektrische Strassen-
+b ahne n“ mit dem Sitze in Brünn ertheilt. Diese neu zu bil­
+dende Gesellschaft tritt, wie aus ihren Statuten hervorgeht, in
+alle Rechte und Verbindlichkeiten der Stadtgemeinde Brünn aus
+der ihr verliehenen Concession zum Betriebe eines einheitlichen
+elektrischen Strassenbahnnetzes, sowie in die Rechte und Ver­
+bindlichkeiten der Union- Elektricitäts- Gesellschaft aus dem
+zwischen derselben und dem Brünner Gemeinderathe im Jahre
+1898 geschlossenen Vertrage, sowie dem späterhin hiezu abge­
+schlossenen Nacktrags-Uebereinkommen. Das Gesellschaftscapital
+beträgt 6,200.000 K, zerlegt in 31.000 Stück Actien ii 200 K
+und kann durch Ausgabe weiterer 1000 Stück Actien um
+200.000 K bis zur Höhe von 6,400.000 K vermehrt worden.
+
+Nr. 40.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seitej487.
+Eine weitergehende Erhöhung bedarf der staatlichen Genehmigung.
+Hinsichtlich eines Theilbetrages von 1,940.000 K erfolgt die Ein­
+zahlung in der Weise, dass die derzeit bestehenden, im Statut
+angeführten Brunner Strassenbahnlinien sammt Zubehör in das
+Eigenthum der Gesellschaft übergehen und hiefür 9700 Stück
+Actien ä 200 K an Zahlungsstatt übernommen werden. Hin­
+sichtlich des Restbetrages erfolgt die Einzahlung in Barem. Hie
+Dauer der Gesellschaft ist unbeschränkt. Bis zur Eröffnung des
+Betriebes auf den zu errichtenden elektrischen Linien können
+den Actionären vier Percent Zinsen insoforne zu Lasten dos
+Baucontos bezahlt werden, als diese Zinsen nicht in den Betriebsergeb­
+nissen ihre Deckung finden. Der allgemeine Reservefonds wird
+bis. zur Höhe von zehn Percent des Actiencapitals dotirt. Am
+22. d. M. fand im Sitzungssaale des Brünner Rathhauses die
+eonstituirende Sitzung des Verwaltungsrathes statt. Den Vorsitz
+führte der Präsident der Oesterreichischen Union-Elektricitäts-
+Gesellschaft in Wien Herr Hugo Noot; als landesfürstlicher
+Commissär fungirte Herr Bezirkshauptmann Ritter von Onciul,
+als lc. k. Notar Herr Dr. Windsor. In den Verwaltungsrath,
+in welchen auf Grund ihres Vertrages die Stadtgemeinde Brünn
+ein Viertel der Mitglieder, und zwar die Herren Vice-Bürger-
+meister Rudolph Rohr er und Gemeinde- Ausschussmitglied
+Hochstätte r entsandte, wurden weiters gewählt die Herren
+Hugo Noot, S. Koche rthaler (Berlin), Dr. Friedrich M.
+K1 o b (Brünn), Dr. Richard F o rregger (Wien), Rudolf
+Menkhoff (Berlin) und O. Buhlmann (Berlin); weiters zu
+Revisoren die Herren: Anton Isaak (Wien) und Johann
+Reibhorn (Brünn); Ersatzrevisor: Herr Director Wilhelm
+Turetschek. Bei der Constituirung wurde Herr H. Noot zum
+Präsidenten und Herr S. K oche rthaler zum Viee-Präsidenten
+des Verwaltungsrathes gewählt.
+Czernowitzer Elektricitiitswerk und Strassenbalm-Gesell-
+Schaft. Am 30. Juni fand in Czernowitz unter dem Vorsitze des
+Verwaltungsrathspräsidenten Anton Freiherrn von Koch a nowski
+und im Beisein des landesfürstlichen Commissärs Bezirks-
+commissärs Dr. Stefan Freiherrn von Wassilko-Serecki
+die diesjährige (1.) ordentliche Generalversammlung der Actionäre
+der Czernowitzer Elektrieitätswerk und Strassenbahn-Gesellschaft
+statt. Nach dem Geschäftsberichte beliefen sich im ersten Be­
+triebsjahre die Bruttoüberschüsse der Beleuchtungsanlage auf
+46.487 fl. Das Bahnunternehmen ergab ein Deficit von 11.994 fl.
+Doch erklärte sich die Elektricitäts- Actiengesellschaft vorm.
+Schuckert& Co. in Nürnberg bereit, für die ersten zehn
+Jahre eine viorpercentige Actiendividendo zu garantiren, falls ihr
+für die Zukunft keine Garantie für die Betriebskosten auferlegt
+werde. Die Generalversammlung genehmigte den Geschäftsbericht
+und Rechnungsabschluss und ertheilte dem Verwaltungsrathe das
+Absolutorium. Ferner beschloss die Versammlung, obigen Garantio­
+vertrag zu genehmigen und auf Grund desselben 33.381 fl zu
+Abschreibungen, 981 fl. zu Tantiemen, 1889 fl. zum Vortrag auf
+neue Rechnung zu verwenden und eine vierpercentige Actien-
+dividende auszuwerfen. Die ausscheidenden Verwaltungsraths­
+mitglieder Peter G i o r 1 i c h und Gottlob Paulus wurden
+wiedergewählt. In der nachfolgenden Verwaltungsrathssitzung
+wurden Anton Freiherr von Kochanowski und Nikolaus
+Freiherr von Mustatza neuerlich zum Präsidenten, bezw. Vice-
+präsidonten erwählt.
+Drahtseilbahn Felsü-Derna—Mezö-Telegd. Die in jüngster
+Zeit unter der Firma „Biliarer Kohlenbergbau- u n d
+Elektricitäts-Gesellschaft“ gegründete Actiengesell­
+schaft hat die der Firma „Ungarische Asphnlt-Actiengesellschaft“
+gehörende 20 km lange Drahtseilbahn Felsö-Derna—Mezö-Telegd
+käuflich erworben. Diese (eine der längsten der bestehenden Draht­
+seilbahnen) derzeit noch mit Dampfkraft betriebene Linie, deren
+Umwandlung auf elektrischen Betrieb beschlossen
+ist, geht im Bereiche des Comitates Biliar von der Station Mezö-
+Telegd der Hauptlinie Budapest—Nagyvärad (Grosswardein)—
+Kolozsvar (Klausenburg)— Brassö (Kronstadt)—Prodeal der kgl.
+Ungarischen Staatsbahnen aus und verbindet diese mit den reichen
+Kohlen- und Asphaltlagern der Felsü-Dernaer Abbaureviere.
+Die Accuniulatoren-Fabi'ik A.-G. in Berlin bogieng vor
+Kurzem ein eigenartiges Jubiläum. Seit dem Bestehen der Fabrik
+in Hagen ist ihr vor einigen Wochen die zehntausendste stationäre
+Batterie in Auftrag gegeben worden. In dieser Zahl sind nur die­
+jenigen Batterien inbegriffen, die von der Hagener Fabrik selbst
+zur Lieferung gekommen sind, so dass alle Anlagen, welche aus
+den Zweigfabriken in Hirsehwang in Niederösterreich
+und Budapest oder den zahlreichen Tochtergesellschaften
+hervorgegangen sind, nicht mitgezählt sind. Unter den fast in
+allen Theilen der Welt befindlichen Anlagen besitzen dio grössten,
+die jemals geliefert sind, eine Leistung von 2000 PS, z. B. die
+Batterien in den Stationen Mauerstrasse und Schiffbauerdamm der
+Berliner Elektricitätswerke. Ueber die stetige Entwickelung der
+seit dem 1. Jänner 1890 als Actiengesellschaft bestehenden
+Hagener Accnmulatoren-Fabrik, die eine lebensfähige Accumula-
+toren-Industrie überhaupt erst geschaffen und zu einer so hohen
+Blüthe gebracht hat, geben folgende Zahlen ein anschauliches Bild:
+. Netto-Umsatz nur der Verkaufte
+Geschäftsjahr Fabrik in Hagen’ Kilowatt
+1887/88 32.000 70
+1888/89 800.000 625
+1889/90 840.000 1.400
+1890/91 2,250.000 3.500
+1891/92 2,780.000 4.200
+1892/93 2,570.000 4.100
+1893/94 3,120.000 4.850
+1894/95 3,700.000 6.800
+1895/96 3,680.000 6.700
+1896/97 4,740.000 11.100
+1897/98 7,390.000 15.200
+1898/99 7,900.000 22 800
+1899/1900 8,500.000 24.100
+Die Zahl der in Hagen beschäftigten Arbeiter stieg von 77
+im Jahre 1888 auf gegenwärtig rund 950. An Beamten werden in
+den sämmtlichen Bureaus der Gesellschaft zur Zeit ca. 300 be­
+schäftigt. Der Bleiverbrauch des letzten Jahres betrug rund
+12,000.000 leg, was einem Consum von etwa 40 t pro Arbeitstag
+entspricht.
+Metall Statistik. Die M e t a 11 g e s e 11 s c b a f t in F r an k-
+f u r t a. M. veröffentlicht in Verbindung mit der ihr nahestehen­
+den Metallurgischen Gesellschaft ihre seit einer
+Reihe von Jahren herausgegebene Statistik. Die Berechnungen
+sind diesmal zum Theil auch auf das erste Halbjahr 1900 aus­
+gedehnt worden. Einleitend bemerkt der Bericht (B. B. C.),
+dass Blei- und Zinkhütten vielfach darunter litten, dass Erze und
+Zwisehenproducte zeitweilig unverhältnismässig hoho Preise be­
+dangen und die Selbstkosten infolge Theuerung der Brenn­
+materialien erforderten. In der Weiterfabrication machte sich
+dass Missverhältniss zwischen Gestehungskosten und Verkaufs­
+preisen gleichfalls empfindlich geltend. Die Beschäftigung der Werke
+liess aber zu keiner Zeit zu wünschen übrig. Was die einzelnen
+Metalle anlangt, so hat die Production von Blei, dio in den
+letzten Jahren ungewöhnlich stark gestiegen war, diesmal einen
+ansehn.ichen Rückgang aufzuweisen. Den grössten Productions-
+ausfall verzeichnet Spanien, dessen Erzeugung von vorjährigen
+180.500 l auf 161.800 t zurückgegangen ist, d. i. noch unter die
+von 1896. Die Gewinnung der Vereinigten Staaten hat sich um
+10.300 t vermindert; sie behauptet aber unverändert den ersten
+Platz. Der diesmalige Productionsausfall entfällt fast ganz auf
+Missouri und erklärt sich aus der Vernachlässigung der Blei­
+gruben infolgo der hohen Zinkerzpreise, die zu einer intensiveren
+Förderung von Zinkerzen Anreiz boten.. In Australien hat die
+Verhüttung der dortigen Bleierze weitoro Fortschritte gemacht^
+zum Theil als Zuschlag zu westaustralischen Golderzen. Darauf
+ist auch im Wesentlichen dio Verringerung der Production in
+Deutschland (um 3500 t auf 129.200 0, England (um 8500 t auf
+41.500 t) und Belgien (um 2800 t auf 16.500 0 zurückzuführen.
+In Wirklichkeit war Australiens Bleigewinnung um 17.000 t
+grösser, die Berechnung schliesst aber den im eigenen Lande
+verbrauchton sowie don nach Asien ausgeführten Theil aus. Nicht
+ganz so stark wie die Production ist der Verbrauch zurück­
+gegangen, um 14.000 t aut 762.000 /. Eine wesentliche Ver­
+brauchszunahme ergibt die Statistik nur für Deutschland
+(160.369 t gegen 155.372 t, 129.898 t, 121.980« und 111.652 t in
+den vier letztvorausgegangenen Jahren). Aber auch für Gross­
+britannien (204.944 t gegen 212.163 /), Frankreich (77.449 t gegen
+82.498 t) und die Vereinigten Staaten (215.178 t gegen 319.074 t)
+nimmt der Bericht einen Mehrverbrauch gegen das Vorjahr an
+auf Kosten der Vorräthe auf den Hütton. Die Preisangaben der
+Statistik für Blei reichen bis in das Jahr 1771 zurück. Die
+höchsten Preise (16 6 bis 35T5 Pfd. St.) zeigt Blei in den ersten
+beiden Decennien dieses Jahrhunderts, wohl im Zusammenhang
+mit den napoleonischen Ivricgon. Seit 1853 hat sich ein ziemlich
+stetiger Rückgang vollzogen, der 1894 bei 9.11.6 Pfd. St. seinen
+Tiefpunkt erreichte, aber für 1899 mit 15.1.6 Pfd. St. von keinem
+der letzten zehn Jahre übertroffen wird. Für die erston sechs
+Monate 1900 ergibt sich ein noch ansehnlich höherer Durch­
+schnittspreis. K u p fe r hat diesmal eine Productionssteigerung
+zu verzeichnen, wie in keinem der letzten zehn Jahre. Sie beträgt
+53.000/ gegen nur 9000 t in 1898 und 17.000/ in 1897, während
+das Jahr 1896 eine Zunahme von 42.000 t aufzuweisen hatte.
+Die Vereinigten Staaten behaupten mit einer Production von
+
+Seite 488.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 40.
+275.000 l (1898: 246.600 I, 1897: 230.185 /), von denen 115.788 t
+(1898: 149.828 /, 1897: 131.387 t) auf die Ausfuhr nach Europa
+entfallen, weitaus den ersten Rang unter den kupfererzeugenden
+Ländern. Der Montana-District (106.650 l gegen 97.400 t im Vor­
+jahr) hätte eine noch grössere Production gehabt, wenn nicht Bo-
+Sitzstreitigkeiten zwischen den dortigen Bergwerks-Unter­
+nehmungen der Erzeugung hinderlich gewesen wären. An zweiter
+Stelle der Kupferbergbau betreibenden Länder steht Spanien,
+das jedoch seine Erze nur zum kleinsten Theile selbst verhüttet,
+dann folgen Japan, Chile, Deutschland (hauptsächlich Mausfeld)
+und Australien, die auf ungefähr gleicher Stufe stehen. Der Ver­
+brauch hat um etwa 44.000 t zugenommen, in den Vereinigten
+Staaten allein um mehr als 70.000 t. Der Bericht schätzt aber
+ihren thatsächlichen Verbrauch nicht so hoch; es seien ganz be­
+deutende Vorräthe auf den Hütten und Raffinerien, die zum
+Theil erst im ersten Halbjahr 1900 vorwendet wurden, so dass
+der nach der Statistik sich ergebende Minderverbranch in don
+ersten sechs Monaten d.J. ebenso unwahrscheinlich sei, wio die
+überaus starke Zunahme im Jahre 1899. Die Verminderung des
+englischen Verbrauchs um etwa 60.000 t auf 82.400 t sowie
+andererseits eine Zunahme um etwa 14.C00 t im ersten Halbjahr
+1900 beruhe zum Theil wohl ebenfalls auf einer Verschiebung
+der Bestände. Deutschlands Verbrauch zeigt eine kleine Zunahme^
+eine Abnahme namentlich der Frankreichs, Oesterreich-Ungarns
+und Russlands. Das erste Semester 1900 lasse im Ganzen eine
+weitere Zunahme dos Verbrauchs erkennen; man dürfte an­
+nehmen, dass der Bedarf für elektrische Zwecke sich weiter ge­
+steigert habe, namentlich in England. Auch der grössere Bedarf
+für Munitionszwecke komme in Betracht. Endlich sei anzunehmen,
+dass die elektrische Industrie die Deckung ihres Bedarfs an­
+gesichts der hohen Kupferpreise so weit wie möglich hinausge-
+schoben habe. Der Durchschnittspreis für Kupfer, der von
+42.19.7 Pfd. St. in 1895 bis 1898 auf 51.16.7 Pfd. St. sich erhöht
+hatte, ist in 1899 sogar auf 73.13.9 Pfd. St. gestiegen. Der Durch­
+schnittspreis des ersten Halbjahres dürfte sich sogar noch etwas
+höher stellen als im gleichen Vorjahrsabschnitt. Bei Zinn hat
+im Gegensatz zu früher in den beiden letzten Jahren der Ver­
+brauch (diesmal 78.300 t gegen 85.200 t in 1898) die Erzeugnisse
+übertroffen, in 1899 um 6100 t (1898: 15.000 /), so dass die
+sichtbaren Bestände und die schwimmenden Zufuhren, die Anfangs
+1897 noch 40.742 t betragen hatten und bis 1. Jänner 1899 auf
+23.727 t zurückgegangen waren, sich weiter auf 21.012 t ver­
+minderten. Der Durchschnittspreis erhöhte sich in 1899 weiter
+von 71.4.1 Pfd. St. auf 122.8.7 Pfd. St. Die Weltproduction aus­
+schliesslich Chinas schätzt man auf etwa 81.200 t. Der Verbrauch
+wird mit 78.300 t ausgewiesen. Davon entfielen auf die Ver­
+einigten Staaten 33.783 t (i. V. 28.924 t), Grossbritannien 10.181 t
+(13.281t) und Deutschland 12.613 t (14.752 t).— Die Prodnctions-
+zunahme für Zink von etwa 21.000 t entfällt mit rund 14.000 t
+auf die Ver. Staaten, mit 2000 t auf Deutschland und die Niederlande
+und mit 3800 t auf Grossbritannien. Die Deutsche Production im
+ersten Halbjahr 1900 wird auf 71.500 t beziffert, auf ebensoviel
+die niederländische, d. i. zusammen 143.000 t gegen 225.105 t für
+alle diese Industrieländer im ganzen Jahre 1899. Der Gesammt-
+verbrauch erhöhte sich um etwa 20.000 t. Starke Zunahmen
+weisen auf: Vereinigte Staaten (17.200 t) und Belgien (6600 t),
+dagegen Abnahmen Grossbritannien (2100 t), Frankreich (5000 <),
+Oesterreich-Ungarn (3400 i). Der Verbrauch Deutschlands steht
+mit 130.295 i) (i. V. 128.167 t) an weitaus erster Stelle. Der
+Durchschnittspreis erhöhte sich von 24.12.2 Pfd. St. in 1896 bis
+1898 auf 20.8.9 Pfd. St. und in 1899 weiter auf 24.17-2 Pfd. St.
+Seitdem ist eine merkliche Abschwächung eingetreten, bis Juni d. J.
+auf 19.19.7 Pfd. St. gegen 26.11.11 Pfd. St. im vorjährigen Parallel­
+monat. Dieser Rückgang, sowie die weitgehende Vertheuerung
+der Brennmaterialien haben nach dom Bericht die Zinkhütten­
+industrie neuerdings in eine höchst kritische Lage gebracht.
+Nickel, dessen Hauptproduetionsstätten in Canada und Neu-
+Caledonien liegen, hatte in 1899 eine Erzeugung von 7350 t, die
+über sämmtliche der letzten 10 Jahre erheblich hinausgeht, über die
+vorjährige um rund 450/. Der Bedarfhatinfolge dersich immer mehr
+ausdehnenden Verwendung in der Stahlindustrie, in erster Linie
+für Marinezwecke, eine starke Zunahme erfahren. Trotzdem ist
+der Preis auf dem niedrigsten Satze von 2-50Mk. pro Kilogramm
+verblieben. Aluminium hatte eine Production von nur 13.292 kg-
+sie steigerte sieh ziemlich schnell, bis 1896 auf 1,659.676 kg. Den
+grössten Zuwachs weist das Jahr 1897 mit einer Gesammter-
+zeugung von 3,394.400 hg auf, die sich in 1898 weiter auf
+4,033.704 kg erhöhte, und in 1899 sogar auf 5,748.380 kg. Von
+der diesmaligen Erzeugung entfielen 2,948.380 kg auf die Ver­
+einigten Staaten, deren Production vor drei Jahren erst
+589.676 kg betrug, 1,300.000 kg auf die Schweiz, 1,000.000% auf
+Frankreich und 500.000 kg auf England. Der Verbrauch habe,
+soweit sich übersehen lasse, mit der gesteigerten Erzeugung
+Schritt gehalten. Die Production in Silber ist in Deutschland
+von vorjährigen 480-6 Dz. auf 467-6 Dz. zurückgegangen, in
+England von 310 Dz. auf 275 Dz., in Spanien und Portugal um
+31 Dz. auf 83-3 Dz. und in Italien um 12 6 Dz. auf 30'8 Dz.,
+wogegen Belgien eine Zunahme um 20'3 Dz., auf 120-9 Dz. ver­
+zeichnet. Der Preis des Silbers in London, 1896 im Durchschnitt
+noch 3OV4 d., war bis 1898 auf 26 15 /ie d. gesunken, konnte sich
+aber in 1899 auf 27 7 /j C d. erhöhen. Den tiefsten Stand hatte er
+nn August 1897 mit 24-99 d. Von da ab hob er sich unter
+einigen Schwankungen bis zum Mai v. J. wieder auf 28-15 d. und
+notirto im Juni d. J. 27-81 d. Den Verbrauch gibt die Arbeit
+II,? r “' r Deutschland an (d. h. das Plus von Production und
+Einfuhr über die Ausfuhr) mit 263-5 t gegen 236-6 t in 1898.
+Der Verbrauch dos ersten Halbjahres 1900 wird bei einer Pro­
+duction von 205 t (im ganzen Jahr 1899: 467-6 t) auf 131-7 t
+beziffert.
+Metall-Marktbericht vonBrandeis, GoldschmiiÜ
+^ Co., London, 21. September. Kupfer: Der Markt für
+Standard-Kupfer war ziemlich vernachlässigt. Bei nur kleinen
+Umsätzen hat der Preis langsam bis 73 Pf. St. 3 sh. 9 d. Casso
+und 73 Pf. St. 16 sh. 3 d. per 3 Monate nachgogeben. Wir notiren:
+Standard Kupfer per Casse 73 Pf. St. 2 sh. 6 d. bis 73 Pf. St.
+7 sh 6 d., Standard Kupfer per 3 Monate 73 Pf. St. 15 sh. bis
+74 Pf St. English Tough je nach Marke 76 Pf. St. 7 sh. 6 d.
+Df. St. 15 sh., English Best Selected je nach Marke
+79 Pf. St. bis 79 Pf. St. 10 d. American and English Cathodon
+je nach Marke 77. Pf. St. und 77 Pf. St. 5 sh. American
+and English Electro in cakes ingots and wirebars je nach Marke
+77 Pf. Sf. 10 sh. bis 77 Pf. St. 15 d.— Kupfersulphat:
+zeigt bessere. Nachfrage, die erste Hand hält fest auf 25 Pf. St.
+— Zinn: Die Nachricht, dass die Bancazufuhren im nächsten
+Jahre circa .2500 tons grösser werden, verursachte eine sehr
+naue, zeitweilig sogar eine panikartige Stimmung. Der Preis fiel
+Mittwoch bis 126 Pf. St. Casso und 124 Pf. St. per 3 Monate,
+hob sich dann bis 129 Pf. St. und 126 Pf. St. 10 sh., hat aber
+diese letzteren Preise nicht behauptet. Wir notiren: Straits Zinn
+per Casse 126 Pf. St. 10 sh. bis 126 Pf. St. 15 sh., Straits Zinn
+per 3 Monate 123 Pf. St. 10 sh. bis 124 Pf. St. Austral
+Zmn jo nach Marke 127 Pf. St, bis 127 Pf. St. 10 sh., Englisches
+Lammzinn 130 Pf. St. 10 sh. bis 131 Pf. St. 10 sh., Bancazinn in
+Holland 77 fl., Billiton in Holland 76 3/ 4 fl.— Antimon: knapp
+a 37 Pf. bt. 10 sh. bis 38 Pf. St. ■— Zink: hatte sich weiter
+auf 19 Pf. St. 5 sh. gebessert und schliesst schwächer mit
+19 Pf. St. 2 sh. 6 d.- Blei: stetig 17 Pf. St. 17 sh. 6 d.
+— Quecksilber: leblos h 9 Pf. St, 2 sh. 6 d.— Silber
+war weniger gut und fiel bis 283/ 4, notirt zum Schluss nach 28-V 4
+wieder 28 7| 8.
+Berichtigung:
+Auf Seite 434 des Heftes Nr. 36 sind nachfolgende Richtig­
+stellungen vorzunehmen:
+Es muss heissen:
+statt 9575 kg 9575 l
+„ 9535„ 9535„
+„ 3 43 leg 3-43 l.
+9535
+Statt= 54-062 kg Dampf
+muss es heissen:
+176M7~~ 1081 1Cff Dam P f>
+statt Zusammen: 279.000 kg
+„ 379.000„
+Schluss der Redäction: 25. September 1900.
+Verantwortlicher Redacteur: Dr. J. Sahulka.— Selbstverlag des Elektrotechnischen Vereines.
+Commissionsverlag bei Spiel hagen& Schur ich, Wien.— Alleinige Inseraten-Aufnahmebei HaasensteiniSc Vogler (Otto Maass), Wien und Prag
+Druck von R. Spies& Co., Wien.
+

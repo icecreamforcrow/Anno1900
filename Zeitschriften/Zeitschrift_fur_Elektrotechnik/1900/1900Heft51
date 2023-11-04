@@ -1,0 +1,1342 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 51. WIEN, 16. Decemker 1900. XVIII. Jahrgang.
+Bemerkungen der Jtedact.ion: Ein Nachdruck aus dem redactionellen Tlieile der Zeitschrift ist nur unter der Quellenangabe
+„Z. f. E. Wien“ und bei Originalartikeln überdies nur mit Genehmigung der Iiedaction gestattet.
+Die Einsendung von Originalarbeiten ist erwünscht und werden dieselben nach dem in der Redactionsordnung festgesetzten Tarife
+honorirt. Die Anzahl der vom Autor event. gewünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Manuscripte bekanntgegeben werden.
+INHALT:
+Grössenbestimmung von Accumulatoren-Battei’ien. Von Ing.
+Edmund Suchy 609
+Zur Theorie der Synchronmotoren und Wechselstrom-Gene­
+ratoren. Yon Dr. Ing. E. E. Seefehiner 611
+Die Elektricität auf der Pariser Weltausstellung 1900. Dreh­
+strommaschine von Siemens& Halske A.-G. in Berlin 612
+Kleine M i 11 h e i 1 u n g e n.
+Verschiedenes
+Ausgeführte und projectierte Anlagen ....
+Patentnachrichten.....
+Geschäftliche und finanzielle Nachrichten..
+Vereinsnachrichteil
+615
+ö L 6
+617
+619
+620
+Grössenbestimmung von Accumulatoren-Batterien.
+Von Ing. Edmund Suchy.
+Wie bekannt, ändert sieb die Entladecapacität
+einer Accumulatoren-Batterie je nach der entnommenen
+Stromstärke in dem Sinne, dass die Capacität steigt,
+wenn die Entladestromstärke reduciert wird.
+Die riebtige Bestimmung einer Batteriegrösse auf
+Grund einer gegebenen Consum-Curve möge im Fol­
+genden erläutert werden.
+Untenstehende Fig. 1 zeigt das Verhältnis von
+Strom und Capacität zu verschiedenen Entladezeiten.
+Fig. 1.
+Der in der Praxis gegebene Fall der Grössen-
+Bestimmung liegt für gewöhnlich so, dass für diese das
+Entlade-Diagramm in irgend einer Form, z. B. wie in
+Fig. 2 gegeben, erscheint.
+Die gezeichnete Fläche entspricht der thatsächlich
+benöthigten Capacität. Sie ist jedoch nicht identisch
+mit jener Capacität, welche die Batterie bei constanter
+Entladestromstärke zu gleicher Zeit aufweist, da ja die
+Capacität sich je nach der Entladestromstärke, also in
+gegebenem Falle in jedem Zeitdifterential, ändert.
+Betrachten wir zuerst den Fall, dass die Grösse
+der Batterie bekannt sei, und es wäre die Aufgabe ge­
+stellt, zu ermitteln, ob diese Batterie hinreicht, den in
+Fig. 2 dargestellten Consum zu decken. Die Capacitäts-
+Curve der Batterie sei durch Fig. 1 gegeben. Die ge­
+gebene Fläche wird in eine Anzahl von Rechtecken
+aufgelöst; die Höhen der letzteren entsprechen den
+mittleren Stromstärken, die Basis eines jeden sind
+gleiche Zeiteinheiten, z. B. Stunden.
+Pig. 2.
+Wir bezeichnen mit
+A das Arbeitsvermögen der Batterie, d. i. deren
+Fähigkeit, während bestimmter Entladezeit eine bestimmte
+Capacität zu geben.
+Cj, C 2, C 3.■■ C u die Capacität dieser Batterie bei
+I, 2, 3... n ständiger Entladezeit.
+J 1; t/ 2, J.,... ./„ die diesen Capacitäten entspre­
+chenden Stromstärken.
+Tj, T 2, T g... T n die zugehörigen Zeiten.
+t den Zeitabschnitt der Theilung in Fig. 2.
+h) hi *3••• ®n die Stromstärken in Fig. 2.
+Die Stromstärke tj entspricht, in das Diagramm
+Fig. 1 verlegt, irgend einer Capacität C' x. Sie ist iden­
+tisch mit der hier erscheinenden Stromstärke J x, mit
+welcher man constant T x Stunden entladen könnte.
+Thatsächlich entladen wir jedoch blos die Zeit t hin­
+durch; es ist also klar, dass blos ein Theil— des ge-
+
+Seite 610.
+ZEITSCHRIFT FÜR IXEKTKOTKOIINIK.
+Nr. 51.
+sammten Arbeitsvermögens der Batterie aufgebraucht
+wurde. Aehnlich verhält es sich mit der Stromstärke i 2.
+Dieser entsprechen im Diagramme die Capacität O y,
+die Stromstärke J y und die Zeit T y- es wird also hie­
+durch hlos ein^ Theil des ganzen Vermögens der
+y
+Batterie entladen worden sein, u. s. w.
+Die Batterie wird zu klein sein, wenn die Summe
+aller dieser Brüche grösser ist wie 1, sie wird genau
+entsprechen, wenn
+71 I rp I rp 1
+= 1 ... 1)
+sie ist zu reichlich dimensioniert, wenn diese Summe
+kleiner ist wie 1.
+Fig. 3 zeigt, dass die Linie der Capacität inner­
+halb der verwendeten Grenzen nahezu eine Gerade
+bildet, welche die y Achse hei Verlängerung im
+Punkte Ä schneidet.
+Die Ordinate würde also unter der Annahme, dass
+die genannte Linie eine Gerade sei, die Capacität bei
+einer Entladezeit o darstellen. Thatsächlich nimmt die
+Linie den punktiert gezeichneten Verlauf. Da jedoch
+bei stationären Batterien dieser gekrümmte Theil nicht
+Verwendung findet, kann die genannte Annahme mit
+vollständiger Genauigkeit in Betracht gezogen werden.
+Auf Grund dieser Annahme lässt sich die Capa­
+cität C n wie folgt durch die Zeit T n ausdrticken.
+1 -(- n t b.
+3.)
+Dieser Werth a bildet gleichsam die Charakte­
+ristik der Accumulatoren-Batterie; vermittelst der
+Gleichung 2 lässt sich aus demselben die Capacität bei
+jeder beliebigen Entladezeit ermitteln.
+Als einfaches Beispiel der Anwendung des oben
+Gesagten möge Folgendes dienen:
+Eine Batterie hätte den in Fig. 4 dargestellten
+Consum zu decken, d. i. also durch 2 Stunden 50 Amp.,
+durch 1 Stunde 100 Amp., durch 5 Stunden 30 Amp,
+Fig. 4.
+C n= a (1+ b T„)..--. .2)
+Hiebei ist a die sich nach Fig. 3 ergebende schein­
+bare Capacität in einer Entladezeit= o, b eine Con-
+stante, welche für sämmtliche Typen einer Batterie-
+Construction gleich, für die verschiedenen Arten von
+Batterien sehr wenig verschieden und im Mittel den
+Werth 0'06 hat.
+Es ist aber auch weiters
+und daraus
+Cn= Jn X Tn= O (1+ 1 T n)
+J n— a. b
+Setzt man diese Werthe für T in die Gleichung 1),
+wobei an Stelle der Stromstärke J dann natürlich die
+jeweiligen Ströme i treten, so erhält man
+t (%— a b) t (i 2— ab)
++
+t (4— ab)
+Es ist: t= 1
+n— 8
+4= i 2— 50
+i 3= 100
+4 —— 4— 4 == 4 4— 30
+b= 0-06
+und hiermit
+1 X 350 350
+1+ (8 X 1 X 0-06)_ P48
+a— 237.
+Jene Batterie, welche also zur Deckung obigen
+Consums henöthigt wird, muss demnach ein Arbeits­
+vermögen besitzen, welches bei 3-stündiger Entladung
+eine Capacität von
+C 3= 237 (1+ 0-06 X 3)= 280 Amp.-Std.
+ergibt. Die Capacität bei 5-stündiger Entladezeit be­
+trägt dann
+C 5= 237 (1+ 0-06 X 5)= 308 Amp.-Std.
+daraus ergibt sich
+a
+a
+
+Nr. 51.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 611.
+Zur Theorie der Synchronmotoren und Wechselstrom-
+Generatoren.
+Von Dr. Ing. E. E. Seefelilner.
+Im Anschluss an die kurzgefasste Wiedergabe
+der Theorie des Inductionsmotors von G. Ossanna
+in der E. T. Z., Berlin. 1900, H. 34, hat sich in der
+genannten Zeitschrift über diesen Gegenstand eine sehr
+fruchtbare Discussion entwickelt, die einige Fehler zu
+Tage förderte, die sich in die Grundlagen der graphischen
+Lösung der Inductionsmotor-Probleme eingeschlichen
+hatten.
+Es ist das Verdienst der Herren F. Emde
+(Berlin) und K. Kuhlmann (Darmstadt), die latenten
+Fehler aus der Theorie des Inductionsmotors eliminiert
+zu haben, indem sie den Beweis erbracht haben, dass
+hei richtiger Betrachtung der magnetoelektrischen
+Configuration des Inductionsmotors, das Ampere­
+windungsdiagramm und das Feld-
+diagramm nicht identisch sind.
+In einer kürzlichst in der Vereinszeitschrift ver­
+öffentlichten Abhandlung: „Beitrag zur Theorie der
+Synchronmotoren und Wechselstromgeneratoren“*), habe
+ich den Synchronmotor bezw. den Wechselstromgene­
+rator als Specialfall des Inductionsmotors behandelt.
+Als Grundlage habe ich hierbei das Heylan d’sche
+Diagramm acceptiert, in der Form, wie es von
+Behrend, Kapp und anderen benützt wurde.
+Durch die Festlegung des genannten Fehlers des
+Inductionsmotordiagramms sehe ich mich veranlasst,
+meine Arbeit in dieser Richtung ebenfalls zu ergänzen.
+Zunächst wiedergebe ich den Gedankengang des
+Herrn Kühl m a n n (E. T. Z. 1900, H. 43, S. 894).
+Die Symbole sind dieselben, wie in meiner citierten
+Arbeit.
+— ist diejenige Erregung, die nüthig wäre, im ideellen
+v i
+magn. Widerstand W den Fluss N t zu erzeugen.
+Den im Läufer bestehenden Fluss A 2' können
+wir uns durch eine ideelle erregende Kraft m 2‘ erzeugt
+denken, welche durch folgende Beziehung mit m x ver­
+knüpft ist.
++4)=»%w =i' v
+sind die
+II. Spule erregt wird.
+Analog-
+Beziehungen,
+wenn hur die
+Ah
+A,
+: A 2j+ A", da W s= 0
+W+ W W+ v 2' n
+h
+^= «i
+(— -f —]
+w~ w
+51
+Die im I. Tlieil übertragene Erregung
+"h n, n
+Nl~ W+ W W^^
+k
+m x
+: W
+1_
+v i
+Fig.
+*) Siehe „Z. f. E.“ 1900, Seite 454 u. d. folg.
+A 1E( W+ -^)= x i und A 2B( W+ ^)
+A„ _Ü- 1
+iV lR•-
+Na= -ibw
+v y' W
+Diesen Beziehungen entspricht das Diagramm
+Fig. 2; die stark gezogenen Linien stellen das Amp.-
+Windungsdiagramm dar. Das Felddiagramm ist unver­
+ändert heibehalten.
+OC= —; OA— m y; AH= v y m 2; OH= x y
+OK= x 9
+Aus den geometrischen Beziehungen folgt
+AH OA m, AH
+CD
+OA m.
+— —-— —; somit
+OC m x m 2
+v l
+AH— v, m.,
+c>
+
+Seite 612.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 51.
+analog für das II. Diagramm
+KL r 2 w? t.
+Im I. Amp.-Windungsdiagramm wird also die
+resultierende Erregung x l— OH der gesammten I. Er-
+regung m i= OA— C. J x n x und der „übertragenen“
+II. Erregung m 2= AH= J 2 n 2, die vom p r i-
+m ä r e n und nicht vom seeund ii r e n Streufactor
+abhängig ist, zuzusehreiben sein.*)
+Für Kurzschluss gilt demnach die Beziehung
+v l ^2 n 2= D ^1 91 1
+und muss dementsprechend in meiner Abhandlung
+statt v 2 überall r t gesetzt werden.
+Die Richtigkeit der dort entwickelten Anschau­
+ungen, sowie die Versuchsresultate bleiben hierdurch
+unberührt. Geändert wird nur die physikalische Be­
+deutung des Factors „r 2 ££, indem darunter ein Maass
+für die primäre— Anker— Streuung zu verstehen ist.
+Auf diese Art findet sich auch die Erklärung für
+die besonderen Werthe von r 2.
+Die an der Dreiphasendynamo ausgeführte Ver­
+suchsreihe ergab für die 4 untersuchten Schaltungen
+die Werthe
+v 2= 0-830 0-810 0-695 0’540.
+Obzwar die an einer Maschine mit sehr grosser
+Streuung— Siemens Wechselstrommaschine, Anker
+ohne Eisen —• angestellten Versuche zeigten, dass der
+Streuungsfactor von den magnetomotorischen Kräften
+beider Wickelungen beeinflusst wird, schien die aus
+der oben gegebenen Zahlenreihe ersichtliche
+sehr bedeutende Veränderlichkeit der
+II. Streuung— Schenkelstreuung— bei verschie­
+dener Ausnützung des I. Wickelungsraumes,. über
+Erwarten gross. Durch Richtigstellung der
+physikalischen Bedeutung des fraglichen Factors er­
+scheinen die besonderen Werthe gerechtfertigt.
+Die Grösse der primären Streuung ist im Wesent­
+lichen bedingt durch den magnetischen Widerstand
+des Streupfades. Unter sonst gleichen Umständen wird
+die Länge des Luftweges der Streulinien umso grösser,
+je mehr der Wickelungsraum ausgenützt wird.
+Dem entsprechend wird der I. Streufaetor grösser,
+wenn eine Dreiphasenmaschine in allen Phasen arbei­
+tet, als wenn nur ein oder zwei Phasen in Betrieb
+sind; daher also die 40% betragenden Unterschiede
+in den angeführten Werthen von v 2, richtiger von v t.
+Die Elektricität auf der Pariser Weltausstellung 1900.
+Drehstrommaschine von Siemens &Halske A.-G.
+in Berlin.
+Die Firma hat auf der Ausstellung eine Dreh­
+strommaschine für 2000 Kilovoltampere (bei inductions-
+freier Belastung) ausgestellt, welche Drehstrom von
+2000—2200 V verketteter Spannung und 50 secundl. os
+liefert. Dieselbe ist mit einer verticalen, dreistufigen
+Condensations-Dampfmaschine von Borsig direct ge­
+kuppelt.
+Die Dampfmaschine ist bei 90 Touren pro Min., einer
+Dampfspannung von 14 Atm. und 20% Füllung für
+*) Während der Drucklegung dieses Aufsatzes ist in
+Heft 49, der „E. T. Z.“, Berlin, ein Brief des Herrn G. Ossanna
+erschienen, in dem er das Problem ganz allgemein mit
+Berücksichtigung aller magnetischer Wider­
+stände behandelt und zum analogen Resultat gelangt.
+2500 PS bestimmt; um die vorgeschriebene Zahl von
+50 oj einzuhalten, läuft sie jedoch in der Ausstellung
+nur mit 83\5 Touren und kann bei der ebenfalls vor­
+geschriebenen Dampfspannung von 10 Atm. 2000 PS
+liefern. Von den vier mit Collmann-Steuerung ausge­
+rüsteten Cylindern der Maschine sind je zwei über­
+einander angeordnet; die beiden unteren sind die
+parallel geschalteten Niederdruckcylinder. Ueber dem
+einen derselben befindet sich der Hochdruckcylinder,
+auf dem anderen sitzt der Mitteldruckcylinder. Die
+Cylinder arbeiten mit zwei um 180° versetzten Kolben­
+stangen auf die Maschinenwelle, die auf der einen Seite
+zwei gekuppelte, einfach wirkende Luftpumpen für die
+Einspritz-Condensation und auf dem anderen Ende das
+Magnetrad der Dynamo und die fliegend aufgesetzte
+Erregermaschine antreibt. Zwischen der Dynamo und
+einem der Maschinenständer sitzt ein Schwungrad. Die
+Welle ist in sechs Lagern unterstützt, von denen vier
+den Maschinenständern angehören und zwei zu beiden
+Seiten der Dynamo angeordnet sind. Zum Ingangsetzen
+der Maschine dient ein 5 KW Gleichstrommotor, der
+durch ein Zahnradgetriebe in das Maschinenschwungrad
+eingreift.
+Der Generator (Fig. 1.) gehört der Type der Ra­
+dialpolmaschinen an: die feststehende inducirle Ar­
+matur, in deren Innerem das Magnetrad rotiert. Dasselbe
+wird von einem zweitheilig gegossenen, achtarmigen
+Schwungrad gebildet, an dessen Radkranz 72 unter-
+theilte Polstticke von rechteckigem Querschnitt an­
+geschraubt und zur Sicherung gegen die Tangential­
+kräfte mit einem Ansatz in eine entsprechende Ruth
+des Radkranzes eingreifen. In eine Ausnehmung der
+Eisenbleche ist ein Stahlprisma von rechteckigem Quer­
+schnitt eingelegt, welches das Muttergewinde für die
+drei Schraubenbolzen enthält, mit denen jedes Polstück
+an den Radkranz befestigt ist. An zwei gegenüber­
+liegenden Polflächen sind hohle Broncestiicke angebracht,
+um welche die Wickelung herumgelegt wird. (Fig. 2
+und 3). Durch diese Hohlräume und einen Ventila­
+tionscanal, der zwischen den Blechen durch Distanz­
+stücke aufrechterhalten wird, wird eine gute Ventilation
+erzielt. Um jeden Pol wird ein Kupferband von
+4 X 23 mm Querschnitt hochkantig gewickelt und die
+einzelnen Windungen durch imprägnirte Leinwand
+isoliert.
+In Fig. 4 ist der Gusskörper dargestellt, in
+welchen der Ankerkörper eingebaut ist. Zwei concen-
+trische Ringe, miteinander durch Speichen verbunden,
+bilden eine Art Tragkranz; zwischen zwei parallel ge­
+stellten Tragkränzen sind Gussstücke zur Aufnahme
+und Befestigung der Ankerbleehe eingebaut. Hierauf wird
+das ganze Gehäuse innen und aussen abgedreht. Von
+besonderem Interesse ist die Lagerung des Inductor­
+gehäuses. Um nämlich eine leichte Centrirung zu er­
+möglichen, wird der Inductor mit seiner aussen abge­
+drehten Cylinderfläche auf zwei Rollen gelegt, welche
+in Fig. 1 im Fundament ersichtlich sind. Durch ab­
+wechselndes Heben und Senken derselben kann der
+Mittelpunkt des Gehäuses gehoben und gesenkt und
+zur genauen Coincidenz mit der Magnetradachse ge­
+bracht werden. Ist dies geschehen, so werden die Lager­
+pranken an das Fundament angeschraubt. Die Anker­
+bleche von% mm Dicke bestehen, so wie das sie
+tragende Gehäuse, aus vier Quadranten und sind mit
+648 Ruthen versehen, in welche je ein Kupferstab ein­
+geführt und hierauf durch einen isolierenden Keil fest-
+
+Nr. 51.
+ZEITSCHRIFT FÜß ELEKTROTECHNIK.
+Seite 613.
+
+Seite 614.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 61
+gehalten wird. Die Isolierung der Kupferstäbe geschieht
+durch Glimmer, der direct um den Stab gepresst wird.
+Je 216 zu einer Phase gehörige Ankerleiter sind durch
+Kupferstücke miteinander verbunden; die drei Phasen
+sind in Stern geschaltet. Der gesammte Joule’sche
+Verlust in der Ankerwickelung beträgt bei Volllast
+14 KW, d. i. 0'7%.
+Den Erregerstrom liefert eine achtpolige Serien­
+maschine der gewöhnlichen Type mit aussen ange­
+ordneten Polen und Trommelanker, der auf der Ma­
+schinenwelle aufgekeilt ist. Die Maschine würde bei
+340 Touren 200 KW bei 210 T 7 Spannung liefern; es
+werden jedoch zur Erregung nur 28 KW bei mittlerer
+Leistung und 42'5 KW bei maximaler Leistung be-
+nöthigt. Der Strom wird von Kohlenbürsten abgenommen,
+die auf einem achtarmigen Bürstenträger angebracht sind.
+Fig. 4.
+Recht übersichtlich und leicht zugänglich sind
+die Schalt- und Reguliermechanismen angeordnet. Zu
+beiden Seiten eines kleinen Pultes, auf dem sich ein
+Voltmeter und ein Amperemeter für den Erregerstrom­
+kreis befindet, sind zwei Handrädchen angebracht,
+mittelst welcher einerseits der Regulierrheostat für den
+Nebenschluss der Erregermaschine und andererseits
+ein dreipoliger Hochspannungsausschalter unter Ver­
+mittelung von Ketten und Kettenrädern bethätigt werden
+kann. Beide Apparate sind in einer Vertiefung des
+I' undaments aufgestellt und ihre jeweilige Stellung wird
+durch einen Indicator an dem Tischchen angezeigt.
+Der Generator wird dadurch stromlos gemacht, dass
+man durch einen Schalter die Magnetbewicklung der
+Erregermaschine kurzschliesst.
+Die wichtigsten Dimensionen der Maschine sind
+in folgender Tabelle zusammengestellt:
+Dampfmaschine: 2000 PS, 83'5 minütliche
+Touren,] 0 Atm. Dampfspannung.
+Durchmesser des Hochdruckcylinders.. 760 mm
+„„ Mitteldruckcylinders. .1180„
+„ eines Niederdruekcylinders.. 1340
+Kolbenhub 1200”
+Gewicht des Schwungrades 4L8 t
+Schwungmoment PI Mill. m 2 //rr/
+Generator: 2000 Kilovoltampere bei inductions-
+freier Belastung, 2000 V, 50 cvi;
+Magnet r a d:
+Breite des Radkranzes 600 mm
+radiale Dicke 110„
+Durchmesser zwischen den Polflächen.. 5976„
+Schwungmoment 0'75 Mill. m 2 lku
+Polzahl 72
+Windungen pro Pol 40
+Querschnitt des Kupferbandes der Erreger­
+wickelung 4 X 23 mm 2
+Gewicht der Erreger Wickelung 4000 kg
+Widerstand der Erregerwickelung .... 1 ß
+In d uctor:
+Innendurchmesser
+Beite ....
+radiale Tiefe..
+Luftraum.
+Nuthenzahl 648 (216
+Tiefe der Nuthen
+Breite„„
+Kupferquerschnitt
+Gewicht des Ankerkupfers
+Widerstand einer Phase der Ankerwicklung
+6000 mm
+600„
+150„
+12„
+pro Phase)
+55 mm
+13„
+X 44 mm 2
+24/
+0-014 ü
+Die „Allgemeine Elektricitäts-Gesell­
+schaft“ in Berlin hat in der deutschen Abtheilung
+einen Drehstromgenerator ausgestellt, der jedoch
+nur Schauobject war und keinen Strom lieferte. Die
+Maschine, die bei 83 minütlichen Touren für eine
+Leistung von 3000 KW bei 50 oo pro Secunde bestimmt
+ist, gleicht den in der Centralstation in Berlin auf-
+gestellten grossen Drehstrommaschinen. Der Armaturring
+misst 8'6 m im Durchmesser, das 72polige Magnetrad
+misst 7-4 m im Durchmesser, das Gewicht der Maschine
+beträgt 160 t.
+Die Firma Gebrüder Körting in Ivürtings-
+dorf bei Hannover hat in dem deutschen Annex auf
+dem Marsfelde eine 30 PS Gasdynamo mit den zuge­
+hörigen Schaltvorriclitungen, einen Ventilator, der direct
+mit einem kleinen Elektromotor gekuppelt ist, sowie
+einen zum Betrieb einer Pumpe dienenden, langsam
+laufenden Elektromotor ausgestellt. Der Gasmotor hat*)
+Präeisionssteuerung und ist so eingerichtet, dass je nach
+der Belastung eine kleinere oder grössere Menge des
+Verbrennungsgemisches in die Maschine eingelassen
+wird, das Gemisch selbst in Bezug auf seine Zusammen­
+setzung jedoch stets das Gleiche bleibt; eine Aussetzung
+von Zündungen findet nicht statt. Der Motor ist wie
+alle neueren Gasmotoren mit elektrischer Zündung aus­
+gerüstet, die so eingerichtet ist, dass der Stromkreis
+eines Siemens’schen £-Ankers im geeigneten Moment
+unterbrochen wird und der Oeffnungsfunken das Gas­
+gemisch entzündet. Zum Anlassen des Gasmotors wird
+Pressluft verwendet, die von der oberwähnten Pumpe
+in einen Windkessel gepresst wird.
+*) Nach einem Berichte in der „E. T. Z.“, H. 30, 1900.
+
+ittlere spTiä'nsc’he Lichtstärke
+Nr. 51.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 615.
+Die mit dem Gasmotor direct gekuppelte Gleich-
+stromdynamo liefert 19*/ 4 KW bei 110 V. Innerhalb
+des achtpoligen Magnetsystems rotiert der Anker, der
+mit Stabwickelung in Serienschaltung versehen ist; der
+Strom wird von Kohlenbürsten abgenommen.
+Mit Rücksicht auf die grosse Raumersparnis ist
+beabsichtigt, auch die kleineren Dynamotypen, direct
+mit dem Gasmotor gekuppelt, in Ausführung zu bringen.
+In Vincennes hat die Firma eine 8 PS Spiritus­
+maschine ausgestellt, die mit einer Dynamo von 4‘7 KW
+Leistung gekuppelt ist. Mit geringen Aenderungen lässt
+sich die Maschine auch für den Betrieb mittelst
+Petroleum oder Benzin umgestalten. G.
+KLEINE MITTHEILUNGEN.
+Verschiedenes.
+Versuche am Gleichstromlichtbogen.*) Auf dem Congress
+in Chicago (1893) legte Prof. Ayrton als Resultate seiner
+Untersuchungen am Gleichstromlichtbogen u. a. auch solche
+Curven vor, welche die Beziehungen zwischen der mittleren
+sphärischen Lichtstärke des Bogens und der Stromstärke bei ver­
+schiedenen Bogenlängen darstellten. Aus diesen Curven schloss
+er, dass bei gleichem Strom die Lichtstärke mit wachsendem
+Bogen nur bis zu einer gewissen Grenze zunahm, über die hinaus
+eine Abnahme der Lichtstärke zu constatieren war, so dass es
+bei gegebenen Kohlen— in dem untersuchten Falle 13 mm Docht-
+Fig. 1.
+und 11 mm Homogenkohlen— für jede Stromstärke eine be­
+stimmte Bogenlänge gibt, bei der die maximale Lichtstärke auf-
+tritt. Diese interessante Erscheinung hat Prof. Carhart dem
+Congress als Ergebnis eigener Untersuchungen bestätigt. Aus
+den von Prof. Ayrton angegebenen Curven hat Frau Ayrton
+die Beziehungen gerechnet, die zwischen der mittleren sphärischen
+Lichtstärke und der Bogenlänge bei verschiedenen, während der
+Versuchsdauer constanten, Stromstärken bestehen; die Resultate
+dieser Berechnungen sind in Fig. 1 dargestellt. Man sieht aus
+den Curven nicht nur den Punkt des von Prof. Ayrton an­
+gegebenen Maximums der Lichtlieferung, sondern inan erkennt
+auch, dass, besonders bei starken Lichtern, in der Nähe von 2 mm
+Bogenlänge ein deutlich ausgeprägtes Minimum auftritt. Dasselbe
+Ergebnis liefern die Untersuchungen von Prof. B 1 o n d e 1 an
+10 Amp.-Lampen bei Bogenlängen bis zu 16 mm. B1 o n d e 1 hat
+*) Nach einem Vortrag von Frau Ayrton auf dem internationalen Elek-
+troteolmiker-Congress in Paris, 1900. Ijond. Elect. 12. Oct. 1900. Siehe auch „Z.
+f. E.“ 1899, S. 360, 370.
+4 Paare gleichartiger Kohlen, Dochtkohle als obere und Homo­
+genkohle als untere Elektrode, und den resp. Durchmesser i 8 /i 4,
+*Vi2j 10 /i0i s /ß mm verwendet. Aus den von ihm gewonnenen Re­
+sultaten lassen sich ebenfalls Curven für die Beziehung zwischen
+Lichtstärke und Bogenlänge zusammenstellen (.Fig. 2). Fast alle
+diese Curven zeigen ein ausgeprägtes Maximum bei 07, 1 resp.
+D/ 4 mm Bogenlänge. Von dort an sinkt die Lichtstärke, die
+Curve erreicht ein Minimum bei 2 mm Bogenlänge und strebt
+hierauf abermals einem Maximum zu.
+Um diese Erscheinung durch einen directen Versuch auf
+ihre Richtigkeit zu prüfen, hat -Frau Ayrton vergleichende
+Lichtmessungen an zwei 30 Amp.-Lampen angestellt, von denen
+die eine bei 1 mm, die zweite bei 2 mm Bogenlänge brannte; es
+wurden Dochtkohlen von 13 mm und Homogenkohlen von 11 mm
+verwendet. Aus einer grossen Zahl von Messungen, bei welchen
+mit grösster Strenge auf die Gleichartigkeit der Bedingungen
+geachtet wurde, ergab sich, dass der kürzere Lichtbogen mehr
+Licht ausstrahlte als der längere.
+Das von der Bogenlampe ausgestrahlte Licht geht von
+5 Stellen aus, u. zw.
+1. Vom Krater der positiven Kohle,
+2. von der weissen Spitze der negativen Kohle,
+3. von der dampfartigen Atmosphäre des Bogens,
+4. u. 5. von den rothglühenden Theilen beider Kohlenstäbe.
+Den grössten Antheil an der Lichtlieferung nimmt der
+Krater; jedoch wird ein Theil des von demselben ausgehenden
+Lichtes von der negativen Kohle abgeblendet. Sitzen die Kohlen
+aufeinander, so ist die Lichtausstrahlung behindert; je länger der
+Bogen ist, desto mehr Licht kann vom Krater ausgehen. Nun
+hat Capt. Abney (1881) nachgewiesen, dass die Lichtemissions­
+dichte, d. i. die von 1 mm2 der Kraterfläche ausgehende Liclit-
+Fig. 2.
+menge, weder von der Stromstärke noch von der Bogenlänge ab­
+hängig ist, sondern bei einer gegebenen Kohle constant bleibt.
+Andererseits hat Frau Ayrton aus ihren Versuchen gefunden,
+dass die Kraterfläche ein wenig mit wachsendem Bogen zunimmt,
+constanten Strom vorausgesetzt.
+Es hat sich ferner aus früheren Versuchen ergeben, dass
+die Fläche der weissen Spitze an der unteren Kohle bei con-
+stantem Strom unabhängig von der Bogenlänge dieselbe bleibt,
+demnach bei grösserer Kohlendistanz mehr Licht ausstrahlen kann.
+Das Licht der rothglühenden Theile der Stäbe tritt gegen
+die beiden ersteren Lichtquellen in seiner Bedeutung zurück;
+es wird aber die Lichtlieferung mit wachsendem Bogen wegen
+der grösseren Länge der glühenden Theile zunehmen. Auch der
+Bogen selbst wird bei zunehmender Länge wegen der ver-
+grösserten Oberfläche mehr Licht aussenden. Demnach wird die
+Lichtausbeute aus jeder einzelnen Lichtquelle mit wachsendem
+Bogen grösser werden, und es stünde zu erwarten, dass die
+Beziehungen zwischen der mittleren sphärischen Lichtstärke und
+
+Seite 616.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 51.
+der Bogenlänge sieh durch eine Curve etwa von der Form der
+in Fig. 3 gezeichneten, darsteilen Hessen.
+Um die Abweichungen zwischen der theoretischen Curve
+und der aus dem Versuche sich ergebenden erklären zu können,
+weist Frau Ayrton auf die verschiedene Form der Kohlen­
+spitzen hin, die sich je nach der Stärke des Stromes und der
+Länge des Bogens ergeben, und glaubt die Lichtabnahme beim
+2 mm Bogen durch die Schirmwirkung der negativen Spitzen zu
+Bogenlänge
+Fig. 3.
+2mm.
+V
+lm/m.
+Fig. 4.
+begründen. In Fig. 4 sind Kohlenspitzen dargestellt, wie sie sich
+hei 10 Amp., resp. 28 Amp. und bei 1 mm und 2 mm Bogenlänge
+ei geben haben. Auffallend ist die Spitze an der negativen Kohle,
+die besonders scharf bei dem stärkeren Bogenlicht hervorsticht,
+nui bei grosser Stromdichte und kurzem Bogen auftritt, beim
+längeren Bogen hingegen verschwindet und nach Frau Ayrton’s
+Meinung aus von der positiven Elektrode abfallenden Theilchen
+besteht. Wenn auch die Entfernung der negativen Kohlenspitze
+vom Krater der positiven Kohle in dem. einen Fall doppelt so
+gioss ist als im anderen, so ist doch der Abstand zw'ischen dem
+Klater und der Basis des glühenden Kegels bei beiden Bögen
+die gleiche; es ist jedoch, wie die Figur zeigt, die Spitze der
+negativen Kohle bei dem kleineren Bogen länger und dünner
+als bei dem grösseren, die erste steht also den Kraterlicht- i
+strahlen weniger hinderlich im Wege, als die breite, stumpfe
+Spitze der unteren Kohle beim 2 rum Bogen, mithin wird der
+kürzere Bogen mehr oder zumindest ebensoviel Licht aussenden
+als der längere.
+Es ist demnach, wie aus dem Gesagten hervorgeht, die
+vom Krater eines elektrischen Bogenlichtes ausgehende Licht­
+menge von zwei einander widersprechenden Bedingungen ab­
+hängig. Ueberwiegt die mit zunehmender Länge des Bogens an­
+steigende Lichtstärke der einzelnen Theilo desselben die Schatten­
+wirkung der negativen Kohle, so wird die gesammte Lichtstärke
+zunehmen, wie es beim 1 mm Bogen der Fall ist; behält die letz­
+tere die Oberhand, so nimmt die Lichtstärke der Bogen­
+lampe ab.
+Diese Erscheinung ist nicht nur von theoretischem Interesse;
+sie ist für die Praxis auch insofern von Wichtigkeit, weil der
+kürzere Bogen, wegen der zu seiner Erzeugung nothwendigen,
+geringeren Spannung, auch weniger Energie verzehrt. Um der
+Frage nach der Oekonomie des Bogenlichtes näherzutreten, sind
+zwei Dinge besonders zu beachten. Es soll erstens der grösst-
+möglichste Theil der dem Bogen zugeführten Energie in Licht
+umgewandelt, und zweitens der grösstmüglichste Theil des
+Lichtes ausgenützt werden. Wie aus früheren Untersuchungen
+von Frau Ayrton hervorgeht, wächst das Verhältnis der im
+Bogen ausgegebenen zu der von der Stromquelle gelieferten Energie
+bei constantem Strom mit abnehmender Kohlendistanz. Es gibt
+also der kürzere Bogen nicht nur mehr Licht, er hat auch einen
+höheren Wirkungsgrad als der längere. (Schluss folgt.)
+Her elektrische Scliiffahrtsbetrieb auf dem Teltow­
+canal ist in diesen Tagen Gegenstand öffentlicher Erörterung ge­
+wesen. Die Canalverwaltung hat sich nach der „B. B. Ztg.“ an
+verschiedene Körperschaften gewendet, um darüber gutachtliche
+Aeusserungen zu erlangen, ob die Einführung eines elektrischen
+Schiffahrtsbetriebes aut dem Teltowcanal zu empfehlen sei. Die bis
+jetzt bekannt gewordenen Aeusserungen erklären sich mehr oder
+weniger gegen einen einheitlich geordneten Schiffszug; es müsse
+den Schiffen überlassen werden, sich ihre Schleppkraft zu stellen,
+wie es ihnen am zweckmässigsten erscheine; jedenfalls müsse
+man den Dampfern, welche die Güterschiffe von beiden Seiten
+bis an den Canal gebracht hätten, auch eine Weiterfahrt auf dem
+Canale mit ihrem Anhänge gestatten, ohne die elektrische Schiff­
+zugseinrichtung der Canalverwaltung benutzen zu müssen. Dieser
+Anschauung gegenüber muss hervorgehobon werden, dass der
+elektrische Schiffszug, wie er versuchsweise auf dem Finowcanal
+zur Ausführung gekommen ist, doch grosse Nebenvortheile bietet.
+Dahin gehört in erster Linie, dass die am Canal entlang anzu­
+legenden elektrischen Kraftwerke gleichzeitig für Betriebszwoeke
+in der Landwirtschaft wie im Klein- und Grossgewerbe, für Be­
+leuchtung der Ortschaften, für Betrieb von Strassenbahnen elek­
+trische Kraft abgeben können. Dieser Vortheil kann und wird
+beim Teltowcanal so gross sein, dass die Kosten für den elek
+frischen Schiffszug sehr niedrig gehalten werden können. Die Be­
+fürchtung, dass die zur Ausübung des elektrischen Schiffszuges
+aut dem Leinpfade anzulegenden Geleise oder vielmehr die ein­
+zelne Schiene dem sonstigen durch Treideln mit Menschen und
+Pferden unterhaltenen Localverkehr hinderlich sein können,
+trifft durchaus nicht zu. Auch könnte ja den Schiffen, wenn sie
+von der elektrischen Schiffseinrichtung keinen Gebrauch machen
+wollen, ein Durchfahren des Canals mittelst eigener oder ge-
+■mietheter Dampfkraft gestattet werden, selbstverständlich unter
+entsprechenden Abgaben, da ja so wie so von allen Schiffen die
+Unterhaltung des Canals und die Verzinsung der Baukosten ge­
+tragen werden müssen. Man darf aber annehmen, dass schon
+sehr bald die Schiffseigner wegen der grösseren Billigkeit auch
+auf der verhältnismässig kurzen Strecke des Teltowcanals die
+bisherige Dampfschiffs-Schlepperei aufgeben und sich des elek­
+trischen Schiffszuges auf dem Canal bedienen werden.
+Ausgeführte und projectirte Anlagen.
+U ng a r n.
+Budapest. (Eröffnung der Linie Mestergasse
+der Budapests r elektrischen Stadtbah n.) Die
+Budapester elektrische Stadtbahn-Gesellschaft hat die von ihrer
+Linie aus am Franzensring abzweigend über die Mestergasse bis
+zum Franzstädter Bahnhofe führende elektrische Linie ausgebaut,
+und wurde diese 5 km lange neue Linie nach vorangegangener
+technischpolizeilicher Ueberprüfung am 4. d. M. dem öffentlichen
+Verkehre übergeben. Die Linie ist mit Oberleitung versehen, und
+ruhen deren Doppelschienen auf Betonunterlagen. An der Ecke
+der Mestergasse nächst dem Franzensring, und am Endpunkte
+beim Franzstädter Bahnhofe steht je eine Wartehalle. Die Wagen
+
+Nr. 51.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 617.
+dieser neuen Linie sind mit grün-weissen Tafeln versehen und
+verkehren dieselben vom Franzstädter Bahnhofe bis zum West­
+bahnhofe (der kön. ungarischen Staatsbahnen) direct. Der Fahr­
+preis für die ganze directe Fahrt beträgt pro Person 20 h, über
+die Mestergasse bis zum Endpunkte hingegen 12 h. M.
+Csaba und Bekes. (Project einer elektrischen
+Eisenbahn zwischen »Csaba und Bekes). Die Firma
+Ganz& Cie. hat den Städten Csaba und Bekes schon im Vor­
+jahre erklärt, dass sie bereit ist, zwischen den beiden Städten
+eine elektrische Bahnverbindung herzustellen. Die diesbezüglichen
+Verhandlungen sind derzeit im Gange und dürften dieselben zu
+einem günstigen Resultate führen. M.
+Patentnachrichten.
+Aufgebote. *)
+C] aB80_ Wien, am 1. December 1900.
+20. K r i z i k Franz, Firma in Prag.— Elektrische Block­
+signal-Einrichtung: Jedes Strecken-Blocksignal ist
+mit einem Motor versehen und steht mit zwei isolierten
+Contactschienen in Verbindung, von denen die vom Zug zuerst
+befahrene mit der „Halt“-Wickelung des Motors des zuge­
+hörigen Signales verbunden ist, während die zweite über einen
+von der Flügelantriebswelle bethätigten, nur bei Haltstellung
+des Öignales geschlossenen Schalter an die „Frei“-Wiekelung
+des Motors des vorhergehenden Strecken-Blocksignales an­
+geschlossen ist, wobei der Strom von Stromquellen auf den
+Zügen geliefert und den Motoren durch die Contactschienen
+beim Befahren derselben zugeführt wird. Der das Signal
+stellende Hebel ist mit einem Schlitz für den Eingriff einer
+vom Motor bewegten Kurbel versehen, welcher Schlitz von
+solcher Länge ist, dass die Kurbel in den beiden Endstellungen
+senkrecht zur Längsrichtung des Hebels am Ende des Schlitzes
+steht. Vor den auf Isolatoren angeordneten Contactschienen,
+auf welchen in der Fahrtrichtung und in der Höhenrichtung
+federnde Contactgeber schleifen, sind aufsteigend geschweifte
+Uebergangstheile angeordnet.— Angemeldet am 13. Juni 1899.
+— Joedicke Otto, Kaufmann in Mühlhausen i. Th.— Luft­
+weiche für elektrische Bahnen: Die drei Enden
+der Leitungskabel sind durch zwei bewegliche Weichenzungen
+miteinander verbunden, von denen die eine an beiden Enden
+seitlich bewegbar ist. Zur sicheren Führung der Stromabnehmer­
+rolle sind zu beiden Seiten der Weichenzungen Führungsbleche
+mit an den Enden erweiterten Längsschlitzen angebracht, in
+welch’ letztere Führungszapfen eingreifen, die durch Fort­
+setzung der Lagerachse der Stromabnehmerrolle gebildet
+werden.— Angemeldet am 19. März 1900.
+— S k a p s k i Heinrich, Forst-Ingenieur, und Dr. Hochberg
+Wilhelm, Advocat in Tarnow.— Elektrisch-pneuma­
+tische Bremsvorrichtung: In den Stromkreis einer
+auf dem Wagen befindlichen Batterie sind zwei Elektromagnete
+eingeschaltet, von denen der eine das an dem Bremssack an­
+gebrachte Ventil offen hält, während der andere eine Kuppelung
+ausrückt. Wird der Stromkreis unterbrochen, so wird die
+Kuppelung durch Federwirkung eingerückt und dadurch von
+den Wagenrädern aus eine Luftpumpe angetrieben, die den
+Bremssack aufbläht, nachdem das Ventil sich selbstthätig ge­
+schlossen hat.— Angemeldet am 11. November 1899.
+21. B a r k e r John Henry, Ingenieur, und E w i n g James Alfred,
+Professor, beide in Cambridge (England).— V orrichtung
+an Elektricitätszählern zum Anzeigen des
+grössten Betrages des zu geleiteten Stromes:
+Zur Anzeige des grössten Betrages des zu messenden Stromes
+sind zwei Bremsmagnete, zwischen deren Polen eine leitende
+Metallscheibe rotiert, um eine Achse drehbar angebracht. Wenn
+die Scheibe rotiert, so werden die Magnete zu Folge der indu-
+cierenden Wirkung um ihre Achse ein wenig verdreht und
+diese Bewegung sowie die jeweilige Stellung der Magnete
+*) Von den nachstehenden Patent-Anmeldungen einschliesslich der
+Gesuche um Umwandlung von angesuchten oder ertheilten Privilegien in
+Patente erfolgt hiemit, nach geschehener Vorprüfung, die öffentliche Bekannt­
+machung im Sinne des§ 57 und der §§ 120 und 121 Pat. Ges.
+Gleichzeitig werden diese Anmeldungen mit siimmtlichen Beilagen und
+die Beschreibungen zu diesen UmwandlungsgeBuchen in der Auslegehalle des
+k. k. Patentamtes durch zwei Monate ausgelegt.
+Innerhalb dieser Frist kann gegen die Ertheilung jedes dieser angemeldeten
+Patente und gegen die Umwandlung jedes dieser Privilegien Einspruch
+erhoben werden. Ein solcher Einspruch ist schriftlich in zweifacher Ausfertigung
+beim k. k. Patentamte einzubringen.
+Vom heutigen Tage an treten für die nacliverzeichneten Gegenstände zu
+Gunsten des Patentwerbers oder Umwandlungswerbers einstweilen die
+gesetzlichen Wirkungen des Patentes ein.
+Classe
+durch einen Zeiger angezeigt, der auf einer Scala einspielt.—
+Angemeldet am Ö. November 1899.
+21. CI oos Jacob, Ingenieur in Milwaukee.— Umschalt-
+apparat: Neben zwei fixen Traversen, die durch verschieb­
+bare Stifte sowohl mit der Stromquelle als auch mit dem Ver­
+brauchsstromkreis in Verbindung gebracht werden, ist eine
+verschiebbare Traverse angeordnet, welche zwischen den fixen
+Traversen einen Kurzschluss vermitteln kann.— Angemeldet
+am 11. April 1899.
+— Kronenberg Carl Julius, Schlossermeister in Auf der
+Höhe bei Solingen.— Isolatorenstütze: Die Befestigung
+der Isolatorenstütze an dem U-Eisenträger erfolgt nicht wie
+gewöhnlich durch Verschraubung, sondern durch eine Spann­
+verbindung. Ein durch zwei Löcher des U-Eisenträgers hin­
+durehgehender Bolzen ist mit einem Fusse versehen, dessen
+obere Fläche eine schiefe Ebene bildet, so dass derselbe,
+sobald er gegen die Stegseite des U-Eisenträgere gedreht wird,
+eine Spannverbindung des Isolatorenhalters mit dem U-Eisen-
+träger bewerkstelligt.— Angemeldet am 5. August 1899.
+— L ö w i t Arthur, Ingenieur in Wien.— Sectiousschalter
+für Accumulatoren: Auf einer isolierenden Unterlage
+sind entweder vier concentrisehe Reihen von Contactstiicken
+und ein darüberschleifender Doppelschalthebel mit vier Schleif­
+federn oder nur zwei Reihen von Contactstücken und ein drei­
+armiger Hebel derartig einerseits mit der ladenden Stromquelle,
+resp. der Verbrauchsleitung, andererseits mit den in drei
+Gruppen angeordneten Accumulatoren verbunden, dass die
+letzteren bei der Entladung hintereinander geschaltet, bei der
+Ladung jedoch immer nur abwechselnd zwei Gruppen in Serie
+an die Stromquelle angelegt werden.— Angemoldet am
+16. October 1899.
+— Schweizer Accumulatorenwerke Tribelhorn
+A.-G. in Zürich.— Regelungsvorrichtung für
+Bogenlampen: Zwischen einer Gestollstange der Lampe
+und einer seitlich angeordneten Stange ist ein Laufwerk an­
+geordnet, welches durch einen mit dem oberen Kohlenhalter
+verbundenen Arm gesperrt, bezw. freigegeben wird, so dass
+das zwecks Annäherung der Kohlen erforderliche Herabgleiten
+des Laufwerkes reguliert wird.— Angemeldet am 20. April 1900.
+Seidener Josef, Ingenieur in Wien.— Einrichtung
+zur Verminderung der Funkenbildung am
+Collector einer Gleichstrom -Maschine: Zwisc hen
+den Hauptlamellen des Collectors einer Gleichstrom-Maschine
+sind eine oder zwei Hilfslamellen angebracht und zwischen
+diesen und der Hauptlamelle sind Widerstände geschaltet, die
+zwischen der Bürste und der Ankerwickelung zu Ende einer
+jeden Commutierungsperiode eingeschaltet werden. Statt der
+mitrotierenden Zusatzwiderstände können den Hauptbürsten
+voraneilende und von ihnen ganz isolierte Hilfsbürsten aus
+schlechtleitendem Material angeordnet sein.— Angemeldet am
+29. Juli 1899.
+— Siemens& Halske, Act.-Ges., Firma in Wien.— Hoch-
+spannungsausschalter: Zum Zwecke des Auslöschens
+des beim Ausschalten auftretenden Lichtbogens wird das Aus-
+schalte-Stromschlussstück in ein isoliertes Rohr hineingezogen.
+Neu ist die Anordnung eines Metallringes am Ende des
+Isolationsrohres, um die beim Ausschalten auftretende Wärme
+aufzunehmen, wodurch ein Verbrennen des Isolationsrohres
+verhindert wird.— Angemeldet am 7. Februar 1900.
+— Siemens& II a 1 s k e, Actiengesellschaftin Wien.
+— Unverwechselbare Schmelzsicherung mit
+Schutzvorrichtung gegen Benutzung falscher
+Einsätze für zu grosse Stromstärke und zu
+geringe Spannung: Nach Stromstärke unverwechselbare
+Schmelzsicherungen bekannter Art werden durch Ein- oder
+Aufsetzen eines Isolierkörpers in oder auf einem der beiden
+Theile und Anordnung von entsprechenden Ausnehmungen im
+anderen Theile der Sicherung derart für verschiedene
+Spannungen unverwechselbar ausgebildet, dass in Sicherungs-
+gcstelle für eine bestimmte Spannung nicht Schmelzeinsätze
+für niedrigere Spannung eingesetzt werden können.— An­
+gemeldet am 23. September 1899.
+24. B e 11 e n s Charles, Ingenieur in Paris.— Einrichtung
+zur gleich massigen Vertheilung der Ver­
+brenn u n g s 1 u f t und der Heizgase bei Kessel-
+Feuernngen: Die Roststäbe sind derart angeordnet, dass
+die freie Rostfläche gegen die Feuerbrücke hin abnimmt. Bei
+Wasserrohrkesseln werden über der obersten Rohrreihe
+Führungswände für die Heizgase in von vorne nach hinten
+abnehmenden Abständen angeordnet.— Angemeldet am
+25. November 189:).
+
+Seite 618.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 61.
+Classe.
+26. Schünemann Gustav, Di'., und Rieder Otto in Firma
+„Schünemann& Rieder“, elektrotechnische Anstalt in Budapest.
+— Elektrischer Fernzündapparat: Durch dieBe-
+thätigung eines Hauptunterbrechers werden mehrere parallel
+in. die Stromleitung' eingeschaltete Nebenunterbrecher in
+Wirkung gesetzt, wodurch der Stromkreis der zu letzteren
+gehörigen Batterien geschlossen und unterbrochen wird, so
+dass in der Secundärleitung der Inductoren Stromstösse von
+hoher Spannung entstehen, welche eine heftige Funkenbildung
+hervorrufen.— Umwandlung des am 21. November 1898 an­
+gesuchten Privilegiums.
+74-. Leber Max Edler von, k. k. Ministerialrath in Wien.—
+Schaltungsanordnung für Fernsprech- und
+Signalisierungs-Einrichtungen: Bei der Stations­
+einrichtung nach Patent Nr. 1639 wird die Aus- und Ein­
+schaltung der Telephone statt von dem Schalthebel und dem
+Inductor, von dem Schalthebel und dem Telephonhaken ab­
+hängig gemacht. Bei der Ausschaltung der Wächtertelephone
+an die Glockenlinie gelangt ein Verdrängungswiderstand zur
+Verwendung, der nur bei abgehobenem Hörtelephon in die
+stets ununterbrochene Linie eingeschaltet, sonst aber kurz­
+geschlossen ist.— Angemeldet am 25. October 1899 als Zusatz
+zum Patent Nr. 1639.
+Mitgetheilt von Ingenieur
+Victor lonath,
+WIEN, I. Jasomirgottstrasse Nr. 4.
+Deutsche Patentanmeldungen *)
+Classe.°'
+20 d. Selbstthätig in die Gebrauchslage sich bewegende Schutz­
+vorrichtung für Strassenbahnwagen.— Ferdinand Jezek
+Berlin 13./11. 1899.’
+20 l. Mehrtheilige Wegschranke.— Theodor Jakob, Neun­
+kirchen. 18./7. 1900.
+20 k. Einrichtung zur Zuführung von elektrischem Strom zu
+Fahrzeugen.— Emile Bede, Brüssel. 7./3. 1900.
+21 a. Leicht auswechselbares Mikrophon.— Actien-Gesell-
+schaft M i x& G e n e s t, Telephon- und Telegraphen-Werke
+Berlin. 21./2. 1900.’
+„ Verfahren zum Empfangen und zur verstärkten Wiedergabe
+von Nachrichten, Signalen oder dergl.; Zus. z. Pat. 109.569.—
+Valdemar P o u 1 s e n, Kopenhagen. 20./4. 1900.
+„ Vorrichtung zur selbstthätigen telegraphischen Uebermittlung
+von Nachrichten.— Ludwig Wojniewicz, Krivoi-Rog
+(Russland). 16./12. 1899. b
+21 d. Einrichtung zur Erzeugung einer erhöhten, aber nur kurze
+Zeit dauernden Arbeitsleistung, mit Hilfe einer verhältnis­
+mässig schwachen Elektricitätsquelle.— Angel de Castrocz,
+Henry W. Schiomann, New-York. 9./12. 1899.
+21 e.^ Wattstundenzähler für doppelten Tarif. ■— Elektri-
+citäts-Actien-GesellschaftvormalsSchuekert
+& Co., Nürnberg. 21./11. 1899.
+21 f. Elektrische Bogenlampe mit mehreren Kohlenpaaren.—
+Curt Börner, Berlin. 22./3. 1900.
+„ Lösbare Giüldampenbefestigung.— „Orlow“, Gesellschaft
+tur elektrische Beleuchtung, Berlin. 7./12. 1899.
+30 f. Badeeinrichtung für bipolare Elektrisation.— Constantin
+Mutter, Berlin. 14./3. 1900.
+35 a. Sclbstthätige Ausrückvorrichtung bei mechanischen Steue­
+rungen für elektrisch betriebene Aufzüge.— A. S t i g 1 e r
+Mailand. 20./6. 1900. b’
+74 e. Einschaltungsvorrichtung für selbstthätige elektrische Feuer-
+? e r?i 01' V Mix& Genest, Berlin. 9./6. 1900.
+13 d. Elektrisch beheizter Dampfüberhitzer.— Eugen Schultz
+Kalk bei Köln a. Rh. 24./2. 1900.
+20 1. Eine Lagerung für Stromabnehmer elektrischer Motorwagen
+mit Oberleitungsbetrieb.— Paul VV enzel, Vogelgrün bei
+Auerbach i. Vogtl. 3-/3. 1900.
+21 a. Vorrichtung für Morsetelegraphen zum Regeln der Be­
+wegung des Papierstreifens.— Eugenio Cantono, Rom
+(Italien). 26./6. 1899.
+„ Vei fahren zur Verstärkung von telephonisch oder pliono-
+grapnisch aufgenommenen Gesprächen.— S. Lemvig Fog
+Kopenhagen. 6./4 1900.
+N^if« n ’„‘,, Id J Ung S 1 n bleiben Dach 6er Vorprüfung acht Wochen öffentlich
+, Nacb§ *4 dea -Patent-Gesetzes kann innerhalb dieser Zeit Einspruch
+frhohen wfrd“ 6 -n Dg W n- g6n“ an 8 el deI Neuheit oder widerrechtlicher Entnahme
+erhoben werden. Das ob,ge Bureau besorgt Abschriften der Anmeldungen und
+libernimmt die Vertretung in allen Einspruchs-Angelegenheiten.
+Classe.
+21 c. Lösbare Anschlussvorrichtung für bewegliche Leitungen mit
+eingeschlossener unverwechselbarer Schmelzsicherung.—
+Actiengesellschaft Mix& Genest, Telephon- und
+Telegraphen-Werke, Berlin. 8./5. 1900.
+„ Hochspannungssicherung mit Haupt- und Nebenschmelzdraht.
+Elektr icitäts-Actien -*G esellschaft vormals
+W. Lahmeyer& C o., Frankfurt a. M. 7./6. 19n0.
+21 d. Dynamomaschinen-Anker mit Abstandsrippen zwischen den
+Blechbiindeln.— John A. Foshag, New-York. 14./5. 1900.
+21 e. Inductionsmessgeräth für gleichbelastete Dreiphasensysteme.
+— Union-Elektricitäts-Gesellsehaft,' Berlin.
+11./6. 1900.
+„ Vorrichtung zur Erzielung einer Phasenverschiebung von 90°
+in Ferraris-Messgeräthen.— Union- Elektricitäts-
+Gesellschaft, Berlin. 13./7. 1900.
+21 g. Erdelement als Blitzableiterprüfer.— Gustav En gisch,
+Madretsch (Schweiz). 24./2. 19, ,0.
+35 b. Vorrichtung zum Befördern von Sammlerbatterien in Lade­
+stationen. George Herbert Condict, New-York. 14./2. 1899.
+46 c. Elektrische Zündvorrichtung für Gaskraftmaschinen mit
+zwei oder mehreren Cylindern.— Societe anonyme
+des Moteurs e^t V o i tures „A i g 1 e', Paris. 5./2. 1900.
+86 c. Elektrischer Kettenfadenwächter.— Friedrich Pick
+Nachod. 1./12. 1899.
+Deutsche Patentanmeldungen.
+Classe.
+21. Elektrische Schmelzsicherung.— Elektricitäts-Ge­
+sellschaft m. b. H.Gebr. Iv ö r n e r& M a h 1 a, Franken­
+thal i. Pf. 21./6. 1899.
+„ Sperrvorrichtung für Regelungs- und Anlassvorrichtungen.—
+Elektricitäts-Actien-Gesellschaft, vormals
+Schuckert& Co., Nürnberg. 26./9. 1899.
+„ Hochspannungsausschalter mit Polhörnern zur Funkenlöschung.
+Elektr icität s-A c t i e n-G esellschaft, vormals
+Schuckert& Co., Nürnberg. 12./12. 1899.
+„ Stromschlussvorrichtung für elektrische Taschenlaternen.—
+M. Lorenz, Berlin. 31./8. 1899.
+„ Schalter mit Funkenlöschung durch Einziehung des beweg­
+lichen Stromschlusstückes in ein Isolirrohr.— Siemens
+& Halske, Actien-Gesellschaft, Berlin. 17./6. 1899.
+„ Vorrichtung zur Drehung einer Achse aus einer Mittellage in
+zwei entgegengesetzte Endlagen.— Siemens& Halske,
+Actien-Gesellschaft, Berlin. 19./7. 1899.
+„ Elektrischer Steuerapparat mit Vorrichtung zur Durchführung
+der einmal eingeleiteten Bewegung des Steuerhebels um eine
+volle Stufe; Zus. z. Pat. 60.150.— Siemens& Halske,
+Action-Ges eil schaft. Berlin. 31./8. 1899.
+„ Schmelzsicherung für elektrische Leitungen.— Th. S a u-
+v a g e o t, Antwerpen. 29./9. 1899.
+„ Schaltungsweise zur Verringerung der erregenden Kraft von
+Elektromagneten.— Siemens& Halske, Actien-
+Gesellschaft, Berlin. 10./11. 1899.
+21 c. Anlassvorrichtung für Nebenschlussmotoren zur Ver­
+meidung des Oeffnungsfunkens.— F. Klö c k n e r, Köln.
+30./3. 1899.
+„ Anzeigevorrichtung für das Durchschmelzen von Sicherungen.
+— Siemens& Halske, Action- Gesellschaft, Berlin.
+11./3. 1899.
+„ Vorrichtung zur Verhütung der Funkenbildung bei Anlass-
+und anderen Regelungswiderständen.— Elektricitäts-
+Actienges el lschaft Tonnals Schu ckert ä Co.,
+Nürnberg 19./5. 1898.
+„ Schleifbürstenhalter.— Elektr icitäts-Actiengesell-
+schaft vormals Schuckert& Co., Nürnberg. 23./7.
+1899.’• 6'
+,, Isolatorenstütze.— J. Hochstein, Duisburg. 28./12. 1899.
+2l d. Drehbare Kohlenbürste für Dynamomaschinen und dorgl.
+— A. Auer, Ebensee, Oberösterreich. 1./3. 1900.
+„ Vorrichtung zum Kurzschliessen der Ankerwickelung und
+zum Abheben der Bürsten bei Wechselstrommotoren.—
+Brown, Boveri& Co. Baden, Schweiz. 3./1. 1900.
+— Elastischer Stromwender mit rotirenden Scheibenbürsten.—
+S. Evershed u. Eversehed& Vignoles Limited,
+London. 29./9. 1899.
+„ Einrichtung zur Entnahme von Strom gleichbleibender
+Spannung aus einer Stromquelle mit veränderlicher Spannung.
+— J. S. High fiel d, St. Helens, Lancashire, Engl. 31./1Ö.
+1899. 6
+„ Verfahren zur gleichzeitigen Speisung einer und derselben
+Wickelung elektrischer Maschinen und dergl. durch zwei von
+
+Nr. 51.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 619.
+Classe.
+einander unabhängige Ströme.— J. Jonas, Bromberg.
+17./9. 1899.
+21. Verfahren zur Verhinderung der Funkenbildung an Strom­
+wender von elektrischen Maschinen mit mehreren ungleich­
+artigen, auf denselben Anker wirkenden Feldern.— J. Jonas,
+Bromberg. 24./9. 1899.
+„ Einrichtung zum Betriebe asynchroner Wechselstrom-Gleich-
+strom-Umformer.— J. Jonas, Bromberg. 29./9. 1899.
+„ Wechselstrorn-Inductionsmotor.— W. G. Rhodes, Salford,
+Lancaster, Engl. 8./2. 1900.
+„ Einrichtung zur Umwandlung von ein- oder mehrphasigen
+Wechselstrom in Gleichstrom und umgekehrt mit Hilfe von
+Selbstinductionsspulen mit polarisirtem Eisenkern.— C. Zell,
+München. 25./4. 1899.
+„ Einrichtung zur Umwandlung von Wechselstrom in Gleich­
+strom mittelst Selbstinductionsspulen mit polarisirtem Eisen­
+kern.— J. C. Pürthner, Wien. 18./6. 1899.
+„ Einrichtung zur Erzeugung einer gleichbleibenden Spannung
+mittelst einer mit veränderlicher Geschwindigkeit laufenden
+Gleichstrommaschine.— B. G. L a m m e, Pittsburgh. 18./3. 1899.
+Geschäftliche und finanzielle Nachrichten.
+Oesterreicliisclie Schuckert-Werke in Wien. Der in der
+Generalversammlung erstattete Bericht des Verwaltungsrathes
+über das Geschäftsjahr 1899/1900 führt aus, dass mit dem am
+31. März d. J. abgelaufenen Geschäftsjahre der volle Betrieb der
+neuerbauten Fabrik aufgenommen worden ist. Die im Berichts­
+jahre eingelaufenen Bestellungen betrugen 6777 Millionen K.
+gegen 4361 Millionen K. im Vorjahre. Diese Aufträge umfassen
+im Ganzen 178 Installationen mit einer Gesammtleistungsfähigkeit
+der hiefiir gelieferten Dynamomaschinen von 16.170 FS. Mit Ein­
+rechnung der ausserdem zu liefernden Maschinen sind im Be­
+triebsjahre 618 Dynamomaschinen mit einer Gesammtleistung von
+18.740 PS bestellt worden gegen 496 Dynamomaschinen mit einer
+Gesammtleistung von 9510 PS im Vorjahre. Die im Berichtsjahre
+voliendeten Ausführungen umfassen im Ganzen 137 Installationen
+mit einer Maschinenleistung von 8630 PS. Die Zahl der fertig­
+gestellten Dynamomaschinen beträgt 498 mit einer Gesammt­
+leistung von 13.130 PS gegen 482 Maschinen mit 9150 PS im Vor­
+jahre. Die Summe der im Berichtsjahre ausgestellten Facturen
+beträgt 4269 Millionen K. gegen 3897 Millionen Iv. im Vorjahre.
+Es sind am 31. März d. J. noch Bestellungen im Betrage von
+3528 Millionen K. unerledigt geblieben, die in das neue Geschäfts­
+jahr übernommen worden sind. Die Summe der theils aus dem
+Vorjahre übernommenen, theils im laufenden Jahre neu hinzu­
+gekommenen Bestellungen, hat mit Ende October dieses Jahres,
+ohne den Auftrag der Gemeinde Wien, den Betrag von 7189 Mil­
+lionen K. erreicht, gegen 3041 Millionen K. im gleichen Zeiträume
+des Vorjahres. Dazu kommt die übernommene Ausführung der
+städtischen Elcktricitätswerke mit einem Kostenaufwands von
+rund 25 Millionen K. Der ausgewiesene Reingewinn beträgt
+einschliesslich des Gewinnvortrages 48.2858 K. Die Dividende
+wird mit 6% in Vorschlag gebracht. Die Capitalserhöhung von
+4 Millionen K wurde am 1. September 1899 durchgeführt. Die
+für die Erhöhung ausgegebenen Actien zweiter Emission nehmen
+daher an dem im Betriebsjahre erzielten Reingewinn pro rata
+temporis, das ist an sieben Zwölfteln dieses Gewinnes theil. Der
+Bericht wurde ohne Discussion zur Kenntnis genommen und dem
+Verwaltungsrathe einstimmig das Absolutoriurn ertheilt. Die aus­
+scheidenden Verwaltungsräthe wurden wiedergewählt.
+Allgemeine Elektricitäts-Gesellschaft in Berlin. in der
+am 6. d. M. stattgefundenen Generalversammlung, in der ein
+Actiencapital von 12,878.500 Mk. mit 25.757 Actien vertreten war,
+gab die Verwaltung auf verschiedene Anfragen zum Geschäfts­
+bericht und Rechnungsabschluss die gewünschte Auskunft. (8iehe
+H. 48, S. 582.) Wir entnehmen den diesbezüglichen Ausführungen
+folgendes: Herr Generaldirector Rathenau theilte zunächst
+mit, dass die von dem hiesigen Rechtsanwalt A. Eltzbach
+gegen die Gesellschaft angestrengte Klage, in welcher die Höhe
+der Abschreibungen, die Beschaffung der maschinellen Erneue­
+rungen etc. aus den laufenden Gewinnen angefochten wird, in
+erster Instanz zu Gunsten der Gesellschaft entschieden worden
+sei. Von mehreren Seiten wurde dem Wunsche Ausdruck gegeben,
+die Capitalser höh ungen künftig in langsamerem Tempo
+vor sich gehen bezw. ganz zum Abschluss gelangt zu sehen.
+Ferner wurde die jüngste aufgenommene 15 Millionen-Anleihe
+unter dem Gesichtspunkt bemängelt, dass ihr Erlös theilweise zu
+Vorschüssen an die Berliner Elektricitätswerke Verwendung finde.
+Demgegenüber betonte Herr Generaldirector Rathenau die
+Nothwendigkeit, die Gesellschaft nach Möglichkeit liquide zu er­
+halten und damit auch Vorsorge für künftige geschäftliche An­
+sprüche zu treffen. Im Uebrigen rechtfertigte das enge Verhältnis
+der Allgemeinen Elektricitäts-Gesellschaft zu den Berliner
+E 1 e k t r i c i t ä t s w e r k e n als grösste Abnehmerin die finan­
+zielle Beihilfe, nachdem die genannten Werke auch mit Rücksicht
+auf ihr besonderes Verhältnis zur Stadt Berlin es vorgezogen
+haben, von einer eigenen Capitalbeschaff’ung zur Zeit Abstand zu
+nehmen. Die Entwickelungder elektrochemischen
+Werke bezeichnete die Verwaltung als eine vortheilhafte und
+gewinnbringende, besonders wenn das Einverständnis mit den
+süddeutschen Gesellschaften herbeigeführt sein werde. Ueber die
+Nernstlampe äusserte sich Herr Generaldirector Rathenau
+im Anschlüsse an den Geschäftsbericht wie folgt: „Als die elek­
+trische Glühlampe vor etwa zwei Jahrzehnten in die Oeffentlichkeit
+trat, beherrschte eine wahre Begeisterung die Technik, die lange
+vergeblich das elektrische Licht in kleine Lichtquellen zu zer-
+tlieilen sich bemüht hatte; sie sollten au die Stelle der üblichen
+Gasflamme treten. In dieser Stimmung stellte man mässige An­
+sprüche an die neue Erfindung, indem man darauf rechnete, dass
+sie im Laufe der Zeit sich vervollkommnen würde, und diese Er­
+wartung wurde nicht getäuscht. In allen Theilen der civilisierten
+Welt errichtete man Fabriken zur Herstellung von Kohlenfaden-
+Glühlampen, nachdem die Patente abgelaufen oder beseitigt waren.
+Dieser grossen Industrie gegenüber befindet sich die auf total
+neuen Principien beruhende, von der Vaeuumlampe in jeder Be­
+ziehung verschiedene Lampe, zu deren Herstellung nicht einmal
+die Einrichtungen der vorhandenen Glühlampenfabriken benutzt
+werden können. Um die Beunruhigung zu beseitigen, die die
+Nernstlampe in den betreffenden Kreisen verursachen könnte,
+haben wir stets darauf hingewiesen, dass beide Systeme, wie
+Auerlicht und ältere Brenner beim Gase, neben einander bestehen,
+sich sogar gegenseitig ergänzen würden, aber unsere Erklärungen
+scheinen die erhoffte Wirkung nicht allenthalben hervorgebracht
+zu haben, denn nur unter dem Druck solcher Befürchtungen ver­
+mögen wir uns die entstellten und zuweilen geflissentlich un­
+richtigen Darstellungen über die thatsächlichen Fortschritte in
+der Entwicklung der Nernstlampe zu erklären, die in gewissen
+Blättern verbreitet werden. Nachdem tausende von Lampen unter
+den verschiedensten Bedingungen des täglichen Gebrauchs sich
+bewährt und allgemeine Anerkennung gefunden haben, erweitern
+wir unsere Fabrication, welche auf Herstellung. von etwa
+1000 Lampen pro Tag sich beläuft, in dem Masse wie die Nach­
+frage wächst. Wir werden die Lampe suceessive weiteren Kreisen
+zugänglich machen und dabei in erster Linie die Verpflichtungen
+gegen die uns nahe stehenden Unternehmungen berücksichtigen.
+-— In Bezug auf die geschäftlichen Aussichten gab
+Herr Generaldirector Rathenau zum Schluss der Versammlung
+folgende Mittheilungen: „Dass die jetzige Periode der elektrischen
+Industrie ihren Höhepunkt überschritten hat, wird Niemand in
+Abrede stellen. Glücklicherweise ist jedoch das Tempo der rück­
+läufigen Bewegung noch mässig, und es fehlt deshalb an Stimmen
+nicht, die die Depression lediglich als Consequenz der Kriege,
+mit denen sie zeitlich zusammenfällt, betrachten. Trotzdem bleibt
+es fraglich, ob der herbeigesehnte neue Aufschwung sogleich auch
+die Elektrotechnik wieder beleben Wird. Wir haben wiederholt
+darauf hingewiesen, wie das Missverhältnis der Preise fiii Roh­
+material und fertige Producte, welches sogar zur Zeit des grössten
+Bedarfes, in der Hochconjunctur hervortrat, eine Ueberpioduction
+in der elektrischen Industrie bezeichnete. Aeltere Unternehmungen
+waren, häufig wider Willen, durch die Kundschaft. zu Ei Weite­
+rungen ihrer Anlagen gedrängt worden; gleichzeitig mit ihnen
+entstanden aber neue Gesellschaften, ohne dass ein Bedürfnis für
+ihre Gründung vorlag, und zwar nicht allein aus der. Initiative
+des Publicums, das in der Verwendung der Elektrieität eine
+unerschöpfliche Gewinnquelle erblickte, sondern auch Stadtver­
+waltungen förderten die Ueberproduction, indem sie die einmalige
+Vergebung grösserer Aufträge von der Errichtung. eigenoi Fa­
+briken in ihren Mauern abhängig machten. Wenn sie hierbei die
+Beispiele des Auslandes nachahmten, welches durch den Schutz
+der nationalen Arbeit fremde Unternehmer anlockte, so ist, die
+Befolgung dieser Politik in der Heimat vom volkswirthschafclichen
+Standpunkt wenigstens wohl kaum zu rechtfertigen. Machten sich
+die nachtheiligen Wirkungen der leichten Geldbeschaffung nach
+dieser Richtung in der elektrischen Industrie schon geltend, so
+traten sie noch energischer in dem eigentlichen Unternehmerge­
+schäft hervor, in dem sich die Bedingungen fast in dem Ver­
+hältnis, als die Objecte an Bedeutung verloren, verschlechterten.
+Die Opfer und Zugeständnisse für Ueberlassung von Coneessionen
+erklären die verzögerte Entwickelung solcher Anlagen, welche
+früher rasch zur Prosperität zu gelangen pflegten. Unter solchen
+Umständen würden wir die Bestrebungen der Communen, die
+
+Seite 620.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 61.
+Elektneität 111 eigener Regie zu erzeugen und zu vertheilen
+freudig hegrussen wenn wir nach den bisherigen Erfahrutigen
+nicht fürchteten, dass der kostspielige Betrieb die Prosperität
+und hiermit die Fortentwicklung der Unternehmungen in Fra°'e
+stellte. Im allgemeinen scheint die Elektrotechnik auf dem Punkte
+angelangt zu sein, wo die übermächtig entwickelte Industrie ein
+ausreichendes Gebiet zur Entfaltung ihrer Kräfte kaum noch
+,". en kann >. n“ d hieraus erwächst für sie die unabweisliche
+1 flicht, an die Lösung neuer Aufgaben heranzutreten, welche
+ihren ausgedehnten Werkstätten neue lohnende Thätigkeit zuführt,
+/jur Erreichung dieses Zieles haben wir aussichtsvolle Versuche
+aufgenommen, deren Ergebnisse indessen der unmittelbaren Zu­
+kunft noch nicht zu gute kommen werden. Inzwischen liegen je­
+doch noch Aufträge von beträchtlichem Umfang zur Erledigung
+vor, und wenn auch nicht alle Abtheilungen unseres vielseitigen
+Unternehmens gleichmässig hieran betheiligt sind, so hoffen wir
+doch, von wesentlichen Einschränkungen unserer Betriebe für
+längere Zeit noch absehen zu dürfen. Durch die Ausdehnung
+unserer Organisation, durch die Leistungsfähigkeit unserer
+Fabriken und deren niedrige Bewerthung und durch die rela­
+tive Flüssigkeit unserer Bilanz haben wir, soweit es in un-
+se. 1^ n ,.. K 2' ilfte V tand; seit Jahren «ns auf die Möglichkeit einer
+rückläufigen Bewegung der Industrie vorzubereiten und gegen
+ihre Folgen zu rüsten gesucht. AVir dürfen die Hoffnung aus­
+sprechen, dass es uns gelingen wird, auch der veränderten Zeit­
+lage, die uns nicht unvorbereitet trifft und die theilweise andere
+und neue Geschäftsmöglichkeiten mit sich bringen wird, gerecht
+zu werden. Die von der Generalversammlung auf 15o~/ 0 fest-
+gesetzte Dividende ist sofort zahlbar. In den Aufsichtsrath,
+dessen Mitgliederzahl auf 11 erhöht wurde, wählte man die
+Herren Staatssecretär Admiral k la suit Friedrich Hollmann
+- {Wv u“ d A'bert B al 1 i n, Generaldirector der Hamburg-Amerika-
+Lmie (letztgenannten an Stelle des verstorbenen Staatsministers
+Herrfnrt h).
+rvnv,!, Fa r r1 't v 0lle y te m 1 I)ra,lte zu elektrischen Zwecken
+Berlin w- a Telegraphendraht-Fabrik) Act.-Ges. zu
+TW 1, 1 "/; Vl® de r Bericht über das Geschäftsjahr 1899/1900 aus­
+fuhrt, hat der diesjährige Umsatz eine Zunahme von ca 26<>/ n
+gegenüber demjenigen des Vorjahres aufzuweisen. Der Fabrieations-
+9-qs'io m1' Z ”? 1C1 7 des Vort rages aus dem Vorjahre betrug
+Wen i( i V. 301 760 Mk.). Nach Abzug der Generalun-
+“ nd der Abschreibungen, letztere in der Höhe von
+44,333 •' Yt' 37,244 Mk.) verbleibt ein Reingewinn von
+89.09Ö Mk. (i. V. 154.895 Mk.), der folgende Verwendung findet:
+Zum oidentlichen Reservefonds 8427 Mk. (i. V. 14.125 Mk) als
+5r-äMW°vV 3' 940 Mk -)’ a,S P i v i d e nie von
+4935lvil U V J\ ]2,/0 i= 320.000 Mk). Der Rest von
+•(.. 4830 Mk.) wild auf neue Rechnung vorgetragen.
+r> p i Amerikanischer Kupfermarkt. Aus New-York wird dem
+„Beil Bors.-C. vom l. d.M. geschrieben: Die Kupfer-Production
+446 774 nnn ri w? M° naten des laufenden Jahres betrug
+VnVJ• Pf r n, ?’.., also]> 485,000 Pfund pro Tag, was gegen dal
+SEwT? Erhöhung um 40/ 0 bedeutet. Der amerikanische
+277769 One Pf d! 6S f ena™ ten Zeitraumes stellte sich auf
+277,762.000 Pfund, also 925.000 Pfund pro Tag, was einer Er-
+560 000 P? 5 0°/ ?« g 1 e u hk Tv n %. Der ein beiniische Consum betrug
+60.000 Pfund täglich. Die Preise sind ä löi/s bis 16 ii j fest-
+lukunft’ d °h h Wa' d Y n Ku 1 P. fer Preis von 17 Cents für die nächste
+Zukunft vorhergesagt, welcher Preis für die grossen Kupfer-
+vemW nten® eln0l4 ™& von 100o/ 0 abwerfen soll. Am 25 P No-
+vembei winde die Verschiffungssaison an den grossen Seen ein-
+fewllrd n e^ aCllfl V age dle S aDze Zeit hindurch eTne so
+g waltige, dass die Docks am Lake Superior buchstäblich von Kupfer
+AVinÄe,Vh'd M r, o lmmt i dabel ,' an’ dass auch d er kommende
+Tran^i oft SaLc™ rher geben d en eine lebhafte Eisenbalm-
+Iianspoit-Saison für Kupfer sehen werde; der Preis für diese
+ee a een V über n anf n if ‘’r'" t t-Il der, co™ biniß rten See-Landversendung
+kS b M„ /n c ent hoher An Stelle dos verstorbenen Kupfer-
+konigs Maicus Daly wurde AVilliam Seal len aus Butte
+stehende'AViede ia ?.^ enten der Anaconda-Mine erwählt. Die bevor-
+Staaten dir der- äEesten K «pfermine der Vereinigten
+einem Vwi g 9, Ml A?-n m Staate New Jersey, durch die mit
+Gönner rT W V° n. 2 t¥ llIl(men Dolb gegründete Arlington
+neun Meilen™ gl^ sse® Intoress e erregt, da die genannte, kaum
+männern nfchtm entfem ,\ e Mine selbst vielen Fa «h-
+dathiH bis 1750 h" wai j Der erste Betrieb dieser Mine
+HoUand und AVnfe^ T* 7^ daS Eoh P™duct damals nach
+ffoiiana und Wales exportiert, da man dasselbe hier nicht zu
+bearbeiten verstand. Die erwähnte Mine wurde bis 1850 betrieben,
+dann aber brachgelegt, da die damaligen Hilfsmittel eine rationelle
+Exploitation nicht gestatteten. Fachmänner schätzen die noch zu
+liebenden Kupferschätze daselbst auf reichlich 5,000.000 t. Die
+Iioduction soll ^bereits im kommenden Jänner, vorderhand im
+Ausmaasse von 500 pro Tag’ beginnon.
+Metall-Marktbericht vonB randeis, Goldschmidt
+“ Co. London, 7. December. Kupfer: Die Nachrichten von
+Amerika lauten weiter sehr fest. AVir notiren: Standard Kupfer
+per Casse 72 Pf. Sf. 2 sh. 6 d. bis 72 Pf. St. 7 sh. 6 d., Standard
+Kupfer per 3 Monate 72 Pf. St. 5 sh. bis 73 Pf. St. English Tough
+je nach Marke 75 Pf. St. 10 sh., bis 75 Pf. St. 15 sh., Engliih
+Best Selected je nach Marke 78 Pf. St. 10 sh. bis 79 PfT St.
+American and English Cathoden je nach Marke 76 Pf. St. 10 sh.
+j J, 7 r., St’ American and English Electro in Cakes, Ingots
+and AVirebars je nach Marke 77 Pf. St. 5 sh. bis 77 Pf. St. 10 sh.
+oi w'a? in 1 f U lp rz ka t: fest und“ tai ’k gefragt; prompt zu
+«4 1 f. St. 10 sh. —Zinn: Die Lage ist unverändert. AA r ir notiren:
+Straits Zmn per Casse 120 Pf. St. 15 sh., bis 121 Pf. St;, Straits
+Zmn per 3 Monate 120 Pf. St. 15 sh. bis 121 Pf. St., Austral
+oi ES bi 4 122 P£ St,> Englisches Lammzinn
+,;„,■ Pf\ St> Banea in Holland 741/4 fl-, Billiton
+Ji p? S" d 74 4— Antimon: gute Frage zu 37 Pf. St. bis
+37 Pf. St. iO sh.— Zink: flau zu 18 Pf. St. 15 sh.— Blei:
+./n U q Z pf]« 6 i .I 12 sh c 6 d’— Quecksilber: unverändert
+zu 9 Pf. St. 2 sh. 6 d.— S 11 b er: fest zu 29 Pf. St. iä/ 16 d.
+Statistik (1.—30. November 1900.)
+Einfuhr Blei Quecksilber
+A 011 Spanien 82.952 10.000
+V on Australien 72.679
+Aon anderen Ländern 6.117 600
+161.748 Mulden 10.600 Flaschen
+Vereinsnachrichten.
+Das Vergniigungs-Comite hat sich in der letzten
+Sitzung vom 4. d. M., wie folgt constituiert:
+Obmann: Herr Ernst Jordan, Chef der Firma
+.lordan& Treier, Wien.
+Schriftführer: Herr RegierungsrathF.Gattinger.
+M 11 gl i e d e r: die Herren Ing. Karl Ehrlich,
+Ober-Ing. Emil Futter, Heinrich Jordan
+Ing. Albert Kautsky, Ing. Arthur Kolb an,
+Dr. Ludwig Kusminsk y, Fabriksbesitzer Lam­
+bert Leopolder, Ing. Josef Peml, Ober-Ing.
+Eduard Ringer, Ing. Edmund Such y.
+Der
+II. Vergnügungs-Abend
+findet D i ens t a g d e n 15. J ft-n nerl 901 im grossen
+baaie des Hotel Savoy (Englischer Hof). Wien VI
+Manahilferstrasse 81, statt.
+Entrde per Person 3 Kronen.
+Die Einladungen, samint zwei Eintrittskarten,
+werden unter Beischluss des ausführlichen Programmes
+sammthehen in Wien domicilierenden P. T Vereins­
+mitgliedern per Post zugesendet
+Das Programm der nächsten Vereins­
+versammlung wird schriftlich bekannt gegeben
+werden.
+Die Vereinsleit u nv
+O
+0, Wien und Prag
+

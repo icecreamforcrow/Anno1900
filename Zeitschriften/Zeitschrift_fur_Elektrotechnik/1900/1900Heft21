@@ -1,0 +1,1401 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 21. WIEX, 20. Mal 1900. XVIII. Jahrgang.
+Bemerkungen der Jtedaction: Ein Nachdruck aus dem redactionellen Theile der Zeitschrift ist nur unter der Quellenangabe
+„Zi. j, JL, Wien und bei Onginalartikeln überdies nur mit Genehmigung der Hedaction gestattet.
+Die Einsendung von Originalarbeiten ist erwünscht und werden dieselben nach dem in der Redactionsordnung festgesetzten Tarife
+lononrt. Die Anzahl der vom Autor event. gewünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Manuscripte bekannt gegeben werden.
+INHALT:
+Gleichstrom-Wechselstromumformer 253
+Ußber Drehstrombähnen in der Schweiz 354
+Elektrischer Betrieb auf Vollbahnen (Schluss) 257
+Verkehr der österreichischen und der bosnisch -herzegowinischen
+Eisenbahnen mit elektrischem Betriebe im I. Quartal 1900. 260
+Gleichstrom-Wechselstrom-Umformer.*)
+Der rotirende Umformer wird vorzugsweise zu
+dem Zwecke angewendet, um im Anschluss an ein
+bestellendes Wechselstromnetz für ein beschränktes Ge­
+biet Gleichstrom zu erzeugen. Er geht, wenn er als
+Synchronmotor ausgebildet ist, mit dem Generator bei
+jeder Belastung im Synchronismus und seine Ge­
+schwindigkeitsänderungen sind durch den Regulator
+der Dampfmaschine oder Turbine bedingt. Es kann
+sich aber der freilich seltenere Fall ereignen, dass der
+Umformer als Gleichstrommotor betrieben wird und
+ein- oder mehrphasigen Wechselstrom erzeugt. Die
+Schwierigkeit dieser Art des Betriebes liegt da nur in
+der Constanthaltung seiner Geschwindigkeit bei jeder
+Belastung. Die Tourenzahl des Umformers und somit
+die Periodenzahl des erzeugten Wechselstromes ist
+bekanntlich von der Feldstärke abhängig; diese ist
+jedoch nicht nur von der Erregerstromstärke allein
+bestimmt, sondern wird auch durch die Ankerrückwirkung
+des Wechselstromes beeinflusst. Ist die Belastung auf
+der Wechselstromseite eine inductive, so wird der hinter
+dei Spannung zurückbleibende Strom eine Schwächung,
+ist sie eine capaeitive, so wird der phasenvorgeschobene
+Strom eine Verstärkung des Feldes bewirken; im ersten
+lall wird der Umformer seine Geschwindigkeit erhöhen,
+im letzeren wird er langsamer laufen. Es wird sich
+also die Tourenzahl mit dem Leistungsfactor ändern.
+Eme derartige Arnlage wurde von der Westinghouse-
+Company errichtet, um von der Gleichstromcentrale
+der Union-Railroad-Comp. in Providence V. St. A.
+aus den 22% km entfernten Speisepunkt einer Bahn­
+linie zu versorgen; der Gleichstrom wird unter Ver­
+mittlung von „umgekehrten“ rotirenden Umformern und
+Transformatoren in hochgespannten Drehstrom umge­
+wandelt und dieser am Verwendungsorte in Gleichstrom
+zurücktransformirt.
+Den obgenannten Schwierigkeiten wurde bei dieser
+Anlage nach dem Vorgang von Lamme dadurch be­
+gegnet, dass der Umformer mechanisch eine kleine Er­
+regermaschine mit Nebenschlusswicklung antreibt, welche
+den Erregerstrom für sein Feld liefert.' Wie aus Fig. 1
+zu ersehen, ist dieselbe fliegend auf der Umformerwelle
+angebracht. Wenn nun bei inductiver Belastung, durch
+die Ankerrückwirkung das Feld so weit geschwächt
+'") Nach „Eloctrieal World and Engineer“ Nr, 14.
+Kleine Mittheilungen.
+Ausgeführte und projectirte Anlagen 261
+Patentnachrichten 261
+Geschäftliche und finanzielle Nachrichten 262
+Vereinsnachrichten 263
+Oesterreicliische Elektrische Ausstellung Wien 1903.... 263
+Druckfehlerberichtigung 263
+wird, dass der Umformer schneller läuft, so erhöht
+auch die Erregermaschine ihre Tourenzahl, also auch
+ihre Klemmenspannung und die damit verbundene
+stärkere Felderregung setzt die Tourenzahl auf das
+normale Maass herab. Eine Abnahme der Umformer­
+geschwindigkeit durch phasenvorgeschobene Ströme hat
+eine geringere Erregerstromstärke, also eine Schwächung
+des Feldes und mithin eine Erhöhung der Tourenzahl
+auf das normale Maass zum Gefolge.
+Fig. 1.
+Es ist wohl zu beachten, dass die Erregermaschine
+bei einer Feldstärke arbeitet, die unterhalb des Knies
+der Magnetisirungscurve liegt, somit weit von der Sätti­
+gung entfernt ist; dort ist ihre Spannung ungemein em­
+pfindlich gegen Geschwindigkeitsänderungen. Sobald
+sich die Tourenzahl nur um 1— 2% ändert, z. B. erhöht,
+steigt die Spannung augenblicklich, der Nebenschluss­
+strom wächst, mit ihm das Feld und erhöht mithin
+noch mehr die Spannung und den gelieferten Strom etc.
+Die Grenze dieser Wirkung ist erreicht, wenn das Feld
+der Erregermaschine gesättigt ist; ist der Geschwindig­
+keitszuwachs so gross, dass zur Erreichung der normalen
+Tourenzahl ein stärkeres Feld erforderlich ist, als die
+Erregermaschine hervorbringen kann, so hört die selbst­
+tätige Regulirung auf. Durch starke Felder und ge­
+ringe Ankerrückwirkung wird dieser Fall vermieden.
+
+Seite 254.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 21.
+Wie aus der Schaltungsskizze (Fig. 2) zu ersehen,
+ist die Gleichstromseite eines jeden Umformers
+über einen Anlasswiderstand mit den Sammel­
+schienen der Centrale verbunden. Beim Anlassen wird
+auch das Feld dort angeschlossen und der Motor durch
+den Anlass- und Erreger-Rheostaten auf die normale
+Spannung und die normale Tourenzahl von 600 pro
+Minute gebracht. Ist dies erreicht, so wird die Erreger­
+maschine zur Stromlieferung für das Feld herangezogen
+und die Sammelschienen abgeschaltet.
+Die Umformer, von denen jeder für eine Leistung
+von .300 Ä' W berechnet ist, liefern zweiphasigen Wechsel­
+strom, dessen Spannung natürlich durch die des Gleich­
+stromes zwischen den Sammelschienen bestimmt ist.
+Sie lassen sich in der gewöhnlichen Weise parallel
+schalten und sind mit einer Zahl von Transformatoren
+verbunden, in welchen der zweiphasige Wechselstrom
+in Dreiphasenstrom von 10.000 V umgeformt, nach der
+Station River-Point geleitet und dort in ähnlicher
+Weise durch zwei Umformer von je 250 KW in Gleich­
+strom rückverwandelt wird. Von der Hochspannungs­
+leitung werden ausserdem noch 75 KW abgenommen
+und in zweiphasigen Wechselstrom von 2100 V zu
+Beleuchtungszwecken transformirt. G.
+lieber Drehstrombahnen in der Schweiz.
+Wir entnehmen dem Berichte über eine wissen­
+schaftliche Reise der Electrical Institution nach der
+Schweiz und der sich an diesen Bericht anschliessenden
+Discussion einige interessante Bemerkungen über diesen
+Gegenstand.
+Viele günstige Umstände, der Mangel an Kohlen
+und der Reichthum an bedeutenden Wasserkräften,
+haben der elektrischen Kraftübertragung in der Schweiz
+zu ausserordentlicher Entwickelung verliolfen und den
+Werth des hochgespannten Wechselstromes besonders
+in seiner mehrphasigen Form erkennen lassen. Die
+Erfahrungen, welche die Schweizer in der Durchbildung
+dieses Problems gesammelt hatten, ermöglichten die
+Anwendung des Drehstromes zum Betrieb von Bahnen
+mit beträchtlichen Steigungen und einem dichten Per­
+sonen- und Frachtenverkehr, wie sie durch die geo­
+graphischen und wirthschaftlichen Verhältnisse des
+Landes bedingt sind.
+Die bisher nach diesem System in der Schweiz
+gebauten Bahnen sind: Die Strassenbahn in Lugano,
+die Bergbahnen Z er m att-Go r n er g r a t,*) Stans­
+stad— Engelberg, Jungfraubahn und die
+Hauptbahnlinie Burgdorf— Thun.
+Die Stanssta d—E ngelberg Bahn führt in
+einer Länge von 22 V 2 km durch das Thal der Aa, bei
+Steigungen bis an 25% und scharfen Krümmungen.
+Die Schienen, Vignoleschienen von 26 kg pro Meter,
+liegen in Meterspur auf Stahlschwellen; zwischen ihnen
+sind bei grossen Steigungen zwei Zahnstangen ange-
+*) Z. f. E. 1889, S. 89.
+
+Nr. 21.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 255.
+bracht Von einem in dem Felsen eingesprengten Re­
+servoir, das von einer Unzahl Quellen gespeist wird,
+führen schmiedeeiserne Rohre das Betriebswasser den
+Turbinen der Centrale in Obermatt (Radial-Druck-
+turbinen mit horizontaler Achse) zu. Das Nutzgefälle
+beträgt 380 m, die secundliche Wassermenge 50 l, die
+Leistung einer jeden Turbine— es sind gegenwärtig
+zwei aufgestellt'— 180 PS bei 650 Touren pro Minute.
+Mit der Turbine ist ein Drehstrom-Generator von Brown
+gekuppelt, der bei 1950 Touren in der Minute Dreh­
+strom von 750 Volt erzeugt und direct in die Arbeits­
+leitung schickt. Die Erregung besorgen Nebenschluss­
+maschinen von einer separaten 12 PS Turbine ange­
+trieben. An die Generatoren sind zwei 30 KW Trans­
+formatoren angeschlossen, die den Strom auf 5200 V
+hinauftransformiren; der hochgespannte Strom wird
+auf drei Drähten aus Hartkupfer von 37? mm Dicke
+auf separaten Holzstangen zu den Transformatoren-
+Unterstationen in Stansstad und Dallewyl geleitet und
+dort auf 750 V heruntertransformirt. Von diesen Unter­
+stationen und von der Centralstation gehen oberirdische
+Speiseleitungen von 772 mm Kupferdraht aus, welche
+die durch Sectionsisolatoren in fünf Zonen getheilte
+Linie mit Strom versorgen. Die Arbeitsleitung besteht
+aus zwei Trolleydrähten von 7 1 /,, mm Hartkupferdraht,
+an welchen zwei Biigelcontacte schleifen; die dritte
+Leitung bilden die Schienen. Ausser den gebräuchlichen
+Absehmelzsicherungen und Blitzableitern ist noch ein
+Ausschalter angebracht, der bei Erdschluss den Erreger­
+strom automatisch unterbricht.
+Der Bahnbetrieb wird sowohl von Motorwagen
+mit Anhängewagen, als auch von Locomotiven besorgt;
+die ersteren erhalten zwei federnd aufgehängte Motoren
+von je 35 PS bei 480 Touren pro Minute, die Loco-
+motive ist mit zwei Motoren zu 75 PS ausgerüstet, die
+ihre Bewegung durch Zahnräder auf die Triebradwelle
+übersetzen. Auf ebener Bahn beträgt die Geschwindig­
+keit 20-1 Pm. auf der Zahnstange jedoch nur 5 km pro
+Stunde. Die Ingangsetzung der Motoren geschieht durch
+Anschliessen des Stators an die Oberleitung mittelst
+eines zweipoligen Umschalters (die dritte Phase ist an
+das Wagengestell angeschlossen) und die Regulirung
+der Geschwindigkeit durch Schalten von Widerstands-
+Drahtspiralen. die unter dem Wagendach untergebracht
+sind, in den Rotorkreis durch einen vom Wagenführer
+aus bethätigten Hebel; ein kleiner Transformator von
+100 V Secundärspannung besorgt die Heizung und
+Beleuchtung der Wagen. Ausser den beiden auf den
+Laufrädern und der Triebradwelle wirkenden Bremse
+ist noch eine dritte vorhanden, welche bei Ueber-
+schreitung einer Geschwindigkeit von 6 8 km auto­
+matisch in Thätigkeit gesetzt wird. Versuche haben
+gezeigt, dass ein 2872* schwerer Zug bei ungefähr
+5 km Geschwindigkeit auf der Zahnradstrecke in einer
+Entfernung von 6 m angehalten werden konnte.
+Der Betrieb wird auf einem Theil der Strecke
+nur mit Motorwagen geführt, erst in Obermatt, wo
+die grosse Steigung beginnt, wird die Locomotive ein­
+gehängt. Bei der Thalfahrt, auf dem starken Gefälle,
+treibt das Gewicht des abwärts fahrenden Zuges die
+Motorgeschwindigkeit über den Synchronismus, der
+Motor wirkt also als Generator und schickt Strom in
+die Linie; dabei bremst er sich selbst. Damit nun die
+Turbinen wegen der verminderten Belastung nicht eine
+viel grössere Geschwindigkeit annehmen, werden die
+Generatoren durch einen Wasserwiderstand künstlich
+belastet.
+Die Linie Burgdorf—T h u n ist eine Haupt­
+bahn von 40'2 km Länge und Steigungen bis zu 2 %,
+die sich an den beiden Endstationen an die schweize­
+rischen Bahnen anschliesst und von diesen den Transit­
+verkehr übernimmt. Im Kanderwerk. in der Nähe von
+Thun, das die elektrische Energie für diese Bahn liefert,
+wird durch 300 pferdige, mit der Turbine gekuppelte
+Dreiphasen-Generatoren Drehstrom von 4000 V erzeugt
+und in Transformatoren auf 16.000 KW erhöht. Dieser
+hochgespannte Strom wird oberirdisch längs der Bahn
+geführt und in 15 Unterstationen auf 750 F, der
+Spannung der Speiseleitungen, herabgesetzt. Auch hier
+sind zwei Trolleydrähte und Btigelcontacte, die dritte
+Leitung bilden die Schienen. Die Regulirung der Ge­
+schwindigkeit wird für die vier Motoren des Motor­
+wagens durch einen gemeinsamen Rheostaten im Rotor­
+kreis besorgt. Die Locomotiven, die nur bei sehr
+dichtem Verkehr eingestellt werden, haben zwei Motoren
+zu je 150 PS; die maximale Fahrtgeschwindigkeit
+beträgt 36'2 km.
+Zu den bedeutendsten elektrischen Betrieben wird
+nach ihrer Vollendung die Jungfrau bahn ge­
+hören, von welcher gegenwärtig die erste Theilstrecke
+bis zur Rothstockschlucht dem Verkehre übergeben
+wurde. Sie zweigt beim kleinen Scheidegg von der
+Wengernalpbahn ab und führt in Meterspur mit stellen­
+weise 20—25% Steigung über den Eigergletscher. Die
+Centrale in Lauterbrunn hat bei 6 m 3 Wassermenge
+in der Secunde und 35 m Gefälle eine Leistungs­
+fähigkeit von über 2000 PS, von welchen gegenwärtig
+nur die Hälfte in zwei Einheiten zu 500 PS ausgenützt
+wird. Mit den horizontalen G i r ar d-Zwillingsturbinen
+mit achialer Beaufschlagung sind Drehstromgeneratoren
+der Inductortype von Oerlikon direct gekuppelt, welche
+bei 380 Touren pro Minute Drehstrom von 7000 V und
+38 00 erzeugen, der durch oberirdische Leitungen zu
+den Transformator-Unterstationen Scheidegg und Eiger­
+gletscher geführt und dort auf 500 V der Speiseleitungs­
+spannung herabtransformirt wird. Die Erregung besorgen
+zwei direct mit je einer 12 PS Turbine gekuppelte
+Nebenschlussmaschinen, welche bei 700 Touren pro
+Minute Strom von 150 Ampere und 120 l 7 liefern.
+Für die beiden Trolleyleitungen ist Hartkupfer­
+draht von 9 mm Stärke gewählt, für die Hochspannungs­
+leitung, welche auf eigenen Holzmasten mit eisernen
+Querträgern neben dem Bahnkörper verlegt ist, solcher
+von 7-5 mm Durchmesser; der maximale Spannungs­
+abfall beträgt in der Hochspannung nur gegen 10%.
+Gegenwärtig wird der Betrieb von zwei Loco-
+motivtypen versehen, die von der Firma B r o w n-
+B o v e r i und von der Maschinenfabrik Oerlikon
+beigestellt wurden. Wie aus der Fig. 1. welche
+die mechanischen und elektrischen Einrichtungen
+der ersteren zeigt, zu ersehen ist, ruht der
+Locomotivrahmen mittelst steif abfedernder Spi­
+ralen auf zwei Tragachsen, die zwischen sich
+die beiden Zahntriebachsen aufnehmen; diese werden
+durch 2 Drehstrommotoren, die bei 500 V verketteter
+Spannung und 760 Touren pro Minute 125—150 PS
+leisten, durch symmetrisch zu beiden Seiten angeordnete
+Zahnradübersetzungen angetrieben. Zu den Zahnrädern
+des Vorgeleges, die mit nur 45 mm Theilung ausgeführt
+sind, wurde Aluminiumbronze gewählt; sie sind sym­
+metrisch-schief geschnitten, so dass ein ruhiger Gang
+
+Seite 25G.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 21.
+Das Gewicht eines jeden Motors beträgt 2'6 /, das
+der ganzen Locomotive 13 t, ihre Zugkraft 6600 /.p im
+Maximum. Den schwierigen Terrainverhältnissen Rech­
+nung tragend, wurde auf die Bremsvorrichtungen beson­
+dere Sorgfalt verwendet. Es sind deren drei auf jeder
+Locomotive vorhanden, eine Handbremse, die auf die
+Bremsscheibe der Triebradwelle wirkt, eine Schienen-
+zarfgenbremse mit Bronzeschuhen, die als Nothbremse
+sowohl vom Locomotivftihrer, als auch vom Conducteur
+bethätigt werden kann und eine elektrische Bremse
+auf der Motorwelle, welche so eingerichtet ist, dass
+beim Ueberschreiten einer gewissen Geschwindigkeit
+durch einen Centrifugalregulator der Motorstrom unter­
+brochen und die Bremse ausgelöst wird.
+Fig. 2 stellt das Schaltungsschema dar, das im
+Vergleich mit dem complicirten Schaltapparat der
+Gleichstrom-Bahnmotoren an Einfachheit nichts zu
+wünschen übrig lässt. Wie aus der Skizze zu ersehen
+ist, wird der Strom an den beiden Arbeitsleitungen
+durch Schleifcontacte (sleepers) über einen Umschalter,
+der sowohl auszusehalten als auch zu commutiren
+vermag, dem primären Theil der Motoren zugeführt;
+das dritte Ende der Statorwickelung ist mit dem Gestelle
+verbunden.
+Die Regulirung der Motoren erfolgt durch all-
+mäliges Schalten eines für die beiden Rotoren gemein­
+samen Widerstandes; es ist bemerkenswerth, dass bei
+der Thalfahrt die Geschwindigkeit der Locomotive
+angeblich nur um 4°/ 0 über den Synchronismus steigt.
+Die Oerlikon-Locomotive, von welcher Fig. 3 eine
+Ansicht bei abgenommenen Verschalungen gibt, unter-, uuwmunvc, ucreu vrewient iai oerragt, uesitzt zwei
+scheidet sich nicht wesentlich von der erstgenannten.| 8polige Drehstrommotoren, die mit 550 Touren laufen
+2 O HUI ULJU
+
+Nr. 21.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 267.
+Fig. 3.
+und vermittelst einer Vorgelegewelle auf die Triebrad­
+welle wirken (Uebersetzungen -4 1/ 4r: 1 und 2: 1). Auf
+dieser sitzt eine Bremsscheibe, an welche mittelst der
+beiden Handgriffe rechts Bi’onzebacken angepresst
+werden, während das Handrad A die Bandbremse auf
+der Motorwelle bethätigt.
+Um bei der Thalfahrt aus dem schon erwähnten
+Grunde eine übermässige Entlastung der Generatoren
+und das eventuelle Durchgehen der Turbinen zu ver­
+hindern, wird durch einen Hebel der Widerstand
+parallel zum Stator geschaltet und die Motoren kurz
+geschlossen. Es ist klar, dass bei dem später zu ge­
+wärtigenden dichteren Verkehr derartige unökonomische
+Vorsichtsmaassregeln entfallen werden, nachdem die
+von der thalfahrenden Locomotive erzeugte Energie der
+bergfahrenden zugute kommt.
+Wenn wir das Gesagte kurz zusammenfassen, so
+erkennen wir mancherlei beträchtliche Vortheile, die
+ein derartiger Bahnbetrieb mit sich bringt. Die Ver­
+wendung der hohen Spannung ermöglicht den Betrieb
+einer weitgedehnten Bahnlinie von einer Centrale
+aus unter Verwendung von dünnen Speiseleitungen,
+die Transformatoren haben im Gegensätze zu den
+rötirenden Umformern einen hohen Wirkungsgrad und
+brauchen die geringste Wartung.
+Nicht zu unterschätzen sind die grossen Vorzüge
+des Drehstrommotors. Dabei ist die Regulirung der
+Geschwindigkeit durch Einschalten von Widerstand in
+den Rotorkreis äusserst einfach und regelmässig und
+kann eventuell noch dadurch rationeller gestaltet
+werden, dass man, wie es z. B. Kolben bei seinen
+Hebezeugen macht, die Polzahl durch geeignete Schal­
+tungen verdoppelt oder halbirt und so die volle oder
+halbe Geschwindigkeit erhält; Zwischenstufen lassen
+sich leicht durch den Rheostaten erreichen.
+Der Controller kann der magnetischen Funlcen-
+ausblasung entbehren, da bei dem kleinen Luftraum
+und dem gut untertheilten Eisen überhaupt nur
+schwache Funken auftreten. Ein wesentlicher Vorzug
+ist endlich auch noch in der automatischen Bremsung
+bei der Thalfahrt zu erblicken.
+Wenn auch der Betrieb von elektrischen Bahnen
+im allgemeinen mittelst Drehstrom mannigfache Schwie­
+rigkeiten mit sich bringt, so dürfen wir doch nicht
+verkennen, dass bei eingeleisigen Linien,- die, wie die
+eben angeführten, einen dichten Personen- und Frachten­
+verkehr und schwierige Terrainverhältnisse zu über­
+winden haben, der Drehstrom grosse technische
+und ökonomische Vortheile gegenüber dem Gleichstrom
+aufweist. G.
+Elektrischer Betrieb auf Vollbahnen.
+(Schluss.)
+Die Gewichte der Expresszug-Locomotiven in Amerika, Eng­
+land und Frankreich bewegen sich zwischen 45 und HO /, so dass auf
+die durchschnittlich bewegten 4 Wagen ii 25 Sitzplätze=
+100 Sitzplätze im Mittel 50 Tons Locomotivgewicht, also bei 50
+Ausnützung circa 1 t pro Sitzplatz, ferner an Wagenge wicht, mit,
+Rücksicht auf die steigenden (Jomfortansprüche 4X 30 Tons -(-
+
+Seite 258.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 21.
+15 Tons Gepäckwagen= 135 Tons, somit circa 2- 7/, in Summa
+daher 3'7 Tons pro ett'ectiv beförderten Passagier entfallen, was
+etwa 32 kr/ Zugkraft pro Passagier entspricht bei 100 km Stunden­
+geschwindigkeit. Beim elektrischen Einzelwagenverkehr beträgt
+das analoge Gewicht höchstens 21 pro Passagier, oder circa 15%
+Zugkraft, somit sind schon bei 100 lern Stundengeschwindigkeit
+circa 17% Zugkraft pro Kopf, also circa 6'5 I'S pro Kopf, ocler
+etwa 50 erspart. Erwägt man, dass die Pferdekraft beim
+elektrischen Betriebe etwa mit 60^ Brennmaterialersparnis gegen­
+über dem Locomotivbetrieb geliefert wird, so zeigt sich eine
+Ersparnis von 80% an Kohle bei gleicher Geschwindigkeit.*)—
+Selbst auf gerader und horizontaler Bahn ist die ideal erreich­
+bare Loeomotiv-Geschwindigkeit dadurch beschränkt, dass einer­
+seits die Widerstände mit zunehmender Geschwindigkeit wachson
+andererseits die Zugkraft circa ein Siebentel des auf den Trieb­
+rädern lastenden Druckes (Adhäsionsgewicht) nicht übersteigen
+kann; somit beträgt die ideale Maximalgeschwindigkeit einer 50 t
+schweren Locomotive auf ebener und gerader Bahn etwa 260 km
+pro Stunde. In der Praxis wird diese Ziffer nie erreicht werden,
+da die hiezu erforderlichen Kolbengeschwindigkeiten unzulässig
+sind. Wohl aber sind in den Vereinigten Staaten Records von
+163, respective 183 7cm pro Stunde für Locomotiv-Geschwindig-
+keiten geschaffen worden (am 9., respective 11. Mai 1893 auf
+ebener horizontaler Strecke der New-York Central and Hudson­
+river Rd., Empire State Express, Locomotive Nr. 999 der Baldwin
+Works.) Es ist nicht ohne Interesse, dass schon Steplienson
+schätzungsweise die erreichbare Maximalgeschwindigkeit einer
+Locomotive mit 160 Stundenkilometer beziffert hat.
+Die durch Anfahren und Bremsen bewirkten Zeitverluste
+sind bei Locomotivbahnen um so bedeutender, als die bei Dampf-
+traction erzielbaren Accelerationen sich zwischen 0'5 und 0T5 m
+pro Secunde bewegen, somit bei einigermaassen geringen Stations-
+Entfernungen (von z. B. 2'5 km) nur sehr geringe Fahrgeschwin­
+digkeiten im Maximum (circa 'Jo km) pro Stunde erzielt werden
+können, die kaum erreicht, sofort durch Bremsen wieder zerstört
+werden müssen.
+Die Verschiedenartigkeit der Geschwindigkeiten bei den
+auf einem und demselben Geleise zu bewegenden Zügen bedingt
+zahlreiche direct und indirect zeitraubende Aufenthalte, um ein
+Vorfahren der höherrangigen Schnellzüge zu ermöglichen. Bei
+wachsendem Verkehre entstehen hiedurch in rapid wachsender
+Progression steigende Investitions-Erfordernisse für Ausweichen­
+vermehrung und Bahnhofvergrösserungen, sowie für Vermehrung
+der Fahrbetriebsmittel, da letztere infolge verlängerter Aufent­
+halte langsamer eirculiren.
+Hiedurch wurde man zu einer Differentiirung der Ver­
+kehre in dem Sinne gedrängt, dass man versuchte, etweder den
+raschen Personen-Fernkehr, oder den Localverkehr der Städte
+und Umgebungen, oder den Lastenverkehr von dem gemein­
+samen Geleise abzuziehen. Während man sich den letzteren zwei
+Zielen einerseits durch die Localbahnen und Tramways, anderer­
+seits durch den Wasser- (Canal-) Transport der minderwerthigen
+Güter näherte, hat man schon vor geraumer Zeit die Idee der
+elektrischen Traction aufgegriffen, um den Nachtheilen der
+Dampftraction für den raschen Fernverkehr zu begegnen. Die
+diesbezüglichen Vorschläge bewegten sich auf drei Linien. Man
+versuchte die Zugförderung mittelst einer elektrischen Locomotive,
+deren Antrieb von einer auf der gleichen Plattform montirten
+gewöhnlichen Dampfmaschine besorgt wurde. (Ileilmann’sche
+Locomotive.)
+Dieser Versuch kann als missglückt gelten. Zweitens ver­
+suchte man die Zugförderung mittelst Accumulatoren, ein
+System, das sehr verlockend aussieht, derzeit aber noch mit
+mannigfachen Nachtheilen verbunden ist und sowohl bezüglich
+der Kosten als der Leistungsfähigkeit nicht den gestellten An­
+forderungen mit voller Sicherheit zu entsprechen vermag. Endlich
+bewegten sich die Versuche auf dem Gebiete der eigentlichen
+elektrischen Traction, die aus der Zuführung von Strom, der in
+einer Centrale erzeugt wird, zu Elektromotoren besteht, welch’
+letztere entweder auf den Fahrzeugen selbst oder auf einer Art
+elektrischen Locomotive angebracht sind.
+Diese Traction erlaubt, grosse Geschwindigkeit unter viel
+günstigeren Bedingungen als alle anderen Methoden zu erzeugen,
+und man hat daher schon 1891/92 (Zipernowsky), das Project
+*) Diese Anschauungen sind den vom Verfasser des Artikels aus.
+gesprochenen entgegengesetzt; aus der Verschiedenheit der Urtheile geht das eine
+sicher hervor, dass ein absprechendes Urtüeil über die Zweckmässigkeit der .Ein­
+führung des elektrischen Betriebes auf Vollbahueu nicht in überzeugender Weise
+gefällt werden kaun. Die Red.
+Budapest—Wien auf Basis von 200 km Stundengeschwindigkeit
+und auch seither eine ganze Reihe von Projecten mit ähnlichen
+hoch gegriffenen Geschwindigkeitsziffern aufgestellt.
+Ober-Ingenieur Ritter von Gerson berührte auch die
+Frage der Geleise-Ueberhöhungen in Curven und zeigte, dass die
+theoretisch erforderlichen Hebungen des äusseren Schionen-
+stranges praktisch undurchführbar sind. Andererseits ergeben
+sich aber bei zu geringer Ueberhöhung sehr bedeutende
+Pressungen der äusseren Schienen, die bei 200 km Stunden­
+geschwindigkeit und 500 m Radius bis zu 0-5 des bewegten
+Gewichtes gehen.*) Es müsste daher durch Zwangschienen oder
+anderweitige Vorkehrungen die mangelnde Ueberhöhung ersetzt
+werden; zum Theil hat man dies durch Einführung des Ein­
+schienensystems versucht. Die Frage der Ueberwindung grösserer
+Steigungen gibt zu der Erwägung Anlass, dass die bei Dampf­
+bahnen übliche allmälige und gleichmässige Hebung, die zu
+theueren Lehnenbauten führt, besser durch localisirte und dem­
+entsprechend. stärkere Neigungen mit Vorspanndienst oder mit
+Zuhilfenahme von Seil oder Zahnstangenbetrieb zu ersetzen wären.
+Schliesslich bringen wir noch den Bericht über d i e A n-
+Wendung der Selbstfahrwagen auf vollspurigen
+Bahnen mit schwachem Verkehre**), der im ersten
+Tlieile des Februarheftes des „Bulletin de la Commission inter­
+nationale du Congres des chemins de fer“ (14. Jahrgang) zur
+Veröffentlichung gelangte.
+Das Programm für die sechste Tagung des Internationalen
+Eisenbahncongresses enthält namentlich auch eine Frage bezüg­
+lich der Selbstfahrwagen (Motorwagen, Automobilwagen) und
+ihrer Verwendung auf vollspurigen Bahnen mit schwachem Ver­
+kehr. Die Berichterstatter Ober-Ingenieur Kc.ro mn cs, Zug­
+förderungs-Vorstand L6 che Ile und Ingenieur Sartiaux,
+sämmtlich Beamte der französischen Nordbahn, haben ihre Aus­
+arbeitung der Commission bereits vorgelegt.
+Dem Berichte liegen die ausführlichen Mittheilungen
+von sioben Eisenbahnverwaltungen zu Grunde; es sind dies
+folgende:
+1. die belgischen Staatsbahnen, welche elektrische Wagen
+und Dampfwagen versuchsweise im Betrieb haben;
+2. die pennsylvanische Bahn, welche Auskunft über die
+Dampfwagen der „Baldwin Locomotive Works -1 in Phila­
+delphia gibt;
+3. die italienische Mittelmeerbahn, auf deren Linien elek­
+trische Selbstfahrer laufen;
+4. die Nikolai-Bahn des russischen Staatsbahnnetzes, welche
+Dampfwagen benutzt;
+5. die Wiener Localeisenbahn-Gesellschaft, welche den
+Dampfwagen von Le Blant versucht;
+6. die belgische Vicinalbahn-Gesellschaft, welche auf Linien
+mit 1 m Spurweite Dampfwagen verwendet und
+7. die französische Nordbahn, welche Dampfwagen und
+elektrische Wagen versuchsweise in Betrieb gesetzt hat.
+Der Bericht beschreibt die verschiedenen Wagengattungen
+in sehr eingehender Weise. Wir bringen im Nachstehenden die
+wichtigeren, für die weitesten Kreise beaehtenswerthen Angaben
+über den Bau der Wagen und die Betriebsweise in den einzelnen
+Fällen.
+1. Der elektrische Selbstfahrwagen der belgischen Staats­
+bahnen. Er ist bestimmt, an Stelle der Omnibuszüge zu treten,
+die ausschliesslich den Personenverkehr besorgen. Gegenwärtig
+stehen fünf Wagen dieser Art im Betriebe. Jeder Wagen ruht
+auf zwei Drehgestellen mit vier Rädern von 98 cm Durchmesser,
+der Wagenkasten ist 16 m lang, hat an jedem Ende ein Abtheil
+für den Wagenführer und einen Raum für die elektrischen
+Sammler, weiter ein Abtheil mit 30 Sitzen II. Classe und ein
+Abtheil mit 36 Sitzen III. Classe; auf der Plattform sind zwölf
+Stehplätze; der Wagen braucht nicht gewendet zu werden. Das
+Gewicht eines Wagens beträgt 46 7, wovon 12 7 auf die Sammler,
+9- 5 7 auf die Motoren entfallen. Die Beleuchtung der Signale er­
+folgt mit Oellampen. Die Wagen können bei den gewöhnlichen
+Zügen auch als Anhängewagen Verwendung finden.
+*) Bei elektrisch betriebenen Zügen ist wegen des geringeren Gewichtes
+eine rasche Verringerung und Steigerung der Geschwindigkeit leicht möglich,
+weshalb auch die Curven keine unüberwindliche Schwierigkeit bilden, da sie mit
+Einhaltung einer zulässigen Geschwindigkeit durchfahren werden können.
+Die Red.
+*♦) Ztg, d. V. D. E V. Nr. 28, 1900.
+
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 259.
+Nr. 21.
+Es sind 2 Motoren vorhanden, die eoncentrisch und federnd
+auf den inneren Achsen der Drehgestelle angebracht sind und
+., ,, 5(l0 Volt X 150 Ampere ..,
+eine Arbeit von io Kilowatt= lieiern.
+1UOO
+Sie sind vierpolig und in Reihen gekuppelt. Die Sammler, deren
+Zahl 264 beträgt, sind in vier Kästen untergebracht, die derart
+über den Drehgestellen symmetrisch angeordnet sind, dass letztere
+unmittelbar ihr ganzes Gewicht aufnehmen. Diese Anordnung
+erleichtert ganz ausserordentlich die Hantirung mit den Sammlern,
+die aus Zellen zu 7 Platten von 300 X 300 mm 2 Fläche bestehen.
+Die positiven Platten sind 8 mm stark und nach System Plante
+ausgeführt; sie haben befriedigende Resultate geliefert. Die nega­
+tiven Platten sind 4 mm. stark. Die Capacität für 1 kg Platten­
+gewicht kann 9 Amperestunden erreichen und beträgt im Mittel
+5'—6 Amperestunden. Beim Anfahren ist die Stärke des Stromes
+180 Ampere bei 520 Volt, auf ebener Bahn bei geringer Ge­
+schwindigkeit jedoch 50—60 Ampere bei 500 Volt. Die Batterie
+gestattet, 100—150 km, mit Aufenthalten nach je 5 Minuten unter
+Anwendung einer Reisegeschwindigkeit von 30 km/St auf Strecken
+mit günstigen Neigungs- und Krümmungsverhältnissen zurückzu­
+legen. Die mittlere Ladedauer der Accumulatoren ist 6-8 Stunden
+bei 40—70 A Ladestromstärke. Die elektrischen Einrichtungen
+der Wagen sind nicht durchwegs gleich, beruhen aber auf den­
+selben Grundsätzen. Jeder Wagen trägt eine Pfeife und eine
+Westinghouse-Bremse, welcher ein elektrischer Motor und eine
+Pumpe— beide vorzüglich gebaut •— die Luft von 5 Atmo­
+sphären Druck liefern. Der Motor bewegt eine Pumpe mit zwei
+Kolben und verbraucht im Mittel 7 Ampere Strom bei 50u Volt
+Spannung. Motor und Pumpe befinden sich unter dem Dreh­
+gestell an einem Ende des Wagens und ersterer setzt sich selbst-
+tliätig in Gang, sobald der Lnftbehälter sich zu leeren beginnt.
+Der Preis eines vollkommen ausgerüsteten Wagens stellt
+sich auf 65.600 Frcs.
+aus 23 Platten von je 170 X 130 mm 2 Fläche. Eine zweite kleinere
+Batterie speist die Wagenlampen.
+Die zwei vierpoligen Motoren sind auf die äusseren Wagen­
+achsen gut federnd aufgesetzt; nähere Angaben über ihre
+Leistungsfähigkeit fehlen. Es wird nur mitgetheilt, dass der
+Wagen mit einer Geschwindigkeit von 433 km/S' verkehren und
+mit einer Ladung einen Weg von 78 km durchlaufen kann.
+5. Die russische Nikolai-Eisenbahn lässt auf der 32 km
+langen Strecke vom Bahnhof in St. Petersburg nach dem neuen
+Hafen Dampfwagen verkehren, welche 80 Personen aufnehmen
+können, an den Endpunkten nicht gedreht zu werden brauchen
+und sich auch als Anhängewagen für gewöhnliche Züge ver­
+wenden lassen. Die Wagen, deren Kasten 3T0 m breit und 16-671 m
+lang sind, haben zwei Stockwerke; im unteren befinden sich die
+Abtheile I. und II. Classe und der Gepäckraum, das obere
+bildet ein Abtheil III. Classe. Der Motor ist eine Locomotive
+mit zwei gekuppelten Achsen und 312 kg Zugkraft. Der Kessel
+ist ein wagerechter Röhrenkessel mit 72 Röhren und 11 m 2
+Heizfläche. Der Brennstoffverbrauch beträgt 3-3 kg Naphtha oder
+3- 6 kg Kohle für 1 km. Die Locomotive wiegt ohne Wasser und
+Brennstoff 7-881, der ganze Wagen 21 t. Die grösste Fahr­
+geschwindigkeit überschreitet nicht 22 km in der Stunde; im
+Mittel fährt der Wagen mit IT km. Der Preis des Wagens wird
+mit 80.000 Frcs., die Betriebskosten für 1 Wagenkilometer werden
+mit 4 Frcs. angegeben.
+6. Die belgischen Vieinalbahnen haben auf der schmal­
+spurigen Linie von Antwerpen zwei Rowanwagen probeweise in
+Verkehr gesetzt. Diese Wagen sind 12-OSm lang, wiegen leer
+14'3 /, im Dienste 18 6 t und haben 46 Plätze, wie auch ein Ab­
+theil für Gepäck. Die gestattete Fahrgeschwindigkeit ist 30 km/Sl.
+Der Wagen muss an den Endbahnhöfen gedreht werden.
+2. Der Dampfwagen der belgischen Staatsbahnen. Derselbe
+ist 15-005 m lang, besitzt zwei Abtheile für die Begleitmannschaft,
+mit sämmtlichen Vorrichtungen zur Führung des Wagens, zwei
+Abtheile für Reisende mit 53 Plätzen und wiegt dienstbereit 30 t.
+Die Zugkraft des Motors beträgt 1150 kg bei einer grössten Ge­
+schwindigkeit von 55 km/St und einer mittleren Geschwindigkeit
+von 30- 35 km/St. Der Kessel hat einen Fassungsraum von 1800 m3
+und eine Verdampfungsfähigkeit von 7-5 kg. Die Wagen sind mit
+Westinghousebremse und gewöhnlicher Bremse ausgerüstet. In
+der Endstatien wird der Wagen in der Regel gedroht; wenn
+keine Drehscheibe vorhanden ist, so kann der Dampfwagen auch
+mit Rauchfang rückwärts fahren, doch darf dann die Fahr­
+geschwindigkeit 30 km/St nicht überschreiten und muss sich auf
+der vorderen Plattform ein Zugbegleiter befinden, der die Strecken­
+signale überwacht und sich mit dem Maschinisten mit Hilfe einer
+die Dampfpfeife bethätigenden Leine verständigt.
+3. Die Dampfwagen der Baldwin Locomotive Works haben
+eine Länge von 16•5 m und fassen 41 Personen; sie ruhen auf
+Drehgestellen mit Treibrädern von 1-10 m und mit Laufrädern
+von 0-9 m Durchmesser. Am Endpunkte der Fahrt müssen sie
+gewendet werden. Sie haben ein Gewicht von 56 t.
+Bsmerkonswerth ist die Bauart des Wagenrahmens, der
+ans U-förmigen Stahlträgern von 20 c,m Höhe gebildet ist und
+von zwei vien-äderigen Drehgestellen getragen wird; das vordere
+Drehgestell trägt die Cylinder und den Motor; das hintere ist
+nur bestimmt, den hinteren Theil des Fahrzeuges zu stützen.
+Dieser Dampfwagen zählt also eigentlich schon zu den Loco-
+motiven. Der Motor ist eine Verbundmaschine mit vier Cylindern
+und aussenliegender Steuerung; er kann eine Zugkraft von 4077 kg
+entwickeln. Der Kessel ist vor dem Abtheil des Locomotivführers
+untergebracht; es ist ein Verticalkessel mit selbstthätiger Speisung
+und kann mit Kohle, Anthracit, Coaks oder flüssigem Brennstoff
+geheizt werden; sein Durchmesser beträgt 1-50 m, die Zahl der
+Feuerrohre von 37-5 mm Durchmesser und 1-nO m Länge ist 430,
+die gesammte Heizfläche 48-15 m 2. Der Preis des Wagens, der
+mit einer Westingliouse-Bremse ausgestattet ist, wird auf rund
+62.0000 Frcs. angegeben.
+Die Maschine wiegt leer 8/, im Dienste 9-3'; ihre Zug­
+kraft beträgt 181-6 kg. Die Rostfläche des lothrecht stehenden
+Röhrenkessels misst 0-587 m 2, die Heizfläche 17 m 2.
+7. Die Wiener Localbahn-Gesellschaft erprobt auf einer
+Stadtbahnlinie mit schwachem Verkehr eine Dampfloeomotivc,
+System Le Blant, welche zwei gewöhnliche Wagen mit zusammen
+7ft Sitzen zu befördern vermag. Wir haben es in diesem
+Falle also nicht mit eigentlichen Motorwagen oder Selbstfahrern
+zu thun.
+8. Die französische Nordbahn hat Versuche unternommen
+mit einem Dampfwagen und mit einem elektrischen Wagen, die
+ausschliesslich zur Beförderung von Postsendungen bestimmt
+sind. Sollte sich das Bediirfniss ergeben, auch Beisende zu be­
+fördern— obwohl wegen der für Personenverkehr ungünstigen
+Fahrordnung dies nicht zu erwarten ist —, so werden diesen
+Motorwagen Anhängewagen beigegeben, die gegebenen Falles
+auch zur Güterbeförderung dionen können. Der zweiachsige
+Dampfwagen ist mit einem Kessel nach System Serpollet, einem
+Motor, einer Westinghouse-Bremse und einer Schraubenbremse
+ausgerüstet und wiegt im Dienste 15 <. Seine Zugkraft berechnet
+sich zu 1700%. Der Kessel Serpollet’s bietet mannigfache Vor­
+theile: grosse Sicherheit, schnelle Dampferzeugung, bedeutende
+Anpassungsfähigkeit an verschiedene Krafterfordernisse, überaus
+einfache Wartung; er verlangt aber ziemlich kostspielige Er­
+haltungsarbeiten, so dass man beabsichtigt, ihn durch einen
+Turgau-Ivessel zu ersetzen.
+Der elektrische Wagen ist ebenfalls zweiachsig und wiegt
+dienstbereit 201. Den elektrischen Strom liefert eine Sammler­
+batterie, die zum Theil in einem Kasten unter dem Wagen zwischen
+den Achsen, zum Theile in zwei Behältern auf dem Wagendache
+links und rechts vom Wagenführer untergebracht ist. Jede Achse
+wird von einem vierpoligen Motor bewegt. Die Sammlerbatterie
+besteht aus 132 Elementen zu 26 Platten von 122 X 250 »u» 2
+Fläehenausmass mit einer Capacität von 190 Ampere bei 230 Volt.
+Die ganze Batterie wiegt 5-8 t. Die Abtheile des Wagens, wie
+auch die Signale werden elektrisch beleuchtet.
+4. Die Wagen der italienischen Mittelmeerbahn laufen aut
+der Linie von Mailand nach Monza; sie sind nach amerikanischen
+Vorbildern gebaut; ihr 17'80m langer Kasten ruht, auf zwei Dreh­
+gestellen; an jedem Ende befindet sich eine gedeckte Plattform,
+von der aus der Zutritt in das Wageninnere erfolgt. Der Wagen
+fasst 90 Reisende bei 64 Sitzplätzen; das Gewicht desselben ist
+leider nicht angegeben. Die elektrischen Sammler, welche den
+Betriebsstrom für den Wagenmotor und die Pumpe derWesting-
+houso Bremse liefern, sind in zwei Reihen zu je 65 Elementen
+unter dem Wagenkasten untergebracht,; jedes Element besteht
+Die Motoren und die Batterie sind für eine Fahrgeschwin­
+digkeit von 50 km/St auf wagerechter Bahn berechnet; hierbei
+wurde ein Widerstand auf gerader, wagerechter Bahn von
+10 kg/t angenommen und eine gleichförmige Steigung von 4"/no
+vorausgesetzt. Unter diesen Bedingungen beträgt die Zugkraft
+280 kg und die zu entwickelnde Nutzarbeit 4080 kg/m; daraus er­
+gibt sich ein elektrischer Kraftverbrauch von 47.000 Watt.
+Mit einer Füllung der Batterie können bei 12 Aufenthalten
+und ebenso vielen Anfahrten 120 4m zurückgelegt werden.
+
+*) Der Betrieb ist bis auf die Bingbahnlinie in Baden eingestellt.
+2) Kraclittonnen beziebw. Kronen.
+Seite 260.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 21.
+c“
+p
+Ul
+p
+K3
+CD
+oo
+CD 03
+o: os
+LO CD
+03 05
+<1 03
+CO
+CD
+rfx h-
+o b
+O CD
+CO LO
+05
+CO CD
+05 M
+C< OO
+rf^ 05
+ir*^
+to 00
+05
+'-.1 CD
+CD h--
+03 LO
+LO O
+rfi. CD
+Q< CD
+03
+OD
+O
+03 CD
+b
+o
+w
+CD
+B
+crq
+&
+Wb
+1 1 o
+CD DT 1
+s-fO» S
+S§ g! 5
+| a 5 1
+h-. o
+3?
+Spurweite
+a
+a
+CD
+w
+o
+B
+CD
+B
+I ö
+pS
+CD g
+Ui
+CD
+h?" Mo
+p S:
+aq•
+g a
+Vom 1. Jänner
+bis 31. März
+1900 beförderte
+Personen
+|? af ü
+SB®
+8'S w
+i
+rr j rr
+£ <J g
+* 2®
+gB ö
+Verkehr der österreichischen und der bosnisch-herzegowinischen Eisenbahnen mit elektrischem Betriebe
+im I. Quartal 1900
+und Vergleich des Verkehres und der Einnahmen des Jahres 1900 mit jenen des Jahres 1899.
+
+Nr. 21.
+Seite 261.
+ZEITSCHRIFT FÜR ELEKTROTECH NTK.
+KLEINE MITTHEILUNGEN.
+Ausgeführte und projectirte Anlagen
+Oesterreich.
+Antiesenliofen. (Anordnung derTracenrevision
+und Stationscommission der projectir'ten Local-
+b a h n An tiesenhofen-Manerkirclie n). Die k. k. Statt­
+halterei in Wien hat hinsichtlich des von Ferdinand Spiegel
+in Wien vorgolegten Projectes für eine mit der Spurweite von
+l'O m auszuführende, elektrisch zu betreibende, dem Personen-
+und Frachtenverkohre dienende Kleinbahn mit vorwiegender
+Strassenbenützung von der Station Antiesenhofen der Linie
+Ried—Schärding der k. k. Staatsbahnen zur Station M a u e r-
+kirclicn der Linie Steindorf—Braunau a. Inn der k. k. Staats­
+bahnen die Tracenrevision in Verbindung mit der Stationscom­
+mission auf den 16. Mai anberaumt. (Vergl. H. 9, S. 109 d. Z.)
+Jitsclim. (Ein f ii hr u n g d e r elek t r i sch e n Bel e uch-
+tung). Die Gemeindevertretung von Jitschin hat mit Rücksicht
+auf die bisherige ungenügende Beleuchtung der Stadt die Ein­
+führung der elektrischen Beleuchtung in Erwägung gezogen. Zu
+diesem Behüte beschloss sie, dass zu Zwecken der Beleuchtung
+und dos Betriebes eine elektrische Station errichtet werde. Die
+Kostenberechnung ergab, dass dieses Unternehmen ein Betriebs-
+capital von 200.000 K in Anspruch nehmen würde. Um aber die
+Durchführung dieses Unternehmens zu erleichtern, werden 2000 Ge-
+schäftsantheile zu 100 K zur öffentlichen Subscription aufgelegt
+werden. Diese Geschäftsantheile verpflichtet sich die Stadtgemeinde
+binnen 20 Jahren zurückzuzahlen und mit 4% zu verzinsen.
+Laibach. (Ergebnis derTracenrevision und
+politischen Begehung der p r o j e c t i r t e n elektri­
+schen Kleinbahnlinie Rathhaüsplatz-Floriani-
+gasso.) Das von der k. k. Landesregierung in Laibach mitge-
+thoilte Ergebnis der am 16. März durchgeführten Tracenrevision,
+Stationscommission und politischen Begehung des von derAetien-
+gesellschaft Siemens&Halskein Wien vorgelegten Projectes
+für die Linie Rathhausplatz—Florianigasse der projectirten elek­
+trischen Kleinbahnen in Laibach und Umgebung wurde zur Kennt­
+nis genommen. Auf Grund dieses Ergebnisses hat das Eisenbahn­
+ministerium den Bauconsens für die Theilstrecke Rathhausplatz—
+Florianigasse mit dem Bemerken ertheilt, dass derselbe erst nach
+Ertheilung der Concession in Kraft tritt. (Vergl. H. 8, S. 97 H 11
+S. 132 d. Z.)
+See am Mondsee. (Anordnung de r T racen-
+revision und Stationscommission der projec-
+t i r t e n Eisenbahn niederer Ordnung von See a m
+M ondsee n a c h U nterac h.) Das k. k Eisenbahnministerium
+hat unterm 25. April die k. k. Statthalterei in Linz beauftragt,
+hinsichtlich des von der Firma Stern& Haff er 1 in Wien
+vorgelegten generellen Projectes für eine mit der Spurweite von
+I m auszuführende, elektrisch zu betreibende Eisenbahn niederer
+Ordnung von See am M o n d s e e nach Unterach am Atter­
+see im Sinne der bestehenden Vorschriften die Tracenrevision
+in Verbindung mit der Stationscommission einzuleiten.
+St. Pölten. 'Bewilligung zur Vornahme tech-
+n i s c h e r V o r a r b e i t e n für eine Bahn ni e der er O rd-
+II o n g vomUmschlagplatze der Station S t. P ö 11 e n
+nach Ochsenburg mit einer Abzweigung von
+Ilarl and nach Pyhra.I Das k. k. Eisenbahnministerium hat
+dem behördlich au t orListen Ingenieur für Elektrotechnik, Emanuel
+J i 1 e k in Wien, die Bewilligung zur Vornahme technischer Vor­
+arbeiten für eine normal-, eventuell schmalspurige Bahn niederer
+Ordnung mit elektrischem oder Dampfbetriebe vom Umschlag­
+platze der Station St. Pölten der Staatsbahnlinie St. Pölten-
+Leobersdorf durch die Stadt, St. Pölten und sodann über
+Stattersdorf, H a r 1 a n d, Altmanns dorf und Wind-
+p a s s i n g nach Ochsenburg mit einer Abzweigung von
+Harland nach Pyhra (Markt! im Sinne der bestehenden
+Normen auf die Dauer von sechs Monaten ertheilt.
+letschen a. E. (Bewillig ungzur Vor nähme tech-
+nischer Vorarbeiten für elektrische Kleinbahn­
+linien inTetschenund Umgebung.) Das k. k. Eisenbahn­
+ministerium hat dem Stadt rat he Tetschen a. E. dio Be­
+willigung zur Vornahme technischer Vorarbeiten für folgende,
+mit elektrischer Kraft zu betreibende, schmalspurige Kloinbahnlinien
+a) von Tetschen über Loosdorf, Heidenstei n,
+Binsdorf, Rosendorf, Johndorf nach II errnskre t-
+sehen;
+b) von Tetschen über L a u be nach Herrn? k r e t-
+sehen;
+c) von Tetschen über Birkigt, Z a n t i g, II ö f 1 i t z
+nach Bensen und
+d) vom linken, eventuell rechten Elbeufer bei derTetschener
+Kettenbrücke zu den Bahnhöfen der k. k. priv. österr. Nord­
+westbahn und der k. k. priv. Böhmischen Nordbahn-Gesellschaft
+in Tetschen im Sinne der bestehenden Normen auf dio Dauer
+eines Jahres ertheilt.
+Patentnachrichten.
+Mitgetheilt von Ingenieur
+Victor Monatli,
+WIEN, I. Jasomirgottstrasse Nr. 4.
+Deutsche Pate ntanmel dünge n.*)
+Classe.
+21. Herstellung von Sammlerelektroden.— Accumulatoren­
+werke System Pollak, Actien-Gesellschaft, Frank­
+furt a. M. 13./10. 1899.
+„ Verfahren zur Herstellung elektrischer Widerstände; Zusatz
+z. Pat. 110.643, Firma W' C. Heraeus, Hanau. 7./12. 1898.
+„ Verfahren zum Bandagiren von Dynamomaschinenankern.—
+„H e 1 i o s“, Elektricitäts-Actien- Gesellschaft,
+Köln-Ehrenfeld. 26./4. 1899
+„ Rot.irender, Stromunterbrecher.— W. A. H irschm a n n,
+Berlin. 6./12. 1899.
+„ Verfahren, Zweiphasen-Induetionsmotoren anzulassen, oder bei
+geringer Belastung zu betreiben.— Benjamin Garver L a m m e,
+Pittsburgh. 12./1. i900.
+„ Gesprächszähler. —Carl P e t er sen, Kopenhagen. 27./6. 1898.
+„ Schaltung am Empfänger für Funkentelegraphie.— Dr. A.
+Slaby und Graf v. Arco, Charlottenburg. 24./4. 1899.
+„ Einrichtung zur selbstthätigon Regelung von Wechselstrom­
+maschinen.— Union Elektricitäts-Gesellschaft,
+Berlin. 6./1. 1900.
+„ Motorelektricitätszähler mit selbstthätiger Regelung gegen
+fehlerhaftes Angehen bei Nichtbelastung der Arbeitsleitung.—
+Union-Elektricitäts-Gesellschaft, Berlin. 30./1.
+1900.
+„ Verfahren zur Herstellung elektrischer Glühkörper; Zusatz
+z. Pat. 109.864, William Lawrence Voelker, London, Engl.
+4./3. 1899.
+48. Verfahren zur Erzeugung metallischer Niederschläge auf .Me­
+tallen ohne äussere Stromzuführung.— Eduard M i e s,
+Heidelberg. 12./9. 1899.
+60. Antriebsregler für Dynamomaschinen.— Henry Alexander
+Mavor, Glasgow. 18. 12. 1899.
+20. Unterirdische Stromzuführung für elektrische Bahnen mit vom
+Wagen aus magnetisch mitgeschlepptem Rollengestell.—
+Campbell Electric T r a c t i o n Company, Towanda,
+V. S. A. 13./3. 1899.
+„ Elektromotorisch betriebene Strassonbahnweiche.— Georg
+Dieterich, Südende-Berlin. 8.9. 1899.
+„ Leitende Schienenverbindung für elektrische Bahnen.—
+Fel tenft Guilleaume, Carls wer k'Actien-Gesell­
+schaft, Mülheim a. Rh. 8./2. 1900.
+„ Eine Vorrichtung zum selbstthätigeji Herabziehen eines aus
+der Oberleitung elektrischer Bahnen entgleisten Stromabnehmers.
+— Johannes Grondziel, Zalenze, Ob.-S. 20./7. 1899.
+Deutsche Patentertheilungcn.
+12. Apparat zur elektrolytischen Herstellung von Bleichflüssigkoit.
+— Dr. W. Stelzer, Kol. Grunewald b. Berlin. 19./I. 1899.
+20. Herausziehbarer Stromabnehmer für elektrische Bahnen mit
+Zuleitung in einen Schlitzcanal.— Siemens& II als ko,
+Actien-Gesellschaft, Berlin. I I,/8 189'
+„ Leitungskuppelung für elektrisch betriobeno Züge.— Sie­
+mens& Halske, Actien-Gesellschaft, Berlin. 30./8.
+1899.
+„ Leitende Schienenverbindung für elektrische Bahnen mit
+Zwillingsschienen.— G. Deha r d o und Victor& W e s t-
+mann, Wiesbaden. 13./6. 1899.
+21. Telegraphentaster mit Quecksilberstrahlunterbrecher.— All­
+gemeine Elektricitäts-Gesellschaft, Berlin.
+14./7. 1899.
+„ Dreiphasenmessgeräth nach Ferr a r i s’sehem Princip.—
+Eloktricitäts-Actien-Gesellschaft vorm. Schuckort
+& Co., Nürnberg. 18. 7. 1899.
+*) Die Anmeldungen bleiben nach der Vorprüfung acht Wochen öffentlich
+aufgelegt. Nach§ 24 des Patent-Gesetzes kann innerhalb dieser Zeit Einspruch
+gegen die Anmeldung wegen Mangel der Neuheit oder widerrechtlicher Kntuahme
+erhoben werden. Das obige Bureau besorgt Abschriften der Anmeldungen und
+übernimmt die Vertretung in allen Einspruchs-Angelegenheiten.
+
+Seite 262.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 21.
+Cla886.
+21. Sammlerelektrode.— TI. Tommasi, Paris. 31/1. 1899.
+,, Isolationsplatte für die Elektroden elektrischer Sammler-
+battevien.— E. L. L o b d e 11. Chicago. 24./5. 1899.
+„ Schal tungsweise des mit einer Luftleitung verbundenen Gebers
+für Funkentelegraphie.— Dr. F. Braun, Strassburg i. E.
+U./10. 1898.
+,, Verfahren zur Herstellung von Glühfäden für elektrische
+Lampen.— M. Roch m, Berlin. 20J1 1899.
+„ System svntonischer elektromagnetischer Telegraphie.—
+Dr. 0. J. Lodge, Liverpool. 23./1. 1898.
+,, Einrichtung zum Vorwärmen von aus Leitern zweiter Classo
+bestehenden Glühkörpern durch einen Lichtbogen.— II ö r-
+ting& Math i esen, Leutzsch-Leipzig. 23./12. 1898.
+„ Vorrichtung zur Erleichterung der Längsverschiebung von
+Schaltwellen hei selbsttätigen Fernsprechschaltern.— Ludwig
+Loewe& Co., A.-G. und Deutsche Waffen- und
+Munitionsfabriken, Berlin 14./10. 1898.
+„ Verfahren zur Umwandlung von ein- oder mehrphasigen
+Wechselstrom in Gleichstrom und umgekehrt— Actien-
+GesellschaftElektricitätswerke vorm. 0. L.Ku m m e r
+& Co.. Dresden. 3.'2. 1899.
+„ Thermosä.ule mit elektrischer Heizqnelle.— Dr. L. G o 11-
+sclio, Charlottenbnrg. 29./4. 1899.
+26. Vorrichtung zum Oeffnon und Schliessen des Ventils von
+elektrischen Gasfernzündern.— K. Savelsberg, Aachen.
+16./4. 1899.
+83. Uhrwerk mit elektromagnetischer Hebung des Treibgewichtes.
+— F. J. Getty, Chicago. 12./9. 1899.
+Geschäftliche und finanzielle Nachrichten.
+Krakauer Tramway-Gesellschaft. Das k. k Landes- als
+Handelsgericht in Krakau hat am 13. April die Eintragung im
+Handelsregister für Gesellschaftsfirmen der Firma:
+,,K rakauer Tramway- Gesellschaft 11 polnisch: _K r a-
+kowskaSpotkaTramwajowa“ mit nachstehenden Bestim­
+mungen verordnet:
+1. Die Statuten dieser Gesellschaft,welche sich am 19. März 1900
+constituirte, wurden mit Erlass des hohen k. k. Ministeriums
+des Tnnern vom 5. Februar 1900, Z. 3376, genehmigt.
+2. Der Sitz der Gesellschaft ist Krakau und die Dauer
+der Gesellschaft ist unbeschränkt.
+3. Der Zweck der Gesellschaft ist:
+a) die Erwerbung und der Betrieb der bestehenden Pferdeeisen­
+hahnlinien in Krakau von der Podgorzerbriicke über den
+Ringplatz bis zran Nordbahnhofe und vom Ringplatze zum
+Krakauer-Park. sowie, vorbehaltlich der staatlichen Genehmi­
+gung, die Umgestaltung derselben für den elektrischen Betrieb;
+b) unter der Voraussetzung der Erwirkung der erforderlichen
+staatlichen Concessionen, die Erwerbung, der Bau und der
+Betrieb, die Pachtung und Verpachtung anderer normal- oder
+schmalspuriger Eisenbahnen niederer Ordnung in Krakau und
+Umgebung, insbesondere von Kleinbahnen und Strassenbahnen.
+Diese Zwecke sind jedoch in Uebereinstimmung mit den
+Bestimmungen des dem Statute B als Anhang beigefügten
+Vertrages vom 11. Juni 1898. bezw. des gemäss Artikel ITI
+desselben von der Gesellschaft mit der Stadtgemeinde Krakau
+abzuschliessenden Vertrages zu verfolgen.
+4. Das Grundeapital beträgt 800.000 K, zerlegt in 2000 Stück
+auf den Inhaber lautende Actien ä 400 IC.
+n. Die von der Gesellschaft ausgehenden statutenmässigen
+Kundmachungen werden rechtswirksam vom Präsidenten oder
+vom Vicepräsidenten des Verwalbmgsrathes durch einmalige Ein­
+schaltung in die amtliche „Wiener Zeitung“ und in die amtliche
+„Gazeta Lwowska“ veranlasst.
+6. Die Gesellschaftsfirma wird derart gezeichnet, dass den
+vorgedruckten oder von wem immer geschriebenen Worten: „Kra-
+kowska Spotka Tramwajowa“ oder „Krakauer Tramway-Gesell­
+schaft“ collectiv entweder zwei Mitglieder des Verwaltungsrathes
+oder ein Mitglied desselben und ein mit der Procuraftihrung
+betrauter Director oder sonstiger Gesellschaftsbeamter, letzterer
+mit einem die Procura andeutenden Zusatze, ihre Unterschrift
+beisetzen.
+7. Der in der constituirenden Generalversammlung gewählte
+erste Verwaltungsrath besteht aus den Herren: Anton Ritter von
+Oborski, Grossgrundbesitzer in Krakau; Theodor K ö h n,
+Stadtbaurath a. D. und Director in Nürnberg; Friedrich N onnen-
+berg, Director in Brüssel; Ludwig August Lohnstein,
+Director in Wien; Peter Gierlieh, kgl. Bau-Inspector a. D.,
+in Wien.
+8. Von der Stadt Krakau wurden in Gemässheit des§ 16
+al. 2 des Gesellschaftsstatutes die Herren: Dr. Karl Pieniaiek,
+erster Vizepräsident der Stadt Krakau, und Dr. Leon Rot h-
+w e i n, Gemeinderath der Stadt Krakau, beide Landesadvocaten
+in Krakau, in den Verwaltungsrath entsendet.
+Bayerische Elektricitätswerke in München. Im Jahre 1899
+wurde ein Betriebsgewinn von 70.135 Mk. erzielt. Der Rein­
+gewinn, ans dem auf das eingezahlte Aetiencapital von
+1 Million Mk. f250/ o von 4 Millionen Mk.) eine Dividende
+von 41/2% gezahlt wird, beläuft sich auf 49.786 Mk.
+A cti en gesell schaff Mix& Genest, Telephon- und Tele­
+graphenwerke in Berlin. Der Rechenschaftsbericht für das
+Jahr 1899 bezeichnet die Entwickelung des Geschäftes nach allen
+Richtungen hin als eine fortgesetzt günstige. Unter den Liefe­
+rungen an Behörden sind dieienigen an die Reichspostverwaltung
+besonders hervorzuheben, deren Bedarf durch die dauernd
+zunehmende Ausdehnung des Fernsprechwesens im Reiche und
+durch den Uebergang zum Doppelleitungsbetrieb nicht, nur
+wesentlich gestiegen ist, sondern noch weiter zunehmen dürfte.
+Wenn demnach einerseits der Umsatz sich erheblich vergrössert
+hat, so haben andererseits die Preise der Fabrikate unter dem
+scharfen Drucke der Concurrenz empfindlich gelitten. Die
+Behörden waren bestrebt, hiervon Nutzen zu ziehen und möglichst
+billige Preise zu erlangen, während die Gesellschaft der Privat­
+kundschaft gegenüber mit Rücksicht auf die erhöhten Preise
+aller Rohmaterialien und Metalle sogar zu Preissteigerungen
+gelangen musste. Die beiden älteren Filialgeschäfte in Hamburg
+und London haben sich in dem abgelaufenen Jahre in zufrieden­
+stellender Weise entwickelt und ansehnliche Mehrumsätze erzielt.
+Das Gleiche wird von der am 1. Jänner 1899 neu ins Leben
+getretenen Zweigniederlassung Köln a. Rh. berichtet. Die
+Erhöhung des Grundcapitals auf 2,600.000 Mk. ist im Monat
+October durch Ausgabe von 600.000 Mk. neue Actien ausgeführt
+worden. Die neuen Actien nehmen vom 1. Jänner 1900 ab an
+der Dividende Theil. DerReservefonds hat die Höhe von 719 060 Mk.,
+etwa 28 0/ n des vollen Actiencapitals erreicht. Der Bruttogewinn
+für 1899 beträgt 601.853 Mk. Nach Abzug der Abschreibungen
+von 235.283 Mk. (i. V. 62.127 Mk.) bleibt ein Reingewinn
+von 366.569 Mk., resp. zuzüglich 5256 Mk. Vortrag, von 371.825 Mk.
+(i. V. 309.215 Mk.), dessen Vertheilung wie folgt vorgeschlagen
+wird: Tantiemen 86.244 Mk.. (i. V. 57.500 Mk.), 12o' n Dividende
+240.000 Mk. (i. V. 100/o= 200.000 Mk.), an Delcredere-Conto
+20.000 Mk. (i. V. 18.000 Mk.), auf Reservefonds-Conto zur Ab­
+rundung 940 Mk., zu den Unterstützungsfonds für Beamte und
+Arbeiter 16.000 Mk. (i. V. 10.000 Mk.). Als Vortrag auf neue
+Rechnung bleiben 8641 Mk. Angesichts des günstigen Ergebnisses
+wurde die Abschreibung auf Maschinen-, Utensilien- und Werk-
+zeugconto diesmal nicht nur auf die früheren Bestände, sondern
+auch schon auf die Neuanschaffungen im Laufe des Jahres aus­
+gedehnt und ausserdem noch Extraabschreibungen vorgenommen.
+Die Erhöhung der Bestände auf dem Waarenconto (1,713.105 Mk.
+gegen 1,119.273 Mk.) ist durch die für lange Zeit hinaus vor­
+liegenden Aufträge, sowie durch die erheblich gesteigerte Zunahmo
+des Geschäftes bedingt, hierdurch finden auch die grösseren
+Aussenstände auf Contocorrent-Conto ihre Erklärung. Die auf
+Delcredereconto zur Abschreibung gekommenen Ausfälle von
+10.911 Mk. haben diejenigen des Vorjahres nicht überschritten.
+Tn das neue Geschäftsjahr ist die Gesellschaft mit sehr umfang­
+reichen Aufträgen eingetreten.
+Hoch 11 m -Gelsenk ireli euer Strassenbalinen. Die Direction
+kann in ihrem Bericht die Entwickelung des Unternehmens im
+vergangenen Geschäftsjahre wieder als eine günstige bezeichnen.
+Die Fahrgeldeinnahmen betrugen rund l^bO-OO 0 Mk. gegen rund
+1,165.000 Mk. im Vorjahre, die reinen Betriebsüberschüsse
+537.132 Mk. gegen 468 691 Mk. im Vorjahre= 9- 97% des auf­
+gewendeten Baucapitals von 5,385.129 Mir. gegen 8-84% des im
+Vorjahre verwendeten Baucapitals in Höhe von 5,300.909 Mk.
+Auch die Zahl der gefahrenen Wagenkilometer erhöhte sich auf
+2,819.264 gegen 2,539.193 Mk. im Vorjahre. Wenn nichtsdesto­
+weniger die Vertheilung der gleichen Dividende von 6V 2 o/ 0
+wie im Vorjahre vorgeschlagen wird, so hat dies darin seinen
+Grund, dass den Mehreinnahmen Mehrausgaben gegenüber
+stehen. Dieselben entstanden hauptsächlich durch Auflagen der
+Behörden, wie Geleiseverschiebungen infolge von Strassenroguli-
+rungen, Einführung elektrischer Bremsen, Vermehrung des
+Betriebspersonals durch Verkürzung der Arbeitszeit etc. Unter
+Einstellung der von Siemens&Halske A.-G. beizustellenden
+Beträge für Tilgungs- und Erneuerungs-Rücklagen, für Aus­
+stattung des Reservefonds und die zu zahlenden Steuern und
+Tantiemen ergibt sich ein Gesammtüberschuss von 587.289 Mk.
+und nach Abzug der zurückzustellenden Beträge und der an
+Siemens& Halske A.-G. zu leistenden Rückvergütungen
+
+Nr. 21.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 263.
+für das bei Beginn des Geschäftsjahres noch nicht verwendete
+Baucapital ein vertheilbarer üeberschuss von 368.168 Mk, welcher
+wie folgt zu vertheilen ist: zum Reservefonds 18.408 Mk.,
+Tantieme des Aufsichtsrathes und Vorstandes 20.986 Mk., 61/2%
+Dividende 325.000 Mk., Vortrag für 1900 3.774 Mk. Die
+Gesellschaft hat die gesetzlich vorgeschriebene Zustimmung der
+betheiligten unterhaltungspflichtigen Gemeinden und Behörden
+für den Bau einer Anzahl neuer wichtiger Linien unter günstigen
+Bedingungen erhalten. Zunächst ist der Ausbau folgender Limen
+vorgesehen: Laer—Werne, Weitmar—Linden Kattingen, Kelsen­
+kirchen—Weidenstrasse, Bismarck—Buer— Horst, Steele—Kömg-
+steele, Laer—Witten, Linden—Dahlhausen, Engelsburg—Weitmar
+—Stiepel und Spillenberg—Rellinghausen zusammen 42 km, so dass
+das Gesammtnetz nach Ausbau dieser Strecken ca. 100 km gegenübei
+bisher 55 km betragen wird. Zur Deckung der für die Herstellung
+vorstehenden neuen Liniennetzes erforderlichen Kosten hat die
+ausserordentliche Generalversammlung vom 18. December 1899
+beschlossen, das Actiencapital der Gesellschaft um 5,000.000 Mk.
+Actien zu erhöhen. Der Betriebsvertrag mit der Siemens ix
+H a 1 s k e A.-G. ist bis zum Jahre 1905 mit der Maassgabe
+verlängert worden, dass die bisher seitens derselben übernommene
+Zinsgarantie in eine Dividendengarantie_ von gleicher Höhe
+umgewandelt und auch auf das neue Actiencapital ausgedehn
+worden ist. Mit der genannten Firma ist ferner vereinbart worden,
+dass deren Gewinnbetheiligung von 20% erst bei einem Ueber-
+schuss über 7% Dividende statt bisher 6% Dividende einzutreten
+hat und die nach dem bestehenden Vertrage m Rechnung zu
+stellenden Meistbegünstigungspreise mit einem Zuschläge von 10o/ 0
+die Listenpreise der Gesellschaft abzüglich 10% nicht über­
+schreiten dürfen. Nach Anlieferung sämmtlicher Wagen wird
+sich der Wagenpark auf 126 Motor- und 75 Anhängewagen gegen
+bisher 66 Motor- und 55 Anhängewagen stellen.
+Mansfeldsclie Kupferschiefer hauende Gewerkschaft zu
+Eisieheu. Dem Verwaltungsbericht für 1899 entnehmen wir h ol-
+gendes: Die bereits im Jahre 1898 eingetretene Steigerung des
+Kupferpreises hat in 1899 erhebliche Fortschritte gemacht und
+im Zusammenwirken mit einer wesentlichen Zunahme der 1rouuc-
+tion das finanzielle Ergebnis der Mansfeld’schen Gewerkschaft
+für das Jahr 1899 recht befriedigend gestaltet. Aus sämmtlichen
+Betrieben der Gewerkschaft ergab sich ein Gewinn von
+11,515.341 Mk. (gegen 2,999.975 Mk. in 1898). Der Mehrertrag
+aus den Kupferschiefer-Berg- und Hüttenwerken erfolgte mit
+7,957.733 Mk. durch höheren Kupferpreis, 3,033.461 .Mk. durch
+höhere Kupferproduction, 169.130 Mk. durch höheren Silberpreis,
+1,204.939 Mk. durch höhere Silberproduction und mit 5,445.39 t Mk.
+durch höhere Einnahmen für Neben- und Zwischenproducte, zu­
+sammen 17,810.654 Mk., während compensirend wirkten mit
+5,136.198 Mk. die höheren Selbstkosten und mit 4,204.348 Mk.
+die durch vermehrte Production bedingten Ausgaben, zusammen
+9,340.546 Mk. Die günstige Geschäftslage auf dem Kupfermarkte
+hat Veranlassung gegeben, die Production thunlichst zu steigern.
+Ferner hat man in dem Bestreben, die günstige Conjunctur mög­
+lichst auszunutzen, sich entschlossen, die auf den Hütten ange­
+sammelten Rohsteinbestände, zu deren völliger Aufarbeitung die
+eigenen Werke längere Zeit gebraucht haben würden, zum lhei
+zu verkaufen. So sind bis Schluss 1899 5720 t Rohstem füi
+3,517.440 Mk. nach England verkauft und 3470> Rohstem mit
+einem Selbstkostenwerthe von 1,845.028 Mk. stehen den getroffenen
+Abmachungen gemäss noch zum Verkauf bereit. Dass die Selbst­
+kosten gestiegen sind, hat sich nicht vermeiden lassen. Einerseits
+haben die Beamtengehälter und Arbeiterlöhne eine wesentliche
+Aufbesserung erfahren, andererseits sind die Preise fast aller
+Materialien ganz erheblich gestiegen. Auch haben umfangreiche
+Neubauten auf den Bergwerken und Hütten im Interesse, dei
+Sicherung und Erweiterung des Betriebes vorgenommen
+müssen. Von dem gesammten Geldüberschuss des Jahres 1899
+mit 14,942.074 Mk. muss ein sehr beträchtlicher Theil zurückge­
+stellt werden, um den in der nächsten Zeit an die Gewerkscna
+horantretenden Anforderungen genügen zu können. Schliesslic l
+muss auch der Beseitigung der durch die immer noch andauerno en
+Erdbewegungen in Eisleben entstandenen Schäden Rechnung ge­
+tragen werden, für welche die aus der 1897er Anleihe zur Zei
+noch zur Verfügung stehenden Mittel bei Weitem nicht ausreic en.
+Nach eingehender Prüfung aller dieser Gesichtspunkte ha ie
+Deputation für das Jahr 1899 eine Ausbeute von 100 Mk auf
+den Kux beschlossen, wovon 20 Mk. als Abschlag im Oc o ei
+vorigen Jahres schon gezahlt sind. Auf 69.120 Kuxe keiec
+sich hiernach eine Gesammtausbeute für 1899 von 6,912.0 v-
+Die diesen Ausbeutebetrag übersteigenden Ueberscluisse ues
+Jahres 1899 sind dem Betriebsfonds überwiesen. Die Mmerntoi-
+derung hat im Jahre 1899 659.524 t betragen, das sind 18.61«
+mehr als im Vorjahre. An Ilalbproducten sind m 1899 dargestellt.
+auf den Rohhiitten 48.719 t Rohstein aus 662.945 t Minern, auf
+den Spurhütten 27.110 t Spurstein und 230 t Bodenkupfer aus
+55.636 t Rohstein, bezw. Rost. Auf den _Rösthütten, die 50-890 t
+Rohstem verarbeiteten, wurden gleichzeitig 12.301' Schwefelsäure
+zu 50 Grad B., 4390 t Schwefelsäure zu 55 Grad B., 1310 t
+Schwefelsäure zu 60 Grad B. und 3071 t. Schwofeisäure zu
+66 Grad B., sowie 23 t, Eisenvitriol gewonnen. Ausserdem sind
+noch beim Verschmelzen von 2326 i Flugstaub von den Rohhütten
+705 t Rohstein, 257.099 kg silberhaltiges Blei und 3418 kg Nickel­
+speise gefallen, während bei dem elek t rolyt ls chenBetriebe
+auf der Oberhütte 10,769.580 kg silberhaltige Anodenschlamme
+und 5833 kg Nickelvitriol nebenher gewonnen sind.
+Kraftübertragungswerke Rlieinfelden. Zur Beschaffung
+der Mittel für Ausdehnung des Leitungsnetzes, die Verwendung
+unterirdischer Kabelleitungen an der Stelle der wesentlich
+billigeren Freileitungen, sowie den Bau der unteren \\ assor-
+werksanlage, liat das Unternehmen, an dem die Allgemeine
+Elektricitäts-Gesellschaft hervorragend betheibgt ist,
+in 1899 sein Actiencapital von 4 Millionen Mark auf 6 Millionen
+Mark erhöht. Auf die neuen 2 Millionen Mark Actien, die zum
+Course von 1071/2% begeben wurden, sind vorerst nur 25%
+einbezahlt. Der Bericht führt aus, das ursprüngliche Bauten-
+Programm sei vollständig erledigt und insbesondere die Lucke
+im Grundwehr ausgebaut worden. Der Wasserzufluss zum Canal
+sei wesentlich günstiger, ebenso der Auslauf aus den I urbinon.
+Die Construction des Turbinenrechens wurde erheblich verstärkt,
+um Störungen durch Hochwasser, wie Mitte Jänner 1899, aus-
+zuschliessen. Die Stromabgabe nach dem Canton Baselland hat
+eine bedeutende Erweiterung der Leitungsnetze eifoideit. 1 io
+hierfür nöthige Speiseleitung von Rheinfelden nach Schonthal
+wurde der Allgemeinen Elektricität s-Gesellsc hart
+übertragen, die primäre Freileitung von dort über Sissach
+nach Gelterkinden in Regie ausgeführt, die Secundärnetze wurden
+von den Stromabnehmern (Genossenschaften) hergestel t. Der
+Betrieb des Werkes war, die erwähnte Störung durch Hochwasser
+ausgenommen, normal. Im Maschinenhalle wurden nach und
+nach alle Maschinen in Betrieb genommen, von den
+Drehstrom-Maschinen noch zwei Stück der Aluminium-
+In dustrie-A.-G. zur Carbidfabrikation zur Verfügung gestellt.
+Die Stromabgabe stieg um 70»/„, die Nachfrage ist fortgesetzt
+gut. Der ausgedehnte Grubenbesitz hat eine weitere Werthsteige-
+i-ung erfahren; die Nachfrage nach Bauplätzen, besonders auf
+badischer Seite, war rege. Der Betrieb erbrachte 231.608 Mk. (l. V.
+10.288 Mk.); dazu kommen noch: 151.801 Mk. (138 618 Mk.) aus
+Terraineinkäufen, 14.175 Mk. (13.210 Mk.) diverse Einnahmen
+und 36.094 Mk. (26.298 Mk.) Vortrag. Davon erfordern Handlungs­
+kosten 85.911 Mk. (53.339 Mk.), Zinsen 53.964 Mk. (31.232 Mk)
+Abschreibungen 14.648 Mk. (8760 Mk.), Erneuerungsfonds Jo.
+Mark, Amortisation der Wasserkraftanlage 10 000 Mk. Genuss-
+scheintilgnng 24.000 Mk., wonach 244.052 Mk. Reingewinn
+bleiben gegen 71.086 Mk. im Vorjahr. Verwendet werden: 200.00(1
+Mark zur Vertheilnng von 5o/ 0 (i. V. 4%) Duldende aut die
+alten Actien, 10.398 Mk. (9433 Mk.) zur Reservestellung, 5$92 Mk.
+(9.433 Mk.) zu Tantiemen an den Aüfsichtsrath und 2<.ib2 Alk.
+(30.094 Mk.) zum Vortrag.
+Metall-Marktbericht von Brandeis G o 1 d s c h m i d t
+& Co., London, 11. Mai. Kupfer. Obgleich das Angebot von
+Amerika entschieden schwächer geworden ist, war unser Markt
+doch flau und ging bis 74 Pf. St. Gasse zurück von welchem
+Punkte sich der Artikel infolge starken, spekulativen Kaufen
+rasch wieder erholte. Wir schlossen: Standard Kupfer per Lasso
+74 Pf. St. 17 sh. 6 d. bis 75 Pf. St. 2 sh. 6 d,, Standard Kupfer
+per 3 Monate 74 Pf. St. 7 sh. 6 d. bis 74 Pf. St. 12 sh ö d.,
+English Tough je nach Marke 78 Pf. St. 0 sh. bis 79 Pf. St,
+English Best Selected je nach Marke 79 Pf. St. bis 79 1 f. St.,
+10 sh.. American and English Cathodes 77 11. ot. bis 77 1 f. St
+10 sin, American and English Electro m Cakes Ingots and
+Wirebar je nach Marke 77 Pf. St. 10 sh. bis (8 1•*•
+Kupfe r s u 1 f a t ruhig, 24 Pf. St. 15 sh.- Zm n begann
+fest bis 136 Pf. St. Casse, verflaute sich jedoch bald wiedei bis
+133 Pf. St. 5 sh. Casse und 132 Pf. St. 15 sh. per 3 Monate,
+scliliessend zu: Straits Zinn per Casse 133 1 I.• j> s *■ '! s
+134 Pf. St., Straits Zinn per 3 Monate 133 1 f. St. 5 sh. bis
+133 Pf. St. 10 sh., Australzinn je n- M. 134 Pf. St. 15 sh bis
+135 Pf. St.. Englisches Lammzinn 137 Pf. St. 10 sh. Ins 138 1 1. Sc.
+10 sh., Bancazihnin Holland 82Vifl-, Billitonzinn in Holland 81% fl.—
+Zink: schwächer h 21 Pf. St. 1 sh. 6 d.- Blei: 17 Pf. St.
+2 sh. 6 d. bis 17 Pf. St. 5 sh.- Quecksilber: leblos
+k 9 Pf. St. 10 sh.
+
+Seite 264.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 21.
+Vereinsnachriehten
+Chronik des Vereines.
+7 ii 11' r ’• 1~ Vereins versammlung. Vortrag
+des Herrn Obering. P. Posehenrieder: üeber
+den Umbau der Grazer Tramway auf
+e 1 e k t r 1 s c h e n B e t r i e b.“ Dieser Vortrag erscheint
+vollständig in einem der nächsten Hefte.
+27. April.— Sitzung des Regulativ-ComitA
+3. und 10. Mai.— Sitzungen des Ausstellungs-
+Executiv-ComitA ö
+10. M a i.— Sitzungen des Redactions-, Biblio-
+Vortrags- und Excursions- und des Finanz- und
+W irthschafts-Comitd.
+17. Mai.— Sitzung des Ausstellungs-Executiv-
+(Jomite.
+Zusammensetzung der ständigen Comites
+für das Jahr 1900.
+Finanz- und Wirthschafts-Comite:
+Obmann: Herr Frisch.
+Schriftführer: Herr Bechtol'd.
+Mitglieder: Herren Berger, Fr. Fischer,
+Hohen egg, F, Jordan, Dr. Kusminsky, Schlenk
+Wüste. J’
+Redactions-Comite:
+Obmann: Herr Koestler.
+Schriftführer: Herr Müller.
+Mitglieder: Herren D r e x 1 e r, K o 1 b e, Dr. K u s-
+nimsky Dr Reithoffer, Dr. Sahulk a, S e i-
+d e n e r, Dr. T u m a, Vollem e r.
+Vortrags- u. Excursions-Comite:
+Obmann: Herr Kolbe.
+Schriftführer: Herr Drexler.
+Mitglieder: Herren B e c h t o 1 d, Fr. Fischer
+SH, I“ k ’n' t°' d K 1» 8 e' Df- S ah» I k«;
+Schien k, Dr. T u m a.
+Bibliotheks-Comite:
+Obmann: Herr Dr. T u m a.
+Schriftführer: Herr Wendeli n.
+Mitglieder: Herren Dr. Sahulka, Seidener,
+Volkmer, Wüste. 5
+Oesterreichische Elektrische Ausstellung
+Wien 1903. ö
+7 n- 1? 1 Au® ftiIn’ lln g des Beschlusses der XVIII. or­
+dentlichen General-Versammlung vom 28. März d. J
+beti eftend die Veranstaltung einer Oesterreic liischen
+Elektrischen Ausstellung in Wien im
+Executi 9 vV at -f" ZU- diesem Behllfe eingesetzte
+Executiv-Comitö seine Vorarbeiten begonnen
+Dasselbe setzt sich vorläufig zusammen
+manne,~
+Hofrath Ottomar Volkmer und den Herren- Ober-
+Inspector FriedrichBech t o 1 d, Director Gustav Frisch
+und b abriksbesitzer kais. Rath Floris Wüste.
+Um dem Ausstellungs-Unternehmen eine ent­
+sprechende Publicität zu sichern, wurde die Schaffung
+eines Pressbureau beschlossen, dessen Thätigkeit dem­
+nächst beginnen wird. In der Vereins-Zeitschrift werden
+an dieser Stelle unsere Vereinsmitglieder in allen
+wichtigen diese Ausstellung betreffenden Angelegen-
+lieiten auf dem Laufenden erhalten werden.
+Eine weitere wesentliche Frage bildeten die
+Massnahmen, die zur Aufbringung des vorgesehenen
+Garantiefonds einzuleiten wären.
+.... Eieser Fonds ist in einer Höhe von 150.000 K
+präliminirt und sollen laut General-Versammlungs­
+beschlusses die eigentlichen Arbeiten für die Ausstellung
+erst dann m Angriff genommen werden, wenn dieser
+°nds m der angegebenen Höhe gesichert erscheint.
+-Uas Lxecutiv-Comitd ist nun bemüht, diese Frage
+unter Heranziehung von Capacitäten auf finanziellem
+Gebiete baldmöglichst zu lösen und hofft auf das weit­
+gehendste Entgegenkommen der bei dieser gemein­
+nützigen Veranstaltung interessirten Kreise mit Sicher­
+heit rechnen zu können.
+I erner wurde an die Zusammenstellung der Liste
+aller jener gegangen, die zum Eintritte in die grosse
+sollen 8‘ e U^ s' Commissi °n eingeladen^ werden
+Hiebei wurde im Sinne des von der General-Ver­
+sammlung genehmigten Organisationsstatutes vor allem
+aal jene Behörden und Corporationen Rücksicht ge-
+nommen welche ihren Sitz in den österreichischen
+Kronländern haben, ferner auf solche Personen, die
+zufolge ihrer Stellung im öffentlichen Leben, in Indu­
+striellen-, Kunst-, Wissenschaft- und Finanz-Kreisen
+imstande sind, das Unternehmen durch ihren Einfluss
+und ihre Beziehungen wesentlich zu fördern.
+Die Einladungen zum Beitritte in die „Grosse
+Ausste 1 lungs-Commission“ werden demnächst
+versendet werden, doch ist die Einberufung derselben
+zur constituirenden Versammlung erst für den Herbst d J
+geplant.’'
+In einem der nächsten Hefte wird das von der
+General-Versammlung unseres Vereines genehmigte
+Organisationsstatut veröffentlicht werden.
+v i 1)rncl £felilerberic]itigU!ig-: Im Hafte 14,
+/eile b von oben in Spalte links soll es richtig
+JL.7D2-_ E./.10 8
+4
+4ir.
+n
+60
+«. 77,. h
+1900, Seite 166,
+heissen:
+... I)
+und Seite 167, Spalte links, Zeile 3 von unten:
+. Tfi. I
+2 a 7t B x
+Wien und Pran
+

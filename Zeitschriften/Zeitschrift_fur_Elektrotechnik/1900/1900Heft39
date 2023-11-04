@@ -1,0 +1,1715 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 39.
+WIEN, 23. September 1900.
+XYIIL Jahrgang.
+INHALT:
+Beitrag zur Theorie der Synchronmotoren und Wechselstrom­
+generatoren. Von Dr. Ing. E. E. Seefeh Ine r (Fort­
+setzung)
+Unterirdische Eisenbahnen mit elektrischem Betrieb in
+471
+London
+Kleine Mittheilungen.
+Verschiedenes 47g
+Ausgeführte und projectirte Anlagen 474
+Literatur-Bericht 475
+Patentnachrichten’ 47g
+Geschäftliche und finanzielle Nachrichten 476
+Beitrag zur Theorie der Synchronmotoren und Wechsel­
+stromgeneratoren.
+Von Dr. Ing. E. E. Seefelilner.
+(Fortsetzung.)
+Die Richtigkeit der entwickelten Anschauungen
+wurde auf einer Reihe von Maschinen geprüft und ich
+gebe im Folgenden die an einer dreiphasigen Dynamo
+moderner Type ermittelten Resultate, nicht etwa weil
+die betreffende Maschine sich zu dem genannten Zweck
+besonders geeignet hätte, sondern weil mir die zu einer
+in jeder Richtung erschöpfenden Untersuchung nöthigen
+Daten nur von dieser Maschine vollständig zur Ver­
+fügung standen.
+Ich bemerke, dass die Giltigkeit der Anschauungen
+auch für einen extremen Fall: Maschine mit sehr hoher
+Sättigung und grosser Streuung (alte Siemensmaschine
+mit Scheibenanker ohne Eisen, Luftraum ca. 35 mm)
+geprüft wurde und sofern die Streuung in richtiger
+Weise berücksichtigt wurde, Uebereinstimmung mit den
+theoretischen Voraussetzungen constatirt werden konnte.
+Versuchsresultate, ermittelt an einer Dreiphasen­
+dynamo 110 V, 15 A pro Phase, 50 Perioden, 4 Pole,
+1500 Touren, Sternschaltung. Fig. 11 stellt die Leer­
+laufcharakteristik der Maschinen dar (verkettete
+Spannung).
+.-110
+ID 11 12 Amp
+Fig. 11.
+regerstrom ermittelt und ist aus den Curven zu ent­
+nehmen, dass die Differenz unter Umständen bis ca.
+6 °/ 0 beträgt.
+Die Windungszahl der Magnete ist n 2= 800, die­
+jenige einer Phase des Ankers n x= 48.
+Fig. 12.
+Fig. 13.
+Die verkettete Spannung ist L707 mal so gross
+als die Phasenspannung. Um die Verhältnisse genau
+mit Berücksichtigung des jeweiligen magnetischen Zu­
+standes untersuchen zu können, sind die Leerlauf­
+charakteristiken für ansteigenden und abfallenden Er-
+Der zeitliche Verlauf der Phasen E. M. K. bei
+offenem Ankerstromkreis ist in Fig. 12 ersichtlich. Die
+Curve ist mit der Braun ’schen Röhre in der von mir
+angegebenen Versucbsanordnung aufgenommen worden,
+ebenso die übrigen Curven, wo anderes nicht besonders
+
+i Seite 466.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 39.
+bemerkt ist. In Fig. 13 sind I und II die Curven je
+einer Phase in ihren relativen Lagen und III die ver­
+kettete Spannung beider.
+Die Formfaetoren der Curve der Phasenspannung
+sind die folgenden: c—^^.— 0'957, wo M{E t) das
+]/!/ (JSfl
+arithmetische Mittel der Momentanwerthe bedeutet;
+demgemäss ist ]/1/ (I/ 2) der effective Werth und
+K __ 0-810; das Verhältnis des effectiven
+E max
+Werthes zur Amplitude der ersten Harmonischen ist
+Fig. 14.
+Phasen sind in Reihe geschaltet, die Maschine liefert
+ca. 16 Ampere einfachen Wechselstrom.
+Die Formfactoren der Klemmenspannung oder des
+Stromes berechnen sich zu: c= 0880; K— 0’683;
+7 f= 0-730.
+Trotzdem die Stromcurve in diesem Falle einen
+viel spitzigeren Verlauf hat, ist für gleichen Effectiv-
+werth die Amplitude der ersten Harmonischen kaum
+verschieden von derjenigen der Curve I Fig. 13. In
+Fig. 16 ist I die Stromcurve bei Einschaltung von nur
+einer Phase und derselben Stromstärke wie oben; die
+E. M. K. an einer der übrigen stromlosen Phasen wird
+durch Curve II dargestellt.
+Fig. 16.
+Fig. 17.
+Der Vollständigkeit halber ist der Verlauf des
+Drehfeldes in der Dynamo bei Leerlauf in Fig. 17
+wiedergegeben.
+Aus den Curven ist ersichtlich, dass bei inductions-
+freier Belastung der Charakter der Curven, selbst bei
+iibernormalem Strom, kaum verändert erscheint. Die
+Zacken und Buckel in den Stromcurven sind auf die
+Inhomogeneität des magnetischen Schliessungskreises
+zurückzuführen, indem die Drähte in ziemlich grossen
+Nuten (sechs pro Pol) untergebracht sind; dies ist auch
+aus Fig. 17 zu ersehen, wo die Feldcurve zwölf Zacken
+aufweist, entsprechend dem Umstand, dass der Curven-
+indicator nur zweipolig gewickelt war.
+15,
+k= 0-725. Die Curve ist flacher als eine Sinuslinie.
+Vergleichshalber ist in Fig. 12 die Sinuslinie mit
+gleichem Effectivwerth eingezeichnet (Curve II) und
+die erste Harmonische aus der Fourierreihe der Curve
+auch dargestellt (Curve III), Als genügende Annäherung
+aus 60 Werthen eines Wechsels ermittelt ergeben sich
+folgende Werthe für die ersten drei Glieder der Fourier­
+reihe:
+E t= E eS (1-38 sin [w t -j- 1-5'] -j- 0‘296 sin [3 co t— 4° 25']
++ 0-008 sin [5 o> t+ 2° 9'])
+In Fig. 14 stellt Curve I die Phasenspannung,
+II die verkettete Klemmenspannung dar, u. zw. bei
+ca. 16 Ampere inductionsfreier Strombelastung in allen
+drei Phasen.
+In Fig. 15 sind die betreffenden Curven bei Be-
+ützung von nur zwei Phasen abgebildet. Die zwei
+n
+
+Nr. 39.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 467.
+Vollständig anderen Charakter zeigt die Strom-
+curve bei Kurzschluss, Fig. 18.
+Fig. 18.
+Die Versuchsanordnung zur Aufnahme der Strom-
+curven bedingt, dass ein kleiner Hilfsmotor synchron
+mit der zu untersuchenden Maschine läuft. Unter den
+gegebenen örtlichen Verhältnissen war eine mechanische
+Kupplung mit der Dynamo nicht durchführbar, es
+wurden daher eine, dann zwei Phasen kurzgeschlossen
+und der Hilfsmotor an eine der übrigen offenen Phasen
+geschaltet. Der Hilfsmotor braucht einen ganz geringen,
+praktisch vernachlässigbaren Strom, der nur zur Syn­
+chronisation nöthig ist; im Uebrigen wird er durch
+Gleichstrom angetrieben. Unter diesen Umständen liess
+sich allerdings das Pendeln des den photographischen
+Film tragenden Motorankers nicht ganz beheben, daher
+sind die Aufnahmen etwas unscharf, wozu auch noch
+der Umstand beiträgt, dass bei Kurzschluss von nur
+einer Phase Stromschwankungen immer störend auf-
+treten.
+Um sicher zu gehen, ob die Stromcurve nicht
+etwa eine andere ist bei Kurzschluss von nur einer
+oder aller Phasen, wurde die Curve des Phasenstromes
+im letzteren Fall nach der Jou b er t’schen Methode
+mit dem Momentancontact aufgenommen, wobei das
+Galvanometer, bezw. der Condensator an die Enden
+eines geraden Kabels geschaltet wurde, das den Kurz­
+schluss bewerkstelligte. (Schaltungsschema siehe Fig. 19.)
+Es ergab sich hierbei die interessante Thatsache, dass
+der Strom in je einer Phase ganz unregelmässige
+Form, ja sogar höhere Periodicität besitzt. (Fig: 20.)
+Die Ursache dieser Erscheinung ist die Abweichung
+der E. M. K.-Curven von der Sinusform, die zur Folge
+hat, dass die Summe der Momentanwerthe der Ströme
+nicht jeden Augenblick Null wird, somit der Mittel­
+leiter auch dann nicht stromlos ist, wenn der effective
+Werth der Ströme in allen drei Phasen gleich gross ist.
+Bei normalem Betrieb kann eine derartige De­
+formation nicht eintreten, da der Nullpunkt des Systems
+isolirt ist. Um also den normalen Betriebsverhältnissen
+auch bei Kurzschluss Rechnung zu tragen, wurden die
+drei Phasen jede für sich kurzgeschlossen (Fig. 21)
+oder die in Fig. 22 dargestellte Sternschaltung gewählt.
+In den letzten beiden Schaltungen haben die Phasen­
+ströme denselben periodischen Verlauf, wie er bei
+Kurzschluss von einer oder zwei Phasen mit der
+Brau n’schen Röhre ermittelt wurde; eine neuerliche
+Wiedergabe der mit dem Momentancontact auf-
+
+Seite 468.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 39.
+genommenen Curven erscheint daher überflüssig.^ Die
+ersten drei Glieder aus der Fourierreihe der Kurz-
+schlussstromcurve sind:
+J 3= J 6ff. (1-365 sin [wt+ 2° 53']—
+— 0-372 sin [3wt -j- 20° 34'] -f 0-074 sin [5wt -f- 25° 25'])■
+Eine Reconstruction der Stromcurve aus diesen
+drei Gliedern gibt den Charakter der Curve mit
+praktisch genügender Genauigkeit wieder. Zur besseren
+Uebersicht sind in Tabelle I die Formfactoren und
+deren Rcciprokwerthe zusammengestellt und die Fehler
+in Procenten berechnet, die in die Rechnung einge­
+führt werden bei Vernachlässigung der wahren Curven-
+form und Annahme von Sinusströmen.
+Tabelle I.
+c
+K
+1
+K
+k
+1
+k
+Fehler in
+Proc.
+Phasen E. M. K.
+Leerlauf
+0-957
+0-810
+1-230
+0-725
+1- 380
+2- 1
+Sinus
+0-900
+0-707
+1-410
+0-707
+1-414
+E. M. IC.
+od. Strom
+2 Phasen in Reihe
+0-880
+0-683
+Kurzschluss­
+strom
+1-460
+0-730
+1- 372
+2- 2
+0-815
+0-538
+1-860
+0-732
+1-365
+4-0
+Tabelle II.
+J 2
+1-25 8-1
+1-28 8-3
+1-50 10-9
+1- 90 13-0
+2- 20 15-0
+2- 60 17-5
+3- 00 20-3
+3 53 24-1
+In Tabelle II.. sind die Beobachtungswerthe fin­
+den Kurschluss von drei Phasen— jede für sich—
+bei 1500 Touren zusammengestellt. Bestimmt wurden
+ausserdem die Nullpunkte des Phasenstromes, bezw.
+die Phasendifferenz der Nullpunkte der E. M. K. bei
+Leerlauf und des Stromes bei Kurzschluss. Die Phasen­
+differenz erwies sich als praktisch constant und zwar
+xjr= 66°, wobei die Abweichungen nur bis 2° betrugen,
+somit noch innerhalb der möglichen Beobachtungs­
+fehler liegen. An der Gradtheilung des Joubert’schen
+Apparates zur Aufnahme der Stromcurven, bezw. Be­
+stimmung der Nullpunkte konnte ein halber Grad
+noch mit Sicherheit abgelesen werden; da die Maschine
+vierpolig ist, entpricht dem ein Grad in der Abscisse
+der Curven.
+Zur Construction eines Diagrammes darf der
+Winkel w nicht ohne Weiteres verwendet werden; ins
+Diagramm muss die Phase der ersten Harmonischen
+eingeführt werden. In unserem speciellen Fall ist für
+Leerlauf die Phasendifferenz zwischen der ersten Har­
+monischen und dem Nullpunkt der E. M. K.-Curve nur
+1-5', ein Werth, der ohne Fehler vernachlässigt werden
+darf. Für Kurzschluss ist die betreffende Phasendifferenz
+auch nicht bedeutend, sie beträgt rund 3°. In der
+Praxis wird man wohl mit Ausnahme von ganz beson­
+deren Fällen von der Berechnung der Fourierreihe
+der fraglichen Curven absehen und es ist hier auch I
+nur geschehen, um Uber die Grössenordnung der von
+der unregelmässigen Form der Stromcurven verur­
+sachten Abweichungen orientirt zu sein.
+Die Kurzschlusscharakteristik verläuft vollkommen
+linear (Fig. 23); es genügt also für einen Fall das
+Diagramm zu zeichnen oder aus der Beziehung
+1 3 r,
+_= —. n x J x— v 2 n 2
+den Factor t> 2 zu berechnen. Bei Kurzschluss von allen
+drei Phasen ergibt sich v 2= 0‘83, und zwar ist es
+gleichgiltig, welche der beiden in Fig. 21 und 22 ab­
+gebildeten Schaltungen gewählt wird. Die Kurzschluss­
+charakteristiken decken sich in beiden Fällen voll­
+kommen, was ja nach der allgemeinen Formel auch
+eintreten muss. Sind zwei Phasen in Reihe kurzge­
+schlossen, dann gibt Tab. III die Beobachtungswerthe.
+Die Kurzschlusscurve verläuft ebenfalls linear und ist
+v 2= 0-695. Dieser Werth erscheint gerechtfertigt und
+lässt sich aus der Wickelungsanordnung schätzungs­
+weise berechnen.
+Tabelle III.
+%
+0-77 6-0
+1-23 10-0
+1-45 12-0
+1-53 12-3
+1-70 13-3
+1- 90 15-0
+2- 05 18-8
+2-15 170
+2-40 19-0
+2-78 22-0
+2-75 2P8
+Eine Spulenseite ist in diesem Fall in vier Nuten
+untergebracht. Eine Messung mit dem ballistischen
+Galvanometer ergibt, dass bei Stillstand und stromlosem
+Anker im Querschnitt der in den beiden äussersten
+Nuten gelagerten Spulen 95% von jenen Kraftlinien
+vorhanden sind, die in den Magnetschenkeln erzeugt
+werden. Denkt man sich das Feld gleichmässig ver-
+theilt, was ja nur zu einer rohen überschlägigen
+Rechnung angenommen werden darf, so ist die Linien­
+zahl im Querschnitt der innersten Spulen %, bezw.
+% von derjenigen in den äusseren Spulen. Der
+Kraftfluss in den letzteren zwei Spulen beträgt also
+68% und 41%, das Mittel wird also 0-72, ein
+Werth, der mit den oben experimentell ermittelten
+der Grössenordnung nach gut übereinstimmt.
+Tabelle IV.
+% •Tl
+1-18 11-6
+1-38 13-4
+1-60 15-8
+1- 83 18-1
+2- 10 20-6
+2-40 23-8
+Sind zwei Phasen, aber jede für sich kurzge­
+schlossen, so erzeugt die Maschine zweiphasigen Wechsel­
+strom, aber nicht mit einer Viertelperiode Phasen­
+differenz. In diesem Fäll berechnet sich v 2 zu 0"81;
+der Factor ist also nahezu derselbe, als wenn alle
+drei Phasen eingeschaltet sind, was ja nach den Vor­
+aussetzungen auch der Fall sein muss. Die ent-
+
+Nr. 39.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 469.
+sprechende Kurzschlusscharakteristik verläuft gerade,
+Fig. 23, Curve III; die gemessenen Wertke sind in
+Tah. IV. enthalten. Bei Kurzschluss von nur einer
+Phase wird v= 0542, Tab. V, Curve IV, Fig. 23.
+Dieser augenscheinlich sehr ungünstige Werth verur­
+sacht die bereits beschriebene Erscheinung, dass die
+Maschine als Synchronmotor mit Benützung von nur
+einer Phase nicht in Betrieb zu erhalten ist.
+Mit Hilfe der auf diese Weise berechneten Streu­
+factor en lässt sich nun das Verhalten der Maschine
+für alle möglichen Fälle untersuchen, insbesondere bei
+unserer ausgeführten Maschine die Uebereinstimmung
+der theoretischen Berechnung mit den Versuchsresul­
+taten controliren.
+Fig. 23.
+Zunächst sei uns die Aufgabe gestellt, die Klemmen­
+spannung bei constanter Erregung und inductionsfreier
+und symmetrischer Belastung in den drei Phasen zu be­
+rechnen.
+Tabelle V.
+J 2 J t
+0-55 7-3
+065 OO
+076 10-2
+0-98 13-0
+0-75 13'0
+1T3 153
+P29 17T
+1-37 18-7
+2 05 26-6
+Gegeben sind: u 2 =0-830; der ohmische Wider­
+stand einer Phase w 1= 0T0; lc= 0"725, J 2= 5'0 Amp.
+J 2 n 2— 800.5= 4000, v 2/ 2 n 2— 3360.
+Der Gang der Construction ist aus Fig. 11 zu
+entnehmen. Die berechneten, hezw. mit Hilfe der Con­
+struction ermittelten Werthe sind in Tabelle VI zu­
+sammengestellt, deren letzte Spalte die für dieselben
+Stromstärken gemessenen verketteten Klemmenspan­
+nungen enthält.
+Tabelle VI.
+5-0
+100
+12-5
+15-0
+J i w i
+05
+1-0
+1-2
+1-5
+3/2.1-38.48.^
+496
+996
+1242
+1490
+res. I.-A.-W. wirks. A.-W.
+3325 3960
+3220 3835
+3150 3750
+3025 3600
+Em
+61-3
+60-0
+59-0
+57-2
+Eg
+60-8
+59-0
+57-8
+55-7
+verk.
+103-8
+1007
+98-6
+95-0
+E
+p
+104-2
+101-2
+99-0
+97-7
+Bei Benützung zweier Phasen sind die beob­
+achteten Werthe der Klemmenspannung bei derselben
+constanten Erregung und Umdrehungszahl in Tabelle VII
+gegeben und sind dieselben in Fig. 24 II graphisch
+aufgetragen.
+.o
+Ep
+1030-
+102-0 5-2
+101-0 7-2
+96-3 13-3
+944 15-3
+91-6 171
+88-5 19-3
+Tabelle VIII enthält die berechneten Werthe für
+einige Stromstärken, in der letzten Spalte die ent­
+sprechenden gemessenen Werthe.
+Wo zwei Werthe für dieselbe Stromstärke ange­
+geben sind, bezieht sich der eine auf den unteren, der
+andere auf den oberen Ast der Leerlaufcharakteristik,
+entsprechend der ansteigenden oder abfallenden Mag-
+netisirung.
+Tabelle VIII.
+■J 1 C n x Jj I. res. A.-W.
+10-0 660 2700
+15-0 990 2590
+20-0 1320 2430
+wirks. A.-W.
+3860
+3700
+3475
+Ei E E v E p
+99-6 97-6 98-6
+97-0 940 94-5
+93-0 89-0 87-4
+91-4 87-4 87-4
+
+Seite 470.
+ZEITSCHRIFT FÜR ELEKTROTECH NTK.
+Nr. 89.
+Soll eine Klemmenspannung von 101'6 constant
+erhalten werden, so-haben die Erregerströme bei variablen
+Belastungen (inductionsfrei) die in Tabelle IX ersicht­
+lichen Werthe. Die Belastung konnte leider nicht
+weiter gesteigert werden, da der bei der betreffenden
+Messung benutzte Antriebsmotor nicht höher bean­
+sprucht werden durfte.
+Tabelle IX.
+’^2
+5-00—
+5-10; 5-5
+5-20 8-2
+5-23 10-2
+Bei 10 Ampere Ankerstrom war ./ 2= 5'24, somit
+J 2 v 2— 4190, v 2 J 2 n 2— 2930, die Anker- Ampere­
+windungen wie oben 660, dann gibt die Construction
+28251. resultirende Amperewindungen und 2825/0-5 95=
+= 4040 wirksame Amperewindungen, denen E— 103'0 V
+aus der Leerlaufcharakteristik entspricht.
+_E=103- 0 —10-0.0 1= 102'0 statt der gemessenen
+101-6 V, Fig. 25 I.
+Fig. 25.
+Rechnung und Experiment liefern also überein­
+stimmende Resultate. Bei demselben Erregerstrom
+= 5 0 Ampere und der entsprechend geringeren Spannung
+101’6/1'707= 60’0F und variablem Ankerstrom (nur
+eine Phase benutzt) sind die beobachteten Werthe in
+Tabelle X wiedergegeben und in Fig. 24 III graphisch
+aufgetragen; Tabelle XI enthält die berechneten Werthe.
+Tabelle X.
+: a,
+'V
+60-0
+58-5
+58-2
+57-2
+56-1
+55-1
+53-5
+524
+Ji
+6-3
+.9-6
+12-3
+17-1
+19-8
+24-2
+26-1
+10 0
+150
+20-0
+25-0
+Tabelle XI.
+Ank.-A.-W, res. A.-W.
+328
+492
+656
+820
+2150
+2100
+2050
+2000
+wirks. A.-W.
+3965
+3880
+3785
+3690
+Am
+58-5—60-5
+'5'8-0—60-0
+57-0-59-0
+55-5—58-0
+A P
+57-5—59-5
+56-5—58; 5
+550-57-0
+53-0— 55-5
+Eine Phase eingeschaltet, Klemmenspannung con­
+stant 60 V. J 2 Erregei-strom hei variabler induetionsfreier
+Belastung; gemessene Werthe in Tabelle XII, berechnete
+in Tabelle XIII, Fig. 25 II.
+Tabelle XII.
+5-00
+5-06
+5T2
+5-26
+532
+5-58
+5-65
+5-80
+^2
+6-6
+10-0
+13-0
+15-8
+18-7
+21-6
+245
+-A
+10-0
+15-0
+20-0
+25-0
+C J x tii
+328
+492
+656
+820
+•f>
+4100
+4250
+4440
+4670
+Tabelle XIII.
+res. A.-W.
+2180
+v,
+2 A n 2
+2220
+2300
+2410
+2530
+2230
+2310
+2375
+wirks. A.-W-
+4030
+4120
+4270
+4380
+Am
+59- 5—61-5
+60- 0—62-0
+6P2-63-0
+62-5— 64-0
+E v
+58-5—60-0
+58- 5—60-5
+59- 2— 61-0
+600—62-0
+In den Diagrammen sind die berechneten Punkte
+mit o bezeichnet.
+Für inductive Belastung und Einschaltung von
+nur einer Phase wurde ebenfalls eine Versuchsreihe
+durchgeführt. Der Strom wurde hier bei 13'3 Ampere
+constant erhalten und die Phasendifferenz von E. M. K.
+und Strom verändert. Die berechneten Werthe sind in
+Tabelle XIV zusammengestellt; die letzte Spalte enthält
+die entsprechenden gemessenen Werthe. Der genannte
+Phasenwinkel wurde bei dieser Versuchsreihe mit dem
+Jouber t’schen Momentancontact bestimmt. Die Ueber-
+einstimmung der berechneten und gemessenen Werthe
+ist auch hier in befriedigendem Maasse vorhanden, da
+die Fehler höchstens ca. 4"5°/ 0 erreichen. Die Ursache
+der relativ grösseren Fehler in der letzteren Versuchs­
+reihe liegt wohl an der wenig sicheren Festlegung des
+Winkels und auch daran, dass die Stromcurve bei Ver­
+änderung der Phasendifferenz von Strom und E. M. K.
+die Umgestaltung erleidet, auf die ich bereits früher
+hingewiesen habe.
+Bei Benützung von drei Phasen konnte eine ähn­
+liche Versuchsreihe nicht auch durchgeführt werden.
+Es verursacht nämlich grosse experimentelle Schwierig­
+keiten, in allen Phasen bei derselben Stromstärke auch
+den gleichen Grad der Inductivität herzustellen. Mit
+einiger Sicherheit wäre dies in der Weise erreichbar,
+dass man einen Synchronmotor als Stromabnehmer an­
+schaltet, dessen Belastung bei variabler Erregung oder
+Klemmenspannung in der Weise abgeglichen wird,
+dass die Stromstärke constant bleibt. Eine derartige
+Versuchsreihe bietet aber kein besonderes Interesse, da
+wir nicht die Bestimmung der Ankerrückwirkung als
+Function der Phasendifferenz von E. M. K. und Strom
+im Auge haben, wie dies z. B. zur Construction des
+Kapp ’schen Diagrammes (Dynamomaschinen III. Aufl.)
+nöthig wäre.
+
+Nr. 39.
+Seite 471.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Tabelle XIV.
+u 2-
+Wo
+70
+60
+30
+10
+'2 ^2 1
+= 0*542, J 2 n 2= 4000,
+res. I.-A.-W. wirks. A.-W.
+1760 3190
+1820 3360
+1960 3620
+2125 3920
+r
+61-8
+54-3
+57-5
+60-6
+2170, J t ■■
+E t
+511
+53-5
+56-4
+59-3
+13-3.
+E v
+52-0
+52- 0
+53- 5
+58-0
+Bei Einschaltung zweier Phasen in Reihe und
+inducirter Belastung wurden die in Tabelle XV ge­
+gebenen Werthe ermittelt; cos <p wurde hier nur durch
+Wattmetermessungen bestimmt. Rechnung und Versuch
+geben die gleichen Resultate bis auf procentisch kleine
+Differenzen. Dem Einfluss des jeweiligen magnetischen
+Zustandes ist durch die Berechnung der möglichen
+zwei Grenz werthe von A |R Rechnung getragen, zwischen
+welchen der gemessene Werth liegen muss.
+Tabelle XV.
+E P
+53-6
+62-0
+73-0
+80-0
+89-4
+C J x n x I. res. A.-W. E m E lK
+1325 1470 61-0—56-5 53*0
+1110 1575 65-0—61-0 61*0
+852 1892 73-0—76-5 73-0
+660 2100 80-0—83-2 82 0
+660 2510 940— 96 0 924)
+’7y ^2— 4000, v 2— 0*695,
+v 2 J x n 2= 2780.
+Ji
+20*1
+16*8
+12*9
+10*0
+10*0
+J, w x
+4*0
+3*4
+2*6
+2*0
+2*0
+Watt
+153
+136
+81
+62
+860
+Voltamp.
+1078
+1040
+942
+800
+894
+COS (p
+0*142
+0*131
+0*086
+0078
+0*964
+(p U
+82*0
+82*5
+85*2
+85*5
+15*5
+Das Beweismaterial würde als erschöpft zu betrach­
+ten sein, wenigstens soweit eine Maschine diesbezüglich
+in Betracht kommen kann, wenn dieselbe Maschine
+als Synchronmotor der gleichen Versuchsreihe und
+Nachrechnung unterzogen worden wäre. Leider stand
+mir kein zweiter Dreiphasengenerator zur Verfügung,
+an den die Maschine hätte angeschlossen werden
+können. Die vorhandene einphasige Stromquelle wies
+eine von derjenigen der Maschine wesentlich ver­
+schiedene Curvenform auf. Die Dynamo konnte zwar
+einphasig als Synchronmotor in Betrieb erhalten werden,
+doch liess sich ein Pendeln des Ankers nicht vermeiden.
+Die Ablesungen an den zahlreichen von den Strom­
+schwankungen beeinflussten Instrumenten konnten nicht
+mit solcher Genauigkeit durchgeführt werden, dass man
+die Messungsresultate als Grundlage zu theoretischen
+Schlussfolgerungen hätte benutzen können.
+Durch Uebertragung der Anschauungen über das
+magnetische Verhalten des Inductionsmotors haben wir
+eine Darstellungsweise gewonnen, die infolge ihrer
+Allgemeingiltigkeit uns die Möglichkeit bietet nunmehr
+auch die Wechselstrommaschinen unter denselben ein­
+heitlichen Gesichtspunkten zu untersuchen, deren Zweck­
+mässigkeit sich bereits bei der Behandlung der Probleme
+des Transformators und des Inductionsmotors be­
+währt hat.
+Alle Wechselstromapparate, die zur Umformung
+der Energie dienen, erscheinen hierdurch als Special­
+fälle des allgemeinen Transformators.
+Diese Anschauungsart gibt uns ein Mittel, die be­
+sonderen Eigenschaften des Synchronmotors in einfach
+klarer Weise abzuleiten. Die gegenseitige Beziehung
+der einzelnen Felder und damit die magnetischen Ver­
+hältnisse der Wechselstrommaschine überhaupt werden
+übersichtlich. Der schwerfällige, in der Rechnung um­
+ständliche Begriff des Selbstinductions-Coefficienten wird
+überflüssig.
+Die Vorausberechnung des Verhaltens der Wechsel­
+strommaschine unter Strom wird durch den Uebergang
+auf das Amperewindungsdiagramm der Rechnung zu­
+gänglich und gestaltet sich letztere überhaupt sein-
+einfach. Im Rechnungsgang tritt nur der Streuungs­
+factor als experimentell (für eine gewisse Type ein für
+allemal) zu bestimmende Grösse ein.
+Im Besonderen ist hervorzuheben, dass die Analogie
+mit dem einphasigen Inductionsmotor in Bezug auf
+die Grösse der Anker- Amperewindungen Klarheit
+schafft.
+Dem Princip der Zerlegung von Wechselfeldern
+in zwei rotirende Felder verdanken wir ausser der
+Lösung des Problems des Einphasen-Inductionsmotors
+bereits die Erklärung der interessanten Erscheinung,
+warum Inductionsmotoren mit einachsiger Ankerwicke­
+lung mit reducirter Tourenzahl laufen. Die Anwendung
+desselben Princips auf die Anker-Amperewindungen
+des Wechselstromgenerators gibt uns eine allgemein
+giltige Regel, die Amperewindungszahl einer Wechsel­
+stromwickelung beliebiger Phasenzahl und räumlicher
+Anordnung mit Sicherheit zu berechnen.
+Die Zerlegung zeitlich und räumlich nicht sinus­
+artiger Felder ein- und mehrfacher Periodicität erklärt,
+warum Inductionsmotoren unter Umständen mit 1/ 3,
+event. Vs der normalen Tourenzahl laufen. In unserem
+Fall finden wir durch eine derartige Zerlegung die
+Grösse des constanten, eine Schwächung oder Ver­
+stärkung des Schenkelfeldes erzeugenden Feldes.
+Wir erkennen, dass die Pulsationen im Erregerstrom
+von den Feldern mit höherer Periodicität verursacht
+werden, da sich letztere in Bezug auf die Schenkel­
+spulen genau so verhalten, wie das Schenkelfeld in
+Bezug auf den Anker.
+Jede Ueberlegung, die irgend eine Eigenschaft des
+Inductionsmotors erklärt, gibt auch bei der Wechsel­
+stromdynamo die Lösung irgend einer Frage.
+Die Wechselstromdynamo und der Synchronmotor
+haben durch die geschilderte Analogie mit dem In­
+ductionsmotor ihre Sonderstellung in der Theorie der
+Wechselstromprobleme verloren, die ihnen wohl darum
+eingeräumt wurde, weil sie in einem Wickelungssystem
+stets Gleichstrom führen.
+Ich hoffe, dass die Praxis das vom Einzelnen nur
+schwer herbeischaffbare Beweismaterial vermehren und
+dadurch den entwickelten Anschauungen in der Elektro­
+technik zur Anerkennung verhelfen wird.
+(Fortsetzung folgt.)
+Unterirdische Eisenbahnen mit elektrischem Betriebe
+in London.
+London besitzt gegenwärtig sechs unterirdische Stadtbahn­
+linien, welche, mit Ausnahme oiner Linie, deren Bau erst in
+jüngster Zeit in Angriff genommen wurde, theils im Betriebe,
+theils im Stadium der Vollendung stehen. Das in diese Stadtbahn­
+linien bereits investirte Capital beträgt 265,200.000 Frcs. und
+vertheilt sich auf folgende Linien:
+
+Seite 472.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 39.
+I. City and South-London mit Frcs. 42,700.000
+n. Waterloo and City n„ 14,200.000
+III. Central London„„ 71,000.000
+IV. Baker Street and Waterloo„„ 84,000.000
+V. Great Northern and City„„ 52,500.000
+VI. Metropolitan and District„„ 800.000
+welche Summe vorläufig für technische Vor­
+arbeiten und den Bau einer Versuchsstrecke
+ausgelegt wurde.
+In Summa... Frcs. 265,200.000
+I. The City and South London Railway.
+Diese im Jahre 1890 dem Betriebe übergebene Linie, bei
+welcher die elektrische Betriebskraft durch je eine dritte im
+Mittel der Geleise eingelegte Schiene der Wagen-Dynamomaschine
+zugeführt wird, führt durch zwei Tunnels, in deren einem die
+Hin-, in dem anderen die Rückfahrt stattfindet. Die Spurweite
+beträgt P435 m, das Gewicht der Schienen 27'2 kg. Die Central-
+Stromerzeugungsstation liefert einen Krafteffect von P025 KW.
+Die Länge der Bahn betrug ursprünglich 5/cm; dieselbe verband
+die südöstlichen Stadtbezirke mit der City (Weichbild der Stadt)
+jedoch nur bis zur Themse, wurde aber später in einem den
+Strom unterfahrenden Tunnel bis in die City verlängert, an dessen
+Seite nunmehr anlässlich der Fortsetzung der Hauptstrecke bis
+Islington (im Norden der Stadt) ein zweiter Tunnel gebohrt wird.
+Von den übrigen noch auszuhauenden Strecken ist jene hervor­
+zuheben, welche zur wechselseitigen Verbindung der Stationen
+„Bank von England“, „Royal-Exchange“, „Mansion-IIouse“ und
+anderer öffentlicher Gebäude der Nachbarschaft die Häuser-
+complexe der Umgebung dieses vornohmen Quartiers in einer
+Ellipse unterfährt. Eine weitere Linie wird bis zur „Moergate-
+Street“ zum Anschlüsse an die Betriebsnetze der „Great-Northern“
+und der „City electric Railroad“ gebaut, an deren Anschluss­
+punkte eine grosse gemeinschaftliche Station im Untergründe
+erbaut wird, in welchor die Fahrgäste, ohne zu Tag kommen zu
+müssen, im Umsteigdienste Anschluss finden. Das gesellschaftliche
+Betriebsnetz wird nach dessen Ausbau ca. 20 km messen. Im Be­
+reiche der theilweise bereits eröffneten neuen Linien wurde der
+Oberbau mit Schienen im Gewichte von 38'28 kg per laufendes
+Meter hergestellt. Die je drei Wagen mit einer mittleren Fahr­
+geschwindigkeit von 38 km befördernden elektrischen Locomotiven,
+deren die Gesellschaft gegenwärtig 52 besitzt, sind bei einer Höhe
+von 2'57 m über der Schiene, 4'30 m lang und 2'08 m breit, mit
+Hand- und Westinghousebremse und Luftcomprimator System
+Brotherhoad ausgerüstet, welcher, sobald als der Luftdruck
+im Reservoir unter die normale Spannung fällt, durch ein auto­
+matisch wirkendes Relais sofort in Function gesetzt wird. Im
+Laufe des I. Semesters 1900 wurden bei Zugsintervallen von
+2V2 Minuten 3,442.942 Fahrgäste bei einer Einnahme von
+668.725 Frcs. befördert.
+II. The Waterloo- and City-Railway.
+Diese vorläufig noch kürzere der vorbenannten Linien,
+welche den Verkehr zwischen Waterloo und London-South-Western
+vermittelt, führt gleich dem Liniennetze I in zwoi gepaarten
+Tunnels und entspricht deren sonstige technische Beschaffenheit
+und Einrichtung jener des Netzes I. Die Gesellschaft besitzt
+derzeit 12 Motoren und 12 grosse Beiwagen, welche durch den
+mit einer Energie von 1200 A W von der Central-Stromerzeugung's-
+station ausgehenden Strom betrieben werden. Im Laufe des
+I. Semesters 1900 wurden 1,769.731 Fahrgäste bei einer Einnahme
+von 333.725 Frcs. befördert.
+III. The Central-London -Railway.
+Vom Netze der Central-London-Railway ist in jüngster Zeit
+die Theilstrecke Bank von London-Sheperds-Bush (im Westen der
+Hauptstadt) eröffnet worden. Der Bau dieser und der noch in
+Ausführung begriffenen weiteren Linien ist ganz besonders kost­
+spielig, da der Doppeltunnel derselben die Linien der anderen
+Tiefbahnen unterfährt, daher an den Kreuzungsstollen in einer
+Tiefe von 25 m gelegt und durch Einbau von 22 mm starken und
+3—5 cm breiten Stahlrippen versteift ist. Die in den currenten
+je 6'5 m breiten Tunnelstrecken sind in den Stationsplätzen auf
+15 m verbreitert. Die Verbindung zwischen der Strasse und den
+unterirdischen Stationsplätzen erfolgt durch je zwei Wendeltreppen
+und vier elektrisch betriebene Lifts, deren jeder 100 Personen
+zu fassen vermag und sich mit einer Geschwindigkeit von 46 m
+pro Minute bewegt. Der lhit einer Spurweite von 1'435 m her­
+gestellte Oberbau ist mit Stahlschienen im Gewichte von 50 kg
+pro laufendes Meter ausgerüstet. Diese in Form eines umgekehrten
+U hergestellten Schienen sind auf hölzerne, durch Eisenstangen
+verbundene Langschwellen gebettet; die Zuführung des Stromes
+erfolgt durch eine im Geleisemittel liegende Schiene aus Weich­
+gussstahl, und zwar von der nächst der Endstation „Sheperds-
+Bush“ gelegenen, auf einen Krafteffect von 5100 K W eingerichteten
+Central-Stromerzeugungsstation aus. Für die Zugförderung ist ein
+Locomotivstand von vorläufig 32 Maschinen im Gewichte von 54 t
+vorgesehen. Die Züge bestohen aus je sieben Wagen ä je 18 t
+Eigengewicht und einem Fassungsraume von je 48 Fahrgästen
+pro Wagen, d. i. deren 336 pro Zug. Das Constructionssystem
+der Maschinen entspricht jenem, welches in Baltimore und auch
+bei anderen elektrischen Bahnen in don Vereinigten Staaten von
+Nordamerika mit besonders günstigem Erfolge bereits eingeführt
+ist. Die Maschine hat eine Höhe von 2'95 m bei einer Länge von
+9 m und ist mit vier Motoren ä je 117 PS ausgerüstet. Dio Zu­
+führung des Stromes erfolgt durch Vermittlung eines auf der
+Leitschiene gleitenden schweren Contactbiigels. Die Kosten des
+Baues und der gesummten Betriebseinrichtung betrugen bis
+1. Jänner 1900 bereits 79,000.000 Frcs., d. i. rund 9,000.000 pro
+Kilometer. Bis zur Vollendung des Gesammtnetzes wird das
+investirte Capital jedoch mindestens 100,000.000 Frcs. betragen.
+Dio kurze Dauer der bisherigen Betriebsperiode der Bahn ge­
+stattet noch keine vergleichende Darstellung der Betriebseinnahmen
+und-Ausgaben, verspricht jedoch mit Rücksicht auf den besonders
+starken Verkehr ein günstiges Ergebnis. Zu bemerken ist, dass
+dio täglichen Fahrten der Arbeiterschaft, für deren Beförderung
+zu gewissen Tages- und Nachtstunden besonders begünstigte
+Tarife erstellt wurden, einen namhaften Zuschuss zu den Ein­
+nahmen liefern, eine Zubusso, deren Beständigkeit dadurch ge­
+sichert erscheint, als der von den westlichen äusseren Bezirken
+Londons kommende Zuzug der Arbeiterschaft des Handelsstandes,
+der Bau- und sonstigen Gewerbe sich der City als dem Centrum
+des geschäftlichen Verkehres in Massen zuwendet.
+IV. The Baker-Street- and Waterloo-Railway.
+Das Gleiche gilt für die Linie Baker-Street-Waterloo,
+welche in „Charing-Bross“ Anschlüsse an das zukünftige aus­
+gedehnte Netz der bereits in Angriff genommenen „Metropolitan-
+and Metropolitan District-Railway“ (VI), ferner in Baker-Street
+und „Oxford-Circus“ an jenes der „Central-London-Railway“ (III)
+findet. Die Kosten des gleichfalls im Doppel tunnel führenden
+Netzes, dessen vollständiger Ausbau 2—3 Jahre in Anspruch
+nehmen wird, sind vorläufig mit 84,000.000 Frcs. präliminirt.
+V. The Great-Northern 0 f City-Railway.
+Der „Great-Northern of City“, von welchem vorläufig nur
+jener Theil des zukünftigen Betriebsnetzes in Ausführung be­
+griffen ist, welcher mit einem Kostonaufwande von 52,500.000 Frcs.
+die Verbindung zwischen Finsbury-Park and Moorgate, im Be­
+reiche eines dor vornehmsten Bezirke Londons, herstellen wird,
+dürfte, obzwar mit Aufgebot bedeutender Arbeitskraft an der
+Tunnellirung gearbeitet wird, gleichfalls kaum vor Mitte 1902 dem
+Verkehre übergeben werden. Die Direction der Gesellschaft hat
+oin Pcage-Uebereinkommen mit jener der „Central-London“ ge­
+troffen, kraft welchem täglich mehrere Züge über dio bereits im
+Betriebe stehende Theilstrecke der letztgenannten im Anschlüsse
+an die gleichfalls vollendete Theilstrecke des Great-Northern ver­
+kehren, wodurch im Bereiche des Centrums von London (rechtes
+Themseufer) bereits derzeit die Continuität des Verkehrs zwischen
+Westen und Norden, wenn vorläufig auch nur im Bereiche kurzer
+Strecken, hergestellt wird.
+VI. T h e M e t r 0 p 0 1 i t a n- a n d M e t r 0 p o 1 i t a n- District-
+Railway.
+Der im Bereiche der Themserechtsuferseitigen Bezirke»
+diese in einer weiten Ovale umspannenden Metropolitan- and
+Metropolitan District-Railway wird in transversaler Richtung an
+nahezu alle in London exploitirten Radiallinien Anschluss finden
+und deren Verkehrscontinuität nach allen Richtungen der Wind­
+rose vermitteln. Vorläufig ist eine nur 2400 m lange Theilstrecke
+zwischen Kensington und Earls-Court hergestellt, welche gegen­
+wärtig lediglich nur zu Versuchen unter Anwendung eines neuen
+Systems elektrischer Zugförderung befahren wird. Der 75'60 m
+lange Zug im Gesammtgewichte von 182 t besteht aus sechs je
+12 5 m langen Wagen, deren erster und letzter in je zwei Coupe
+getheilt ist, in deren vorderem jo vier direct auf die Wagenachsen
+einwirkende 200pferdokräftige Motoren als Zugförderungskraft
+functioniren. Während der Fahrt des pendelartig verkehrenden
+Zuges wird der von der Centrale durch Contact zugeführte Strom
+nur von der in der Richtung des Verkehres stehenden Maschine
+aufgenommen, während die Motore des rückwärtigen Wagens bis
+zum Zeitpunkte der Rückfahrt ausgeschaltet verbleiben und erst
+dann die Function der Zugförderung übernehmen, wenn die des
+vorderen AVagens ausgeschaltet wordon. Die Führung der beiden
+Maschinen wird nur von einem Maschinisten besorgt, der in der
+
+Nr. 39.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 473.
+jeweiligen Endstation das Motorencoupe wechselt. Der Bau der
+Versuchsbahn kostete ca. 800.000 Frcs. Im Falle der Bewährung
+dieses Systemes, welches die Anschaffungskosten des rollenden
+Materiales wesentlich vermindern würde, soll selbes im Bereiche
+der gesammten Betriebslinie angewendet werden. Massgebend für
+die präsumptive Einführung dieser Art Zugsförderung war auch
+die Erwägung des Umstandes, dass der „Metropolitan“ als ring­
+förmig geschlossene Bahn von Fahrgästen zumeist nur auf kurze
+Strecken— sei es im geschäftlichen Verkehr oder zur Gewinnung
+raschen Anschlusses an die in selben einmündenden Radialbahnen
+-— benützt werden wird und infolgo dessen die Kosten der Be­
+schaffung eines für die Bewältigung des Massenverkehrs auf
+längeren Strecken sonst erforderlichen kostspieligen schworen
+Fahrpark-Materiales wesentlich vermindert werden. Die Züge mit
+einem Fassungsraum für 80—100 Personen werden in Intervallen
+von nur zwei Minuten mit einer Fahrgeschwindigkeit von 30 km
+pro Stunde verkehren. (Verord.-Bl. f. E. u. Sch. Nr. 103. 1900.)
+KLEINE MITTHEILUNGEN.
+Verschiedenes.
+Submarinekabel für elektrische Minenzündung (1er All­
+gemeinen Elektricitäts-Gesellschaft Berlin. Sowohl bei unter­
+seeischen Minen, als auch bei lenkbaren Torpedos für Küsten-
+vertheidigung hat die elektrische Zündung mehr und mehr Ein­
+gang gefunden.
+Die Vortheilo dieser Methode bestebon vor allem darin,
+dass es möglich ist, eine Mine auf beliebige Entfernungen
+und vor allem auch mehrere Minen durchaus gleichzeitig zu
+zünden, sowie in der absoluten Gefahrlosigkeit beim Bergen der­
+selben. Man unterscheidet zwei Arten der elektrischen Zündung:
+die Glühzündung und die Funkenzündung. Entsprechend der zur
+Anwendung kommenden Methode muss das Kabel construirt sein.
+Während in beiden Fällen metallisch isolirte Rückleitung
+einer Rückleitung durchs Wasser oder durch die äusseren
+Armirungsdrähte vorzuziehen ist, empfiehlt es sich bei der Funken-
+ziindung, die wesentlich höhere, mit Influenz, Inductionsmaschinen
+oder Ruhmkorft-Apparaten zu erzeugende Spannungen bedingt,
+vor allem auf hohe Durchschlagsfähigkeit der Kabolisolation be­
+dacht zu sein. Bei Funkenzündung findet Reihenschaltung der
+Minen statt. Bei der Glühzündung muss der Widerstand der ein­
+zelnen Adern bedeutend geringer sein, als bei Funkenzündung.
+Dieser Widerstand und somit der Kupferquerschnitt der einzelnen
+Adern wird bestimmt aus der Zahl der parallel geschalteten
+Zünder und der für jede einzelne erforderlichen Stromstärke.
+Sollen von einer Anzahl Minen nach Belieben eine einzelne oder
+mehrere bestimmte gezündet werden können, so muss man zu
+mehradrigen Kabeln greifen, bei denen mittelst geeigneter Um­
+schaltvorrichtungen der Strom von einer gemeinsamen Strom­
+quelle durch jede Ader geleitet werden kann. Die Adernzahl
+richtet sich, wie schon erwähnt, nach den localen Bedürfnissen.
+Auch die Armirung der Kabel muss den örtlichen Verhältnissen
+angepasst werden, wobei vor allem zu beachten ist, ob das Kabel
+in ruhigem oder bewegten Wasser, auf Sand- oder Felsboden
+verlegt wird, ob Beschädigungen durch ankernde Schiffe möglich
+sind u. dergl.
+Nachfolgend geben wir eine kurze Beschreibung einiger
+von der A E.-G. als Normaltype ausgeführten und gelieferten
+Kabel.
+Torpedokabel mit einer Ader, Ader ohne Blei.
+Leiter besteht aus sieben verzinnten Kupferdrähten von je
+0*914 mm Durchmesser, isolirt mit Gummi bis 5*5 mm, umgeben
+mit einer Lage präparirter Jute, armift mit verzinkten Stahl­
+drähten, die das Ivabel fest umschliessen und umgeben von zwei
+Lagen Jute zwischen drei Lagen Compound.
+Torpedokabel wie oben, aber mehradrig.
+Leiter besteht aus sieben verzinnten Kupferdrähten von
+je 0*914 mm Durchmesser, isolirt mit Gummi bis 5-5 mm. 2, 3, 4,
+5, 6, 7, 8, 9 oder 10 solcher Adern werden zusammen verseilt,
+mit präparirter Jute ausgefüllt und mit eben solcher Jute um­
+geben; dann wird das Kabel mit verzinkten Stahldrähten armirt
+und mit zwei Lagen Jute zwischen drei Lagen Compound um­
+geben.
+Torpedokabel mit einer Ader und mehradrig, Ader
+mit Blei.
+Construction wie obige Kabel mit Ausnahme der Ader,
+welche über dem Gummi noch einen 0*8 mm. starken Bleimantel
+erhält. Durchmesser der Ader mit Blei 7*1 mm.
+Blitzschäden in Steiermark und Kärnten im Jahre 1899.*)
+Wie Tabelle I zeigt, beträgt die Gesammtzahl der mir bekannt
+gewordenen, vom Blitze getroffenen Objecte im abgelaufenen
+Jahre 539; sie ist gegen das Vorjahr um 130 gesteigen. Von diesen
+539 Objecten entfallen 42H auf Steiermark, 113 auf Kärnten.
+Arten des Blitzschadens
+Jthrgang 1899.
+a) in Steier- b) in
+mark Kärnten
+Personen vom Blitze getödtet 17
+Ilausthiore„„„ 87
+Zündende Blitze 74
+2
+37
+14
+c) zusamraeu
+19
+124
+88
+lOjähriges
+Mittel
+17 **)
+81
+78
+Hinsichtlich der Umstände, unter denen die hier erwähnten
+19 Personen ihr Leben durch den Blitz verloren haben, ist zu
+bemerken, dass drei Personen innerhalb von Gebäuden, drei an
+der Aussonseite eines Hauses, vor einem Fenster stehend, fünf
+unter einzeln stehenden Bäumen (in oinem dieser Fälle zeigte
+der Baum keinerlei Blitzspur) und sieben auf freiem Felde vom
+Blitze erschlagen worden sind. In einem Falle konnte ich Näheres
+nicht in Erfahrung bringen. Unter den getödteten Personen be­
+fanden sich vier Schnitterinnen.
+Relativ häufig trifft der Blitz in Aufführung begriffene
+Gebäude. Drei Blitze fuhren knapp neben Gebäuden in den Erd­
+boden.
+Am 12. Juli wurden auf der Grobenzen bei St. Lambrecht
+48 Schafe unter einer Fichte, am 20. Mai in Hrusica auf dom
+Tschitschenhoden im Küstenlande 62 Schafe***) und zwar merk­
+würdigerweise zumeist die stärksten und wolligsten Thiers von
+einem Blitze erschlagen ****).
+Am 24. Juli schlug der Blitz in St. Andrä in Sausal in
+einen 21 vi vom Schulhause entfernten Apfelbaum. Hiebei wurden
+durch die Erschütterung der Luft im Schulhauso 14 Fenster­
+scheiben in kleine Stücke zerschlagen. Ein ähnlicher Bericht liegt
+aus dem Bcobachtungsgebiete vom 6. August 1890 vor: In Sohölbing
+bei Hartberg zerbrachen fast alle Fensterscheiben im Dorfe, als
+um l a 3 Blitze nacheinander in eine Gruppe von Eschen fuhren.
+Der Blitz kann zum Diebe worden, der Sachen fortträgt.
+Ein derartiger Fall ereignete sich am 24. Juli des Berichtjahres
+in der Ortschaft Nölbling im Gailthale. Hier trug ein Blitz ein
+ganzes Büschel reifer Kirschen von einem ziemlich woit von
+Nölbling entfernten Kirschbaume bis in diese Ortschaft und setzte
+hier das Dach einer Scheune in Brand. Beim Löschen des
+Brandes wurden die Kirschen gefunden.
+Neun Blitze trafen „Kornmandl“, bezw. Strohschober, einer
+traf ein Foldkreuz, ein anderer einen Maibaum, zwei zersplitterten
+Hiefelstangen u. s. f.
+Herrn Lehrer Berthold Sehe Häuf in Leibnitz (Steier­
+mark) verdanke ich einen ausführlichen Bericht über eine Ivugel-
+b 1 itzerscheinung, die am 6. September beobachtet worden
+ist. Dem Berichte ist Folgendes zu entnehmen: Um 845 p
+des bezeichneten Tages schlug der Blitz gleichzeitig in
+zwei einander gegenüberstehende Wohnhäuser in Leibnitz, die
+50 Schritte von einander entfernt sind. Im nördlicheren der beiden
+Häuser sass im Augenblicke dos Einschlagens eine Frau nahe
+beim offenen Fenster; sie sah ein „Feuer“ durch dasselbe herein­
+kommen, gleichzeitig erschütterte ein fürchterlicher Krach das
+ganze Haus. Das Dach verlor mehr als die Hälfte aller seiner
+Ziegel und alle Zimmerdecken bekamen Sprünge. Näheres über
+das „Feuer“, das beim Fenster hereingekommen war, konnte die
+Frau nicht' mittheilen, da sie vorübergehend betäubt worden war.
+Im anderon Hause sass gerade eine Familie bei der Abendmahl­
+zeit um einen grossen Tisch, über welchem sich eine [grosse
+*) Beobachtungen über Gewitter und Hagelsebläge in Steiermark, Kärnten
+und Oberkrain. Bericht für das Jahr 1899 nebst mehrjährigen Ergebnissen und
+Nachträgen mit drei Karten, von Karl Prohaska. Graz, 1900. Naturw. Verein.
+Aus „Meteorolog. Zeitschr.“ H. 7, 1900.
+**) Während also in Steiermark und Kärnten boi zusammen 1,600,000 Ein­
+wohnern im 10jährigen Mittel per Jahr 17 Personen vom Blitze getödtet werden,
+sonach etwa 11 Fälle auf 1,000.000 Einwohner entfallen, trifft nach einer Notiz
+der „Nature“ vol. 66, S. 462, in England innerhalb eines Jahres 1 Fall auf 1,000-000
+der Bevölkerung (Meteorolog. Zeitschr. 1897, S. 432). Des Vergleiches wegen sei
+ferner erwähnt, dass sich in den Vereinigten Staaten von Nordamerika, einer
+Zusammenstellung des dortigen Wetterbureaus zu Folge, welche die Jahre 1890
+bis 1895 umfasst, durchschnittlich in einem Jahre 268 Todesfälle durch Blitzschlag
+ereignen. Dies macht kaum vier Fälle auf 1,000.000 der Bewohner. Hiebei ist
+allerdings zu beachten, dass sich diese Zahl für die Vereinigten Staaten nur auf
+die gewöhnlichen Gewitter bezieht und dass die Tödtungen durch Blitze bei den
+Tornados nicht einbezogen worden sind. Die letzteren Fälle dürften aber jedenfalls
+an Zahl geringer sein, da per Jahr in der Regel nur drei grössere Tornados in
+der Union auftreten („Meteorolog. Zeitschr.“ 1898, S. 160— 161).
+**+) Dieser Fall ist in die auf Blitzschläge Bezug nehmenden Zusammen­
+stellungen nicht einbezogen worden, da sich diese nur auf Steiermark und Kärnten
+erstrecken.
+****) Diese Zahlen bleiben aber noch weit hinter dem Maximum zurück
+welches ein einzelner Blitzstrahl in dieser Hinsicht erreichen kann. So hat ein
+solcher im Juli des Berichtijahres im Carlit-Gebirge bei Perpignan in Südfrank­
+reich 203 Schafe sofort getödtet und noch viele weitere verletzt.
+
+Seite 474.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 39.
+Hängelampe befindet. Plötzlich kam längs der Lampe in sehr
+rascher Bewegung eine bimförmig gestaltete Feuermasse von
+bläulich-gelber Farbe zum Tische herab, warf hier ein mit Bier
+gefülltes Glas zur Seite und zerschmetterte es, während die
+Lampe unversehrt geblieben war. Von den fünf im Zimmer an­
+wesenden Personen verspürten drei derselben Schläge in den
+Gliedmassen, bezw. leichtere Lähmungen, zwei blieben ganz un­
+verletzt. Vom Tische bewegte sich der feurige Körper seitwärts
+gegen den Ofen (das Glas war nach der entgegengesetzten Seite
+geworfen worden) und ondeto mit grossem Knalle explodirend.
+Während der Fortbewegung der Kugel war kein Geräusch ver­
+nehmbar gewesen. Da der Plafond des Zimmers keine Beschädi­
+gung zeigte, so gewinnt es den Anschein, als ob dieser Kugel­
+blitz seine Entstehung und sein Ende im Zimmer gefunden habe.
+Während derselbe im Zimmer seine Schrecken verbreitete, schlug
+ein anderer Blitz in die neben dem Zimmer befindliche Küche.
+In keinem der beiden Häuser war ein Brand verursacht worden.
+Herr Oberlehrer Josef Riedenbauer meldet aus Fisch­
+bach (Steiermark) unterm 31. August: Um 9 p in N die glän­
+zende Erscheinung eines sogenannten „Drachens“, nämlich ein
+Blitz, der sich in Form einer Hohlkugel (breite Gestalt) entlud.—
+Hier dürfte es sich um ein Meteor gehandelt haben, da am be-
+zeichneton Tage zu dieser Stunde in Steiermark kein Gewitter
+beobachtet worden ist.
+der Abonnementspreis ist allerdings hoch, nämlich 15 Dollars
+monatlich für Geschäftshäuser. Der erste Versuch zur Einführung
+elektrischen Lichtes wurde in Buenos Aires 1882 ge­
+macht, die erste dauernde Anlage daselbst aber erst fünf Jahre
+später, 1887, errichtet. Heute ist Buenos Aires mit 702 Bogen-
+nebst 13.445 Gas- und 8307 Cerosinlampen beleuchtet, was zu­
+sammen 120.000 Schilling monatlich verschlingt. Die Stadt zählt
+vier elektrische Beleuchtungs-Unternehmungen, eine private, drei
+städtische und zwei staatliche Werke, wolche den privaten wie
+den öffentlichen Dienst versehen und über 12001cm unterirdisch
+gelegter Hauptkabel verfügen. Fabriksmotoren, Aufzüge etc. be­
+ziehen ihre Kraft gleichfalls von diesen Kabeln. Die Stadtver­
+waltung von Buenos Aires hat soeben erst zu Offerten auf die
+Beleuchtung der ganzen Stadt mit 7000 Bogenlampen oingeladen.
+Alle grösseren Städte im Innern haben gleichfalls elektrische
+Beleuchtungsanlagen und in den Zügen ist elektrische Beleuchtung
+auf vier der grössten argentinischen Bahnen oingeführt, u. zw.
+kostet das nur ungefähr ein Viertel der Gas- und gar nur ein
+Siebentel der Oolbeleuchtung. Die erste el ekt rische Strasson-
+bahn wurde in Buenos Aires 1897 construirt. Die Stadtverwaltung
+hat schon 25 Coucessionen für elektrische Tramways ertheilt, von
+denen aber erst drei betrieben werden. Die Zahl der ertheilten
+Concessionen ist aber noch verschwindend klein im Verhältnis
+zur Zahl der begehrten.
+Tabelle I. Anzahl der vom Blitze getroffenen Objecte im Jahre 1899.
+Personen getödtet
+Personen beschädigt oder betäubt
+Hausthiere getödtet
+Zündende Blitze
+Kalte Schläge in Gebäude ....
+Vom Blitze getroffene Bäume..
+Andere Blitzschläge
+Summe
+Auf je 1000 Gewitterstund, entfallen *)
+Jauner Februar März April
+0
+0
+0
+9
+21
+Mai
+1
+5
+3
+4
+6
+18
+10
+46
+22
+Juni
+3
+4
+14
+13
+11
+13
+10
+68
+20
+Juli August Septomb. Octob. Novemli. Decernb. Jahr
+12
+12
+80
+44
+30
+61
+29
+268
+28
+2
+8
+18
+7
+8
+11
+9
+63
+18
+1
+21
+9
+17
+13
+17
+7
+85
+34
+0
+0
+0
+19
+50
+124
+88
+67
+121
+70
+539
+25
+*) Hiefür wurden nur die vier letzten Rubriken der getroffenen Objecte (nämlich „Zündende Blitze“, „Kalte Schläge“, „Vom Blitze getroffene Bäume“,
+„Andere Blitzschläge“) benützt, da Personen und Hausthiere im Sommer wegen deß häufigeren Aufenthaltes im Freien viel mehr gefährdet sind alß in anderen
+Jahretzeiten.
+Tabelle I zeigt, dass der Juli, der diesmal besonders ge-
+witterreich war, die meisten Blitzschläge aufzuweisen hatte. Am
+gefährlichsten waren aber die Gewitter des September, denn auf
+je 1000 Gewitterstundon entfallen in diesem Monate 34, im
+Juli nur 28 Blitzschläge.
+Ueber Blitzschläge in Bäume liegen im Ganzen 121 Mel­
+dungen vor, in 106 Fällen ist die Baumart hinreichend sicher
+bezeichnet.
+Zahl der Blitzschläge ir
+Fichten.
+Tannen.
+Föhren.
+Lärchen
+Eichen.
+32
+6
+4
+11
+17
+Buchen.
+Pappeln
+Weiden.
+Erlen..
+Linden.
+Eschen.
+9
+2
+1
+2
+3
+Edelkastanien
+Nussbäume.
+Apfelbäume.
+Birnbäume.
+Kirschbäume
+Wenn man die ungleiche Häufigkeit der genannten Baum­
+arten berücksichtigt, so findet man, dass auch im abgelaufenen
+Jahre wieder Eichen und Pappeln den Blitzschlägen am meisten
+ausgesetzt waren.
+Die Elektricität in Argentinien. Ans einem kürzlich vom
+Präsidenten des Argentinischen Ingenieur-Institutes gehaltenen
+A T ortrage ist zu ersehen, welch’ grosse Fortschritte die Elektricität
+in Argentinien gemacht hat. Nach der „Berl. B. Ztg.“ wurde 1857
+daselbst die erste Telegraphenliuie gelegt, u. zw. an der Buenos
+Aires-AVestbahn entlang, welche die erste argentinische Bahn war.
+Heute besitzt Argentinien 44.419 lem Telegraphenlinien. Das erste
+Kabel wurde zwischen Buenos Aires und Montevideo gelegt und
+1866 dem Verkehre übergeben. Heute stehen die beiden Städte
+über eine Distanz von 315 km sogar in telephonischer Verbindung
+mit einander. Mit Europa wurde über Montevideo und die
+Brasilianischen Landlinien schon 1874 eine Verbindung hergestellt;
+eine zweite Routo wurde 1882 über Chili und Panama angelegt.
+Das Telephon wurde in der Argentinischen Hauptstadt 1881
+eingeführt. Heute besitzen die zwei Telephoncompagnien in Buenos
+Aires 10.511 Abonnenten. Auch jede grössere argentinische
+Provinzstadt hat ein Telephonnetz und das Gesammtcapital der
+argentinischen Telephoncompagnien beträgt 5 3 Millionen Dollars;
+Hier ist der Zukunft noch oin weites Feld Vorbehalten,
+obwohl die Steuern, mit denen die argentinischen Stadtverwaltungen
+gerade die elektrischen Strassenbahnen belasten, sehr schwere
+sind. Neben 358 km Pferde-, hat Buenos-Aires jetzt 89 km elek­
+trischen Betrieb. Die Zahl der Passagiere betrug 1899 nicht weniger
+als 128’5 Millionen Menschen, das Ilundertsechzigfacho der Be­
+völkerung (800.000). An sonstigen elektrischen Betrieben besitzt
+die Hauptstadt einen Botendienst (elektrische Anmeldung bei
+demselben), einen Börsen-Ticker (der in allen Börsenbureaux
+spielt), beide nach Londoner Art und etliche medicinische Labora­
+torien. In Rosario steht sogar eine elektrisch betriebene Zucker­
+raffinerie. Mr. Danvers veranschlagt das gesammte in elek­
+trischen Betrieben angelegte Capital auf 39 Millionen Dollars.
+Aus den Entscheidungen des k. k. Verwaltungsgerichts-
+liofes. 1. Handelt es sich um Aenderungen an Strassen, welche
+infolge eines Eisenbahnbaues vorzunehmen waren, so fällt die
+Entscheidung hierüber nach§ 10 c und§ 13 der Ministerialver-
+ordnung vom 14. September 1854, R. G. Bl. Nr. 238, in die
+Competenz des Eisenbahnministeriums. Der Landesauschuss steht
+in solchen Angelegenheiten der Bahnunternehmung lediglich als
+Partei gegenüber und bedarf letztere ungeachtet der Bestimmun­
+gen des§ 15 cl und f des niederösterreichischen Landesgesetzes
+vom 19. April 1894, L. G. Bl. Nr. 20, einer Bewilligung des
+Landesausschusses zur Ausführung derartiger Projecte nicht.
+2. Es begründet einen Mangel des Verfahrens, wenn vor Be­
+seitigung eines bei der politischen Begehung der Austragung im
+Wege eines Parteiübereinkommens vorbehaltenen Differenzpunktes
+hinsichtlich der Strassenconservirung die Strassenverwaltung durch
+eine Entscheidung über das Ergebnis der commissioneilen Ueber-
+gabsverhandlung zur Uebernahme der Strasse verhalten wird.
+Ausgeführte und projectirte Anlagen.
+Oesterreich-Ungarn.
+a) Oesterreich.
+Aussig (Böhmen). (Bewilligung zur Vornahme
+technischer VorarbeitenfürdreiFortsetzungs-
+linien der elektrischen Kleinbahn der Stadt
+-
+
+ts
+mmmsem
+Nr. 39.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 475.
+Aussi g.) Das k. k. Eisenbahnministerium hat dem Stadtrathe
+in Aussig die Bewilligung zur Vornahme technischer Vorarbeiten
+für drei Fortsetzungslinien der mit der Kundmachung des k. k.
+Eisenbahnministeriums vom 7. April 1899, R.-G.-Bl. Nr. 73, eon-
+cessionirten schmalspurigen, mit elektrischer Kraft betriebenen
+Kleinbahn in der Stadt Aussig und deren nächster Um­
+gebung, und zwar: 1. nach P r ö d 1 i t z, 2. nach Po kau und
+3. durch die kleine Wallstrasse und die Lindenstrasse zum B a h n-
+hofe der priv. Oesterr.-ungar. Staatseisenbahn-
+Gesellschaft in A u s s i g im Sinne der bestehenden Normen
+auf die Dauer eines Jahres ertheilt.
+Oderberg. (Elektrische Beleuchtung.) Bei der
+Hüt.tendirection dermähr.-schl. Actien-Gesell-
+Schaft für Drahtindustrie in Oderberg werden die
+„Union Dauerbrandbogenlampen“ zur Beleuchtung eingeführt;
+dieselben kommen sowohl in Innenräumen als auch in den ziem­
+lich ausgebreiteten Hofräumen des Etablissements zur Anwendung;
+eine grosse Vertheilungs-Schalttafel mit mehreren Stromkreisen
+und den nöthigen Messapparaten vervollständigt die bestehende
+Anlage.
+Die Ausführung dieser Anlage wurde der Oester rei­
+ch lachen Union Elektricitäts-Gesellschaft in
+Wien (Ingenieur-Bureau Mähr.-Ostrau) übertragen. it,
+5) Ungarn.
+Budapest. (Probefahrten mit einem neuen
+olektrischenMotor mit di recte r Hochspannungs-
+Stromleitung zur Beförderung vonEisenbahn-
+w a g e n.) Die Direction der Actiengesellschaft Ganz& C o.,
+Eisengiesse r ei und Maschinenfabrik in Buda­
+pest hat auf ihrer, auf der O-Budaer Schiffswerfteninsel herge­
+stellten Probeeisenbahn (circa 1 Tcm lang) am 12. September 1. J.
+vor den sich interessirenden Fachgenossen mit ihrem neuen elek­
+trischen Motor mit directer Hochspannungsstromleitung zur Be­
+förderung von Eisenbahnwagen Probefahrten unternommen. Das
+Wesentliche des neuen Systems besteht darin, dass der Hoch­
+spannungsstrom ohne Transformirung, das heisst directe zum
+Betriebe der Wagenmotoren verwendet wird, welche Anordnung
+den grossen Vortheil bietet, dass auch ein grösseres Bahnnetz von
+einer Stromerzeugungsanlage aus mit der erforderlichen elek­
+trischen Kraft versorgt werden kann. Nachdem ferner die in den
+Wagen seihst befindlichen Hochspannungsstromleitungen mit
+einer Metallhülse umgeben sind, und auch der Motor hermetisch
+abgeschlossen ist; so bietet das neue System sowohl für das
+Dienstpersonale, als auch für das reisende, beziehungsweise die
+Wagen benützende Publicum die grösste persönliche Sicherheit;
+denn falls auch irgend welcher Leitungsdraht reissen sollte, er­
+zeugt die Metallhülse iu diesem Falle sofort einen Kurzschluss,
+beziehungsweise Erdschluss; macht somit die Berührung der
+Leitungsdrähte ungefährlich.
+Die Proben ergaben ein vollkommen zufriedenstellendes,
+erfreuliches Resultat, was der Anwendung des neuen Systems
+eine grosse Zukuft in Aussicht stellt. M.
+Debreczen. (Eisenbahnproj e c t.) Der kgl. ung.
+Handelsministor hat dem Advocaten Dr. K i s s de Kisbaar
+und dem Civilingenieur Otto M a y e r in Budapest die Bewilligung
+zur Vornahme technischer Vorarbeiten für eine von der Haupt­
+station Debreczen, bezw. einem geeigneten Punkte der De-
+breczener Strasseneisenbahnen mit elektrischem Betriebe ab­
+zweigende und diese über Hoszu-P&lyi, P o c z aj, K i s-
+Marja-Biha r und P ii s p ö k i mit dem Strasseneisenbahn-
+netze der kgl. Freistadt (N a g y v i'i rad) Grosswardein
+verbindende normalspurige, mit elektrischer Kraft zu betreibende
+Localbahn für Personen- und Güterbeförderung auf die Dauer
+eines Jahres ertheilt.
+Kalocsa. (Eisenbahnproj e c t). Der kgl. ung.
+Handelsminister hat der Landwirth schaftsbank
+Actien-Gesellschaft (Küzgazdasägi Bank reszveny
+tarsasag) die Bewilligung zur Vornahme technischer Vorarbeiten
+für eine von der Eisenbahnstation Kalocsa der Eisenbahn Kis-
+Körös—ICalocza abzweigende und diese über F o kt 8 mit der
+Donau-Dampfschiffahrtsstation Kalocsa verbindenden normal­
+spurige Localbahn mit Dampf- oder elektrischem Betriebe auf
+die Dauer eines Jahl-es ertheilt.
+Deutschland.
+Berlin. Wir entnehmen dem „Berl. B. C.“ folgende Mit­
+theilung: Die grossen Betriebsstörungen, welche auf den B e r-
+1 i n e r Strassenbahnen infolge des Schneefalls im vo­
+rigen Winter zu beklagen waren, sind am stärksten auf den mit
+Accumulatoren betriebenen Strecken hervorgetreten. Die meisten
+Accumulatorenwagen versagten sogar damals ganz. Auch im|
+Uebrigen hat sich gezeigt, dass Betriebsstörungen und Unglücks­
+fälle auf den Strecken mit A ccnmulatorenbe trieb
+ungleich zahlreicher sind, als auf denen mit Oberleitungsbetrieb.
+Diese Wahrnehmungen haben den Minister der öffentlichen Ar­
+beiten veranlasst, in eine Prüfung darüber einzutreten, ob der
+Accumulatorenbetrieb sich für die Bewältigung eines so starken
+Verkehrs, wie ihn die Reichshauptstadt Berlin aufweist, über­
+haupt eignet. Zum Zwecke dieser Prüfung sind Gutachten nam­
+hafter wissenschaftlicher Autoritäten auf dem Gebiete der Elek-
+tricität eingeholt worden, wonach bei dem gegenwärtigen Stande
+der Technik der Accumulatorenbetrieb noch nicht zur Bewältigung
+des starken Strassenverkehrs der Stadt Berlin geeignet ist. Dem­
+zufolge ist mit kaiserlicher Ermächtigung von staatsaufsiehts-
+wegen genehmigt worden, dass der Accumulatoren-
+Betrieb der Grossen Strassenbahn inBerlin
+allmählich eingestellt und durch eine sach-
+ge müsse re Betriebsart ersetzt wird. Die
+meisten jetzt mit Accumulatoren betriebenen Strecken werden
+demnächst allmählich in den Oberleitungsbetrieb übergeführt
+werden. In Ausnahmefällen, wie z. B. bei der Kreuzung der
+Strasse Unter den Linden, zwischen der Hedwigskirche und dem
+Giesshause, in denen zwingende verkehrspolizeiliche oder ästhe­
+tische Rücksichten den Oberleitungsbetrieb unbedingt verbieten,
+soll Unterleitungsbetrieb eintreten. In verhältnismässig kurzer
+Zeit wird dem zufolge der Accumulatorenbetrieb in Berlin ganz
+verschwinden.
+Literatur-Bericht.
+Bei der Redaction eingegangene Werke.
+Allgemeine Elektricitäts-Gesellschaft, Berlin. Prospect
+über den „Pavillon mit Nernstlampen“. Derselbe
+enthält eine genaue Beschreibung des im Salon d’honneur de
+l’Electricite der Ausstellung in Paris befindlichen Pavillons.
+Programm der Grossherzoglich Hessischen Technischen
+Hochschule zu Darmstadt für das Studienjahr 1900—1901.
+Darmstadt 1900. G. O 11 o’s Hof-Buchdruckerei.*)
+Patentnachrichten.
+Aufgebote. **)
+Ciasee. Wien, am 1. September 190C.
+20. Rovere Antonio Rodolfo, k. k, Postbeamter in Triest.—
+Elektrische Zugdeckungs-Einrichtung: Eine
+längs der Bahn angeordnete Sicherheitsleitung ist in von ein­
+ander isolirte Theilleiter getheilt, deren Enden über Elektro-
+magnete mit den Schienen leitend verbunden sind, wobei zwei
+aufeinanderfolgenden Thoilleitern angehörende Elektromagnete
+zusammen einen Anker, welcher mit Hilfe seiner Contacte
+als Stromunterbrecher für die durch Schleifcontacto mit den
+Thoilleitern verbundenen Zugsbatterion dient, in der Weise
+bethätigen, dass beim Eintreten zweier Züge in benachbarte
+Theilleiterstrecken Signalglocken auf den Zügen zum Ertönen
+gebracht werden.— Angemeldet am 17. August 1899.
+— Siemens& II a 1 s k e, Firma in Wien. —• Träger f ii r
+Isolatoren und Schutzhölzer bei elektrischen
+Bahnen: Für elektrische Bahnen mit Stromzuleitungsschiene
+im Niveau sind die Träger für die Isolatoren, an welchen
+die Loitungsschiene befestigt ist, so geformt, dass an den­
+selben gleichzeitig die Schutzhölzer befestigt werden können.
+— Angemeldet am 1. März 1899.
+21. Cantono Eugenio, Genic-Hauptmann in Rom.— Re-
+gnlirVorrichtung für die Papierfiihrung in
+M o r s e te 1 e g r a p h en: Der Regulator isteine kloine Dynamo,
+deren als Bremse wirkender Ankor den zum Telographiren
+*) Aufnahme und Immatriculafcion beginnen am 2. October 1900 und
+9. April 1901. Beginn der Vorlesungen und UebuDgen: Im Wintersemester am
+16. October 1900, im Sommersemester am 23. April 1901. Feierliche Bectoratsüber-
+gabe am 16. October 1900.
+**) Von den nachstehenden Patent-Anmeldungen einschliesslich der
+Gesuche um Umwandlung von angesuchten oder ertheilten Privilegien in
+Patente erfolgt hiemit, nach geschehener Vorprüfung, die öffentliche Bekannt­
+machung im Sinne des§ G7 und der §§ 120 und 121 Pat. Ges.
+Gleichzeitig werden diese Anmeldungen mit siimmtlichen Beilagen und
+die Beschreibungen zu diesen Umwandlungsgesuchen in der Auslegehalle des
+k. k. Patentamtes durch zwei Monate ausgelegt.
+Innerhalb dieser Frist kann gegen die Ertheilung jedes dieser angemeldeton
+Fatente und gegen die Umwandlung jedes dieser Privilegien Einspruch
+erhoben werden. Ein solcher Einspruch ist schriftlich in zweifacher Ausfertigung
+beim k. k. Patentamte einzubringen.
+Vom heutigen Tage an treten für die nachverzeichncten Gegenstände zu
+Gunsten des Patentwerbers oder Umwandlungswerbers einstweilen diö
+gesetzlichen Wirkungen des Patentes ein.
+
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 39.
+Seite .476.
+nothwCndigen Strom liefert und dossen Magnetfeld verändert
+werderükaiin.— Angemeldet am 4. Juli 1899.
+21.1) e r i Max;’ Ingenieur in Wien.— Wechselstrom-
+öleichstrom-Umformer mit in der ruhenden
+Wickelung liegenden Polklemmen: Der Um­
+former besteht aus einem ruhenden Ring- oder Trommelanker
+mit magnetischem Schluss für die entstehenden Kraftlinien;
+der Anker besitzt zwei nach Art der Gleichstromdynamo-
+Anker ausgeführte Wickelungen und zwei zugehörige fest­
+stehende Collectoren. In die Ankerwickelung wird an ent­
+sprechenden Punkten Ein- oder Mehrphasenstrom eingeleitet
+und dadurch ein Drehfeld erzeugt, ln jedem Falle sind zwei
+getrennte Stromquellen vorhanden, z. B. zwei ruhende Ein­
+phasenstrom-Transformatoren, oder zwei getrennte Transfor­
+matoren für Ströme von ein Viertel-Periode Phasenunterschied,
+oder zwei Dreiphasen ström-Transformatoren: diese liefern für
+die beiden Ankerwickelungen die Betriebsströme. Damit im
+Falle der Verwendung von Einphasenstrom ein Drehfeld im
+Umformer entsteht, ist innerhalb des Ankers in diesem speci-
+ellen Falle ein synchron rotirender Kurzschlussanker ange­
+bracht. Auf den beiden Collectoren des Umformers schleifen
+zwei von einem kleinen Synchron-Motor bewegte, unter ein­
+ander kurzgeschlossene Bürsten. Man kann dann von den
+Halbirungspunkten der beiden Wechselstromquellen, also von
+den Mittelpunkten der Secundär-Wickelungen der beiden Ein-
+phasenstrom-Transformatoren oder von den Nullpunkten der
+beiden Dreiphasenstrom-Transformatoren Gleichstrom ab­
+nehmen oder man kann von zwei fixen Punkten der Umforrner-
+wickelung, weichein Bezug auf das Drehfeld symmetrisch ge­
+legen sind; den Gleichstrom erhalten; sind in in letzterem^
+Falle die beiden Stromabnehmerstellen nicht in Bezug auf
+das Drehfeld symmetrisch gelegen, so erhält man einen aus
+Gleichstrom und Wechselstrom zusammengesetzten Strom.—
+Angemeldet am 5. Juni 1899.
+Geschäftliche und finanzielle Nachrichten.
+Elektrische Kleinbahn Graz—Maria Trost. Vom k. k.
+Landesgerichte Graz wird bekannt gemacht, dass am 18. Juli die
+Eintragung der Firma der Actiengesellschaft „El ektrische
+Kleinbahn Graz-Maria T r o s t' 1 bezüglich der von ge­
+nannter Actiengesellschaft in Graz mit elektrischer Kraft zu be­
+treibenden schmalspurigen Kleinbahn von Graz nach Maria Trost
+(Fölling) in das Handelsregister für Gesellschaftsfirmen mit dem
+verfügt worden ist:
+1. Die Gesellschaft ist eine mit Bewilligung des k. k. Mi­
+nisteriums des Innern vom 2. Juni 1900, Z. 19.512, auf Grund
+der mit eben diesem Erlasse genehmigten Statuten und des Con-
+stituirungsactes vom 4. Juli 1900 errichtete Actiengesellschaft,
+welche in alle Rechte und Verbindlichkeiten des Bankhauses
+Dutschka& Co. als Coneessionärs der den Gegenstand der dem
+Stadtbaumeister Andrea Franz mit Kundmachung des k. k.
+Handelsministeriums vom 1. October 1895, R.-G.-Bl. Nr. 152 er-
+theilten und mit Kundmachung des k. k. Eisenbahnministeriums
+vom 12. October 1898, R.-G.-Bl. Nr. 193, an das genannte Bank­
+haus übertragenen Concession bildenden, mit elektrischer Kraft
+zu betreibenden schmalspurigen Kleinbahn von Graz nach Maria
+Trost (Fölling) eintritt (§ 1 der Statuten.)
+2. Die Gesellschaft hat ihren Sitz in Graz (§ 3 der
+Statuten).
+3. Zweck der Gesellschaft:
+d) die Erwerbung und der Betrieb der fertiggestellten und im
+Betriebe befindlichen Kleinbahn von Graz nach Maria Trost;
+b) der Bau und Betrieb der genannten Kleinbahn von Maria
+Trost nach Fölling, dann der Bau und Betrieb, sowie die
+Erwerbung und Pachtung anderer normal- oder schmal­
+spuriger Eisenbahnen niederer Ordnung, insbesondere von
+mit elektrischer Kraft oder anderen Motoren zu betreibenden
+Kleinbahnen in Graz und Umgebung, deren Concession von
+der Gesellschaft in der Folge erworben werden wird, sowie
+von Schleppbahnen zu industriellen Etablissements, insoweit
+die Einrichtung solcher Schleppbahnen von der k. k. Staats­
+verwaltung bewilligt wird;
+c) der Bau und Betrieb, sowie die Erwerbung von elektrischen
+Beleuchtungsanlagen und Kraftübertragungen im Umkreise
+der elektrischen Bahnen der Gesellschaft;
+d) die Erwerbung und Herstellung, bezw. der Betrieb von
+Villen-, Hotel- und Restaurationsanlagen, insoweit dieselben
+in Ortschaften gelegen sind, welche die gesellschaftlichen
+Bahnlinien berühren und insofern diese Unternehmungen zur
+Förderung der in den Absätzen a) bis c) bezeichneten Zwecke
+der Gesellschaft geeignet sind;
+e) der Betrieb von Stell- und Lohnfuhrwerks-Unternelimungen,
+insofern dieselben zur Förderung des Verkehres auf den ge­
+sellschaftlichen Bahnlinien dienen;
+J) der Betrieb des Speditions- und Frachtengeschäftes im Zu­
+sammenhänge mit den auf den Linien der Gesellschaft in
+Aussicht genommenen Gütertransporten;
+cj) die finanzielle Betheiligung an Unternehmungen der im Vor­
+stehenden erwähnten Art durch Uebornahme von Titres oder
+Gewährung von Darlehen (§ 2 der Statuten).
+4. Die Gesellschaft beginnt ihre Thätigkeit mit der Ein­
+tragung in das Handelsregister; ihre Dauer ist unbeschränkt
+(§§ 7 und 4 der Statuten).
+5. Das Gesellscliaftscapital beträgt vorerst K 1,300.000,
+zerlegt in 6500 Stück auf den Ueberbringer lautende Actien
+ä K 200 (§ 8 der Statuten).
+6. Für die erste Wahlperiode (fünf Geschäftsjahre) wurden
+nach§ 41 der Statuten von der constituirenden Generalversamm­
+lung in den Verwaltungsrath berufen die Herren: 1. Dr. Guido
+Freiherr von C 1 a u e r, k. k. Sectionsrath in Wien; 2. Johann
+Poschache r Edler von Arelshöh in Wien; 3. Franz Pichler,
+Fabrikant in Weiz; 4. Ludwig Oberschulte, Eisenbalin-
+Director in Frankfurt am Main; 5. Josef N e u Po 1 d in Wien;
+6. Moritz Pflaum, Banquier und Börsenrath in Wien; 7. Eduard
+Keil, Fabriksdirector in Graz; 8. Dr. Leopold L i n k, Hof-und
+Gerichtsadvokat in Graz.
+7. Die Firma der Gesellschaft lautet: „Elektrische Klein­
+bahn Graz-Maria Trost“ (§ 1 der Statuten) und wird nach§ 5
+derselben in der Weise gezeichnet, dass den vorgedruckten oder
+von wem immer geschriebenen Worten „Elektrische Kleinbahn
+Graz-Maria Trost“ collectiv entweder zwei Mitglieder des Ver-
+waltungsrathes oder ein Mitglied desselben und ein mit der
+Procuraführung betrauter Gesellschaftsbeamter, letzterer mit
+einem die Procura andeutenden Zusatze, ihre Unterschrift bei­
+setzen.
+8. Die Kundmachungen der Gesellschaft erfolgen rechts­
+wirksam vom Präsidenten des Verwaltungsrathes oder dessen
+Stellvertreter durch einmalige Einschaltung in die „Wiener
+Zeitung“ und in die „Grazer Zeitung“ (§ 6 der Statuten). —;
+Dr. Guido Freiherr von Clauer wird zeichnen mit „Dr. Clauer“;
+Johann Poschache r Edler von Arelshöh mit „Johann
+Poschacher“; Franz Pichler mit „Franz Pichler“; Ludwig
+Ober sch ulte mit „Oberschulte“; Josef N e u f o 1 d mit
+„Josef Neufeld“; Moritz Pflaum mit „M. Pflaum“; Eduard
+Keil mit „Eduard Keil“ und Dr. Leopold Link mit „Dr.
+Leopold Link“.
+Perci& Schacherer, Erste ungarische Kabel­
+fabrik, Budapest VIII, theilen uns mit, dass sie den Betrieb
+in ihrer neuen Kabelfabriksanlage I., Külsö Feherväri uteza auf­
+genommen hat.
+Jordan& Treier, Commandit-Gesellschaft, Wien VII.
+Neue Preislisten: Patent-Glühlampen-Reflec-
+toren.— Preisliste über elektrische Glühlampen vom
+1. September 1900.— Preisliste Nr. 8 über Schmelzsiche­
+rungen, Blitzsc liutzvorri chtungenund Schwach­
+stromapparate.— Preisliste Nr. 9 über I s o 1 i r -M ate-
+r i a 1 i e n.— Preisliste Nr. 13 über G1 ü h 1 a m p e n- Fas­
+sungen.
+Die Capitalien in der deutschen elektrotechnischen In­
+dustrie. Der Nationalöconom Dr. E.Bürner ermittelte die Ca­
+pitalien der deutschen Productionsfirmen der Elektrotechnik mit
+rund 800 Millionen Mark und die Fonds der sogenannten Finanz­
+gesellschaften, welche die Anlagen von elektrischen Bahnen und
+Elektricitätswerken zum Zwecke haben, mit rund 450 Millionen
+Mark. Nach den nachträglichen Feststellungen desselben Volks-
+wirthes besitzen die elektrischen Bahnen, Elektricitätswerke und
+Blockstationen in Deutschland einen Anlagewerth von rund
+1250 Millionen Mark, so dass die gesaminte deutsche Elektro­
+technik eine Capitalsmacht von etwa 2 l /2 Milliarden Mark re-
+präsoutirt. Hierbei ist allerdings zu bemerken, dass die Capitalien
+der Finanzgesellschaften theilweise in den Anlagewerthon der
+elektrischen Bahnen und Elektricitätswerke wiederkehren.
+Schluss der Redäction: 18. September 1900.
+Verantwortlicher Reducteur: Dr. J. Saliulka.— Selbstverlag des Elektrotechnischen Vereines.
+Commissionsverlag bei Spielhagen&Schurich, Wien.— Alleinige Inseraten-Aufnahme bei Haaseustein& Vogler (Otto Maass), Wien und Prag•
+Druck von R. Spies& Co., Wien.
+

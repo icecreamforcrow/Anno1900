@@ -1,0 +1,1723 @@
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 17. Wim, 22. April 1900. XYIII. Jahrgang.
+1>eind'A'unf/CIt dev liedactiow: Ein Nachdruck aus dem redactionellen Theite der Zeitschrift ist nur unter der Quellenangabe
+K Z. f. E. Wien“ und bei Originalartikeln überdies nur mit Genehmigung der Redaction gestattet.
+Eie Einsendung von Originalarbeiten ist erwünscht und werden dieselben nach dem in der Redactionsordnung festgesetzten Tarife
+hononrt. Eie Anzahl der vom Autor event, gewünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Manuscnpte bekanntgegeben werden.
+INHALT:
+Gewichtsökonomie bei Dynamomaschinen. Von E. Eosen-
+b e r g. (Schluss.) 197
+Elektrische Hilfsmaschinen in der Kriegs-Marine der Ver­
+einigten Staaten. Von Alton D. Adams 202
+Gewichtsökonomie bei Dynamomaschinen.
+V ortrag, gehalten im Elektrotechnischen Verein am 3. Jänner 1900
+von Ingenieur E. Rosenberg.
+(Schluss.)
+Es ist klar und für uns mathematisch aus Formel
+(1) ersichtlich, welch’ bedeutenden Werth für die
+Gewichtsökonomie die Bekämpfung der Funkenbildung
+und der Ankerrückwirkung haben muss. Wäre es z. B.
+möglich, durch geeignete Voi’kehrungen eine funken­
+lose Stromumkehr bei einem kleinen Felde B‘ zu er­
+zielen-, so wird die Differenz B^—B\ die z. B. häufig
+auf die Hälfte des Werthes B, herabgedrückt wird,
+gross. Im selben Maasse, als diese erlaubte Felddifferenz
+wächst, können wir nach Formel (1) h j. die Zahl der
+Amperewindungen pro Längeneinheit, vergrössern, da­
+durch den Anker und mit ihm die ganze Maschine
+erleichtern, oder aber, wenn dies aus Rücksicht auf
+Erwärmung unthunlich ist, im selben Verhältnisse
+hj den Luftspalt kleiner machen, wodurch dann die
+ganze Gewichtsverringerung dem Magnetsystem zu gute
+kommt. Könnten wir anderseits die Ankerreaction voll­
+kommen beseitigen und wäre es ausserdem möglich,
+jeden beliebigen, in den Leistungsgrenzen der Maschine
+gelegenen Strom in einem constanten Felde umzu­
+kehren, so fällt die ganze Gleichung (1) mit ihrem
+Anhänge aus unserer Rechnung heraus. Der Luftspalt
+h, wäre dann eine Grösse, die elektrisch gar nicht in
+Betracht kommt und so klein gemacht werden kann,
+als mechanische Rücksichten es zulassen; h j, die
+Anker-Amperewindungen,werden nur mehr durch die ein­
+tretende Erwärmung begrenzt. Dann sind auch die
+glatten Anker vollkommen aus dem Felde geschlagen,
+weil der grosse Luftraum, den sie bedingen, zur Funken­
+vermeidung nicht mehr nothwendig ist.
+Der grösste Theil aller Forschungen und Erfin­
+dungen auf dem Gebiete der Gleichstrommaschinen hat
+sieh mit diesem Problem beschäftigt. Man hat sich
+auf Constructionen von Bürsten geworfen, die den
+erstgenannten Theil der Aufgabe erfüllen sollen: die
+funkenlose Stromumkehr bei schwachem Felde. Kohlen­
+bürsten, Bürsten aus Schichten leitenden Materials,
+durchsetzt mit isolirenden Schichten, combinirte Bürsten
+aus Metall und Kohle, darunter eine Reihe ganz vor­
+züglicher Constructionen, dienen alle diesem Zweck.
+So gut auch diese Bürsten in manchen Fällen sich
+bewähren, so kann der Gonstruoteur beim Entwurf
+Kleine Mittheilungen.
+Verschiedenes 204
+Ausgeführte und projectirte Anlagen 204
+Literatur 205
+Patentnachrichten 206
+Geschäftliche und finanzielle Nachrichten 208
+seiner Maschine doch wenig Rücksicht auf sie nehmen.
+Die Anwendbarkeit dieser Bürstenarten ist häufig durch
+örtliche Rücksichten, die in Feuchtigkeit, in geringer
+oder unintelligenter Bedienung liegen, unmöglich
+gemacht; und da heute die Maschinen in der Regel
+nicht mehr für specielle Verwendung gebaut, sondern
+Marktwaare sein sollen, so ist es fast unumgänglich
+nothwendig, dass eine Maschine auch in solchen Fällen,
+wo die specielle Bürstenart nicht verwendet werden
+kann, ihre normale Leistung hergeben soll.
+Mehr an die Wurzel des Uebels greifen jene
+Constructionen, welche die Ankerreaction bekämpfen.
+Einige Erfinder haben sich hiebei nur auf die Gegen­
+windungen, andere nur auf die Querwindungen beschränkt.
+Durch Untertheilung der Magnetschenkel, Anbringung
+von Hilfspolen und compensirenden Wickelungen haben
+Fisch er-Hinnen, Ryan, Swinburne, Sayers
+und viele andere an Versuchsmaschinen sehr gute Resul­
+tate erzielt. Von Veröffentlichungen der letzteren Jahre
+sei das Verfahren von Seidener*) erwähnt, der zur
+Abwehr der Quer-Reaction des Ankers die vordere
+Hälfte des Magnetschenkels mit einer compensirenden,
+mit dem Anker in Serie geschalten Spule umgibt,
+während er die Gegenwindungen durch M o r d e.y’sehe
+Wickelung beseitigt, und die von DAri**) bei seinem
+Wechselstrom-Gleichstrom Motor verwendete Anordnung
+einer, den ganzen Anker gleichmässig umgehenden
+CompensationsWickelung, die in Richtung und Grösse
+den Ampere-Windungen des Ankers entgegengesetzt
+gleich ist. Durch Verstärkung dieser compensirenden
+W ickelung erzielt D 6 r i sogar Compoundirung und
+Constanz der Bürsteneinstellung bei dem minimalen Luft­
+spalt eines normalen Wechselstrommotors. Es ist gewiss,
+dass letztgenannte Art die vollkommenste Compensation
+der Ankerrückwirkung darstellt, während die früheren
+das Problem nur stückweise angriffen. Immerhin wurden
+auch mit den früheren Versuchen, wie in den betreffenden
+Büchern und Zeitschriften zu lesen ist, vorzügliche
+Resultate erzielt; die Maschinenleistung konnte bei
+constanter Bürstenstellung auf das zwei- und dreifache
+der normalen gesteigert werden, ohne dass sich Funken-
+*) L. f. E. 1898, lieft 12. Seidener: „lieber Neuerungen
+an Gloichstrommaschinen im Jahre 1897.“
+Z. f. E. 1899, Heft 25. Eichberg: -lieber combinirte
+Wechselstrom-Gleichstromsysteme für elektrische Bahnen, insbe­
+sondere das System Der i.“
+
+Seite 198.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 17.
+bildung ergab. Und doch fand fast keine dieser Erfin­
+dungen, selbst jene, die von eminenten Praktikern her­
+rühren und deren Geburtsjahr schon weit genug zurück-
+datirt, dass die Anfangsschwierigkeiten hätten über­
+wunden sein können. Eingang in diePraxis, auf den Markt.
+Sie blieben nahezu alle interessante Laboratoriums-
+versuche, offenbar weil die Complicationen, die mit
+ihrer Anwendung verbunden waren, ihre Vortheile
+überwogen.
+In den vorangegangenen gewichtsökonomischen
+Betrachtungen wurde die Form des Magnetgestelles als
+„Aussenpoltype mit radial gestellten Magnetschenkeln“
+angenommen. Wie bekannt, ist diese Form heute die
+Normaltype für alle grossen Maschinen. Nur drei Ab­
+weichungen hievon sind erwähnenswerth: die Maschine
+mit Folgepolen, die T h u r y-Maschine und die Innenpol-
+Dynamo. Die Folgepoltype hat in Hinsicht auf das Ge­
+wicht einen sehr geringen, in Hinsicht auf die Kosten
+den auch nicht gar zu hohen Vortheil, dass das Wickeln
+der halben Spulenzahl mit doppeltem Kupferquantum
+billiger kommt, als das der ganzen Zahl mit einfachem
+Quantum. Die Hülsen selber kommen natürlich eben­
+falls billiger. Nur der geringe Kaum für die halbe
+Zahl der Hülsenstärken und Isolationen kommt in
+Wegfall und kommt dadurch auch dem Gewichte des
+Gestells zugute. Bei grösseren Maschinen spielen diese
+Ersparnisse keine Kolle.— Bei der T h u r y-Maschine ist
+dadurch an Eisen gespart, dass die radialen Magnet­
+schenkel entfallen und die Wickelung auf den einzelnen
+Theilen des Kranzes, die hier Walzeisenstücke sind,
+aufgebracht wird. Ein Nachtheil ist der, dass die
+Streuung hiebei grösser und demnach durch Mehrauf­
+wand an Kupfer oder Eisen der Gewinn verringert
+wird. -— Die Innenpolmaschine, die früher so häufig ge­
+baut wurde, hat im allgemeinen vom ökonomischen
+Standpunkt aus sicher keine Vortheile gegenüber der
+Aussenpoltype, wenn nicht das grosse Schwungmoment
+und die in manchen Fällen daraus resultirende Er­
+sparnis eines Schwungrades als solche gezählt werden.
+Der wirksame Ankerdurchmesser, das ist hier der
+innere, muss mindestens gleich sein dem sonstigen
+Aussendurchmesser, wenn er nicht etwa aus Gründen,
+die im Magnetgestell liegen, vergrössert werden muss.
+Die Ankertiefe erstreckt sich hier nach aussen und so
+ist schon das Blechgewicht des Ankers wegen der ver-
+grösserten Durchmesser bedeutend grösser als das eines
+gleichwerthigen Ankers einer Aussenpolmasckine, u. zw.
+im Verhältnisse, wenn wir mit a die Ankertiefe
+D—a
+(früher D—D 0) bezeichnen. Dazu kommt der theuere
+Collector, die theuere Tragconstruction, die wegen der
+mechanischen Schwierigkeit der einseitigen Lagerung
+recht complicirt ausfallen muss und die Btirstenbrücke,
+die in diesem Falle auch ein repräsentables Stück dar­
+stellt. Aus dem, was wir schon früher von den Kosten
+von Ankern verschiedenen Durchmessers sahen, ist uns
+klar, dass die Mehrkosten des Ankers der Innenpol­
+maschine durch die Ersparnisse am Magnetgestell nicht
+aufgewogen werden können. Nicht zu unterschätzen ist
+auch der Nachtheil, dass die wirksame Geschwindigkeit
+der inducirten Leiter am Innendurchmesser auftritt,
+während die grösste Geschwindigkeit an den unwirk­
+samen Aussentheilen der Leiter, die eventuell auch
+gleichzeitig als Collectorsegmente verwendet werden, zu
+Tage tritt. Die Maximalgeschwindigkeit ist also um ein
+Bedeutendes grösser als die wirksame Relativgeschwin­
+digkeit zwischen Magnetsystem und Leitern. Die hier
+genannten Mängel, mit einziger Ausnahme des höheren
+Eisenblechgewichtes, haften natürlich nur der Gleich­
+strommaschine an, bei der der drehende Theil, wenn
+man nicht ganz bedeutende Complicationen haben will,
+nur der Anker sein kann; während bei Wechselstrom-
+Maschinen mit ruhendem Anker alle die aufgezählten
+Schwierigkeiten der Tragconstruction, des Collectors
+und der Bürstenbrücke entfallen. Der Nachtheil des
+grösseren Ankerblechgewichtes aber verschwindet voll­
+kommen gegenüber dem Vortheil der einfachen Bauart
+solcher Maschinen, sodass ja in der That für Wechsel­
+strommaschinen die Innenpolmaschine mit rotirendem
+Magnetrad die Standardtype geworden ist. Bei Innen­
+polmaschinen muss in Bezug auf die Dimensionirung
+des Magnetsystems die äusserste Sparsamkeit angewendet
+werden, weil jede Raumverschwendung hier auch das
+Ankergewicht erhöht. Bei Aussenpolmaschinen ist die
+Frage, ob der Magnetkranz aus Guss- oder Flusseisen
+gemacht werden soll, durch die Multiplication zweier
+Ziffern gelöst. Das Flusseisen hat die doppelte Permeabi­
+lität des Gusseisens; ist sein Preis per Kilogramm der
+doppelte oder geringer, so ist Flusseisen vorzuziehen;
+ist sein Preis beträchtlich höher, so wird man Guss­
+eisen nehmen. Denn das Gewicht des Kranzes, des
+äussersten Maschinentheiles, übt auf die anderen Theile
+keine Rückwirkung aus. Anders ist es schon mit den
+Magnetschenkeln einer Aussenpolmaschine, weil diese
+auch das Kupfergewicht beeinflussen; bei der Innen­
+polmaschine aber wird das Gewicht aller Maschinen-
+theile durch das Volumen des Magnetrades- bestimmt;
+und da wird ein Material von der doppelten Permeabi­
+lität noch ökonomisch sein, auch wenn es beträchtlich
+mehr als das doppelte kostet.
+Bei der zweipoligen Maschine sind die
+Formen des Magnetgestelles ausserordentlich mannig­
+fach. Direct der behandelten Form der mehrpoligen
+Maschine entsprechend, ist die eisenumschlossene oder
+Manteltype (Fig. ö.) Alle früher abgeleiteten Volums-
+Fig. 6.
+formein, mit Ausnahme jener für das Kranzgewicht
+(VII) haben auch hier Geltung. Bei letzterer Formel
+können wir die Supposition der kreisrunden Kranz­
+mittellinie nicht mehr aufrecht erhalten; vielmehr stellt
+sich hier die Kranzmittellinie nahezu als Rechteck dar,
+dessen eine Seite aus der Summe von Ankerdurch­
+messer, doppeltem Luftspalt, doppelter Polsehuhstärke,
+doppelter Schenkellänge, einfacher Kranzdicke besteht,
+während die andere Seitenlänge sich aus Schenkelbreite,
+doppelter Wickeldicke (sammt Isolationen) und ein-
+
+Nr. 17.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 199.
+facher Kranzdicke zusammensetzt. Das Volumen des
+Magnetkranzes ist also gleich
+2  D.
+Ist der Magnetkranz aus dem gleichen Material
+wie die Magnetschenkel, so kann man in Anbetracht
+des geringen Streuungs-Coefficienten, durch den sich
+diese Maschinen auszeichnen 2 Q k— Q m setzen und die
+Summe des Volumens von Magnetsehenkeln und Kranz
+in der Formel zusammenfassen:
+Q m \p ~f- Ifj “H 2 t -f- 4 ’4~ d m -j- 2 -f- 2 S k| VIII).
+Dabei bedeutet d m die Schenkelbreite, parallel zur
+Stirnfläche des Ankers gemessen,§ m die Wickeldicke
+(sammt Isolationen). Wählen wir den Schenkelquer-
+schnitt rund, so ist d m, der Durchmesser, durch
+den Magnetquerschnitt Q m gegeben. Wählen wir ihn
+jedoch rechteckig, so können wir dadurch, dass wir das
+Rechteck parallel zur Achse in die Länge ziehen, die
+Dimension d m und damit das Kranzvolumen verringern.
+Allerdings vergrössert sich dadurch wieder die mittlere
+Länge einer Magnetwindung und damit das Kupfer­
+volumen, da der Umfang eines Rechteckes von be­
+stimmter Fläche umso grösser wird, je mehr das Recht­
+eck von der Quadratform ab weicht.— Das günstigste Ver­
+hältnis der Spulendimensionen 7 m und 5 m in Hinsicht
+auf das kleinste Magnetgestellgewicht finden wir durch
+Differenzirung der in Formel (VIII) erscheinenden
+Summe
+4 l m “t- 2 S m,
+wobei das Product der beiden Variablen
+Li• b m— F Cn
+eine gegebene Grösse ist. Die Aufgabe lässt sich in
+geometrischer Form auch so aussprechen: Ein Rechteck
+von bestimmter Fläche zu construiren mit möglichst
+kleiner dreiseitiger Begrenzung, weil der Spulenquer­
+schnitt nur auf drei Seiten vom Eisen umschlossen ist.
+Die Minimumrechnung ergibt als Resultat
+!m= F lmd= ]/ ^-
+d. h. eine solche Form der Spule, dass die Wickeldicke
+(sammt Isolirungen) der doppelten Schenkellänge gleich
+wird. Im Uebrigen beträgt der ziffermässige Vortheil
+dieser Spule vor einer solchen mit quadratischem Quer­
+schnitt nur wenige Percente. Natürlich wird wieder mit
+zunehmender Wickeldicke das Kupfervolumen grösser
+und erst die combinirte Gewichts-, bezw. Preiscurve
+gibt über die im allgemeinen ökonomischeste Form der
+Spule Aufschluss.
+Viel grössere Aenderungen im Gewichte als die
+durch diese Verhältnisse veranlassten, ergeben sich aus
+dem Uebergang von der Manteltype zu einer der vielen
+anderen Formen der Magnetgestelle, die für zweipolige
+Maschinen existiren. Wir können uns alle diese Formen
+aus der Manteltype her vor gegangen denken. Nehmen
+wir die Spulen von den Magnetschenkeln weg und
+setzen sie auf die linke und rechte Kranzhälfte, so er­
+halten wir die Manchesterform (Fig. 7). Die Maschine
+ist dabei breiter und niederer geworden. Setzen wir
+hingegen die Spulen auf den oberen und unteren Theil
+des Kranzes, wobei wir jede in zwei Theile zerlegen
+! und stellen wir den Anker quer, so ergibt sich die
+Gramm e-Form (Fig. 8). Aus der liegenden Mantel-
+Fig; 7. Fig. 8.
+form können wir die Hufeisen- (Kap p-) Type entstanden
+denken (Fig. 9), indem wir zuerst den Kranz nur ein­
+seitig machen— natürlich mit doppeltem Querschnitt
+— dann die Magnetschenkel herunterbiegen und da­
+durch einander so nahe bringen, dass das noch zur
+Verbindung nothwendige Stück des „Kranzes“ ausser­
+ordentlich klein wird. Die „einspulige“ Maschine
+(Fig. 10) erhalten wir aus der normalen Manteltype
+durch Verkürzung des einen und Verlängerung des
+anderen Schenkels. Die eine der beiden Magnetspulen
+entfällt, die andere wird grösser.
+Die Ableitung aller zweipoligen Maschinenformen
+aus der Manteltype stellt allerdings eine Abweichung
+von der historischen Wahrheit dar, da fast alle der
+genannten Formen früher entstanden sind als diese;
+für unsere Vergleichszwecke aber wird sie gute Dienste
+leisten.
+Die Manchestermaschine scheint gegenüber der
+Manteltype grosse Ersparungen im Eisengewicht zu
+
+Seite 200.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 17.
+bringen. Es ist kein Grund vorhanden, warum die ge-
+sammte Länge der Kranz-Mittellinie hier grösser werden
+sollte als dort, anderseits kommen die früheren Magnet­
+schenkel ganz in Wegfall.
+Es kommt aber der Umstand in Betracht, dass
+die Streuung dieser Type eine weit grössere ist.
+Während man nach Wiener bei der Manteltype mit
+einem Streuungs-Coefficienten von circa 1-2 bei einer
+10 Kilowatt-Maschine rechnen kann, wird derselbe für
+eine Manchestermaschine der gleichen Leistung 1’55.
+Der Schenkel(Kranz)-Querschnitt muss also’ aus diesem
+Grunde circa 30% köher angenommen werden als bei der
+Mantelmaschine. Das Kupfergewicht wird auch zweifel­
+los grösser. Wir müssen bei der Manchestermaschine
+auf 'jede Spule die doppelte Ampere-Windungszahl auf-
+bringen, da hier die von den Spulen erzeugten magne­
+tischen Linien nicht wie bei der Mantelmaschine in
+Serie, sondern parallel geschaltet sind. Die mittlere
+Windungslänge einer Spule ist- aber nicht die Hälfte
+der früheren" geworden, sondern grösser. Wäre der
+Eisenquerschnitt bei geometrischer Aehnliclikeit die
+Hälfte des früheren Sehenkelquerschnittes, so würde
+sein Umfang
+sich aber wegen
+schnitt um 30%.
+^\= 70% des früheren sein. Erhöht
+" ;r grösseren
+so beträgt der
+der grösseren Streuung der Quer-
+Umfang
+schon
+^ ==■ 80% des früheren. Dies zeigt uns, dass das
+Kupfergewicht der Manchestermaschine ein höheres
+wird als das der Manteltype, wenn auch die Kühlung
+der Flächen hier eine bessere ist und daher principiell
+eine höhere Beanspruchung des Kupfers zugegeben
+werden kann. Auch im Eisen zeigt diese Maschine
+keine wesentliche Ersparnis; sie ist daher der Mantel­
+type gewiss nicht überlegen. Dass dasselbe von der
+ersten Form der Gramm e-Maschine gilt, sagt ein
+Blick auf die Fig. 8.
+Die Kap p-Type hingegen weist durch den Wegfall
+des grössten Theiles des Kranzes eine bedeutende Ge­
+wichtsersparnis auf, welche durch die auch hier ein­
+tretende Erhöhung des Streuungscoefficienten lange
+nicht wettgemacht wird. Auch bringt sie durch Weg­
+fall der Polschuhe eine bedeutende Erleichterung, d. h.
+Verbilligung der Bearbeitung mit sich.
+Die einspulige Maschine verliert dadurch, dass
+der todte Raum, den die Hülsen mit Isolation ein­
+nehmen, zur Hälfte entfällt, etwas an Gewicht; auch
+die Kosten der Hülsen und des Wickelns, die bei
+kleinen Maschinen eine Rolle spielen, werden ver­
+ringert.
+Beide Maschinen aber zeigen den Nachtheil des
+unsymmetrischen Magnetgestelles. Die Kraftlinien, die
+im unteren Magnetkern (Fig. 10) erzeugt werden und
+durch den unteren Polschuh in den Anker eintreten,
+verlassen zum Theile infolge Streuung durch die Luft,
+durch Welle und Lagerbügel.. den Anker, sodass
+die Zahl der aus dem Anker in den oberen Polschuh
+austretenden Linien geringer ist als die der unten
+eintretenden.
+Nehmen wir Ringwickelung des Ankers an, so
+ist dann die in der unteren Ringhälfte inducirte E. M. K.
+grösser als die der oberen. Dies führt dazu, dass bei
+Leerlauf der Maschine ein Ausgleichsstrom aus der
+unteren Ankerhälfte in die obere tritt und dass bei
+Belastung der Strom sich ungleichmässig in die
+beiden Ankerhälften vertheilt, daher zu grösserer Er­
+wärmung, grösserem Spannungsabfall und— die Haupt­
+sache— zu Funkenbildung Veranlassung gibt. Das
+Uebel wird umso grösser, je kleiner der innere Wider­
+stand der Armatur ist. Wäre z. B. bei einer Maschine
+für 100 V und 10 A, der Ankerwiderstand (Widerstand
+der beiden parallel geschalteten Ankerhälften) 1 Ohm,
+und wäre das untere Feld um 5% stärker als das
+obere, so würde der Ausgleichsstrom 5 V: 4 ß= 125 A
+betragen. (4 Ohm, weil für diesen Strom die beiden
+Wickelungshälften in Serie sind.) Bei Vollbelastung
+gibt also die untere Hälfte 6'25, die obere 3‘75 A ab.
+Wäre der Ankerwiderstand nur die Hälfte, 0’5 ß, so
+würde der Ausgleichsstrom auf 2\5 A wachsen; die
+untere Hälfte also 7’5, die obere 2'5 A abgeben. Wir
+sehen daraus, dass diese Type insbesondere mit Ring­
+wickelung für grössere Maschinen, von denen ein guter
+Wirkungsgrad verlangt wird, sich nicht eignet, dass
+ihre Nachtheile aber bei den ganz kleinen Motoren, wo
+ja Ankerverluste von 20%, 30% und mehr zugelassen
+werden, verschwinden, während die billigere Herstellung
+ein ausschlaggebender Factor wird.
+Setzen wir Trommelwickelung voraus, so tritt die
+Wirkung des unsymmetrischen Feldes in einer anderen
+Form auf. In den beiden Wickelungshälften wird, da
+jede gleichviel Drähte aus der oberen und unteren
+Ankerhälfte enthält, gleiche E. M. K. inducirt, der Strom
+aller Leiter wäre der gleiche. Es wird daher auch die
+Ankerreaction oben und unten die gleiche sein, da aber
+das obere Feld schwächer ist als das untere, so ergibt
+dies verschiedene Inductionen an der vorderen Pol­
+spitze. Setzen wir die Bürsten diametral, so werden
+wir es schwer zuwege bringen, beide funkenlos ein­
+zustellen, da sie, unter verschiedenen Inductionen
+stehend, denselben Strom commutiren sollen. Schiebt
+man hingegen— bei Generatoren— die obere Bürste
+weiter vor als die untere, um sie in ein Feld gleicher
+Stärke zu bringen, so entstehen wieder Ausgleichs­
+ströme, wie bei der Ringwickelung.— Auch mit un­
+symmetrischer Stellung des Ankers lässt sich der Fehler
+nicht beseitigen; übrigens erschweren solche Auskunfts­
+mittel die Fabrication.
+Die Kapp-Type zeigt ebenfalls Dissymmetrie. Es
+werden wegen des kürzeren Weges mehr Kraftlinien
+durch die untere als durch die obere Ankerhälftc
+gehen, die unteren Polspitzen sind stärker als die
+oberen. Da nun zur Commutirung stets eine obere und
+eine untere Polspitzö herangezogen wird, so ergibt sich
+wieder der eben besprochene Nachtheil. Die Unsym­
+metrie ist nicht gross, wenn die Magnetpole nicht zu
+schwach dimensionirt werden und der Anker voll­
+kommen im Mittel ist. Ist aber die Ankerwelle schwach,,
+die Lagerentfernung gross, so ist die Welle zur Durch­
+biegung geneigt, und eine solche Durchbiegung ver­
+vielfacht die Unsymmetrie ganz ausserordentlich, direct
+durch die Verringerung des magnetischen Widerstandes
+unten und Vermehrung oben, indirect durch die daraus
+entstehende Vermehrung der nach abwärts gerichteten
+Zugkraft, die ihrerseits wieder— insbesondere bei
+starkem Feld— die Durchbiegung steigert. So habe
+ich bei einem 14 P/S-Motor dieser Bauart mit Nuten­
+anker und ziemlich kleinem Luftspalt— 2 mm jeder-
+seits— dessen Welle für normale Verhältnisse, ge­
+rechnet war, bei ungünstigen. Antriebsverhältnissen—
+Riementrieb an der fliegend angeordneten Scheibe fast
+vertical nach, aufwärts, ziemlich grosses Uebersetzungs-
+
+Nr. 17.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 203.
+Verhältnis bei kleinem Achsenabstancl— ein sehr
+schlechtes Arbeiten, Funkenbildung am Collector und
+Brummen des Ankers bemerkt, das sich weder bei
+Leerlauf, noch bei Belastung mit horizontalem Riemen­
+trieb zeigte. Durch Einschaltung der Magnetwicke­
+lung allein konnte man ganz deutlich an einer auf den
+Anker aufgesetzten Wasserwage die Durchbiegung des­
+selben bemerken. Ich konnte dort durch Schwächung
+des Feldes— Vorschalten von Widerstand im Neben­
+schluss —• einen Punkt erreichen, wo die Durchbiegung
+des Ankers unmerklich wurde und der Motor voll­
+kommen ruhig arbeitete. Dieses Beispiel lehrt, dass
+man bei Dynamomaschinen solcher Art, deren Feld
+von Natur aus Unsymmetrie zeigt, die Kraftliniendichte
+nicht zu hoch, den Luftspalt nicht zu klein und die
+Welle stark dimensioniren soll. Man kann daher jene
+Gewichtsersparnis, die aus der geometrischen Ver­
+gleichung dieser Type mit der Manteltype resultirt,
+praktisch nicht voll ausnützen.
+Wohl ist zu erwägen, dass eine durch abnormalen
+Riemenzug verursachte Durchbiegung der Welle auch
+bei symmetrischem Magnetgestell ähnliche Erschei­
+nungen hervorruft. Bei der Manteltype mit horizontal
+angeordneten Magnetschenkeln würde ein nach auf­
+wärts, bei der mit verticalen Schenkeln (Fig. 6) ein
+seitwärts gerichteter übermässiger Zug dasselbe Be­
+streben haben, Unsymmetrie im Felde zu erzeugen. Wo
+aber die Neigung zur Unsymmetrie schon von vorne-
+herein vorhanden ist, wird eine hinzutretende äussere
+Einwirkung weit grössere Wirkung hervorrufen, als
+dort, wo sonst Symmetrie herrscht.
+Es soll mit den angeführten Thatsachen durchaus
+nicht behauptet werden, dass Maschinen mit unsym­
+metrischem Magnetgestell immer schlechter wären als
+solche mit symmetrischem. Wir haben bei der ein­
+spuligen und bei der K a pp-Masehine gesehen, dass die
+Bürsten unter Feldern verschiedener Stärke stehen, und
+auf die Schwierigkeiten der funkenlosen Commutirung
+hingewiesen, da theoretisch einem bestimmten, zu com-
+mutirenden Strom auch eine bestimmte Feldstärke ent­
+spricht. Nun weiss aber jeder Praktiker, dass von
+dieser theoretischen Regel, die bei einer gewöhnlichen
+Nebenschlussmaschine eigentlich für jeden Strom eine
+andere Biirstenstellung erfordern würde, praktisch
+grosse Abweichungen erlaubt sind, dass z. B. eine gute
+Maschine mit geringer Ankerreaction Belastungsände­
+rungen in weiten Grenzen erlaubt, ohne dass bei ge­
+gebener Bürstenstellung merkbare Funkenbildung auf-
+tritt. So kann auch die Maschine mit unsymmetrischem
+Magnetgestell vollkommen gut und funkenfrei arbeiten,
+aber man muss die Ankerreaction bei ihr kleiner
+machen als bei einer gleichwerthigen symmetrischen
+Maschine. Kleinere Ankerreaction bedeutet aber, weil,
+wie wir sahen, grosse Induction das Uebel nur ver­
+mehrt: grösseren Luftraum oder geringere Ampere­
+windungszahl, auf die Längeneinheit der Peripherie
+bezogen. Es kommt daher eine Grenze, bei welcher die
+durch diese Verhältnisse bedingte Gewichts- und Preis-
+Vermehrung die durch die geometrischen Verhältnisse
+bedingte Gewichts- und Preis-Verminderung erreicht
+und übersteigt.
+Zum Schlüsse dieser Betrachtungen drängt sich
+uns die Frage auf, ob wohl in Zukunft ein bedeutender
+Fortschritt nach dieser Richtung, eine bedeutende Ge­
+wichtsverminderung der Dynamomaschinen zu erwarten
+sei. Im allgemeinen Maschinenbau wurde, als sich die
+Forderung nach leichter Bauart erhob, ein bedeutender
+Fortschritt erzielt durch Anwendung des Stahls und
+durch Anwendung hohler, rohrförmiger Tragquerschnitte.
+Der Anwendung des Stahls analog ist im Dynamobau
+die Anwendung des Flusseisens gewesen. Röhrenförmige
+Querschnitte werden wohl kaum jemals im Dynamobau
+zur Anwendung gelangen. Wohl hat Waltenhofen
+in einem interessanten Experiment nachgewiesen, dass
+bei gewissen Inductionen ein Rohr von gleicher Masse
+stärker magnetisch wird als ein massiver Stab; aber
+diese Induction liegt unterhalb der Grenze der tech­
+nisch verwendeten Werthe. Auch käme wegen der
+eigentkümlichen Verschlingung des Kupfers und Eisens
+bei der Dynamo eine mit Volumserhöhung verbundene
+Gewichtsverminderung nur im äussersten Theil der
+Maschine, bei Aussenpolmaschinen im Magnetkranz, in
+Betracht; im Inneren zur Anwendung gebracht, würde
+sie wieder das Kupfergewicht erhöhen. Aus dem gleichen
+Grunde ist es auch ausgeschlossen, bei der Dynamo­
+maschine das Aluminium, wie man es in neuerer Zeit
+bei Freileitungen versucht hat, an Stelle des Kupfers
+zu verwenden.— Die Verwendung anderer Materialien
+von grösserer elektrischer oder magnetischer Leit­
+fähigkeit als Kupfer und Eisen setzt Entdeckung neuer
+oder reichhaltige Auffindung jetzt sehr selten vor­
+kommender Stoffe voraus.— Durch fortschreitende
+Verbesserung des Materials, durch Erhöhung der Leit­
+fähigkeit des Kupfers, durch Erhöhung der Permeabilität
+und Verringerung der Hysteresis des Eisens, wird eine
+Gewichtsersparnis erzielt werden, doch ist wohl die
+Annahme gestattet, dass bei dieser Verbesserung der
+Materialien heute das Knie der nach aufwärts steigenden
+Curve schon lange überschritten wurde und wir uns
+bereits asymptotisch einer oberen Grenze zu bewegen.
+Ein schöner Schritt nach vorwärts wird durch Ver­
+besserung des Isolationsmaterials gethan werden. Wenn
+— vielleicht durch Anwendung eines feinen, lackartigen
+Ueberzuges, vielleicht durch Verwendung des Glases,
+dessen haardünne Fäden so merkwürdiger Verwendungs­
+arten fähig geworden sind— die Isolationsstärke
+unserer Drähte, die heute einen beträchtlichen Theil
+des Durchmessers ausmacht, auf ein Minimum reducirt
+ist, wenn ausserdem die Drahtisolation an sich ver­
+lässlich genug gemacht wird, so dass ein Umwickeln
+der ganzen Spulen, ein Auskleiden der Nuten unnöthig
+wird, so werden die Wickelräume und mit ihnen das
+ganze Maschinengewicht um ein Bedeutendes geringer.
+Eine grosse Rolle bei der Verringerung des Maschinen­
+gewichtes wird der Bekämpfung der Ankerreaction
+zufallen. Gerade diese Frage verursacht es jetzt, durch
+die Verschiedenheit der Stellung, welche die einzelnen
+Constructeure ihr gegenüber einnehmen, dass die
+anderen, die Oekonomie der Maschine bestimmenden
+Factoren nicht in vollem Maasse zur Geltung kommen.
+Wenn diese Frage gelöst und einheitlich entschieden
+ist, dann werden in der That die Maschinendimensionen
+nicht nach dem Geschmack und technischen Empfinden
+des Constructeurs, sondern einzig durch den Markt­
+preis von Kupfer und Eisen bestimmt. Es ist aber
+wohl anzunehmen, dass, ehe noch diese Grenze er­
+reicht ist, eine grosse technische That, wie die directe
+ökonomische Erzeugung von Elektricität aus Kohle,
+die Erfindung der collectorlosen Gleichstrommaschine
+oder des Wechselstrom-Accumulators die Technik des
+Dynamobaues auf eine andere Basis stellt.
+
+Saite 202.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 17
+Elektrische Hilfsmaschinen in der Kriegs-Marine der
+Vereinigten Staaten.*)
+Yon Alton I). Adams. Aus „Engineer“ von Robert Lutz, k. u. k.
+Marine-Elektro-Ingenieur.
+Seit den Versuchen an Bord der Minneäpolis durch Mi-
+W. W. W h i t e, welche ergaben, dass die Dampf- Auxiliar-
+maschinen im Mittel 54 kg Dampf pro Pferdestärke und Stunde
+consumiren, wurde in der Kriegs-Marine dem Gegenstände des
+elektrischen Antriebes der Hilfsmaschinen besondere Aufmerk­
+samkeit zugewendet.
+Der Plan für einen solchen elektrischen Antrieb ist in
+Kürze der, jede Dampf-Hilfsmaschine durch einen Elektromotor
+gleicher Leistungsfähigkeit zu ersetzen und eine genügende An­
+zahl Generatoren, direct gekuppelt mit Compoundmaschinen, zu
+installiren, welche für den gleichzeitigen höchsten Kraftbedarf
+jener Motoren ausreichen.
+Es ist Thatsache, dass dem elektrischen Antriebe ein
+grosser Vorzug insoferne gebürt, als genauestens erwiesen wurde,
+dass Compoundmaschinen, Generatoren und Motoren nur unge­
+fähr ein Drittel des Dampfgewichtes pro Pferdestärke und Stunde
+bedürfen, welches bei Verwendung der jetzt gebräuchlichen Hilfs­
+maschinen für dieselbe Arbeit verschlungen wird.
+Dieser entschiedene Gewinn an Wirkungsgrad ist allgemein
+anerkannt; von den verschiedenen Argumenten, welche für und
+gegen diesen Systemwechsel mancherorts angeführt wurden,
+waren die letzteren in manchen Fällen eher erheiternd als
+lehrreich.
+Ein Autor sagte z. B.: „Nun ist es aber nicht durchführ­
+bar, an Bord von Schiffen Dynamos von mehr als 1000 A zu
+installiren, so dass 13 Dynamos nöthig wären,, um die erforder­
+liche Kraft (1400 PS) bei 80 V zu liefern“ ....; aber er gibt den
+geheimnisvollen Grund nicht an, der es verhindern würde, Dy­
+namos von 5000 und 10.000 A mit der gleichen Sicherheit wie
+am Lande laufen zu lassen.
+Weiters, von einem Autor aus der allerletzten Zeit: „Eine
+solche Spannung (80 oder 100 F) ist nun gänzlich unbrauchbar
+für eine 1000 PS Anlage. Das Gewicht des Vertheilungssystemes
+würde nicht allein ein ungeheures sein, sondern namentlich Form
+und Gewicht der Generatoren wären direct unmögliche“— ob­
+gleich in Wirklichkeit einerseits bei den Entfernungen an Bord
+bei 100 F Spannung das Gewicht der elektrischen Leitungen
+wohl nicht 10% jenes der jetzigen Dampfrohrleitungen über­
+schreiten wird, anderseits der Uebergang von 100 auf 250 und
+500 F Spannung das Gewicht der Generatoren nicht mehr als
+5% herabdrücken würde.
+Eine Erhöhung der Spannung der elektrischen Anlagen
+auf Kriegsschiffen ist mit Rücksicht auf den Umstand wünschens-
+werth, um dadurch die Kosten der elektrischen Leitung herab­
+zudrücken, sowie um Bürsten und Colleetoren weniger Sorgfalt
+zuwenden zu müssen. Aber dies ist entschieden ein untergeord­
+neter Umstand, und wenn es nicht gelänge, die jetzt gebräuch­
+lichen Spannungen zu verlassen, soll dies absolut nicht als der
+Einführung des elektrischen Betriebes nachtheilig erachtet worden.
+Weiters finden wir bei einem anderen Autor:... „Wir sind
+also zu dem Schlüsse geführt, dass, obwohl elektrische Hilfs­
+maschinen viele Vortheile gewähren, ihre grossen Kosten und
+die bedeutende Grösse des Raumes, den sie einnehmen würden,
+den Nutzen einer vollständig durchgeführten solchen Installation
+in Zweifel ziehen würden, während man wegen ihres grosen Ge­
+wichtes die Frage überhaupt ganz fällen lassen muss.“
+Ein anderer schliesst, dass „die beschriebene elektrische
+Anlage 2i/ 2— 3mal so viel als die Dampfanlage wiegen würde“,
+meint aber später, „dass man den Raum, den 200—400 hiedurch
+ersparte Tonnen Kohle einnehmen, zur Aufstellung der Dynamos
+mit verwenden könnte“.
+Schreiber dieses tritt diesen Ansichten auf das Bestimmteste
+entgegen; erstens ist das totale Maschinengewicht einer vollstän­
+digen elektrischen Anlage kleiner als jenes für eine Dampfanlage,
+zweitens aber ist es unwahrscheinlich, dass bei der stets ange­
+strebten Vorgrösserung des Actionsradius des Schiffes der durch
+Ersparnis bei den Hilfsmaschinen erübrigte Kohlenraum als
+solcher aufgegeben würde.
+Wenn das Gewichtsverhältnis zwischen elektrischer und
+Dampfausrüstung wirklich ein solches wäre, wie früher prophezeit
+wurde, so wäre allerdings die Furcht begründet, es möge die
+Einführung elektrischer Motoren und der stromliefernden Dyna­
+mos einen sehr langsamen und unsicheren Uebergang darstellen;
+aber es kann leicht und wird im folgenden gezeigt werden, dass
+dies nicht der Fall ist. Die Lösung dieser Frage hängt, da ja
+*) „Mittheilungen aus dem Gebiete des Seewesens“, 1900 Nr. 2.
+sonst der günstige Wirkungsgrad und die Verlässlichkeit des
+elektrischen Betriebes hinlänglich anerkannt sind, direct von
+einem Versuche ab, und muss durch einen solchen die zukünftige
+ökonomischeste Anwendungsform genauestens klargestellt werden.
+Die Gewichte für elektrische Anlagen sind für Antriebs­
+und Dynamomaschinen im allgemeinen dieselben, wie sie bei
+den Constructionen am Lande üblich sind, bei denen Gusseisen
+im weitesten Ausmasse angewendet wird, ein Material, welches
+bezüglich Festigkeit und magnetischer Eigenschaften weniger als
+den halben Werth gegenüber Schmiodeisen und Stahl hat.
+Vor einigen Jahren hörte die usuelle Anwendung von
+Gusseisen bei den Haupt- und anderen Maschinen der Kriegs­
+schiffe langsam auf, und es ist kein Grund vorhanden, warum
+man nicht Antriebsmaschinen, Dynamos und Motoren mit beson­
+derer Rücksicht auf leichtes Gewicht für Installirungen auf
+Schiffen sollte construdren können.
+Das Gewicht genannter Complexe ist auch dem Umstande
+zuzuschreiben, dass, während Haupt- und einige Auxiliarmaschinen
+nach Plänen von Marine-Ingenieuren oder doch unter deren Con­
+trols bezüglich Gewicht und zu verwendenden Materiales gebaut
+werden, das elektrische Maschinenmateriale gerade in der letzteren
+Hinsicht von derselben Construction wie bei Verwendung am
+Lande ist Es ist wohl richtig, dass die Marine-Forschriften das
+Gewicht von Maschinen und gekuppelten Dynamos mit 0T5 kg
+pro geliefertes Watt begrenzen, oder mit 736 X 0*15= 110 kg pro
+Pferdestärke; es würde aber die Fabriken schlecht rentiren,
+Complexe schwerer als so zu gestalten, denn schliesslich ist auch
+Gusseisen in grossen Quantitäten theuer (!)..*) Wenn einerseits
+1200 fl. und mehr für Panzerplatten gezahlt werden, so sind
+anderseits wieder Maschinenwellen hohl geschmiedet und alle
+Hauptmaschin'eh werden für die geforderte Leistung mit dem
+geringsten Gewichte gebaut. Den neuen Anlagen zum elektrischen
+Antrieb wurde aber in der Kriegs-Marine thatsächlich von den
+Marine-Ingenieuren diesbezüglich nicht jene Aufmerksamkeit ge­
+widmet, wie sie anderen maschinellen Fragen entgegengebracht
+wurde.
+Im folgenden glaubt der Autor genügend gute Resultate
+anführen zu können, dass dieselben als Regeln in der Praxis
+verwendet zu werden geeignet seien.
+Mit Compoundmaschinen gekuppelten Dynamos darf man
+heutzutage einen Wirkungsgrad von 80% zuschreiben, wenn
+unter normaler Belastung arbeitend, Elektromotoren sammt Lei­
+tungen ebenso 80% bei wenigstens drei Viertel Belastung. Dies
+ergibt als Leistung an der Motorwelle 64% der indicirten
+Maschinenleistung.
+Jede gute Compoundmaschine verbraucht pro indicirte
+Pferdekraft circa 8 8 kg Dampf, bei Berücksichtigung von zeit­
+weisen Minderbelastungen und anderen Verlusten 11'3 kg. Bei
+diesem mittleren Dampfverbrauche und 64% Wirkungsgrad er­
+gibt sich die Pferdestärkestunde mit 17*7 kg gegenüber 54 kg,
+das sind 32% hievon, welche Dampfmenge auf Minneapolis con-
+statirt wurde.
+Das will vorerst eine Dampfersparnis zu Gunsten der elek­
+trischen Ausrüstung von 36'3 kg pro Pferdestärke und Stunde
+der Motoren bedeuten.
+Nimmt man die Capacität der elektrischen Ausrüstung auf
+einem grossen Schlachtschiffe mit 2400 Pferdestärken an, so
+kann mit Sicherheit behauptet werden, dass nicht mehr als die
+Hälfte derselben auf einmal in Verwendung steht, das sind
+1200 PS. **) Bei einem Gesammt-Wirkungsgrade von 64% wäre
+somit die Arbeit des Dampfes in den Compoundmaschinen
+1875 PS.
+Bei der behördlich festgesetzten Grenze von 110% pro
+Pferdestärke Leistung des Generators beträgt das Gewicht des
+erforderlichen stromerzeugenden Complexes 1500 X 110%=
+= 165.000 %. Das Gewicht von Motoren mittlerer Rotationsanzahl
+kann man mit 45 kg pro Pferdestärke annehmen, was ein Total­
+gewicht derselben von 2400 X 45= 108.000 leg ergibt.
+Das Gewicht von Dampfmotoren für die Hilfsmaschinen
+wird im Mittel ungefähr 57 kg pro Pferdestärke sein. Das Ge-
+sammtgewicht von 2400 RS-Maschinen ergibt sich daraus mit
+136.000 kg.
+Durch Summirung erhalten wir:
+*) Unter den grösseren, in der k. n. k. Kriegs-Marine eingeführten
+Dynamotypen bat die älteBte 800 und die leichteste der neueren 101 kg pro
+Pferdestärke. Jedoch rechnet man in Amerika hei dem vortrefflichen zur Ver­
+fügung stehenden Materiale bekanntlich mit grösseren Beanspruchungen.
+**) Denkt man an ein Nachtklarschiff bei gleichzeitigem Lichten des
+Ankers, so muss man an der Biclitigkeit dieser Behauptung zweifeln.
+
+Nr. 17.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 203.
+Totalgewicht der Compoundmaschinen und Dynamos
+für eine Leistung von 1500 PS effectiv
+Totalgewicht der Elektromotoren
+„ elektrischen Ausrüstung..
+einer Dampfanlage für 2400 PS
+165.000 leg
+108.000
+273.000 kg
+136.000.
+137.000 kg
+Ueberschuss auf Seite der elektrischen Ausrüstung
+Alle Vergleiche zwischen den für die beiden Betriebsarten
+erforderlichen Maschinen, welche mir untergekommen sind,
+schliessen bei diesem Punkte und übersehen einen sehr wichtio-en
+Factor.
+Im obigen wurde gezeigt, dass bei elektrischem Betriebe
+zum Unterschied des reinen Dampfbetriebes 36-3 kg Dampf pro
+Stunde und jede Pferdestärke, die an die Auxiliarmaschinen
+abgegeben wird, erspart werden, d. i. eine stündliche Ersparnis
+von 36-3 X 1200= 43.500 kg.
+Eine niedere Zahl für das Gewicht der Kessel mit Zubehör
+ist 5 kg bei einer Capacität von 1 leg pro Stunde. Dies ergibt für
+43.500 kg ein Kesselgewicht von 218.000 k?. Diese Gewichtsmenge
+könnte vom gesammten Kesselgewichte in Abzug gebracht
+werden.
+Ausserdem muss das Speisewassergewicht selbst auch in
+Rechnung gezogen werden, nachdem das Wasser in nicht kürzerer
+Zeit als eine Stunde den Kreislauf vollenden wird. Durch Be­
+rücksichtigung dieser Umstände ändern sich die Verhältnisse
+wie folgt:
+Gewicht der Dampfanlage für 2400 PS 136.000 kg
+Hiefür mehr benöthigtes Kesselgewicht 218.000
+Speisowassergewiclit 43.500„
+Totalgewicht, welches bei der nicht elektrischen Aus­
+rüstung in Rechnung kommt 897.500 leg
+Totalgewicht der elektrischen Ausrüstung 273.000„
+Gewichtsersparnis auf Seite des elektrischen Betriebes. 124.500%
+Der Vergleich ist aber nun noch nicht abgeschlossen, da
+die oben aufgestellten Zahlenwerthe des elektrischen Antriebs-
+systemes auf solchen von Landanlagen basiren. Es, ist keines­
+wegs^ weder nothwendig noch wünschenswert!], an Bord der
+Schiffe so schwere Maschinen zu verwenden, als es die gegen­
+wärtigen Vorschriften in der Marine zulassen.
+Im folgenden sollen einige Details erwähnt werden, welche
+durch Construcfionsänderung eine Gewichtsverminderung be­
+zwecken.
+Compoundmaschinen, wie sie jetzt von den meisten Eta­
+blissements geliefert werden, wiegen pro indicirte Pferdestärke
+45—63 kg, dabei inbegriffen die mit der zu kuppelnden Dynamo
+gemeinsame Fundamentplatte. Lagerblock, Fundamentplatten und
+Cylinder sind meistens aus Gusseisen, während Kurbelwelle,
+Pleuel- und Kolbenstangen voll aus Schmiede- oder Gussstahl
+gefertigt sind. Eine vervoilkommnete Construction zur Erzielung
+niedrigeren Gewichtes erheischt Ersatz von Gusseisen durch
+Gussstahl und hohlgeschmiedete Kurbelwellen, Kolben- und
+Pleuelstangen. Die leichtere Construction der letzteren zwei
+Maschinentheile lässt auch die für Dynamos so wiinschenswerthe
+hohe Tourenzahl leichter erreichen.*) Das endgiltige Resultat
+solcher Verbesserungen an den Compoundmaschinen ist die Re-
+duction ihres Gewichtes sammt jenes der Dynamogrundplatte auf
+27i/ 2 kg pro indicirte Pferdestärke.
+Einige Maschinenbau-Etablissements haben tliatsächlich
+diese Vervollkommnung erreicht und bei ihrem steten Verlangen
+nach Marinebestellungen könnte sich diese Constructionsart auch
+verallgemeinern. Einige gute Constructionspläne dieser Art finden
+sich in den Zeichnungen für die neuen Vereinigten Staaten-
+Kriegsschifte Nr. Io, n, 12, erschienen in Commodor M e 1-
+v i 11 e’s **) letztem Rapport.
+Die Gewichte der meisten für directen Antrieb bestimmten
+Generatoren differiren bei den einzelnen Firmen von 45--63%
+pro Kilowatt, d. i. 34—56 kg pro Pferdestärke ab den Bürsten ge­
+liefert.
+Viele dieser Dynamos haben gusseiserne Magnetschenkel
+und Polschuhe, welche durch gussstählerne oder schmiedeiserne
+zu ersetzen wären. Die Formen könnten manchmal auch durch
+Kürzen der Magnetschenkel abgeändert werden. Vergrösserung
+des Percentsatzes des Kupfers zum Eisen trüge auch zur Reduc-
+tion des Gewichtes bei. ***) Durch derartige Aenderungen kann
+man das Gewicht der Dynamos bis auf 34 kg pro Kilowatt oder
+26 leg pro Pferdestärke herabdrücken.
+*) Der Vollständigkeit halber sei ergänzt, dass auch Vermehrung der
+Tourenzahl eine Horabminderung des Gewichtes nach sich zieht, da die Grösse
+der elektromotorischen Kraft sich ans den dTei Factoren: Länge des Leiters,
+Feldintensität und Geschwindigkeit zusammonsetzt.
+**) Oberster Schiffbau-Ingenieur der Vereinigten Staaten-Kriegs-Marine.
+***) Die Beziehung ist auch aus obiger Kelation zu ersehen.
+Vervollkommnung in Herabsetzung des Gewichtes von
+kleinen und mittleren Motoren ist wie bei den Dynamos, u. zw.
+bis 34 kg pro abgebremste Pferdestärke zu erreichen, welches
+Resultat in wirklicher Ausführung schon unterschritten wurde.
+Bei einem Wirkungsgrad von Compound- und Dynamo­
+maschine zusammen muss die Maschine für jede an den Bürsten
+abgegebene Pferdestärke 1:0-8= 1-25 PS indiciren. Das Gewicht
+der Maschine pro Pferdestärke ab den Bürsten ist somit
+1 -25 X 27-5= 34'5 kg und sammt dem Dynamogewichte von 26%
+ergibt sich das Totalgewicht des stromliefernden Complexes mit
+60’5 kg pro Pferdestärke oder 60-5: 736= 0-082 kg pro Watt ab
+den Bürsten, anstatt OB 5 kg pro Watt und 110% pro Pferde­
+stärke bei den jetzigen Maschinen. Dass diese Gewichte nicht
+zu niedrig angenommen sind, zeigt die Thatsache, dass sie neuer­
+dings von Firmen sogar noch unterschritten wurden, wobei
+namentlich eine Firma, welche für das Gestell noch Gusseisen
+verwendet, der Marine ein Offert mit 54i/ 2 kg pro Pferdestärke
+anbieten konnte.
+Ich wage zu behaupten, dass man bei Durchführung aller
+dieser Vervollkommnungen das gesetzmässige Gewicht von ge­
+kuppelten Dynamo- und Compoundmaschinen für die Kriegs-
+Marine mit 45 kg pro Kilowatt, 0-045 pro Watt und 34% pro
+Pferdestärke effectiver Leistung herab- und festsetzen könnte.
+Nach obigen Zahlen ergeben sich die Gewichte der Anlage
+folgendermässen:
+Gewicht der Compound- und Dynamomaschinen für
+1500 PS= 1500 X 60-5 kg 91.000 leg
+Gewicht der Elektromotoren für 2400 PS Capacität
+2400 X 34 81.500 ,,
+Gewicht der Dampfmotoren, Generatoren, Elektro­
+motoren 172.500 kg
+Gewicht von 2400 HS-Dampfmaschinen 2400 X 57.. 136.000 ,.
+,, des für 43.500 kg Speisewasser mehr be-
+nöthigten Kesselcomplexes 218.000„
+Speisewasser-Mehrverbrauch 43.500 ,,
+397.500 kg
+ab 172.500„
+Gewichtsersparnis bei elektrischem Betrieb 225.000%
+Es muss noch hervorgehoben werden, dass obige Zahlen
+noch nicht die bezüglichen Kohlengewichte in Betracht ziehen,
+welche für beide Ablagen in Rechnung kämen; denn von dem
+Kohlenraum würde man schwerlich etwas opfern, da man ja
+stets nach Vergrüsserung des Actionsradius strebt.
+Jedoch ein Punkt ist wohl zu berücksichtigen und der
+Kohlenersparnis gegenüber zu stellen, die Kosten der Anschaffung
+des elektrischen Antriebes, welche grösser sind, als jene des di­
+recten Dampfantriebes, und es ist noch von Werth, zu zeigen,
+ob die Kohlenersparnis die erhöhten Anschaffnngskosten aufwiegt.
+Ein Autor spricht sich aus: „Die Anschaffungskosten des
+elektrischen Systems würden dreimal so hoch sein, als jene der
+Dampfanlage“, und setzt dann fort: „Vor fünf oder sechs Jahren
+coDstanten Betriebes kann die elektrische Anlage nicht ren-
+tiren!“
+Wie genau diese Angaben sind, mag aus folgendem erhellen:
+Die Verwendung der Auxiliarmaschinen an Bord ist nur
+eine zeitweise; aber an der Hand zuverlässiger Daten kann als
+Mittel das Viertel deren totaler Capacität als durch 24 Stunden
+in Verwendung stehend angenommen werden.
+Eine directe Dampfantriebs-Anlage von 2400 PS Capacität
+auf Basis von nur ein Fünftel voller Belastung durch 24 Stunden
+2400
+verbraucht auf Grund der Minneapolis-Vorsuche ——X24X 54=
+5
+= 620.000 7c? Dampf täglich. Bei einer Verdampfungsziffer von 8
+ist der tägliche Kohlenverbrauch für die Hilfsmaschinen
+620.000 „„.,„..
+-= 76-5 t Kohle.
+Für elektrischen Antrieb ist der Dampfverbrauch bei der­
+gleichen Annahme, und wenn man, wie vor abgeleitet, 17-7 kg
+2400
+Dampf pro 1 PS Motorleistung rechnet ——~ X 24 X 17-7=
+-= 204.000 kg täglich, was einen Kohlenverbrauch von 204.000:8=
+= 25 7 ergibt. Die Kohlenersparnis beträgt somit täglich 51'5 7,
+was bei dem Kohlenpreis von 6 Dollars (= 14 fl. 90 kr.) die
+Summe von 770 fl. nusmacht.
+Die Kosten einer elektrischen Anlage kann man wie folgt
+festsetzen.-
+
+Seite 204.
+Nr. 17.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Compoundmaschiuen und Dynamos für 1500 PS, 1 PS
+k 125 11.*)=
+Elektromotoren für 2400 PS ä 62i/a fl=
+Kabel und Armaturen
+187.000 fl.
+150.000„
+125.000 ,,
+Summe.. 462.000 fl.
+Directer Dampfantrieb erfordert 43.500% Dampf mehr als
+elektrischer, und wenn man die. Kosten der Kessel sammt Zu­
+behör mit dem niederen Preise von 2 fl. 75 kr. pro Kilogramm
+und Stunde Capacität rechnet, so würde diese Kesselmehranlage
+43.500 X 2'75= 120.000 fl., die Auxiliarmaschinen bei einem Kosten­
+preise von 50 fl. pro Pferdestärke an der Welle 2400 X50=
+= 120.000 fl., also ebensoviel kosten. Stellt man noch die Dampf­
+leitungen mit 25.000 fl. in Rechnung, so steigen die Gesammt-
+kosten der Dampfanlage auf 265.000 fl.
+Kosten der elektrischen Anlage. 462.000 fl.
+„„„ Dampfanlage 265.000„
+Mehrkosten der elektrischen Anlage 197.000 fl.
+Die Feuerungs-Mehrkosten beim directen Dampfantriebe
+berechneten wir bereits mit täglichen 770 fl. Pro Jahr belaufen
+sich die Ersparnisse auf 770 X 365— 280.000 fl., so dass die
+Mehrkosten der ersten Anschaffung unserer vorgeschlagenen Be­
+triebsart in w?/ 160= 07 Jahren, das ist in 81/2 Monaten, herein­
+gebracht wären.
+Trotz aller dieser dargethanen Vorzüge zögern doch unsere,
+wie auch die anderen Kriegsmarinen, diese in vollem Maasse aus­
+zunützen.
+Soweit der Schreiber dieses informirt ist, ist in der Ver­
+einigten Staaten-Kriegsmarine erst jetzt der erste complete elek­
+trische Antrieb auf einem Schlachtschiffe I. Classe zur Einführung
+gelangt; in den meisten Fällen ist diese Betriebsart auf einige
+weniger wichtige Hilfsmaschinen beschränkt.
+Um darzuthun, wie allgemein Dampf noch zum Betriebe
+der Hilfsmaschinen verwendet wird, wurden folgende Daten, das
+Vereinigte Staaten-SchlachtschifF „Jowa“ betreffend, dem Probe­
+fährtsbericht des Ingenieurs J. M. Pickreil der Kriegsmarine,
+welcher im „Journal der amerikanischen Gesellschaft von Marine-
+Ingenieuren“, August 1897, abgedruckt war, entnommen.
+„Die ,Jowa‘ war mit einem Kostenstand von 7,500.000 fl.
+präliminirt; ihre Länge an der Wasserlinie ist 110 m, Breite 22 m,
+Deplacement 11.340t. Bei der Probefahrt indicirten die Haupt­
+maschinen 11.834 FS. Obwohl die Auxiliarmaschinen damals nur
+236 PS aufwiesen, so kann doch mit Sicherheit angenommen
+werden, dass die Gesammtcapacität der Hilfsmaschinen bei 2500 PS
+sei. Denn ausser den Hauptmaschinen besitzt die ,Jowa‘ 84 Dampf­
+maschinen mit 146 Dampfcylindern.
+Nach den Versuchen auf der ,Minneapolis‘ und bei dem
+Umstande, dass auf den verschiedenen Kriegsschiffen die die
+Auxiliarmaschinen betreffenden Umstände doch die gleichen sind,
+kann man annehmen, dass diese 146 Dampfcylinder auch 54 kg
+Dampf pro Stunde und Pferdestärke verbrauchen, statt 16 bis
+18 kg in Compoundmaschinen von Generatoren.
+Die elektrische Anlage der ,Jowa‘ schliesst in sich vier
+Erzeugercomplexe, jeder mit einer Capacität von 300 A bei 80 V
+Spannung oder 24 KW, eine Totalsumme von 96 KW. Jede Dy­
+namo ist direct gekuppelt mit einer zweicylindrigen Maschine,
+deren jeder Cylinder 32 cm im Durchmesser bei 16 cm Kolbenhub
+hat und welche 400 Rotationen bei Verwendung von 51/2 Atm. macht.
+Jeder Erzeugercomplex wiegt ungefähr 3850% oder nahe
+an 0T6 kg pro Watt Leistung. Alle zusammen liefern Strom für
+circa 500 Glüh- und 4 Bogenlampen und folgende Motoren:
+2 ä 2 FS für Ventilation im Dynamoraum, 4 ä 1/2 PS für trans­
+portable Ventilatoren, 8 ä 7 PS für Munitionsaufzüge in den
+24 cm-Thürmen, 7 ä 5 PS für die übrigen Munitionsaufzüge.
+Die ,Jowa‘ mag recht deutlich das Bedürfnis darst,eilen,
+elektrische Anlagen einzuführen. Denn sie verbraucht für ihre
+Hauptmaschinen nur 9 Jcg, für die Hilfsmaschinen dagegen be­
+stimmt mehr als 45 kg Dampf pro Pferdestärke und Stunde.
+Und dabei bestehen am Lande Anlagen, welche gleiche
+Leistungen mit 18 7c<7 Dampf pro Pferdestärke aufweisen! Auch
+ist die ,Jowa‘ gar nicht als besonders ungünstiges Beispiel ge­
+wählt.“
+Um zum Schlüsse zu kommen, kann man zu Gunsten des
+Elektromotors folgende Thatsachen anführen:
+Derselbe ist in allen Fällen gewöhnlicher oder bei Ueber-
+belastung, bei angestrengter und continuirlicher Leistung in
+keiner Weise als hinter dem Dampfmotor rang'irend, anzusehen,
+wie als Beweis die tausende von Motoren unter den Tramway­
+wagen gelten können, wo, dem Koth und Wasser und jeder
+*) Jene vorgenannte älteste Schiffs-Dynamotype in der k. n. k. Kriegs­
+marine stellte sich auf 1020 fl. pro Pferdestärke, jder billigste Einheitspreis in
+der letzten Zeit ist 114 fl., wobei aber diese Maschine auch für Drehstromabnahme
+eingerichtet ißt.
+Witterung ausgesetzt, ein Dampfmotor bald undienstbar werden
+würde!
+Wenn Leitungskabel während der Action durchschossen
+werden, so wird der Generator einfach so lange ausser Betrieb
+gesetzt, bis der Bruch wieder reparirt ist, eine Affäire weniger
+Minuten, während der Brach eines Dampfrohres in einem ge­
+schlossenen Raum Lebensgefahr bringt und viel Zeit zur Aus­
+wechslung des Rohrstückes nöthig ist. Elektrische Kabel sind von
+verhältnismässig so geringen Dimensionen und niederer Tempe­
+ratur, dass sie ohne Unzukömmlichkeit durch das ganze Schiff
+und durch Wohnränme geführt werden können und wasserdichte
+Schotten damit leichter passirt werden als mit Dampfrohren.
+Bei gleicher Capacität ist da« Gewicht der Leitungen beim
+elektrischen Antriebssystem ein geringeres, als beim Dampf­
+system.
+Das endgiltige Resultat ist: Kleineres Gewicht, daher Ver-
+grösserung des Kohlenraumes, des Actionsradius oder der Ge­
+schwindigkeit möglich und in Friedenszeiten Kohlenersparnis im
+Betriebe.
+Welchen Werth diese Dinge für eine grosse Marine sowohl
+in der Ruhe der Friedenszeit, als während einer Action in Kriegs­
+zeiten haben, kann daher allseits wohl erwogen werden.
+KLEINE NS1TTHEILUNGEN.
+Verschiedenes.
+Aus den Entscheidungen des Verwiiltnugsgericlitshofes.
+1. Durch die unangefochten gebliebene Einbeziehung eines Grund-
+complexes in das Bahnterritorium (Bahnhofvorplatz) sind die auf
+diesen Grund bezughabenden Strassenprojecte der Gemeinde
+gegenstandslos geworden (Wien). 2. Die Entscheidung über die strei­
+tige Frage der Entgeltlichkeit oder Unentgeltlichkeit einer Grund­
+abtretung zu Strassenzwecken steht nicht den Baubehörden zu, son­
+dern ist den Gerichten Vorbehalten (§ 11 der Wiener Bauordnung vom
+17. Jänner 1883, L.-G. Nr. 35). 3. Die Bestimmung des Zeit­
+punktes einer Trottoirherstellung ist in das freie Ermessen der
+Baubehörde gelegt. (§ 61 der Wiener Bauordnung.)
+Revision des Haftpflichtgesetzes der Eisenhahuverwal-
+tuugen und Ausdehnung desselben auf Eisenbahnen mit elek­
+trischem Betriebe. Das Gesetz, betreffend die Haftpflicht der
+Eisenbahnen bei Verkehrsunfällen, stammt aus dem Jahre 1869,
+also aus einer Zeit, in welcher es ausschliesslich mit Dampf be­
+triebene Eisenbahnen gab. Die Entwicklung und der Zuwachs
+elektrischer Bahnen sind aber in den letzten Jahren in einem
+solchen Maasse fortgeschritten, dass die Beschränkung der Giltigkeit
+des Haftpflichtgesetzes auf die Locomotiveisenbahnen als eine
+Lücke empfunden werden muss. Wie nun aus Budapest berichtet
+wird, hat der königl. ungar. Handelsminister eine Revision des
+Haftpflichtgesetzes in Erwägung gezogen und es sind die Vor­
+arbeiten für eine solche bereits eingeleitet worden, bei welchem
+Anlasse nicht blos die Ausdehnung des Haftpflichtgesetzes auf
+die elektrischen Bahnen in Betracht gezogen, sondern auch die
+Frage erwogen werden wird, ob das Gesetz an der Hand der ge­
+wonnenen Erfahrungen nicht auch in anderer Richtung einer
+Abänderung zu unterziehen sein wird.
+Die k. u. k. Pionuier-Cailettenscliule zu Hainburg a. D.
+in Nieder-Oesterreich nimmt zu Beginn des Schuljahres 1900/1901
+circa 50 Studirende in den I. Jahrgang auf.
+Für den Eintritt in den I. Jahrgang ist normal die Absol-
+virung der 5. Classe einer öffentlichen Mittelschule, bezw. einer
+gleichwerthigen Lehranstalt erforderlich. Aspiranten, welche nur
+die 4 unteren Classen einer Mittelschule absolvirt haben, müssen
+einen mindestens befriedigenden Gesammterfolg nachweisen.
+Die Pionnier-Cadettenschule bietet den Zöglingen bezüglich
+ihrer weiteren Carriere wesentliche Vortheile.
+Das Schulgeld beträgt in derselben nur die Hälfte von
+jenem der übrigen Cadettenschulen.
+Das Schul-Commando ist gerne bereit, alle die Aufnahme
+betreffenden Anfragen zu beantworten, eventuell Programme, ent­
+haltend die gesummten Eintritts-Bedingnisse, zuzusenden, sobald
+ein diesbezügliches Ansuchen an die Schule gestellt wird.
+Allsgeführte und projectirte Anlagen.
+Oesterreich-Ungarn.
+a) Oesterreich.
+Amstetten. (Errichtung eines Elektricitäts-
+werke s.) In der am 5. d. M. stattgehabten Gemeinderaths-
+Sitzung der Stadtvertretung Amstetten wurde einstimmig der
+
+Nr. 17.
+Seite 205.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Beschluss gefasst, die-Ausführung.der elektrischen Anlage daselbst
+der Firma S i e in e n s& II a 1 s k e zu übertragen. Das Werk wird
+auch elektrische Energie für Beleuchtung und Kraftübertragung
+an die niederösterreichische Landes-Heil- und Pflege-Anstalt für
+Geisteskranke in Mauer-Oehling abgeben. Bei vollem Ausbauo
+werden in dem Elektricitätswerke circa 1000 PS installirt sein.
+Das Werk soll im October d. J. eröffnet werden.
+Troppau. (Bewilligung zur Vornahme tech-
+nis eher Vorarbeiten für ein Netz -elektrische r
+KI o i n b a h n e n i n T r o p p a u.) Das k. k. Eisenbalmministerium
+hat der Oesterr. U n i o n- E 1 e k t r i c i t ä t s- G e s o 11-
+Schaft in Wien die Bewilligung zur. Vornahme technischer
+Vorarbeiten, für ein Netz elektrisch zu betreibender Kleinbahnen
+im Gebiete der Landeshauptstadt Troppau mit den Linien: l.vom
+Nordbahnhofe durch die Balmhofstrasse, die Johannes- und Töpfer­
+gasse auf den Oherring und sohin durch die Rudolfsgasse in dio
+Olmützerstrasse; 2. durch die Ratiborerstrasse auf den Niedorring
+und den Oborring und durch die Sperrgasse in die Otten-
+dorfergasse und 3. von der Linie 1 abzweigend durch die
+Yaktarstrasso in die Karlsauerstrasse im Sinne der bestehenden
+Normen ortheilt.
+6) Ungarn,
+Agram. (Localbalm Zag r A b (A g r a m) -Sarnobo r.)
+Am 20. März fand in Agram unter Vorsitz des Präses des
+Gründungscomite, Heinrich v.. Francis ci, die constituirendo
+Generalversammlung der Actionäre der Localbalm Zägräb-Samobor
+statt. Dom Berichto des Gründungscomite zufolge wurde von
+Seiten der Direction der Vereinigten Eisenbah.n- und
+Betriebsgesellschaft in Berlin und Wien das mit
+1,372.600 It bemessene A'ctiencapital, zerlegt in 2030 Stück Stamm­
+action ä 200 K und 4833 Stück Prioritätsactien ä 200 K, voll ge­
+zeichnet. Die Baukosten dieser schmalspurigen Localbahn (76 an
+Spurweite) mit elektrischem Betriebe zu erbauenden und als
+solche in eigener Rogie. der Direction der Gesellschaft zu be­
+treibenden Linie sind mit 1,160.000 K bemessen, von welcher
+Summe Beträge von je 150.000 K für Beschaffung der Fähr-
+botriebsmittel und von 16.000 Iv zur Anlage eines Reservefonds
+entfallen. Die neue Linie erhält directen Anschluss an das Strassen-
+eisenbalinnetz von Agram, führt iiberVrabce, Stenjevec
+(Landes-Irrenanstalt), Susedgrad (nächst der gemeinsamen Station
+Podsused der Linie Steinbrück—Podsused—Zagräb— Sziszck der
+Südbahn-Gesellschaft (im Peageverhältnisse zu den kgl. Ungar.
+Staatsbahnen) und der Zägorianer. Localbalm Csaktornya-Vorosd-
+Zabok-Podsused-Zagrab und Krapina-Zabok des Staatsbetriebes)
+und jenseits der Save weiterhin über S v e t a- N e d e 1 j a bis
+Samobor, woselbst eine im Bereiche der Samoborer Kupfer-
+und Kohlenbergbaureviere projectirte Werksbahn, Anschluss an
+die neue Linie erhalten und durch diese die Verbindung der
+Reviere mit der Landeshauptstadt Zagräb hergestellt werden wird.
+Budapest. (Eisenbahnproj e c t.) Der kgl. ungar.
+Handelsminister hat dem Budapester Civil-Ingenieur und Pro­
+fessor an der Budapester technischen Hochschule. Ladislaus
+Szesztay die Bewilligung zur Vornahme technischer Vor­
+arbeiten für eine von einem geeigneten Punkte im Bereiche der
+Haupt- und Residenzstadt Budapest ausgehende und mit Be­
+nützung. entsprechender Strassenzüge der rechtsuferseitigen
+Stadtbezirke (Ofen) über S z e m 1 ö h e g y bis zur Gemarkung
+der Gemeinde Hi de g k u t und weiterhin bis zu den dortigen
+Sommerfrische-Anlagen führende normalspurige Localbalm, ferner
+demselben als Vorconcessionär der vorstehend projectirten Linio
+Budapest—Hidegkut, dio gleiche Bewilligung für eine
+a) in Fortsetzung dieser Linie bis zur Gemarkung der Ge­
+meinde S o 1 y m ä r und der dortigen Villenanlage am Ab­
+hange des Sväbhegy- (Schwabenberg-) Gebirgsstockes
+führende,
+b) von der zukünftigen Station H i d e g k u t abzrveigende und
+mit Berührung des Wallfahrtsortes Maria-Remete die
+mit der Sommerfrische Budakesz (jenseits der Wasser­
+scheide),
+c) gleichfalls von Hidegkut aus die vorbenannten drei Linien
+mit der Gemeinde Nagy-Kovicsi
+verbindende Linie, sämmtliche Strecken als normalspurigo Linien
+mit elektrischem Betriebe, auf die Dauer eines Jahres ertheilt.
+G-rosswardein. (E i senb ahn pr oj e ct.) Der kgl. ungar.
+Handelsminister hat der Direction der Strasseneisenbahn-
+A c ti e n-Gesel 1 sch af t der kgl. Freistadt Nagyvärad
+(Grosswardein) die Bewilligung zur Vornahme technischer Vor­
+arbeiten für eine von einem geeigneten Punkte ihres inner­
+städtischen Betriebsnetzes abzweigende und mit Benützung ent­
+sprechender Strassenzüge bis zur Station O e s i der Hauptlinie:
+Nagyvärad—Eszek—Villäny. der kgl. Ungar. Staatsbahnen und
+der in ihrem Betriebe stehenden Localbahnen Nägyvärad.Qesi-
+Devavänya-Gyiima fahrende normalspurige• Strassen eisonbalm,
+eventuell Localbahip in beiden Fällen mit elektrischem Betriebe,
+auf die Dauer eines Jahres ertheilt.
+Raab, (bis en b ahnp r oj e c t.) Der kgl. ungar. Handols-
+minister hat der Direction der B u d a p e s t o r A c t i e n-
+Gesellschaft für elektrische Verkehrsanlagen
+(„Reszveny tärsasäg villamos es közlekedesi vällalätok szamfe-a“)
+dio Bewilligung zur Vornahme technischer Vorarbeiten für eine
+o) aus dem AVeiehbilde der kgl. Freistadt Györ (Raab) aus­
+gehende, bis zum Donauhafen und der Aufnahmsstation
+Györ der Ersten Donau-Dampfschiffahrts-Gesellschaft;
+4) vom Ausgangspunkte der Linie a) bis zum Bahnhofe G y ö r
+der Hauptlinien Budapest—Bruck a. d. L. und Kyör—Kis-
+Czell—Szombathely (Steinamanger)—Fehring der kgl. Ungari­
+schen- Staatsbahnen, der in ihrem Betriebe stehenden Local­
+bahn Györ—Gutas—Uj-Dombovär und der Linie Györ—
+Sopron (Oedenburg)—Ebenfurth abzweigende, mit' Benützung
+entsprechender Strassenzüge im Bereiche der Stadt 1 Györ
+einerseits bis zur k. u. k. Jägerkaserne, andererseits bis zum
+Comitatshause führende
+Linie, sämmtliche Strecken des Netzos als normalspurige Strassoh-
+eisenbahnen mit elektrischem Betriebe (Hochleitung)' auf die
+Dauer eines Jahres ertheilt.
+Szolnok. (E i s o n b a h n p r o j e c t.) Der kgl. ungar. Handels­
+minister hat dem Grossgrundbesitzer Bela F a y in P u.szt a-
+Monostor und Consorten die Bewilligung zur Vornahme techni­
+scher Vorarbeiten für eine
+a) von der Centralstation Szolnok der- kgl. Ungar. Staats­
+bahnen ausgehende, über die Szagyvabriicko führende und
+sieh mit Benützung entsprechender. Strassenzüge im Bereiche
+der Stadt Szolnok verzweigende und an zwei Punkten
+den Frachtenbahnhof der kgl. Ungar. Staatsbahnen berührende;
+l) vom Frachtenbahnhofe Szolnok der Linie a) ausgehende,
+und von dort aus an einem geeigneten Punkte dos inner­
+städtischen Betriebsnetzes in dieses einmündende, u. zw. auf
+beiden Linien für den Personen- und Frachtenverkohr eiu-
+zuriehtende
+normalspurige Strasseneisenbahn mit Dampf., oventuoll elektri­
+schem Betrieb auf die Dauer eines Jahres ertheilt.
+Literatur-Bericht.
+Oesterreicliische Gesetze und Verordnungen für die In­
+dustrie, insbesondere für Betriebsbeamto,Techniker, Monteure u. s. w.
+Auszug aus den Gesetzen über Gewerbeordnung, Dampfkessol-
+wesen, Patente, Durchführungen der Patente, Unfall- und Kranken­
+versicherung u. s. w. Zusammengestellt vom I. Allgemeinen
+österreichischen: We r kin o is t e r- Ve r band in Wien.
+Dresden. Verlag, von Gerhard Kiihtmann. 1900. Preis karti
+1. Mk.
+Eine ganz vorzügliche Zusammenstellung, die dendnteressirton
+Kreisen nur wärmstens empfohlen werden kann.
+Die Entwicklung Münchens unter dem Einflüsse der
+Naturwissenschaften während der letzten Decennien. Fest­
+schrift der 71. V ersammlu n g deutscher N a t n r-
+forscher und Aerzte, gewidmet von der Stadt
+M ii nch e n. Gr.-4°. 204 S. Mit 1 Plan von München. Lindau er-
+sclie Verlagsbuchhandlung- München. Pfeis 8 Mk.
+Im ersten, „die Hygiene und die hygienischen Einrich­
+tungen“ umfassenden Theile dos vorliegenden Prachtworkos biotot
+die Stadt München als Festgruss zugleich ein Zeichen des Dankes
+für die Fortschritte dar, welche sie der medicinischen Forschung
+verdankt.
+Vom Schicksale beglückt, in ihrer Mitte einen Petten-
+k o f e r zu besitzen, der das gesammte Gebiet der Hygiene in
+so souveräner Beherrschung überblickte, gelang es der- Staats--
+und Gemeindeverwaltung München während des geringen Zeit­
+raumes von circa 30 Jahren durch opferwilliges und planmässiges
+Vorgehen die frühere hohe Sterblichkeit, auf ein solches Miuiss
+zu reduciren, dass diese Stadt jetzt den verdienten Ruf einer der
+gesündesten Städte Mitteleuropas geniesst und dass namentlich
+das gehäufte Auftreten von Abdominaltyphus ganz aufgehört hat.
+In den einzelnen Abschnitten: j. Oberflächengestalt und
+Untergrundverhältnisse, von Oberingenieur Max Niedermaye r,
+kön. wirk!. Rath; 2. Assanirung Münchens, von II. 11 u c h n e r;
+3. München, eine gesunde Stadt; von Dr. O. Singer; 4. Schwemm­
+kanalisation, von Oberarzt Dr. Deichstet t'er; 5. QnellVvasser-
+versorgung, von Oberingenieur Dietrich; 6. Schulgebäude
+Münchens, von Professor und Architekt, Bauamtmann Hans
+Grassel; 7. Die Münchener Volksbrausebäder, von Architekt,
+
+Seite 206.
+Nr. 17.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Bauamtmann Hans Gr äs sei; 8. Die Leiehenhäuser in den
+neuen städtischen Friedhöfen, Münchens, von Architekt, Bauamt-
+manni Hans Grassel; 9. Das neue Waisenhaus an der Waisen-
+hausstrase in München—Neuhausen, von Architekt Bauamtmann
+Hans Grassel; 10. Das Müller’sche Yolksbad, von Professor
+Ho che der; 11. Die Volksheilstätte Planegg-Kralling und das
+städtische Sanatorium bei Harlaching, von Dr. Ferdinand M a y,
+erhalten wir durch Wort und Bild eine anschauliche Darstellung
+aller jener mannigfaltigen Verhältnisse und Anstalten, von welchen
+die Gesundheit und die Lebensdauer der Bewohner einer modernen
+Grossstadt abhängt, und bei deren vollendeter Einrichtung selbst
+der Tod— die Sterblichkeitstabellen beweisen es— an Macht
+verliert.
+Der folgende Theil ist der Elektrotechnik gewidmet und
+beginnt mit einem historischen Rückblick über die Entwickelung
+der Elektrotechnik von Oskar v. Miller und Prof. Dr. E. V o i t,
+worin insbesondere die Leistungen jener Männer gerühmt werden,
+die in München gearbeitet haben. Hieran schliesst sich eine Be­
+schreibung der ersten deutschen elektrischen Ausstellung, die in
+München im Jahre 1832 stattfand, die dem Gelehrten wie dem
+Fachmann ein wahrheitsgetreues Bild von dem damaligen Stande
+der Elektrotechnik und an der Hand wissenschaftlicher Messungen
+und Prüfungen ein festes Gerippe möglichst sicherer Daten für
+Theorie und Praxis geben sollte. Mit dem Gebarungsiiberschusse,
+der bei dieser Ausstellung erzielt wurde, gieng man daran, eine stän­
+dige elektrotechnische Versuchsstation zu gründen, deren segens­
+reiches Wirken allseitig Anerkennung findet; Gutachten über aus­
+zuführende Projecte, Prüfungen bestehender Anlagen, Messungen
+von Maschinen, Apparaten etc., Abhaltung von Cursen über Elek­
+trotechnik bilden den Wirkungskreis dieser Anstalt.
+Die Beschreibung der elektrischen Einrichtungen an der
+technischen Hochschule bildet den Inhalt der folgenden Abschnitte
+und die Versorgung Münchens mit elektrischer Energie den Inhalt
+dos letzten der Elektrotechnik gewidmeten Theiles der Festschrift,
+die von Uppenborn besprochen wird.
+Den Schluss dieses geradezu ausgezeichneten Werkes bildet
+eine Beschreibung der Gährungs- und Kälteindustrie und deren
+Entwicklung. Br. H.— K.
+Analyse electl'Öcllimiqne, par Edgar F. S m i t h, Professor
+der Chemie an der Universität von Pennsylvanien. Uebersetzung
+nach der zweiten amerikanischen Ausgabe, verbessert und vermehrt
+von Josef Rosset, Mineningenieur. 1. Bd. 3 Fr. Librairie
+Gauthier-Villars.
+Der Verfasser hat sich zur Aufgabe gemacht, diejenigen,
+welche sich mit dem Studium der analytischen Chemie befassen,
+mit don Methoden der quantitativen Analyse vertraut zu machen,
+welcho die Elektrolyse benützen. Diese Methoden gewinnen zu­
+sehends an Wichtigkeit, sie werden überall angewendet und ein­
+geführt.
+Nach einer kurzen Einleitung, worin die Wirkung dos
+Stromes auf Säure und Salze beschrieben wird, bespricht der
+Verfasser kurz die Elektricitätsquellen und die Methoden zur
+Messung der elektrischen Energie; hierauf gibt er eine kurze Go-
+schiclite der elektrotechnischen Analyse und bespricht die Mittel,
+um die Metalle von einander mittelst des elektrischen. Stromes
+zu trennen, sowie die Oxydationserscheinungen, die durch den
+elektrischen Strom erzeugt werden.
+Die Methoden, sowie die Mengenverhältnisse, die der Ver­
+fasser angibt, sind alle das Resultat langjähriger Erfahrung,
+daher vertrauenswürdig. Das Buch wird sonach Studirenden wie
+Praktikern ein werthvoller Führer sein.
+Meisterwerke der Baukunst und des Kunstgewerbes
+aller Länder und Zeiten. Herausgegeben von Hubert J o 1 y.
+Verlag von K. F. Koehler in Leipzig. Preis eines Heftes, jedes
+25 Tafeln enthaltend, Mk. 2.—. Je 5 Hefte bilden einen Band
+und sind nach Ländern geordnet.
+Die Meisterwerke der Baukunst und des Kunstgewerbes aus
+den verschiedensten Epochen, von Oesterreich-Ungarn, Deutsch­
+land, Italien, Frankreich, Grossbritannien, Belgien, Holland,
+Schweiz, Dänemark, Schweden-Norwegen, Spanien, Portugal,
+Russland, Türkei, Griechenland, Aegypten, Amerika, Indien,
+Japan und China werden nach photographischen Aufnahmen in
+künstlerischen, in Autotypie ausgeführten Illustrationen meister­
+haft zur Darstellung gebracht.
+Spraclien-Atlas von Prof. A. L. H i c h in a n n. Ein Boitrag
+zur Nationalitäten- und Sprachenfrage in Oestorreich-Ungarn 1900.
+6 Karten und Text. Preis 1 K. Kartographische Anstalt von
+G. Freitag& Bern dt, Wien VII/1. Eine sehr interessante
+Zusammenstellung.
+Patentnachrichten.
+Aufgebote.
+Wien, am 1. April 1900.
+20. Siemens& H a 1 s k e, Firma in Wien.— S c li a. 11 n n g s-
+a n o r d n u n g z u m Zwecke dos selbst t, h ä t. i g e n A n-
+pressens von Treibrädern elektrisch betrie­
+bener Fahrzeuge mittelst Elektromagneten:
+Die Treibräder werden an die Schiene durch die Wirkung
+von Elektromagneten angepresst, wobei die Wickelung der
+Elektromagnete in den Stromkreis der Motoren eingeschaltet
+ist, so dass die Prosskraft der Elektromagnete sich selbstthätig
+entsprechend der Betriebsstromstärko der Motoren ändert.
+Die Elektromagnete können überdies mit oinor in Nebenschluss
+geschalteten Wickelung versehen sein.— Angemcldct am
+8. Februar 1899.
+Mitgetheilt von Ingenieur
+Victor Monath,
+WIEN, I. Jasomirgottstrasse Nr. 4.
+Liste der jüngst ertheilten österreichischen
+ciassc P a t e n t e.
+21 b. Pat.-Nr. 1165.— Flüssigkeit für galvanische Batterien.—
+Henry B1 u m e n b o r g jun., Chemiker in Wakefield. (V. S.
+A.) l./l. 1900.
+21 b. Pat.-Nr. 1166.— Diaphragmen für Primärelemente mit
+flüssigen Elektroden.— Richard Otto Albert II einric li,
+Elektrotechniker in Berlin, l./l. 1900.
+21 d. Pat.-Nr. 1178.— Elektromotor mit geringer Tourenzahl.—
+August Lehner, k. k. Beamter und Albert Dauber, k. u. k.
+Militär-Rechnungs-Official in Wien. 15./11. 1899.
+21 g. Pat.-Nr. 1177.— Verfahren, um auf elektrischem Wego die
+Dungkraft des Bodens zu erhöhen.— Jean Fach s, Guts­
+besitzer in Porto-Fcrrajo, Elba (Italien). 15./11. 1899.
+40. Pat.-Nr. 1141.— Elektrolytisches Verfahren zum Raffiniren
+von Metallgemongen, insbesondere von Rohnickel in neutralen,
+oxydirenden Lösungen.— Urbain Le V e r r i e r, Chef-Ingenieur
+in Paris. 15./12. 1899.
+„ Pat.-Nr. 1151.— Verfahren zur Herstellung eines Elektrolyts
+zur elektrolytischen Ausscheidung von Metallen und Metall-
+Legierungen.- Pascal Marino, Chemiker in Brüssel,
+l./l. 1900.
+20. Pat.-Nr. 990.— Stromleitungs-System für elektrische Bahnen.
+— Eduard Dussek, Privatier in Wien, l./ll. 1899.
+Deutsche Paten t a n m o 1 dünge n.*)
+Classe.
+21. Formspule für Trommelanker. —- Alexander R o t h o r t, Riga,
+Russland. 7./7. 1899.
+„ Fernsprechanlage mit selbstthätigem Mikrophon-Summer-An­
+ruf.— Siemens&Halske, Actio n- Gesellschaft,
+Berlin. 13./7. 1899.
+„ Ueberwachnngssignal für Fornspreeh-Vermittlungsämter. —-
+Telephon-Apparat-Fabrik Fr. W e 11 e s, Berlin.
+5. /10. 1899.
+„ Stromschlussvorrichtung für Copirtelegraphen.— G. W a u e r,
+Charlottenburg. 27./3. 1899.
+24. Vorrichtung zur Verbrennung des Kohlenstaubes bei Kohlen­
+staubfeuerungen.— Daniel Bradford Devote, Washington,
+V. S. A. 13./4. 1899.
+42. Elektrische Zündvorrichtung für Cigarren, Tabak und derg-l.
+ausgebende Selbstverkäufer.— Saul Landsberger, Berlin.
+6. /12. 1898.
+83. Stromschlusseinrichtung für den Aufzug elektrischer Uhren.
+— Max Möller, Altona. 24./6. 1899.
+20. Ein Stromabnehmer für elektrische Bahnen mit zwei Walzen-
+paaren.— Allgemeine Elektricitäts-Gesell­
+schaft, Berlin. 29./5. 1899.
+Sclileifcontact zur Zugschlussmoldung.— Louis Ilor sch ko,
+Halle a. S. 1./5. 1899.
+„ Einrichtung zur Verbindung des nach dem Wagenmotor
+führenden Leiters mit dem Stromabnehmer elektrischer Eisen­
+bahnwagen.— J. W. To wie, Dublin. 1./2. 1899.
+*) Die Anmeldungen bleiben nach der Vorprüfung acht Wochen öffentlich
+aufgelegt. Nach§ 24 des Patent-Gesetzes kann innerhalb dieser Zeit Einspruch
+gegen die Anmeldung wegen Mangel der Neuheit oder widerrechtlicher Entnahme
+erhoben werden. Das obige Bureau besorgt Abschriften der Anmeldungen und
+übernimmt die Vertretung in allen Einspruchs-Angelegenheiten.
+
+Nr. 17..
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 207.
+Classo
+21. Elektrische Lampe mit Nernst’schom .Glütikörpor.— Allge­
+meine Elektricitäts-Gesellschaft, Berlin. 8-/4.
+1899.
+„ Verfahren zur Herstellung metallischer Leitungen mit Glas­
+oder Emailisirung. —- Allgemeine Elektricitäts-
+Gesellschaft, Berlin. 12./12. 1898.
+„ Sicherungsstöpsel.— Allgemeine Elektricitäts-
+Gesellschaft, Berlin. 20./5. 1899.
+„ Erregerflüssigkeit für galvanische Elemente.— Henry B1 n m e n-
+berg jun., Wakefleld, V. S. A. 30./5. 1899.
+„ Schaltungsweise fürElektromagnete.— H a r t m ann&Brau n,
+Frankfurt a. M.-Bockenheim. 27./4. 1899.
+„ Polarisirtes, auch für Relaiszwecke benutzbares Rufzeichen.—
+Pärnell Rabbidge, Sydney, Neu-Süd-Wales. 29./10. 1897.
+48. Verfahren und Vorrichtung zur Erzeugung elektrolytischer
+Niederschläge auf Eisenplatten oder Blechen.— „C o 1 u m b u s“
+Elektricitäts-Gesellschaft m. b. H., Ludwigs­
+hafen a. Rh. 2S./9. 1899.
+60. Geschwindigkeitsregler mit indirecter Uebertragung.— E1 o k-
+tricitäts-Actien- Gesellschaft vormals S ‘c li u c k e rt
+& C o., Nürnberg. 1./4. 1899.
+63. Federnde Aufhängung für die, auf den einstellbaren Achs­
+schenkeln der angetriebenen Lenkräder von Motorwagen
+schwingend angeordneten Motoren.— Kölner Accum u-
+latorenwerke, Gottfried Hage n, Kalk bei Köln,
+ll./ll. 1899.
+12. Verfahren zur Herstellung von Kohlensäure auf elektrolytischem
+Wege.— Rudolf Jalir, Berlin. 26./5. 1898.
+21. Antriebsvorrichtung für Doppelzellenschalter mit auf Schrauben­
+gewinden der Schaltwellen verschiebbaren Schleif bürsten.—
+Rudolf B ehre n d, Berlin. 4./4. 1898.
+„ Laufkatze mit Federantrieb zum Ueberführen von Telephon-
+drähtcn oder anderen Leitungen.— Rudolf B i 11 n o r, Künigs-
+h Litte 0. S. 12./5. 1899.
+„ Hochspannungskabel mit gemischter Isolirung.— Land- u n d
+Seekabelwerke Actien- Gesellschaft, Köln-
+Nippes. 31./8. 1897.
+„ Secundärelement.— Titus Ritter von M i c h a 1 o w s k i,
+Krakau. 18./4. 1899.
+„ Einrichtung zur Benutzung einer Fernsprechleitung von
+mehreren Stellen desselben Raumes aus.— Alexander St ei n-
+metz, Berlin. 27./2. 1899.
+42. Elektrische Wächter-Controleinrichtung. ■— Paul Har de gen.
+Berlin. 20./6. 1899.
+48. Verfahren zum Reinigen von Metall-Oberflächen auf elektro­
+lytischem Wege.— Vereinigte Eloktricitäts-
+Äctien-Gesellschaft, Wien. 12./6. 1899.
+4. A r orrichtung zum Verstellen von Beleuchtungs-Apparaten auf
+Transportwagen.— Elektricitäts-Actien-Gesell-
+schuft vormals Schuckert&Cö., Nürnberg. 13./11.1899.
+20. Vorrichtung zur Verhütung von Unglücksfällen durch ent­
+gegenkommende Strassenbahnwagen.— Dr. Georg von S e i d-
+litz, München. 14./10. 1899.
+21. Wechselstrom- Motorzähler für kleine inductionsfroie Be­
+lastungen.— Allgemeine Elektricitäts-Gesell­
+schaft, Berlin. 3./8. 1899.
+„ Drehstromzähler.— Allgemeine Elektricitäts-Ge­
+sellschaft, Berlin. 22./9. 1899.
+„ Elektromagnetischer Funkenlöscher für selbsttliätige Aus­
+schalter.— Elektricitäts-Action- Gesellschaft
+vormals Schuckort& Co. 4./11. 1899.
+„ Anlasswiderstand für Nebenschlussmotoren.— Fabrik
+elektrischer Apparate Dr. Max Lovy, Berlin.
+22./6. 1899.
+„ Schaltvorrichtung für elektrische Beleuchtung von Treppen­
+häusern und ähnlichen Räumen.— Ernst Kleinert, Berlin.
+6./3. 1899.
+„ Gruppenanrufsignal für Fernsprech-Vermittelungsämter.—
+Teleplion-Apparat-Fabri k Fr. W e 11 o s, Berlin.
+28./2. 1899.
+46. Elektrische Zündung für Kleinkraftmaschinen.— Dresdner
+Gasmotoren-Fabrik vormals Moriz Hille, Dresden-A.
+22./4. 1899.
+60. Kraftmasehinen-Regler.— Actien-GesellschaftElek-
+tricitätswerke (vorm. 0. L. K u m m er& C o.), Nieder­
+sedlitz bei Dresden. 15./11. 1898.
+21. Sperrvorrichtung an Stromschaltern mit einer sprungweise
+abwechselnd auf Stromschlüss und Stromunterbrechung
+schaltenden Trommel.— Theodor Allemann, Olten,
+Schweiz. 26./4. 1899.
+Classe.
+21. Vorfahren zur Herstellung von Edison-Sichorungsstöpsoln.—
+A c t i e n- G o s o 11 s c h a f t Mix& Genest, Berlin. 4./10.
+1899.
+„ Stark mit der Stromstärke veränderlicher Widerstand.—
+Dr. Fr. Back, Budapest. 22./10. 1898.
+„ Einrichtung zur selbstthätigen Aufrechterhaltung einer gleich­
+bleibenden Gasverdünnung in Kathodenstrahlenlampen.—
+James Yate Johnson, London. 17./4. 1899.
+„ Anordnung des Isolirmateriales bei Transformatoren.— Octave
+Rochefor t, Paris. 24./S. 1899.
+„ Messgeräth für elektrische Wechsel- und Pulsströme nach
+dem Principe der inductiven Abstossung.— Reiniger
+& Co., Gesellschaft m. b. H. und Friedr. Jiuiu s,
+München. 27./9. 1899.
+42. Sicherung für elektrisch betriebene, selbstcassirende Flüssig­
+keitsverkäufer.— Richard Kann, Jona 14./8. 1899.
+Classe. Deutsche PatenterfcHeilungen.
+21. Wechselstromsystem für Motorbetrieb.— Actien-ßesell-
+schaftElektricitätswerke (vorm. 0. L. Kuminer
+& C o.), Dresden. 21./10. 1898.
+„ Typendrucktolegraph; Zus. z. Pat. 94.307.— L. Kamm,
+London. 3./6. 1898.
+„ Vorrichtung zur Regelung des Widerstandes der Abnehmer­
+bürsten bei Elektricitätsmessern mit durch einen Elektromotor
+angetriebenem Anzeigewevk.— G. Hooksham, Birmingham
+2./2. 1899.
+„ Vorrichtung zum Desinficiren der Schalltrichter von Fern­
+sprechern u. dgl.— W. H. Taylor, Stamford (V. S. A.).
+8./7. 1899.
+„ Verfahren zum Anlassen von Inductionsmotoren.— Allmänna
+Svens k a Elektriska Aktiebola gef, Vesteras
+(Schweden). 13./8. 1899.
+„ Fernsprechschaltung mit gemeinsamer auf dem Amte befindlicher
+Mikrophonbatterie.— Telephon-Apparat-Fa b r i k
+Fr. W e 11 e s, Berlin. 17./3. 1899.
+„ Schaltungsanordnung zum Verkehr zwischen zwei Fernsprech­
+ämtern.— Telephon-Apparat-Fabrik Fr.We 11 cs,
+Berlin. 6./5. 1899.
+„ Schaltungsanordnung zwischen zwei an zwei Fernsprechämtern
+angeschlossenen Theilnehmerstellen.— T e 1 e p h o n- A pp a r a t-
+Fabrik Fr. W e 11 e s, Berlin. 11./5. 1899
+„ Verfahren und Vorrichtung zum Verringern der Spannung
+von Gleichströmen.— A. W y d t s und G. W e i s s m a n n,
+Paris. 21./6. 1898.
+„ Verfahren zur Herstellung von elektrischem Widerstands­
+material.— Firma W. C. Horaeus, Hanau. 1./9. 1898.
+40. Verfahren und Vorrichtung zur elektrolytischen Herstellung
+von Metalllegierungen aus einem Schwcrmetall und einem
+Alkali-, bezw. Erdalkali-Metall.— Ch. E. Acko r, Essex
+(V. S. A). 29./3. 1898.
+„ Erhitzungswiderstand für elektrische Schmelzöfen.—
+G. Brandt, Leipzig. 15./7. 1898.
+20. Eine Einrichtung zum Betriebe von Fahrzeugeloktromotoren
+mittelst Gleichstrom unter Verwendung von Wechselstrom in
+den Arbeitsleitungen.— A. E. Scan es, London. 28./0. 1898.
+„ Selbstthätige Weiche für Strassenbahnen.— L. Einstein,
+Buchau a. F. 29./3. 1899.
+„ Schutzvorrichtung an Strassenbahnfahrzeugon.— E. Elle r-
+mann, Berlin. 2./3. 1898.
+21. Verfahren nebst Einrichtung zur Vorthoilung von elektrischer
+Energie. ■— R. Belfield, London. 31./8. 1897.
+„ Antrieb- und Steuervorrichtung für Elektromotoren.— II. S e e,
+New-York. 8./11. 1898.
+„ Anlass und Regelungswiderstand mit sowohl von Hand- als
+selbstthätig verstellbarem Stromschlussarm.— Firma Carl
+Fl ohr, Berlin. 11./12. 1898.
+„ Stromschlusswerk für Wasserstandsheboln.— A c t, i o n-
+Gesellschaft Mix& Genest, Berlin. 21./6. 1899.
+„ Vorrichtung zur Anzeige des Gangunterschiedes von Uhr- oder
+Laufwerken. —• Deutsch-Russische-Elektricitäts-
+Zähler- Gesellschaft m. b. H., Berlin. 14./6. 1899.
+„ Gleichstrom-Unipolarmaschine.— J. He u b a c h, Köln. 28./4.
+1899.
+„ Cylinder für elektrisches Bogenlicht.— Dr. P. Mersch,
+Paris. 28-/4. 1898.
+„ Elektrolytischer Stromrichtungswähler oder Condensator.—
+C. Liebenow, Berlin. 4./3. 1899.
+„ Gleichlaufvorrichtung für Cöpirtelegraphen.— E. A. II u m in e 1,
+St. Paul. 10./8. 1898.
+
+Nr. 17.
+Seite 208.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+(Jlassc.
+21. Elektrische Anlassvorriehtnug -mit elektromagnetisch ausge­
+löster Aussehaltvorrichtung.— A. L. Ri kor, New-York
+(Y. S. A.). 8./12. 1698.
+„ Selbstthätiger elektromagnetischer Schalter mit fünf Spulen.—
+E. Dick, Baden b. Wien. 121/7. 1899.
+Geschäftliche und finanzielle Nachrichten.
+S. Bergmann& Co., Actien-Ge,Seilschaft, Fabrik für
+Isolir-Leitungsrolire mul Special-Inst&llationsartikel für elek­
+trische Anlagen in Berlin. Als Ergänzung unserer Notiz im
+H. 14, S. 171 entnehmen wir dem Geschäftsberichte noch Fol­
+gendes: Das Betriebsjahr 1899 hat sehr zufriedenstellende Ergeb­
+nisse geliefert. Der Umsatz hat sich von 2,138.467 Mk. auf
+3,211.39o Mk. erhöht. Hierbei ist allerdings ein Preiszuschlag zu
+berücksichtigen, den das Unternehmen gleich allen anderen grossen
+Firmen infolge der hohen Metallpreise in Kraft treten liess, so
+dass. der.Mehrumsatz in Wirklichkeit ca. 45°/ erreichte. Der Roh­
+gewinn beträgt 1,059.389 Mk. (i. V. C09-.816 Mk.). Nach reichlichen
+Abschreibungen .in Höhe von 421.091 Mk. (i V. 206.516 Mk.)
+verbleibt ein Reingewinn von 638.298 Mk., der wie folgt ver­
+wendet werden soll: als 22/ (i. V. 18%). Dividende-440.000 Mk.
+(342.000 Mk.), Tantiemen 100.365 Mk. (55.028 Mk.), Vortrag auf
+neue Rechnung 97.933 Mk. (6271 Mk.). Das neue Geschäftsjahr
+berechtigt wieder zu den besten Erwartungen nnd zeigen die
+Monate Jänner, Februar und März gegen denselben Zeitabschnitt
+des Vorjahres einen Mehrumsatz, von ca. 65 /.
+Elektrische Strassenbalm Bannen-Elberfeld. In der am
+6. i-l. M. abgehaltenen ordentlichen Generalversammlung ist die
+beantragte Dividende von 12i/2 0 /o genehmigt worden. Die aus­
+scheidenden Mitglieder des Aufsichtsrathes, Bankdirector Dr. Hans
+J o r d a n- Elberfeld und Commerzienrath Isidor L o e we-Berlin,
+wurden wiedergewählt und an Stelle des verstorbenen Herrn Otto
+Schälle r-Barmen, Herr Beigeordneter S e h 1 b a c h-Barmen neu­
+gewählt Die Herren Stadtrath Friedrich Bail-Berlin und Di-
+i ector Gurt Erich- Berlin hatten ihr Mandat niedergelegt und
+wurde von einer Neubesetzung der Stellen Abstand genommen.
+Nach dem Geschäftsbericht war auch in 1899 eine weitere Ver­
+kehrsentwickelung zu verzeichnen, indem 3.943.460 Wagen lcm
+gegen 3,627.805 im Vorjahre gefahren und 13,546.796 Personen
+gegen 12,553.030 Personen i. V. befördert wurden. Die Einnahmen
+erhöhten sich von 1,148.429 Mk. auf 1,236.023 Mk. und zuzüglich
+9550 Mk. verschiedene Einnahmen und 5184 Mk. Gewinn aus dem
+Betriebe der Strassenbahn Elberfeld Nord-Süd auf 1,250.758 Mk.,
+während die Gesammteinnahme des Vorjahres 1,100.569 Mk. be­
+trug. Die Ausgaben haben sich auf 711.312 Mk. erhöht und
+betragen damit 57'54% der Einnahmen gegen 644.108 Mk. im
+Vorjahre. Der Ueberschuss erhöhte sich von 516.460 Mk. auf
+539.445 Mk. Nach Abzug von je 24.720 Mk. für die Städte Elber­
+feld und Barmen, die 4% der Bruttoeinnahme erhalten und
+134.784 Mk. für Verzinsung und Amortisation der Obligationen,
+stellt ein Gewinn von 368.045 Mk. und zuzüglich 7664 Mk. Ge-
+\vinnvortrag, ein solcher von 375.709 Mk. zur Verfügung. Die
+beantragte Gewinnvertheilung wurde von der Generalversammlung
+unverändert angenommen. Es Messen demnach 160.000 Mk. in
+den Erneuerungsfonds, 8250 Mk. in den Actien-Tilgungsfonds,
+10.402 Mk. in den Reservefonds. Nach 9882 Mk. Tantiemen des
+Aufsichtsrathes erhalten die Actien 5% Dividende, dio Genuss-
+saheine 20o/ 0 von restlichen 117.010 Mk.= 23.402 Mk. von dem
+Rest zuzüglich Gewinnvortrag die Actionäre 7i/2°/o= 93.750 Mk.,
+so dass noch 7522 Mk. aut neue Rechnung gelangen.— Die Ver­
+handlungen wegen der zweiten Bahnverbindung zwischen Barmen
+nnd Elberfeld über Ostersbaum haben noch nicht zu einem Er­
+gebnis geführt und werden zu einem geeigneten Zeitpunkt wieder
+ayifgenommen. Zu dem Abschluss ist noch zu bemerken, dass
+die Betriebseinnahmen im vorigen Jahre die
+Höhe des A c t. i e n c a p i t a 1 s nicht nur erreicht,
+sondern bereits um eine Kleinigkeit überschrit­
+ten haben, was wohl bei keinem ähnlichen Unternehmen in
+Deutschland der Fall sein, dürfte. Der Geldstand des Unter­
+nehmens ist sehr günstig. Die mit 6,199.640 Mk. abschliessende
+Bilanz weist ausser 4117 Mk. Vorauszahlungen, 13.681 Mk. Gassa,
+466.443 Mk. Bankguthaben, 56.148 Mk. Ausstände und 349.200 Mk.
+Werthpapiere auf, zusammen also für rund 890.000 Mk. liquide
+Mittel, welchen 89.175 Mk. Creditoren gegenüberstehen. Ein­
+schliesslich der diesjährigen Zuwendungen belaufen sich die Re­
+serven und sonstigen Fonds auf 524.015 Mk.
+Nordische Elektricitiits- und Stahlwerke-Actien-Gesell-
+scliaft in Danzig. Dor Geschäftsbericht bezeichnet das Ergebnis
+des verflossenen Jahres als ein durchaus befriedigendes. Das
+wesentlichste Vorkommnis für die Gesellschaft war der von der
+ausserordentlichen Generalversammlung vom 12. August 1899 ge­
+fasste Beschluss, ein Stahl- und Walzwerk auf dor H o 1 m -In s e 1
+bei Danzig zu erbauen. Zu diesem Zwecke wurde das
+Actiencapital, nachdem es bereits im April 1899 von 1 auf 2 Mil­
+lionen Mk. erhöht wurde, um weitere 2 Millionen Mk. erhöht,
+während die Aufnahme einer Obligationon-Anleihe von 1 Million
+Mark je nach Bedarf, später stattfinden soll. Die neuen Actien
+erhalten bis zur Fertigstellung des Werkes, spätestens bis zum
+31. Deeember 1901, 5$ Bauzinsen und sind von da ab den alten
+Actien gleich dividendenberochtigt. Auch im verflossenen .Geschäfts­
+jahre ist die Zweckmässigkeit der am 1. Jänner im Jahre 1898
+erfolgten Uebernahme der Ostdeutschen Industriewerke
+zu Schellmühl aufs Neue in die Erscheinung getreten. Diese
+haben nach Abzug der repartirlichen Kosten einen reinen Betriebs­
+überschuss von ca. 120.000 Mk. erbracht. Die Centralen zu
+S t r a s b u r g und B r i e s e n haben im verflossenen Geschäfts­
+jahre, in welchem die Betriebe zum Theil durch nothwendige
+Erweiterungen und Umbauten gestört wurden, ihre Betriebskosten
+aufgebracht. Mit gutem Erfolge hat die im Laufe des Jahres 1899
+fertiggestellte Centrale zu Graudenz gearbeitet, für dio
+weiterhin eine recht gute Rentabilität zu erwarten ist. Im Bau
+befinden sich noch die Strassenbahn-, Licht- und Kraft-
+Centralen zuStolp und M emel, die im Laufe des Jahres
+1900 in Betrieb kommen werden. Der Brutto Ueberschuss für 1899
+stellt sich auf 265.279 Mk. (i. V. 157.987 Mk.). Nach reichlich
+bemessener Rückstellung im Betrage von 40.279 Mk. (i. V.46.442Mk.)
+und 45.211 Mk. Abschreibungen verbleibt ein Reingewinn
+von 225.000 Mk., der wie folgt verwendet werden soll: zum Re­
+servefonds 11.250 Mk. (5577 Mk.), 8% Dividende 160.000 Mk.)
+(i. V. 8% gleich 64.160 Mk.), 5% Bauzinsen für 500.000 Mk. auf
+die Zeit vom 15. September bis 31. December 7300 Mk., Tantiemen
+20.484 Mk. (14.777 Mk.), Gratificationen 3966 Mk. (3000 Mk.),
+Vortrag auf neue Rechnung 22.000 Mk. (24.030 Mk.). In eigener
+Regie der Gesellschaft befinden sich die Centrale und Strassen­
+bahn in Graudenz, die Centralen zu Briesen und Strasburg, die
+mit insgesammt 1,349.438 Mk. zu Buche stehen. Wegen Verkaufs
+der Graudenzer Centrale schweben aussichtsvolle Verhandlungen
+mit der Stadtgemeinde Graudenz. Das Consortial-Conto (21.150 Mk.)
+umfasst die Betheiligung der Gesellschaft am Industrie-Syndicat
+für K i a u t s c h o u und H i n t e r a n d, an der S h a n t u n g-
+Eisenba h n-G esellsehaft und an der Chantun g-B e r g-
+Werks- G e s e 11 s c h a f t.
+Land- und Seekabehverke -Köln-Nippes. Nach dem Ge­
+schäftsbericht war.die Gesellschaft im Jahre 1899 im Allgemeinen
+gut beschäftigt. Das im Baue begriffene Seekabelwerk in Norden­
+ham und den in Auftrag gegebenen Kabeldampfer hat die Gesell­
+schaft gegen den Anschaffungswerth und Ertheilung von Genuss­
+scheinen an die Norddeutschen Seekabelwerke, Actiengesollschaft
+in Köln, abgegeben. Die Genussscheine gewähren der Gesellschaft
+einen Anspruch auf ein Drittel des nach 5% Dividende vor­
+bleibenden Reingewinnes der Norddeutschen Seekabelwerke. Der
+Reingewinn des vergangenen Jahres beträgt nach 129.992 Mk. (im
+Vorjahr 101.977 Mk.) Abschreibungen 344.705 Mk. (922.875 Mk.) und
+soll folgende Verwendung finden: Rücklage 46.857 Mk. (11.143 Mk>
+Gewinnanteile 17.028 Mk. (9173 Mk.), 9% (6i/ 2 %) Dividende
+gleich 270.000 Mk. (195.000 Mk.) und Vortrag 10.818 Mk. (7558 Mk.).
+Die Anlagen in Nippes sind wesentlich erweitert worden. Eine
+neu errichtete Kupferdrahtzieherei hat im Jänner 1900 den Betrieb
+aufgenommen. Die Aussichten für das laufende Jahr bezeichnet
+der Bericht trotz der weiteren Verschärfung des Wettbewerbes
+durch neue Kabelfabriken als günstig. Die am 9. d. M. statt­
+gehabte Generalversammlung genehmigte den Rechnungsabschluss
+und beschloss die Gewinnvertheilung in der vom Aufsichtsrath
+vorgeschlagenen Weise. Der bisherige Aufsichtsrath wurde auf
+vier Jahre wiedergewählt.
+Schluss der Redaction: 17. April 1900.
+..,. 'Verantwortlicher Ifedaeteur: Dr. J. Sa hui ka.- Selbstverlag des Elektrotechnischen Vereines,
+ommissionsver ag ei Spielliag en& Schur ich, Wien.— Alleinige Inseraten-Aufnahme bei Haasensteiu& Vogler (Qtto Maass), Wien und,Prag
+Druck von R. Spies& Co., Wien.
+

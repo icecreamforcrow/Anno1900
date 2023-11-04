@@ -1,0 +1,1451 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 15.
+WIEN, 8. April 1900.
+XYIII. Jahrgang.
+' f '£ pj erl“ l md bei Originalartikeln überdtenuZZit 'ReSoTgestauT'^ 1 Quellenan S abe
+honorirt. DieZzahl Ter TTauTTZ TeTZZT ZaZTtT' *** *?* V** r ^^»nsordnung festgesetzten Tarife
+Mannscripte bekanntgegeben ZrdZ 9~chten Separatabdrucke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Gewichtsökonomie bei Dynamomaschinen. Von E. Rosen­
+berg (Fortsetzung)"| 7g
+Kleine M i 11 h e i 1 u n g e n.
+A^erschiedenes
+INHALT:
+178
+Ausgeftihrte und projectirte Anlagen.
+Literatur
+Geschäftliche und finanzielle Nachrichten
+A r ereinsnachriehten
+178
+179
+179
+179
+Gewichtsökonomie bei Dynamomaschinen.
+A ortrag, gehalten im Elektrotechnischen Verein am 3. Jänner 1900
+von Ingenieur E. Rosenberg.
+(Fortsetzung.)
+Wir sehen also, dass man mit Rücksicht auf das
+Ankergewicht kaum, mit Rücksicht auf den Ankerpreis
+aber gewiss nicht grosse Umfangsgeschwindigkeiten bei
+gegebener Tourenzahl vorziehen würde. Auch die Rück­
+sicht auf Ankerwickelung, Collector und Bürstenbrücke
+könnte dies nicht rechtfertigen. Die Ankerwickelung
+wird zwar mit zunehmendem Durchmesser leichter.
+AA r ir erhalten das Wickelungsvolumen, indem wir die
+Mantelfläche mit der— wirklichen oder ideellen—
+Wickelungshöhe h und mit einem Factor ß multipli-
+ciien, der angiht, wie vielmal die Windungslänge
+grösser ist, als das wirksame Leiterstück I
+~ D 2 i
+Wickelungsvolumen= ß. D* l.h= 4 ß h. HI).
+TT
+I-* a -ZU 1 constant ist, so ist das AVickelungs-
+volumen dem Durchmesser fast verkehrt proportionirt;*)
+das Gewicht der Wickelung spielt aber keine sehr
+grosse Rolle, es wäre z. B. in dem behandelten Falle
+310 kg bei der Gpoligen, 250 kg bei der Spoligen, 220 kg
+bei der lOpoligen Maschine.
+Wohl ist auch zu erwägen, dass der O h m’sche
+Verlust in der Wickelung bei gleich angenommener
+Beanspruchung ihrem Volumen direct proportional,
+daher beim grösseren Ankerdurchmesser kleiner ist.
+Auch der Hysteresisverlust wird, da wir pro cm 3 den
+gleichen Verlust zuliessen, bei geringerem Blech­
+gewichte,. also grösserem Durchmesser— abnehmen,
+andererseits nimmt wieder die Luftreibung zu.
+Der Collector hat bei verschiedenen Polzahlen
+fast das gleiche Gewicht, wenn die Zahl der Bürsten­
+bolzen der Polzahl gleich genommen wird. Denn es
+ist, damit die Erwärmung des Collectors die gleiche
+bleibe, nothwendig, dass die Collectoroberfläche bei
+einer gegebenen Bürstenart (Metall- oder Kohlen­
+bürsten etc.) ein bestimmtes ATIelfaehes der Biirsten-
+auflagfläche sei; andererseits ist bei höheren Spannungen
+eine gewisse lineare Entfernung der benachbarten
+■’■) Nur fast verkehrt proportional, weil der Coefficient ß
+bei zunehmendem Durchmesser— abnehmender Länge— wächst.
+Bürstenbolzen erforderlich, damit etwa entstehende
+I' unken nicht von einer Bürste zur anderen über­
+springen können. Man wird also den Collectordurch-
+messer der Polzahl oder dem Ankerdurchmesser pro­
+portional vergrössern, kann jedoch gleichzeitig- die
+wirksame Länge des Collectors proportional verringern,
+da ja, wegen der gleichbleibenden Stromstärke, auf dem
+ganzen Collector nur die gleiche Zahl von Bürsten
+Platz finden müssen. Die Lamellentiefe kann die gleiche
+bleiben, daher bliebe das Volumen des wirksamen
+Collectortheiles constant. In Wirklichkeit vergrössert
+es sich etwas bei zunehmendem Durchmesser, weil die
+unwirksamen Theile, so die Ansatztheile der Lamellen
+zur Befestigung der Ankerdrähte, nicht proportional
+dem Durchmesser verkleinert werden können und weil
+auch das Gewicht der Collectorhitchse, ebenso wie das
+des Ankerkernes bei zunehmendem Durchmesser
+wächst.— Verwendet man nicht ebensoviele Bürsten­
+bolzen wie Pole, sondern nur zwei, so nimmt das
+Collectorvolumen fast proportional der Polzahl zu.
+Die Bürstenbrücke wird mit wachsender
+Polzahl etwas schwerer und theuerer.
+Das Volumen der Polschuhe ist, wenn wir
+ihre Dicke mit t und die Polbohrung mit be­
+zeichnen:
+it.a.{D y -f-
+d. i. nahezu gleich
+t.z.D l.t= 4 a/.———... IV).
+Wenn die Polzahl proportional dem Durchmesser
+vergrössert wird, so kann die Polschuhdicke/ unver­
+ändert beibehalten werden. In diesem Falle ist also
+das Polschuhvolumen dem Durchmesser des Ankers
+verkehrt proportional. Die Bearbeitungskosten werden
+jedoch bei grösserer Polzahl wachsen.— In dem be­
+handelten Beispiele beträgt das Polschuhgewicht beim
+6p°ligen Modelle 460, beim lOpoligen 280 kg.
+Magnet schenke!. Der Gesammtquerschnitt
+aller Magnetschenkel enthält sämmtliche Kraftlinien,
+die aus den Polschuhen austreten, multiplicirt mit dem
+Streuungsfactor v. Nennen wir den Querschnitt eines
+Magnetschenkels p m, die Induction darin B m, so er­
+halten wir die Gleichung:
+
+Seite 174.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 15
+V- Qm• Bjn= v.y. D 7t l.B x
+Bi
+P Qm—= 4 V. OC.
+X>TT
+—D 2 l
+4
+‘ D
+Die Summe der Schenkelquerschnitte ist also dem
+Ankervolumen und der Luftinduction direct, der
+Magnetinduction und dem Ankerdurchmesser verkehrt
+proportional. Wenn nur der Ankerdurekmesser und die
+Polzahl proportional diesem geändert wird, so ver­
+mindert sich die Summe der Schenkelquerschnitte pro­
+portional dem Wachsen des Durchmessers. Dies gilt
+auch für das Volumen der Magnetschenkel
+Jß
+P-Qm-1m= 4 VK.-jp-.Z n
+-D°- l
+D
+V)
+wenn die Schenkellänge l m als konstant angesehen wird-
+Würde man jedoch letztere proportional dem Anker­
+durchmesser variiren, so wäre das Product
+P Qm
+eine constante Grösse. Es soll später untersucht werden,
+was für einen Einfluss die Aenderung der Schenkel­
+länge auf das Kupfer- und Kranzgewicht hat; vorläufig
+sei bemerkt, dass man die Schenkellänge gewöhnlich
+so klein als möglich wählt.
+Der Querschnitt des einzelnen Magnetschenkels ist
+B,
+Qm= 4 v a.——
+D m
+Z) 2 l
+p D
+d. h. verkehrt proportional sowohl der Polzahl als dem
+Ankerdurchmesser. Im Falle also, als die Polzahl selbst
+dem Durchmesser proportional gesetzt wird, ist der
+Magnetquerschnitt dem Quadrate des Ankerdurch­
+messers, seine linearen Dimensionen— wenn z. B. die
+Magnetschenkel kreisrund sind, der Schenkeldurch­
+messer— dem Ankerdurchmesser verkehrt proportional.
+Im Nenner des Ausdruckes für das Schenkel­
+volumen erscheint die Kraftliniendichte B m. Baut man
+die Magnetschenkel aus einem Materiale, das höhere
+Induction zulässt, Schmiedeisen oder Flusseisen, so
+werden die Querschnitte gegenüber Gusseisen auf die
+Hälfte und noch mehr reducirt. Das verringert aber
+in weiterer Folge auch das Gewicht der Kupferwicke­
+lung und des Magnetkranzes. Wählt man bei einem
+gegebenen Materiale, z. B. bei einem bestimmten Fluss­
+eisen, das B m hoch, so wird ebenfalls das Volumen
+der Magnetschenkel ein geringeres; durch die dadurch
+bedingte stärkere Magnetwickelung jedoch wird das
+Kupfergewicht und das Gewicht des Magnetkranzes
+wieder erhöht.
+Das Volumen der Magnetwickelung rechnen
+wir, indem wir die zur Erregung der Maschine be-
+nöthigten Ampere-Windungen, eine gewisse Strom­
+dichte j m als erlaubt angenommen, auf eine Fläche F Cll
+(„Kupfer-Fläche“) vertheilen und die gerechnete Kupfer­
+fläche mit der mittleren Länge einer Windung rnulti-
+pliciren. Die Gesammtzahl der nöthigen Ampere-
+Windungen pro magnetischen Kreislauf, A W, setzt sich
+aus fünf Theilen zusammen:
+1. Ampere-Windungen zur Erzeugung der Luft­
+induction
+10 P 7
+= -—■. B, .1
+2. A W zur Erzeugung der Induction B m in den
+zwei Magnetschenkeln eines magnetischen Kreislaufes
+— XB m' 2 lm>
+wenn man mit x„ die A Wbezeichnet, die pro Quadrat-
+“m
+centimeter aufgewendet werden müssen, um bei dem ge­
+gebenen Materiale eine Induction B m hervorzubringen.
+Diese Grösse wird aus der Magnetisirungscurve ent­
+nommen. Analog werden auch im Folgenden die A W
+pro Centimeter im Magnetkranze (Induction B k) und
+im Anker (Induction B. x) mit a' B^, bezw. bezeichnet.
+3. A IT zur Erzeugung der Induction im Magnet­
+kranze:
+von einem
+*B k'? k>
+wobei/ k, die Kraftlinienlänge im Kranze,
+Schenkel zum nächsten gemessen ist.
+4. A W zur Erzeugung der Induction Z? a im Anker,
+annähernd:
+D 7t
+=■•
+p
+5. A W zur Erzeugung der Induction B, in den
+Zacken bei Nutenankern:
+. 2 4, wenn l z die Zackentiefe bedeutet.
+6. A W zur Ueberwindunc
+der Anlcer-Gegen-
+windungen:
+:(1— a).
+D t:
+■ hi.
+Ueber die Bedeutung dieser sechs Summanden ist
+Folgendes zu bemerken: Bei glatten Ankern spielt
+Theil 1, die Ampere-Windungen für die Luft, die
+Hauptrolle; bei Nutenankern kommen 2), 3) und 6),
+die Ampere-Windungen für das Magnetgestell und zur
+Ueberwindung der Anker-Reaction, stark in Betracht;
+4) und 5), die Ampere-Windungen für die Anker
+magnetisirung, sind meistens klein. Nun sind die in
+Betracht kommenden Längen des Kraftlinienweges im
+Eisen: f m, l k und
+D-
+P
+dem Quotienten
+aus
+Anker-
+D
+durchmesser und der Polzalil nahezu proportional;
+P
+behält man daher die Inductionen und den Luftraum
+bei, so ist die Gesammtzahl der Ampere-Windungen
+für einen magnetischen Stromkreis, daher auch ihre
+Hälfte, die Zahl der Ampere-Windungen pro Magnet­
+spule:
+. 2 l m -j- a’j,. /k -j-
+M=
+2
+*B ■-
+2)
+4 7t
+1• ’L.
+I) 7t D TT
+—+\• 2 K+— “))T~' h j
+nahezu constant bei verschiedenen Ankerdurchmessern,
+wenn die Polzahl proportional dem Ankerdurchmesser
+gewählt wird. Die Kupferwickelungsfläche, die sich
+aus dieser Ampere-Windungszahl ergibt, ist
+AW
+Fq=;,
+n>
+/m
+wenn j m die Beanspruchung in Ampere, pro Flächen­
+einheit des Wickelungsraumes bedeutet. Das ist nicht
+gleichbedeutend mit Stromdichte im Drahte, da der
+Wickelungsraum nur zum Theile vom Drahte, zum
+Theile aber von Isolation und Luft erfüllt wird. Die
+
+Nr. 15.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 175.
+Stromdichte im Draht erhalten wir durch Multiplication
+von mit einem Coefficienten, der das Verhältnis des
+von dem isolirten Drahte beanspruchten Raumes zum
+nackten Drahtquerschnitte ergibt. Dieser Coefficient ist
+bei schwächeren Drähten grösser als bei stärkeren, weil
+die Umspinnung nicht proportional der Drahtdicke wächst.
+Ein Draht von 3 mm Durchmesser misst z. B. mit dop­
+pelter Baumwollumspinnung 3'5; der Raum, den er ein­
+nimmt, ist 3'5 3= 12- 25?nwi 2, sein Querschnitt 7-07 mm 2,
+der Quotient aus dem rohen und dem wirksamen
+Wickelraum daher U7. Bei einem Draht von 1 mm
+Durchmesser, der mit Umspinnung 13 misst, ist der
+gleiche Coefficient P69: 0’78= 2'2. Erlaubt man daher
+eine gewisse Drahtbeanspruchung, so ist die Strom-
+dichte j m pro Einheit des rohen Wickelraumes bei
+kleineren Maschinen und solchen, die für hohe Span­
+nung gebaut sind, kleiner zu wählen, als bei grossen
+Maschinen und solchen für Niederspannung; dies gilt
+für Nebenschlusswickelung. Bei Serienwickelung, die
+starke Kupferquersehnitte erfordert, kommt die Iso­
+lation nur wenig in Betracht. Der obengenannte Coeffi­
+cient vergrössert sich noch, wenn wir den Raum be­
+rücksichtigen, den die Magnethülse mit ihren Isolirungen
+einnimmt.
+Die so gerechnete Wickelungsfiäche F Cu können
+wir nun in beliebiger geometrischer Form um den
+Magnetkern legen. Die gebräuchlichste Form ist die des
+Rechteckes, die Grundlinie desselben ist uns durch die
+Schenkellänge gegeben, daraus rechnet sich die
+Wickelungsdicke:
+F,
+Cn
+7
+( m
+Die mittlere Windungslänge ist durch den Magnet­
+querschnitt Q m und die Wickeldicke S m bestimmt. Nehmen
+wir einen kreisrunden Querschnitt und bezeichnen den
+Schenkeldurchmesser mit d m, so ist die mittlere Win­
+dungslänge (d m -(- S m ).- und das Wickelungsvolumen
+für p Magnetspulen:
+A W
+= V• *ou• (d a+ 8 m). je= p.——. (d m+ 8 m )VI).
+Jm
+Das wirkliche Drahtgewicht erhält man durch
+Multiplication dieses Volumens mit dem specifischen
+Gewicht, getheilt durch den obgenannten Coefficienten.
+Ausdruck VI) kann in zwei Theile zerlegt werden:
+A W
+jr
+A W
+jm
+• jrr
+, A W
++ p.~r--.8.
+I A W Y 1
+■~+ p■ T•. —-.^
+\ Jm J (m
+Via).
+Die Amperewindungszahl pro Spule ist, wie wir
+sahen, bei constantem Verhältnis— von der Polzahl
+P
+fast unabhängig; der Schenkeldurchmesser d m ist dem
+Ankerdurchmesser und daher auch der Polzahl ver­
+kehrt proportional, p. d m daher constant. Somit stellt
+der erste Theil eine constante Grösse vor. Der zweite
+Theil hingegen ist proportional der Grösse Ab. Nur da-
+‘1
+durch also, dass wir die Schenkellänge proportional der
+Polzahl vergrüssern, könnten wir das Wickelungsvolumen
+beibehalten; lassen wir jedoch bei Vergrösserung des
+Ankerdurchmessers und der Polzahl die Schenkellänge
+gleich oder verkürzen wir sie noch, so wird der zweite
+also bei Erhöhung der Umfangsgeschwindigkeit das
+Kupfergewicht der Magnete etwas grösser. Bei dem
+sechspoligen Modell unseres Beispieles beträgt es 800,
+bei dem zehnpoligen 870 %, bei gleich angenommener
+Schenkellänge.
+Dass es thatsächlich möglich ist, bei grösserem
+Ankerdurchmesser die Schenkellänge zu reduciren— wo­
+durch dann Magnetschenkel und -Kranz leichter werden—
+geht aus folgender Erwägung hervor. Wir können die
+Wickeldicke§ m so gross wählen, dass sich die Magnet­
+hülsen nur gerade nicht berühren. Da die unteren
+an die äussere
+ist diese Bedingung erfüllt,
+dem Umfang des
+Flächen der Hülsen Tangentialebenen
+Polschuhfläche darstellen, so
+wenn die Summen der Hülsenbreiten
+Polschuhes gleichkommt:
+P■ (dm -j- 2 8 m)= (Z?J —f- t). TT=
+Die Gesammthtilsenbreite d m -f- 2 8
+constanten Werth— erreichen.
+P
+rung der Polzahl und des Durchmessers d m verkehrt
+proportional der Polzahl abnimmt, so darf S m grösser,
+mithin
+Z>7i.
+darf also den
+Da nun bei Vergrüsse-
+=
+■Cu
+kleiner werden.
+Die Kosten der Magnetwickelung erhöhen sich bei
+grösserer Polzahl mehr, als dem Mehrbedarf an Kupfer
+entspricht, weil die Kosten der Hülsen und die Kosten
+des Wickelns der Stückzahl nahezu proportional sind.
+Das Volumen des Magnetkranzes berechnen
+wir unter der vereinfachenden Annahme, dass er nicht
+polygonale, sondern kreisrunde Form habe. Bezeichnen
+wir den Kranzquerschnitt mit (4, seine Dicke mit o k,
+so ist der Durchmesser des Kreises:
+D -j- Ijj -)- 2 t -j- 2 -j- §k,
+das Kranzvolumen:
+w• Qk (D+ l L+ 2 t+ 2 l a+ 8 U).. VII).
+In diesem Ausdrucke spielen l L, der doppelte Luft­
+raum, 2 t, die doppelte Polschuhdicke, und S k die ein­
+fache Kranzdicke, nur eine untergeordnete Rolle gegen­
+über dem Ankerdurchmesser D und der doppelten
+Schenkellänge 2/ m; wir wollen daher diese untergeord­
+neten Grössen behufs Vereinfachung der vergleichenden
+Rechnung weglassen, und nur schreiben:
+Ji.p k .(.D-f2I m).... via).
+Der Kranzquerschnitt Q k nimmt ungefähr die halbe
+Zahl der Kraftlinien eines Magnetschenkels auf. Nennen
+wir die Induction im Kranze B k und den auf den Kranz
+bezüglichen Streufactor v k (das Verhältnis der Linien
+des Kranzes zur halben Anzahl der aus einem Polschuh
+in den Anker übertretenden Linien), so ist der Kranz-
+querschnitt:
+. v k. a.
+. I= -5-• v k. 2 a.
+Bk
+‘ /4 2 p '. Bk'‘“"‘ p. D
+sowohl dem Ankerdurchmesser als der Polzahl, daher,
+wenn diese in constantem Verhältnisse stehen, dem
+Quadrate des Durchmessers verkehrt proportional. Der
+Ausdruck für das Kranzvolumen:
+Ausdruckes grösser.
+
+Seite 176.
+Nr. 15.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+erhält, wenn wir die verschiedenen Inductionen und das
+Ankervolumen als constant betrachten, die Form:
+0( p I «M_ I C ä i
+-jß■ y u t-*— D i 2)2•
+wobei C, C\. C 2 constante Grössen bedeuten. Würde l m
+proportional dem Durchmesser wachsen (was, wie wir
+gesehen haben, das Kupfergewicht constant Hesse), so
+wären beide Theile des Ausdruckes dem Ankerdurch­
+messer verkehrt proportional; bleibt hingegen/ m gleich,
+oder vermindert es sich bei wachsender Polzahl, so
+nimmt das Volumen des Magnetkranzes viel stärker als
+proportional dem Ankerdurchmesser ab. Im behandelten
+Beispiel ist das Gewicht des Magnetgestelles (Kranz -f-
+-j- Schenkel) bei der sechspoligen Maschine 4050, bei
+der zehnpoligen 2150 kg. Die Kosten des Magnet­
+gestelles können nahe dem Gewichte proportional an­
+genommen werden.
+So sehen wir, dass sich durch Vergrösserung der
+Umfangsgeschwindigkeit bei parallel gehender Vermeh­
+rung der Polzahl das Gewicht einer für bestimmte
+Leistung und Tourenzahl gebauten Maschine herabsetzen
+lässt, u. zw. hauptsächlich durch die bedeutende Er­
+leichterung des Magnetgestelles sammt Polschuhen. Der
+Anker wird wohl in seinem wirksamen Theil, den
+Ankerblechen und der Wickelung, leichter, Ankerstern
+und Collector werden aber ebenso wie Bürstenbrücke
+und Magnetwickelung mit zunehmender Umfangs­
+geschwindigkeit schwerer. Durch die bedeutende Ver-
+theuerung des Ankers wird die wirthschaftlich gün­
+stigste Umfangsgeschwindigkeit lange vor der grössten
+mechanisch zulässigen erreicht.
+Eine Vergrösserung der Umfangsgeschwindigkeit
+ohne Vermehrung der Polzahl setzt die erreichbare Ge­
+wichtsersparnis bedeutend herab. Das Kranzgewicht
+(Formel VII6), das sich früher in einem Theile ver­
+kehrt proportional der ersten, im zweiten Theil verkehrt
+proportional der zweiten Potenz des Ankerdurchmessers
+geändert hat, bleibt jetzt theils constant, theils der
+ersten Potenz des Durchmessers verkehrt proportional;
+das Eisengewicht des Ankers vermindert sich nicht,
+dafür entfällt allerdings auch die geringe Gewichts­
+zunahme von Collector und Bürstenbrücke. Die Magnet­
+wickelung wird, zum Theile aus in den bei der Dis-
+cussion der Gleichung 1) genannten Gründen, mit wach­
+sendem Ankerdurchmesser etwas schwerer.
+Die Wirkung der Umfangsgeschwindigkeit wurde
+deshalb mit solcher Ausführlichkeit behandelt, weil man
+von vorneherein aus der Betrachtung der die inducirte
+E. M. K. angebenden elektrodynamischen Grundformel
+wohl zu der Ansicht neigen mag— die auch vielfach
+ausgesprochen wird— dass durch möglichst grosse
+Umfangsgeschwindigkeit der leichtesteBau einer Dynamo­
+maschine zu erhalten sei.
+Bei dieser wie bei jeder anderen der beim Ent­
+wurf einer Maschine in Betracht kommenden Grössen,
+den Inductionen in Luft-, Anker- und Magneteisen, dem
+Luftraum, der Polzahl, der Schenkellänge, sehen wir,
+dass sie in den für die verschiedenen Dynamotheile
+entwickelten Gewichtsformeln theils im Zähler, theils
+im Nenner erscheinen; wir erkennen also schon durch
+rein mathematische Betrachtung, dass sehr grosse und
+sehr kleine Werthe einer jeden dieser „Variablen“ das
+Maschinengewicht in’s Ungemessene steigern müssen,
+und dass es für jede Grösse zwischen dem Maximum
+und Minimum einen günstigsten Werth, ein Optimum
+geben müsse, der das Gesammtmaschinengewicht auf
+ein Mindestmaass herabdrückt. Eine analytische Bestim­
+mung dieser günstigsten Werthe ist aus dem Grunde
+erschwert, weil für die Magnetisirungsfunction ein all­
+gemein gütiger analytischer Ausdruck noch nicht ge­
+funden wurde. Ein graphisches Aufsuchen des Tiefpunktes
+der Gewicktscurve ist jedoch leichter durchzuführen.
+Als einfachste Aufgabe dieser Art wollen wir die
+günstigste Länge der Magnetschenkel bestimmen. Das
+Volumen des Magnetgestelles besteht, wie wir aus den
+Formeln V) und VII) ersehen, aus einem Theile, der
+von l m unabhängig, und einem anderen, der l m direct
+proportional ist.
+Wir können dies durch den Ausdruck:
+Ci -j- C 2 Um
+darstellen, der graphisch durch eine aufwärts steigende
+Gerade wiedergegeben wird, welche die Ordinatenachse
+in der Höhe C t schneidet (Fig. 3). Das Magnetwicke-
+Fig. 3.
+lungsvolumen wieder besteht, wie wir aus der Formel Via)
+ersehen, aus einem von/ m unabhängigen und einem an­
+deren, ihm verkehrt proportionalen Summanden:
+wird daher graphisch durch eine gleichseitige Hyperbel
+dargestellt, die die Ordinatenachse und eine im Ab­
+stand 0 3 zur Abscissenachse Parallele als Asymptoten
+hat. Summiren wir diese beiden Curven, so erhalten wir
+als resultirende Gewichtscurve des Magnetsystems— der
+Anker bleibt von der Schenkellänge unberührt— die
+stark ausgezogene Linie, die aus dem Unendlichen
+kommt, in’s Unendliche steigt und den Minimalwerth
+deutlich erkennen lässt. Wollen wir jedoch nicht ein
+Magnetgestell von geringstem Gewicht, sondern eines
+von billigstem Preise, so müssen wir die Ordinaten
+jeder einzelnen Curve zuerst mit einer Constanten, dem
+Preise eines Kilogramms Eisens, bezw. Kupfer, multi-
+pliciren. Die dann aus der Summirung erhaltene com-
+binirte Preiscurve (in Fig. 3 durch die stark gestrichelte
+Linie dargestellt), hat wohl den gleichen Charakter, wie
+die combinirte Gewichtscurve, ihr Minimum liegt aber
+bei einem anderen Werthe der Abscisse In.. Je theurer
+das Eisen ist, desto steiler wird die schräge Gerade,
+der sich die combinirte Preiscurve asymptotisch nähert,
+
+Nr. 15.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 177.
+uncl desto mehr rückt das Minimum nach links; je
+theuerer das Kupfer ist, desto mehr wird es nach rechts
+gedrängt. Man muss also, um bei theueren Gusspreisen
+möglichst ökonomisch zu bauen, die Maschine zu­
+sammendrücken, bei hohen Kupferpreisen wachsen die
+Magnetschenkel in die Länge.
+Um die Betrachtung zu vereinfachen, wurde im
+Vorstehenden davon abgesehen, dass mit wachsender
+Schenkelhinge auch die Amperewindungen pro Spule
+einen gewissen Zuwachs erfahren. Bei Berücksichtigung
+dieses Umstandes muss man die stetig abfallende Hy­
+perbel des Kupfergewichtes durch eine zuerst hyperbel­
+ähnlich abfallende, später aber wieder steigende Curve
+ersetzen. Am Schlussresultat wird hiedurch nichts ge­
+ändert, denn der brauchbare Theil der combinirten
+Gewichts- und Preiscurve bleibt hievon fast unberührt.
+Die Betrachtung der günstigsten Inductionen in
+Luft und Eisen ergibt zwar aus mehreren Theilen be­
+stehende, in ihrer Schlussform aber ähnliche combinirte
+Curven.
+Unter der Voraussetzung, dass die Magnetschenkel
+aus einem Guss mit dem Magnetkranz seien, können
+• wir B m— B k setzen. Dann ist der Eisenquerschnitt Q m
+— u. zw. können wir darunter sowohl den Querschnitt
+des Magnetschenkels als den doppelten Querschnitt des
+Kranzes verstehen— der Grösse B m verkehrt proportional,
+daher durch eine gleichseitige zu beiden Coordinaten-
+achsen asymptotische Hyperbel dargestellt. (Curve I in
+Fig. 4.) Die Kupferwickelungsfläche setzt sich [siehe
+Fig. 4.
+Formel 2)] zusammen aus einer Anzahl von B m un­
+abhängiger Glieder und zweien, die als Factor x, die
+Zahl der nöthigen Amperewindringen pro Centimeter Eisen
+bei einer Induetion B m bezw. B k enthalten. Die Ab­
+hängigkeit dieser Grösse x n von B m ist uns in der
+Magnetisirungscurve des betreffenden Materials darge­
+stellt. Die Abhängigkeit der Kupferwickelungsfläche
+von B m ist uns durch eine Gleichung von der Form
+Fca= C 5+ C e. x
+m
+gegeben; die Darstellung dieser Gleichung ist eine
+Magnetisirungscurve, bei der die verticale und horizon­
+tale Achse vertauscht und ausserdem die horizontale Achse
+parallel verschoben ist. (Curve II in Fig. 4.) Das Kupfer­
+gewicht ist nun nebst der Kupferfläche auch in einem Theil
+dem Schenkeldurchmesser cl m, daher der Quadratwurzel
+aus dem Schenkelquerschnitt proportional
+(c. ]/” !? m -j- ö m ).
+Der Klammerausdruck ist durch Curve III in
+Fig. 4 dargestellt; das gesummte Wickelungsvolumen,
+das sich aus dem Producte der Curven II und III zu­
+sammensetzt (Curve IV in Fig. 5) ist daher für sich
+schon eine aus dem Unendlichen kommende und in’s
+Unendliche verlaufende Curve. Das erstere sagt uns,
+dass wir schon mit Rücksicht auf das Kupfergewicht
+allein, selbst wenn das Eisen gar nichts kosten würde,
+mit der Induction im Eisen nicht unter ein gewisses
+Maass heruntergehen dürfen. Im Uebrigen käme diese
+Fig. 5.
+untere Grenze der Induction aus elektrischen Rück­
+sichten niemals in Betracht, weil man bekanntlich in
+Hinsicht auf leichte Möglichkeit der Erregung etc. die
+Induction oberhalb des Kniees der Magnetisirungscurve
+wählt. Da die Kranz- und Schenkellänge annähernd
+der Wurzel aus der Wickelungsfläche proportional ist,
+so stellt sich auch die Curve für das Eisengewicht des
+Magnetsystemes (Curve V in Fig. 5) als ein Product
+aus einer nach abwärts mit einer nach aufwärts steigen­
+den Curve dar. Die Combination der Curven IV und V
+zu einer resultirenden Gewichts- und Preiscurve er­
+folgt Avie beim ersten Beispiel. Theures Kupfer würde
+zu einer niedrigeren, theures Eisen zu einer höheren
+Wahl der Induction bestimmen; der Bereich aber,
+innerhalb dessen die Induction sich bewegen kann, ist
+durch die Tiefpunkte beider Einzelcurven begrenzt.
+Die Wahl der Luftinduction B x äussert ihre
+Wirkung auf das GeAvickt aller Theile der Dynamo­
+maschine. Das Ankervolumen (Formel I) ist dieser In­
+duction verkehrt proportional; die Querschnitte der
+magnetischen Theile sind der Induction direct pro­
+portional, ausserdem aber noch vom Ankervolumen ah-
+abhängig, u. zav. erscheint hier (siehe Formel V und
+D 2 l
+A
+VII b) der Ausdruck -———. Diese Form hatten Avir
+stets benützt, um bei constantem Ankervolumen den
+Einfluss des Ankerdurchmessers festzustellen. Setzen
+wir aber jetzt voraus, dass das Verhältnis~ ein con-
+stantes sei und setzen wir das Ankervolumen— D 2 I
+4
+gleich A. so ergibt sich der obige Ausdruck als eine
+der Cubikwurzel aus dem Quadrate des Ankervolumens
+proportionale Grösse.
+£ D 2 l
+= c\/A 2
+D
+
+Soito 178,
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 15.
+Die Abhängigkeit der Magnetquerschnitte von der
+Induction B 1 wäre somit durch das Product
+3
+C.B 1 y^=C.B 1 Y~=C. V~Bi
+gegeben, d. h. die Querschnitte wachsen nur mit der
+Cubikwurzel aus der Luftinduction. Bei Verdoppelung
+der Luftinduction werden die Magnetquerschnitte nur
+um 26% grösser. Es wachsen aber auch die Ampere-
+Windungen pro Spule und durch die eigenthümliche
+Verkettung von Wickelungsfläche und Eisenlänge, Eisen­
+querschnitt und Windungslänge erfährt das Magnet­
+system eine viel grössere Gewichtszunahme. Die aus
+allen Theilen combinirte Gewichts- und Preiscurve ist
+den früher behandelten wieder ganz ähnlich; bei hohem
+Preise des Ankerbleches, der Papierisolation, der Stanz­
+arbeit etc. und auch der Handarbeit, die beim Anker­
+aufbau in viel höherem Maasse zur Anwendung kommt
+als bei den anderen Theilen der Maschine, wird eine
+höhere Induction unter dem Polschuh ökonomischer
+sein. Allerdings müssen wir auch mit Rücksicht auf
+die Funkenbildung— siehe Gleichung 1)— den
+Werth B x möglichst über jener Grösse B' halten,
+welche zur funkenlosen Commutirung an der vorderen
+Polspitze als nothwendig erachtet wird. Gelingt es,
+diese Grösse herabzudrücken, so kommen mit Rück­
+sicht auf das Gewicht des Magnetgestelles auch kleinere
+Inductiönen B i in 'Betracht als sonst.
+Weitere Grössen, die das Ankervolumen und da­
+mit auch alle anderen Theile der Maschine beeinflussen,
+sind (Formel I) a und hj. Während aber a, das Pol­
+schuhverhältnis, erstens nur bis zum Grenzwerthe 1
+wachsen kann, zweitens dadurch, dass es wie B 1 heim
+Magnetquerschnitt als Factor erscheint, das Magnet­
+gestell wieder schwerer macht, wenn es das Anker­
+gewicht erleichtert, so nimmt h j, die Zahl der Ampere­
+windungen des Ankers pro Längeneinheit des Umfanges,
+von allen betrachteten Factoren eine exceptionelle
+Stellung ein. Als additive Grösse erscheint es nur in
+Formel 2), es vergrössert durch die „Gegenwindungen
+des Ankers“ die Grösse der Magnetwickelung.— Ge­
+länge es aber, diese Gegenwindungen zu beseitigen
+und hj zu vergrössern, ohne Luftinduction B t und
+Luftspalt l h vergrössern, oder das Polschuhverhältnis er.
+verkleinern zu müssen (siehe Formel 1), so würde das
+Anker- und mit ihm das ganze Maschinenvolumen
+entsprechend dem Wachsen des hj verkleinert werden.
+Dies führt aber auf das grosse Problem der Gleich­
+stromtechnik, auf die Bekämpfung von Anker-Reaction
+und Funkenbildung.
+(Schluss folgt.)
+Verschiedenes.
+(Irosslierzogliclie technische Hochschule zu Harmstadt.
+Vorlesungen und Uebtngen über Elektrotech-
+n i k im Sommersemester 1900. Beginn des Semesters am 24. April.
+Allgemeine Elektrotechnik I und II (für die Studirendon der
+Elektrotechnik), Geheimrath Prof. Dr. Kittier, jo 2 St.—
+Allgemeine Elektrotechnik I, Uebungen, Assistent Rappel,
+2 St.— Elemente der Elektrotechnik (für die Studirenden des
+Maschinenbaues und der Chemie), Prof. Dr. W i r t z, 3 St.—
+Constructionen elektrischer Maschinen und Apparate, Professor
+Songel, 2 St. Vortrag, 3 St. Uebungen.— Projectiren elek­
+trischer Licht- und Kraftanlagen, Derselbe, 2 St. Uebungen.—
+Elektrotechnische Messkunde II, Prof. Dr. W i r t z, 2 St. ■—
+Uebungen im elektrotechnischen Laboratorium, Geheimrath Prof.
+Dr. lv i 111 o r in Gemeinschaft mit Prof. Sengel, Prof. Dr.
+W i r t z und den Assistenten des elektrotechnischen Instituts,
+4 halbe Tage wöchentlich.— Selbstständige Arbeiten aus dem
+Gebiete der Elektrotechnik (für vorgeschrittenere Studirende),
+Geheimrath Prof. Dr. K i 111 o r, Zeit nach Vereinbarung.—
+Grundzüge der Telegraphie und Telephonie, Prof. Dr. Wirt z,
+2 St.— Grundzüge dor Elektrotechnik (für die Studirenden der
+Architektur und des Ingenieurwesens), Prof. Sengel, 2 St.
+Am 24. März d. J. hat die Firma Körting& MatUiesen
+die Fertigstellung der lOO.OOOsttm Bogenlampe mit ihiem,
+aus 320 Arbeitern und 50 Beamten bestehenden Personal
+gefeiert. Dieser Erfolg ist in einem Zeiträume von IO1/2 Jahren
+erreicht worden, ein Beweis für die Leistungsfähigkeit
+der Fabrik; im letzten Jahre betrug die Production allein 24.000
+Lampen. Wir können die Firma zu ihrem damit dargethanen Er­
+folg, welcher für die Giito der Fabrikate spricht, nur herzlichst
+beglückwünschen.
+Ausgeführte und projectirte Anlagen.
+Oesterreich-Ungarn.
+a) Oesterreich.
+Gösting in Steiermark. (Bewilligung zur Vor­
+nahme technischer Vorarbeiten für emo Klein­
+bahn v o 11 A n d rit z n a c h G ö s t in g m i t e 1 ne m F1 ügel
+nach St. S t e f a n.) Das k. k. Eisenbahnmmistenum hat dem
+Ingenieur Ludwig Philipp Schmidt in Graz die Bewilligung
+zu? Vornahme technischer Vorarbeiten für eine mit elektrischer
+Kraft oder mit einem anderen mechanischen Motor zu betreibende
+normalspurigo Kleinbahn von Andritz nach Gösting mit einem
+Flügel über Weinzödl nach St. Stefan im Sinne der bestehenden
+Normen auf die Dauer eines Jahres erthoilt.
+Libocli. (Bewilligung zur V 0 r 11 a hme t e c h-
+nischer Vorarbeiten für eine elektrische Klein­
+bahn vonLiboch nach D a 11 b a.) Das k. k. Eisenbahn-
+ministerinm hat dem Ingenieur Emanuel Rubritius in 1 iag
+die Bewilligung zur Vornahme technischer Vorarbeiten für eine
+mit elektrischer Kraft zu betreibende Kleinbahn von der Station
+L i b o c h der k. k. priv. Oesterr. Nordwestbalm über b c be­
+lesen Tupadl, Chudolas, Mcdonost und Töbchen
+nach Dauba im Sinne dor bestehenden Normen auf die Dauer
+eines Jahres erthoilt.
+Salzburg. (Bewilligung zur Vor na h me t e c h-
+niacher Vorarbeiten für eine elektrische K1 ein­
+bahn 1 i n i e in Salzburg.) Das k. k. Eisenbahnministerium
+hat der Firma Siemens& H a 1 s k e Actiengesellschaft, Wien,
+die Bewilligung zur Vornahme technischer Vorarbeiten für eine
+normalspurigo, mit elektrischer Kraft zu betreibende Kleinbahn­
+linie in Salzburg, und zwar vom Staatsbahnhofe durch, die West­
+bahnstrasse. über den Mirabellplatz, durch die Dreifaltigkeits-
+gasse, über den Makartplatz, durch die Schwarzstrasse, über die
+Staatsbrücke und den Rudolfs-Quai, durch die Klampferergassc,
+über den Ludwig Victor-Platz, durch die Churfürltengasse, über
+den Universitäts- und Sigmundsplatz, durch das Neuthor, die
+Neuthorgasse und die Moosstrasse bis in die Maxglanerstrasse nn
+Sinne der bestehenden Normen auf die Dauer von sechs Monaten
+ertheilt.
+b) Ungarn.
+Budapest. (C o n c e s s i o n für Vorarbeiten elek­
+trischer Eisenbahnen.) Der ungarische Handelsminister
+hat die dem Budapester Einwohner Ladislaus Szesztay, Inge­
+nieur und Professor am königl. ung. Josefspolytechnicum ertheilte
+Concession für die Vorarbeiten eines vom Intravillan der Haupt­
+amt Residenzstadt B u d a p e s t bei dor Kreuzung der Margit­
+gasse, Törökgasse und Primasgasse ausgehend über die Margit­
+gasse und den Szomlöberg bis zur Gemeinde H i d e g k ti t füh­
+renden elektrischen Vicinalbahn auf die Dauer eines,
+weiteren Jahres erstrockt; ferner Demselben die Concession
+für die Vorarbeiten einer als Fortsetzung der Budapest-Hidegkuter
+elektrischen Vicinalbahn durch das Intravillan der Gemeinde
+Hidegkiit bis zur Gemeinde S o 1 ym k r, sowie von dieser
+Linie abzweigend von der Gemeinde H i d o g k u t aus mit Berüh­
+rung von Maria-Remete (Maria-Einsiedel) bis zur Mitte der Gemeinde
+Bu dakesz, als auch von der orstoron Linie abzweigend
+ebenfalls von Hidegkiit bis zur Mitte der Gemeinde Nagy-
+Koväcsi führenden elektrischen Vicinalbahn auf
+die Dauer eines Jahres ertheilt.
+Nagyvärad. (Verl ä n g orung der Co n c o s s i o n f ü r
+die Vorarbeiten dor Nagyvärad-_ O s i c s elek­
+trischen Eisenbahnlinie der N agyyärader-Loeo-
+motiv-Strassenbahn.) Dor ungarische Handelsmmister hat
+die der Nagy varade r-Lo comoti v-S tr a.s senbahn-Actien-
+
+Nr. 15.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 179.
+gesellschaft für die Vorarbeiten einer von der projectirten
+Linie: Nagytclekesgasso ihrer Bahn abzweigend in der
+Richtung der Meierei Folsö-Ösi bis zur Station Ösi der königl.
+nng. Staatseisenbahnen führenden normalspurigen elektrischen
+Eisenbahn ertheilte Concession auf die Dauer eines weiteren
+Jahres verlängert. M.
+Szolnok. (Elektrische Eisenbahn.) Der königl.
+ungar. Handelsminister hat die dem Puszta-Monostorer Einwohner
+und Grossgrundbesitzer Bela Fay ertheilte Concossion für die
+Vorarbeiten einer im Intravillan der Stadt Szolnok vom Auf­
+nahmsgebäude der königl. ungar. Staatsbahnen ausgehend über
+die Barossgasse und Gorovegasse bis zur Zagyvabrücke, dann
+von der Barossgasse abzweigend über den Laktanya (Kasernen-)
+Ring bis zum Lastenbahnhofe der königl. ungar. Staats­
+bahnen, und von hier über die Tomorygasse und Szapärygasse
+bis zur Mündung der Barossgasse, endlich mit Verbindung der
+Barossgasse und dem Lastenbahnhofe über den Szechenyplatz
+und Barätplatz durch die Constantingasse zu führenden, auf
+Personen- und Frachten-Verkehr einzurichtenden normalspurigen
+Pferdebahn, eventuell elektrischen Strassenbahn,
+auf die Dauer eines weiteren Jahres erstreckt. M.
+Literatur-Bericht.
+Das städtische Elektricitätswerk zu Frankfurt a. M.
+von Director G. J. M e 1 m s. 16Bogen Grossquart, mit zahl­
+reichen Abbildungen, neun Beilagen und graphischen Darstellungen
+in Farbendruck.— 1900.— Preis Mk. 12.—. Verlag August
+O s t o r r i e t h. Frankfurt a. M.
+Der Verfasser, der den ganzen Bau und die Erweiterungen
+der Anlage, sowie den Betrieb derselben während 4'/2 Jahren
+leitete, bringt in diesem Werke ausser einer Beschreibung der
+baulichen, maschinellen und elektrischen Einrichtungen des Elek-
+tricitätswerkes, eine eingehende Schilderung desselben mit zahl­
+reichen Tabellen, Zusammenstellungen und Betriebsberichten,
+sowie auch eine Beschreibung einiger grösserer, an dieses Elek­
+tricitätswerk angeschlossenen Motoranlagen, u. A. auch der Um­
+formerstation der städtischen Strassenbahn. Das Werk bietet
+nicht nur den elektrotechnischen Kreisen, sondern auch Communal-
+behörden und Besitzern von Motoren-Anlagen etc. grosses Interesse.
+K. Behremlt’s Conniiandit-Gcscllsclial't, Berlin W. Illu­
+st r i r t e s Preis-Verzeichnis über Materialien
+für die Elektrotec h n i k. I. Auflage 1899—1900. 1. Band
+für Schwachstrom. Ein complettes Verzeichnis sämmtlicher Four-
+nituren. Preis 1 Mk.
+Geschäftliche und. finanzielle Nachrichten.
+Die Zwickauer Elektricitätswerk- und Strassenbahn-
+Actien-Gesellscliaft, deren Actien zum grössten Theile im Be­
+sitze der „Elektra“ Actien- Gesellschaft in Dresden,
+sich befinden, versendet ihren fünften Geschäftsbericht. Die
+Bruttoeinnahmen einschliesslich Gewinnvortrag und Zinsen betragen
+277.806 Mk., die Gosammtausgaben 137.510 Mk. Der Bruttogewinn
+beläuft sich auf 140.296 Mk. (i. V. 127.277 Mk.) und wird wie
+folgt verwendet: Rückstellung für Erneuerungen 42.000 Mk.,
+Rückstellung für Capitaltilgung 13.200 Mk., Reservefonds 4117
+Mark, Tantiemen und Gratifieationen 3142 Mk., 43/4% D i v i-
+d endo (i. V. 4t/ 2 o/ 0) 76.297 Mk. An der Dividende nehmen
+Theil 1,400.000 Mk. voll eingezahlte Actien 1. Emission und die
+Actien 2. Emission mit 275.000 Mk. Einzahlung. Die Central­
+station wurde erweitert durch Aufstellung einer Pufferbatterie.
+Im laufenden Jahre kommen für den erweiterten Strassonbahn-
+betriob 2 Dampfmaschinen von jo 300/420 1 J S mit je 2 Dynamos
+und 2 Dampfkesseln zur Aufstellung. Die Erweiterung der Strassen­
+bahn nach Wilkau ist fertig gestellt und theilweise in Betrieb;
+für die Verlängerung dieser Linie bis Nieder hasslau ist die
+Concession nachgesucht. Der Ausbau nach Pölbitz soll im Jahre
+1900 erfolgen und verschiedene andere Projecte befinden sich
+noch in Bearbeitung, so dass das Unternehmen einer wesentlichen
+Erweiterung entgegengeht.
+Dio Vereinigten Elektricitätswerke Actien-Gescilschaft
+in Dresden haben in dem Geschäftsjahr 1899 einen Rein­
+gewinn von 138.017 Mk. erzielt. Der Vorstand und Aufsichts­
+rath schlagen der am 28. April stattfindenden Generalversammlung
+vor, hiervon 40.466 Mk. zu Abschreibungen zu verwenden, 5000
+Mark dem Reservefonds zu überweisen, 41.000 Mk. zu Extra-
+reservostellung und Abschreibungen zu verwenden und 5% Divi-
+d o n d e auf das um 750.000 Mk. erhöhte Aetiencapital zur Aus­
+zahlung zu bringen.
+Crefeld-Uerdinger Localbahn. Der Geschäftsbericht für
+1899 constatirt, dass auf den Linien der Bahn der eie kt risch e
+Betrieb zugelassen und zugleich dio Concession bis zum
+31. December 1942 verlängert worden ist. Damit ist zugleich die
+Verpflichtung zum Bau und Betrieb neuer Linien verbunden.
+Die Gesellschaft hat sich ferner verpflichtet, vom 1. Jänner 1923
+ab aus dem Betrieb ihrer sämmtlichen Linien, soweit dieselben
+auf Crofoldcr Gebiet liegen, ein Drittel desjenigen Reingewinnes,
+der 5»/o dos Actiencapitals übersteigt, an die Stadt Crofold abzu­
+führen. Vom gleichen Zeitpunkt ab hat die Stadt ein Erwerbs­
+recht auf dio gesammten Bahnanlagen. Die Verwaltung hofft, mit
+den nouon Anlagen noch erheblich vor dem 1. Juli 1902 in Be­
+trieb kommen zu können. Die beschlossene Erhöhung des Actien­
+capitals um 1,500.000 Mk. auf 2,000.000 Mk. soll jetzt in Angriff
+genommen werden. Der Betriebsüberschuss betrug im vergangenen
+Jahre 144.882 Mk. Nach Abzug der Unkosten, Zinsen u. s. w.,
+sowie nach Ueberweisung von "22.532 Mk. an den Erneuerungs­
+fonds, von 15.000 Mk. an den Tilgungsfonds und 35.320 Mk. Ab­
+schreibungen verbleibt ein Reingewinn von 61.437 Mk. zu
+folgender Verwendung: Reservefonds 3267 Mk., Extrareservefonds
+2208 Mk., Tantiemen 5876 Mk., 10% Dividende= 50.000 Mk.,
+Vortrag 3211 Mk.
+Berliner elektrische Strassenbahnen-Actien-Gesellschaft.
+In der am 30 v. M. stattgehabten Aufsichsrathssitzung wurde der
+Geschäftsbericht für das erste, 5'/a Monate umfassende Geschäfts­
+jahr vorgelegt. Der Gesammt-Reingewinn stellt sich einschliesslich
+21.961 Mk. Zinsen auf 97.001 Mk. Zur Zahlung von 50/ 0 Bau­
+zinsen sind erforderlich 131.100 Mk., sodass statutengemäss
+37.098 Mk. auf Anlage-Conto übernommen werden. Dio Betriebs­
+einnahmen betragen für die Zeit vom 1. Juli bis 31. Decembor v. J.
+501.865 Mk. Hierbei ist zu berücksichtigen, dass die Linie Mittel­
+strasse— Pankow erst vom 16. Decembor 1899 an vollständig dem
+Betriebo übergeben wurde, während bis dahin nur dio Theil-
+strocke Pankow—Elsasserstrasse im Betrieb war. Da der volle
+Betrieb erst am Schluss dos nicht sechs Monate umfassenden Ge­
+schäftsjahres anfgonommen wurde, hat eine Abschreibung nicht
+stattgefunden. Die Generalversammlung findet am 19. April d. J. statt.
+Die A.-G. Elektricitätswerke Warnsdorf hielt am 28. v. M.
+ihre Generalversammlung ab. Der Gewinn für das abgolaufone
+Jahr beläuft sich auf 14.431 fl. Nach dem Anträge der Diroction
+gelangt eine 4%ige Dividende zur Auszahlung. Zur Zeit sind
+6 Bogenlampen und 7781 Glühlampen verschiedener Kerzenstärke
+an die Centralstation angeschlossen. Für 35 Motoren mit zu­
+sammen 106 I'S wird Strom geliefert. In den Verwaltungsrath
+wurden gewählt die Herren: MUDr. S10 i n f e 1 d e r als Vor­
+sitzender, Carl Seidl, Joh. Ad. K nutz aus Warnsdorf und
+Engelbert J o h n, Glasraffineur aus Steinschönau. Das Werk wird
+auch für dio demnächst zu erbauende elektrische Strassenbahn
+Warnsdorf—Rumburg dio elektrische Kraft liefern.
+Vereinsnachrichten.
+Chronik des Vereines.
+7. März. Ge selligkeitsabend im Hotel
+„Savoy“.
+14. März. Sitzung des Congress (Zwölfer-)
+Comitö, sodann Vereinsversammlung im Pest­
+säule des Ingenieur- und Architekten-Verein es.
+Der Vorsitzende, Prof. Carl S eh lenk, eröffnet die
+Sitzung und theilt zunächst mit, dass auf die infolge
+Congressbeschlusses an die Regierung gerichtete Petition,
+den Bezug von steuerfreiem Benzin zum Betriebe von
+Motoren ohne Rücksicht auf deren Verwendung zu ge­
+statten, von der k. k. Finanz-Landesdirection
+in Wien unterm 25. Februar 1. J. folgende Antwort
+eingelaufen ist:
+„Ueber die beim k. k. Finanzministerium ein-
+gebrachte Eingabe vom 7. December 1899, Zahl 967
+wegen Bewilligung zum steuerfreien Bezüge von
+Benzin zum Betriebe von Motoren ohne Rücksicht
+auf deren Verwendungszweck, wird dem Vereine zu­
+folge Erlasses des k. k. Finanzministeriums vom
+14. Februar 1900, Zahl 72378/99 eröffnet, dass ge­
+mäss Finanzministerial-Erlasses vom 23. Jänner] 900,
+
+Seite 180.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 15.
+R. G. B. Nr. 20, steuerfreies Benzin nunmehr auch
+zum Betriebe von Motoren, welche für andere als
+gewerbliche Zwecke verwendet werden und unter
+gewissen Voraussetzungen auch zum Betriebe von
+Motoren, welche zur Erzeugung von elektrischem
+Lichte dienen, bewilligt werden kann.“
+In dem vorstehend angeführten R. G. B. Nr. 20
+heisst es nun, dass die Bewilligung zum steuerfreien
+Bezüge von Benzin zum Betriebe von Motoien auch
+Personen, bezw. Unternehmern ertheilt werden darf,
+welche den Motor für andere als gewerbliche Zwecke,
+z. B. zum Betriebe von landwirtschaftlichen Maschinen,
+von Motorwagen etc. verwenden.
+Dann heisst es aber wörtlich: „Zur Erzeugung von
+elektrischem Lichte dürfen die mit steuerfreiem Benzin
+gespeisten Motoren jedoch nur ausnahmsweise insoweit
+benützt werden, als das erzeugte Licht ausschliesslich
+nur zur Beleuchtung von Localitäten dient, welche zur
+Betriebswerkstätte," in welcher der Benzinmotor als
+Kraftentwickler verwendet wird, gehören.“
+Der Vorsitzende bemerkt, dass demnach vorläufig
+nur ein
+ein Anfanc
+Erfolg
+erzielt, dass aber
+wenigstens
+gemacht worden sei.
+Er theilt
+Wahlcomitd
+zur Besserung der
+bestandenen Verhältnisse
+zur
+ferner mit, dass der Ausschuss für das
+„ aillwimi„_ nächsten Generalversammlung drei
+Mitglieder nominirt hat und dass noch vier Mitglieder
+aus dem Plenum gewählt werden müssen.
+Regierungsrath Gattinger schlägt vor, .die
+Herren Ingenieur Theodor Fischer, Ingenieur
+E h r 1 i c h, Fabrikant Leopolder jun. und Ingenieur
+Bruribauer zu wählen.
+Dieser Vorschlag wird von der Versammlung ein-
+In-
+stimmig angenommen.
+Hierauf ertheilt der Vorsitzende dem Herrn
+genieur Julius Stern das "Wort zu dem angekündigten
+Vortrage über: „Das automatische S chn eli­
+teleg raphen-SystemPollak-Vir ä g.“ Ingenieur
+Stern führt aus, dass die eminente Wichtigkeit eines
+raschen Gedankenaustausches zwischen den Völker­
+schaften schon in alter Zeit anerkannt worden ist. Je
+mehr sich die industrielle Thätigkeit und mit ihr
+Handel und Gewerbe eines Landes entwickele,^ um so
+rascher muss der Gedankenaustausch erfolgen. So steht
+also die Entwickelung eines Landes mit der Aus
+dehnung des Verkehrwesens in
+innigstem
+Zusammen­
+hänge. Heute begnügt man sich nicht mehr mit der tele­
+graphischen Uebertragung von Depeschen mittelst des
+Morseapparates._
+Ein Symptom, welches zeigt, dass man beständig
+an eine grössere Raschheit der Uebertragung von Tele­
+grammen denken muss, ist die Inanspruchnahme der
+Telegraphenlinien. In dieser Beziehung liefert die
+Statistik sehr interessante Daten.
+Redner vergleicht die Beanspruchung eines Drahtes
+mit Telegrammen pro Kilometer Leitungslänge rück-
+sichtlich der Jahre 1881, 1886, 1890 und 1896 und der
+Staaten Oesterreich-Ungarn, Deutschland und England
+und gelangt zu folgendem Resultate:
+Es entfallen pro Kilometer Drahtleitung
+auf das Ja h r
+1881 1886 1890
+in Oesterreich-Ungarn 67‘2
+Deutschland .... 54-6
+„ England 157-2
+Telegramme.
+68-6
+561
+191-7
+74-0
+63-1
+193-2
+1896
+82-8
+63-8
+221-2
+In dieser Zusammenstellung fällt die ausseror­
+dentliche Belastung der Telegraphenlinien Englands
+auf. In England ist auch thatsächlich der erste prak­
+tische Schnelltelegraph von Wh cats tone construirt
+und eingeführt worden.
+Redner bespricht nun in Kürze an der Hand von
+Darstellungen mittelst des Skioptikons die bekannten
+Schnelltelegraphen-Systeme von IIug he s, Baudot
+und Wbeatstone und übergeht hierauf zur ein­
+gehenden Besprechung des automatischen Schnell-
+telegraphen-Systems von Pollak-Viräg an der Hand
+von Darstellungen mittelst des Skioptikons und mehreren
+schematischen Zeichnungen.
+Mit Rücksicht auf die im Hefte Nr. 31, 1899, be­
+reits erschienene Abhandlung wird von einer vollstän­
+digen Beschreibung dieses Systems an dieser Stelle
+abgesehen.
+Zur Ergänzung jenes Artikels sei hier aus den
+Erörterungen des Vortragenden noch folgendes mit-
+getheilt:
+Der Uebertragung von Telegrammen nach dem
+System Pollak-Viräg muss, wie aus dem ange­
+führten Artikel hervorgeht, eine mechanische Arbeit
+vorausgehen und diese besteht in der Perforirung des
+in zweckmässiger Weise imprägnirten Papierstreifens.
+Diese Perforirung erfolgt mittelst eines in Fig. 1 dar­
+gestellten Apparates, welcher aus einem Stanzwerke
+und drei nebeneinander angeordneten Tastern besteht.
+Mit den beiden seitlichen Tastern erfolgt ^die den ein­
+zelnen Buchstaben, bezw. Worten und Zeichen ent­
+sprechende Durchlochung des Papiers; die mittlere, zur
+leichteren Führung des Papierstreifens dienende Loch­
+reihe wird, soweit sie mit den Buchstaben correspon-
+dirt, ebenfalls und zwar gleichzeitig mit diesen ver­
+mittelst der beiden Taster ausgestanzt, während die den
+Pausen zwischen den einzelnen Buchstaben und Worten
+entsprechenden und zur Führung dienenden Löcher
+durch den mittleren Taster hergestellt werden.
+Fig. 1.
+Die Perforirung geht, wie Redner an einem
+Apparate zeigt, rascher vor sich, als beispielsweise das
+Spiel auf einem Morsetaster und fällt sehr rein aus.
+Fig. 2 stellt die complete Schaltung zweier Sta­
+tionen A und B dar.
+Der Vorgang bei der Abgabe eines Telegrammes
+in der Sende- und bei der Aufnahme desselben in der
+Empfangsstation vollzieht sich auf folgende Weise:
+et) Vorgang in der Sendestation.
+Ein zur Drehung der mit der Linie verbundenen
+Papierwalze w (vergl. Fig. 2) dienender, im Schaltungs-
+
+Nr. 15.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 181.
+33 altezic.
+Schema weggelassener kleiner elektrischer Motor (an
+dessen Stelle wohl auch ein Uhrwerk verwendet werden
+kann) läuft, wenn nicht correspondirt wird, beständig
+leer. Soll nun ein Telegramm expedirt werden, so wird
+der entsprechend perforirte Streifen auf die Walze w
+Fig. 3.
+Herstellung der Leitung für den Inductionsstrom) ge­
+schlossen und der Schalthebel h in die in Fig. 2, A,
+bezw. 6 dargestellte Lage gebracht und somit die
+Batterie in die Linie eingeschaltet.
+In diesem Momente beginnt auch schon die Ab­
+gabe des Telegrammes.
+Fig. 5.
+/Stellung ctc-i Jlurbelunucha /tczs ««/.-
+Fig. i.
+Fig. 6.
+aufgelegt und die beiden feinen Platindrahtbürsten b
+und b t auf denselben federnd eingestellt. Hierauf wird,
+nachdem die Empfangsstation über vorherige telephoni­
+sche Verständigung ihren Kurbelumschalter in die zum
+Empfange eines Telegrammes vorgeschriebene Lage ge­
+bracht hat (vergl. Fig. 2, B und 4), die Kurbel k des
+Magnetinductors i aus ihrer nach aufwärts gerichteten
+Normallage um 180° nach abwärts gedreht (vergl.
+Fig. 2, A, bezw. 6). Durch diese Drehung wird die
+Kuppelung zwischen dem Motor und der Papierwalze w
+in mechanischer Weise eingeschaltet und die Walze
+mit dem perforirten Streifen in Rotation versetzt. Durch
+diese Kurbelbewegung wird infolge eines mechanischen
+Zusammenhanges gleichzeitig, hezw. in entsprechender
+Aufeinanderfolge, der Anker des Inductors in Bewegung
+gebracht, der Momentcontact m (zur vorübergehenden
+Nach Beendigung desselben führt eine weitere
+Bewegung der Inductorkurbel in ihre ursprüngliche
+Stellung die frühere Lage des Schalthebels und dos
+Momentcontactes herbei und löst gleichzeitig die
+Kuppelung zwischen der Papierwalze und dem Motor;
+die Walze kommt zum Stillstände, während der Motor
+wieder leer läuft.
+b) Vorgang 1 in der Empfangsstation.
+Der von der Sendestation abgegebene Inductions­
+strom bewirkt in der Empfangsstation durch Anziehen
+des Ankers v (vergl. auch Fig. 3) und Drehung des
+Arretirhebels 7i, um dessen Achse y ein Auslösen der
+Klappe p des Elektromagnetsystems n\ diese Klappe
+besitzt einen Dorn d, welcher beim Abfallen derselben
+die Arretirung a aufhebt und den zweiarmigen Hebel/
+
+Seite 182.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 15.
+freigibt. Sein linker Hebelarm, auf welchem das Ge­
+häuse 1 mit der Trommel z für das lichtempfindliche
+Papier ruht, senkt sich infolge dieser Belastung etwas
+nach abwärts, die mit der Spindel s der Trommel z
+in Verbindung stehende runde Scheibe r kommt gegen
+ihre Peripherie auf den rauh belederten Umfang einer
+in der Fig. 3 weggelassenen rotirenden Scheibe zu ruhen
+und wird von letzterer in Drehung versetzt (dadurch
+gelangt also die Trommel z in Rotation, u. zw. wird sie
+nicht nur um ihre Achse gedreht, sondern auch axial
+bewegt); gleichzeitig wird auch der Contact x ge­
+schlossen und der Empfänger (Telephon mit Spiegelchen)
+eingeschaltet. Während sich der linke Hebelarm nach
+abwärts senkt, steigt der rechte etwas nach aufwärts,
+wodurch ein den Kurzschluss für die Glühlampe bil­
+dender Contact c aufgehoben und diese eingeschaltet wird.
+Fig. 7.
+Fig. 8.
+Das Licht dieser Glühlampe fällt auf den kleinen
+Concavspiegel des Empfängers und dieser wirft es, durch
+eine Cylinderlinse zu einem hellen Lichtpunkte zu­
+sammengezogen, auf das lichtempfindliche Papier. In­
+folge der Stromimpulse, welche die Telephonmembrane,
+bezw. das Spiegelchen" bewegen, bewegt sich dieses
+Lichtbild aus seiner ursprünglichen Lage nach der
+einen oder anderen Richtung, und auf diese Weise ent­
+stehen auf dem lichtempfindlichen Papiere die Zeichen.
+Das Telegramm wird aufgenommen. Nach dessen Be­
+endigung wird der normale Zustand wieder hergestellt.
+Im Schaltungsschema Fig. 2 hat der Kurbel­
+umschalter in der Station A die Stellung auf Abgabe,
+in der Station B auf Empfang eines Telegrammes.
+In der Fig. 4 sind die drei Stellungen des Kurbel­
+umschalters dargestellt.
+Zur Verständigung beider Stationen über die Ab­
+gabe und den Empfang von Telegrammen etc. dienen
+Telephone; normal haben die beiden Kurbelumschalter
+eine solche Stellung, dass die telephonische. Verbindung
+hergestellt ist.
+In den Fig. 5 und 6 sind die beiden Stellungen
+der Inductorkurbel und des mit derselben in mechani­
+schem Zusammenhänge stehenden Schalthebels und
+Momentcontactes zur Darstellung gebracht.
+Die Fig. 7 und 8 stellen die Anordnung säm red­
+licher Apparate und Theile einer Station von der einen,
+bezw. von der anderen Seite aus gesehen dar, doch
+fehlt in der Darstellung Fig. 7 das Gehäuse mit der
+Trommel für das lichtempfindliche Papier.
+Fio-, 9 zeigt ein Detail der Gesammtanordnung,
+den Empfangsapparat (Telephon und Glühlampe mit
+den beiden Röhren für das einfallende und reflectirte
+Lichtbild) und Fig. 10 den Geber (die Antriebscheibe
+für die Papierwalze, die beiden Hebel mit den Platin­
+bürsten und zwei Papierwalzen).
+Die in der Gesammtanordnung aller Apparate und
+Theile ersichtlichen beiden grösseren Papierrollen, von
+denen die eine ebenfalls durch den Motor mit Hilfe
+eines Zwischengetriebes gedreht wird, dienen zur Ab-,
+bezw. Aufwickelung des Papierstreifens.
+Fig. 9.
+Fig. 10.
+Die Entwickelung der Schrift auf dem licht­
+empfindlichen Papiere erfordert einen Zeitraum von
+10—15 Secunden.
+Jede Station kann mit mehreren Reservetrommeln
+mit lichtempfindlichem Papier ausgerüstet werden.
+Anknüpfend an die Beschreibung der ganzen
+Einrichtung des Schnelltelegraphen von Pollak-Viräg
+vergleicht "der Vortragende die Leistungsfähigkeit der
+heute in Verwendung stehenden Systeme und gelangt
+zum nachstehenden Resultate:
+25 Worte pro Minute,
+45„
+1. System Morse simpl...
+„ dupl....
+Hughes simpl. ... 60
+Morse quadrupl... 65
+Hughes dupl 110
+Baudot quadrupl.. 160
+Wheatstone .... 400
+Pollak-Viräg... 1680
+Pro Wort 0'05 mm genommen,
+in Figur 11 dargestellte graphische Zusammenstellung
+obiger Resultate.
+Ein Vergleich zwischen der Länge der Mörse-
+Schrift und der Schrift des Systenfts Pollak-Viräg
+ist in Fig. 12 gegeben.
+ergibt sich die
+
+Nr. 15.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Redner bemerkt, dass mittelst des Schnelltele­
+graphen Pollak-Viräg bereits mehrfache Versuche
+ausgeführt worden sind. Die ersten grösseren Versuche
+erfolgten infolge des liebenswürdigen Entgegenkommens
+und im Beisein der königlich-ungarischen Postver­
+waltung zwischen Budapest und Temesvär und wurden
+unter anderem in der Weise veranstaltet, dass vier
+nach Temesvär führende Bronceleitungen derart mit­
+einander verbunden wurden, dass sich insgesammt eine
+Leitungslänge von circa 1300 km ergab; der Sende- und
+Empfangsapparat war in Budapest aufgestellt. Der
+Widerstand der Leitung betrug circa 8000 Sä, die
+Spannung circa 20 T 7.
+t).
+S)_
+3)_
+'/)
+5)
+G)
+1\
+*>
+Fig. 11.
+Fig. 12.
+Im September v. J. wurden die Versuche im Bei­
+sein der königlich-ungarischen und deutschen Post­
+verwaltung zwischen Budapest und Berlin durchge­
+führt. Die Länge der Leitung betrug circa 10G0 hm, die
+Batteriespannung circa 12 V.
+Im December v. J. wurden die Erfinder nach
+Amerika berufen. Es wurden daselbst Versuche ver­
+anstaltet zwischen Chicago-Buffalo-Chicago bei einer
+Gesammtlänge der Leitung von circa 1800 hm, zwischen
+Chicago und New-York bei einer Leitungslänge von
+rund 1500/cw?, und endlich zwischen Chicago und
+Milwaukee.
+In allen diesen Fällen functionirten die Apparate
+bei jeder Witterung vollkommen sicher und tadellos.
+Der Vortragende schliesst mit dem Bemerken,
+dass sich mit diesem Systeme ganz colossale Per­
+spectiven für die Zukunft eröffnen.
+Die Vortheile, welche es bietet, sind in der Haupt­
+sache in dem folgenden, von Budapest nach Berlin ab­
+gegebenen Telegramme, das vom Redner vorgelesen
+wird, zusammengefasst:
+„Die praktischen Vortheile, welche das Sclmell-
+telegraphiren bietet, kommen nicht nur dem Staate,
+dem telegraphirenden Publikum, sondern auch dem
+Telegraphenbeamten zu Gute. Dem Staate bleiben
+fortan die Erbauungskosten neuer Linien erspart, und
+die Erhaltungsspesen der schon bestehenden Linien
+reduciren sich auf ein paar Leitungen, wovon der eine
+Draht stets nur als Reserve dient, indem mittelst eines
+Drahtes auch der enormste Verkehr abgewickelt werden
+kann. In absehbarer Zeit wenigstens dürfte die Noth-
+wendigkeit sich kaum einstellen, über hunderttausend
+Worte in der Stunde zu telegraphiren, abgesehen da­
+von, dass die Leistungsfähigkeit dieses Systemes darüber
+Seite 183.
+hinausreicht. Die ausserordentliche Ausnützung der
+Leitungen bei verminderten Erhaltungsspesen wird
+einen billigeren Tarif und einen gesteigerten Verkehr
+mit sich bringen. Die Nothwendigkeit von dringenden
+Depeschen fällt weg, die Verstümmelung von Tele­
+grammen wird nicht mehr Vorkommen, da die Per­
+forationsstreifen vor Absendung controlirt und berichtigt
+werden können. Die Anzahl der Telegraphenbeamten
+wird nicht nur verringert, sondern sogar vermehrt
+werden müssen, ihre Arbeit hingegen gestaltet sich
+einfacher und verantwortungsloser.“
+Redner knüpft daran noch die Bemerkung, dass
+sowohl dem Staate, als auch dem tegraphirenden
+Publikum weitere Vortheile dadurch erwachsen könnten,
+dass das Perforiren des Papieres vom Aufgeber der
+Telegramme, wenn auch nicht im allgemeinen, so doch
+z. B. von solchen Stellen und Anstalten erfolgt, welche
+einen regen Telegrammverkehr auf langen Linien, die
+in erster Reihe in Betracht kämen, unterhalten.
+Bei Manövern und im Kriegsfälle, wo oft nur
+eine sehr beschränkte Zahl von Telegraphenlinien zur
+Verfügung steht, würde sich das System Pollak-
+Viräg ganz besonders vortheilhaft verwenden lassen.
+Vermittelst desselben würde z. B. eine Zeitung
+— Redner nimmt das Morgenblatt der „Neuen Freien
+Presse“ vom 8. März zur Hand— mit
+13!/ 2 Druckseiten, 35 Spalten und circa
+32 000 Worten in einem Zeiträume von
+ungefähr 20 Minuten abtelegraphirt werden
+können.
+Nach einer auf die automatische Aufnahme
+der Telegramme und die Schaltung mehrerer Stationen
+bezüglichen Anfrage des Controlors Krejsa und
+nachdem sich sonst niemand zum Worte meldet, dankt
+der Vorsitzende dem Herrn Ing. Stern für die Ab­
+haltung des interessanten Vortrages und schliesst die
+Sitzung. Der Vortrag wurde von der Versammlung.mit
+grossem Beifalle aufgenommen.
+Nach demselben führt der Redner die einzelnen
+Apparate in natura vor. Die Versuche, die damit in
+Gegenwart der zahlreichen Anwesenden veranstaltet
+wurden, waren sehr zufriedenstellend.
+21. März.— Sitzung des Wahl-OomitiS,
+dann Vereinsversammlung. In Verhinderung
+des Präsidenten eröffnet der Vice-Präsident Director
+G. Frise h die Versammlung und ertheilt, nachdem
+keinerlei geschäftliche Mittheilungen vorliegen, das
+Wort dem Herrn Ingenieur F. Eichberg zu dem
+angekiindigten Vortrage „U eb er den Einfluss
+der Linie auf den Gang synchroner Ma­
+schine n.“
+Redner führt aus, dass die Synchronmotoren zwar
+früher zur Anwendung gelangten als die Asynchron­
+motoren, dass sie aber erst wieder in den letzten Jahren
+an Bedeutung gewannen, hauptsächlich durch Ver­
+wendung von synchronrotirenden Umformern.
+Er verweist auf die Arbeiten von Steinmetz,
+Kapp u. a., welche den rotirenden Umformer mit
+Gleich- und Wechselstrommaschinen derselben Leistung
+in Vergleich gezogen und das Verhältnis der frei­
+werdenden J o u le’schen Wärme pro Kilowatt-Leistung
+bestimmt haben.
+Die Amerikaner, welche die Umformer nament­
+lich für die Versorgung grosser Stadtbahnnetze wieder
+eingeführt haben, waren es auch, welche zuerst auf
+
+Seite 184.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 15.
+den wesentlichen Einfluss, den Widerstand und
+Selbstinduction der Linie besitzen, hingewiesen haben.
+Der Vortragende gibt an, dass es ihm haupt­
+sächlich darum zu thun war, den Einfluss, welchen die
+Linie auf dieUeberlastungsfähigkeit, die Regulirfähigkeit
+und das Pendeln der synchronen Maschinen ausübt, zu
+studiren. Er bespricht sodann in Kürze das Diagramm,
+welches im allgemeinen für Synchronmotoren aufge­
+stellt wird und zeigt, wie sich dasselbe transformiren
+lässt, um den Einfluss der Linie, des 0 h m’schen
+Widerstandes, der Selbstinduction und der Gesammt-
+impedanz für jeden beliebigen Arbeitszustand zu er­
+kennen..
+Redner erörtert, in welcher Weise er den Legen­
+stand analytisch behandelt hat und wie er zu der ein­
+fachen Gleichung:
+e e n
+A=
+y«p l 2+ r 2
+cos u.—
+y co 2 L 2+ R
+1 cos (fl— ?)
+gelangte. In dieser Gleichung, welche zur Aufstellung-
+einfacher, sämmtliche Verhältnisse in übersichtlicher
+Weise darstellenden Diagramme geführt hat, bedeutet A
+die an den Motor abgegebene elektrische Arbeit, e 0 die
+E. M. K. des Generators, e die E. M. K. des Motors
+und den Winkel zwischen beiden; die Grösse p ist
+definirt durch die Gleichung
+tg u
+di L
+Vermittelst einer zweiten, ähnlichen Gleichung:
+P=
+e o e
+: cos©—:
+= cos (p+ <p),
+,2 L 2+ RA
+derselben entwickelten
+y o) 2 x 2+ ä 3
+bezw. an der Hand von aus
+Diagrammen erklärt Redner die Verhältnisse des Gene­
+rators, dessen abgegebene Arbeit eben durch die vor­
+stehende, einfache Beziehung ausgedrückt wird.
+. Im weiteren Verlaufe des Vortrages erörtert der
+Vortragende unter anderem noch im Besonderen in
+ausführlicher Weise den Einfluss des 0 h m sehen
+Widerstandes und der Selbstinduction der Linie auf
+das Drehmoment und auf die R e g u 1 i r f ä h i g-
+k e i t des Synchronmotors, bringt zum Schlüsse seiner
+Ausführungen auch noch den Einfluss der Linie auf
+das Pendeln des Motors zur Sprache und zeigt, wie
+man demselben unter Anwendung des Principes der
+Dämpfung begegnen könne.
+Der Vortrag, für dessen Abhaltung der Redner
+lebhaften Beifall erntete, wird in einem späteren Hefte
+des Vereinsorganes vollinhaltlich veröffentlicht werden,
+weshalb hier nur der Gang desselben in Kürze skizzirt
+wurde.
+Vice-Präsident Director Frisch dankt dem
+Vortragenden für die überaus interessanten und in
+praktischer Hinsicht lehrreichen Ausführungen im
+Namen des Vereines und schliesst die Sitzung.
+27. März.
+IV. Ausschuss-Sitzung.
+Wahlergebnisse der XVIII. ordentl. Generalver­
+sammlung vom 28. März 1900.
+Gewählt wurden:
+Zum Präsidenten: Herr Volkmer Ottomar,
+Zum Vice-Präsidenten: Herr Kolbe Josef,
+Director der Allgemeinen Österreichischen Elektricitäts-
+Gesellschaft.
+Zu Aus schuSs-Mit gliedern, die Herren:
+Gebhard Ludwig, Director der Accumulatoren-Fa-
+briks-Actiengesellschaft. (Wiederwahl.)
+Jordan Ernst, Chef der Commandit-Gesellschaft
+Jordan& Treier. (Neuwahl.)
+Ivoestier Hugo, k. k. Baurath im Eisenbahn-Mini­
+sterium. (Wiederwahl.)
+Ivusminsky Dr. Ludwig, Obercommissär im k. k.
+Patentamte. (Neuwahl.)
+T u m a Dr. Josef, Assistent a. d. k. k. Universität.
+(Wiederwahl.)
+Wendelin Wolfgang, Oberingenieur der Siemens&
+Halske Aetiengesellschaft. (Neuwahl.)
+In das Revisions-Go mit 4, die Herren:
+Leopolder Lambert, Fabriksbesitzer.
+Miesler Dr. Julius.
+Reich Emil, Director der Kabel-Fabriks-Actiengesell-
+schaft, vorm. Otto Bondy.
+(Das Protokoll der Generalversammlung erscheint in einer der
+nächsten Nummern dieser Zeitschrift.)
+Nene Mitglieder.
+Auf Grund statutenmässiger Aufnahme traten dem
+Vereine die nachstehend genannten Herren als ordent­
+liche Mitglieder bei:
+Ditmar’s R., Elektrische Abtheilung, Wien.
+Kautzky Albert, Ingenieur der Internationalen Elec-
+tricitätsgesellschaft, Wien.
+Rzilia Edmund von, Oberingenieur der Vereinigten
+Elektricitäts-Aetiengesellschaft, Wien.
+Wagner Franz, technischer Beamter der Firma Leo­
+polder& Sohn, Wien.
+Röder Dr. Louis, Chemiker, Wien.
+Stenzei Josef, k. k. Bauadjunct, Wien.
+Grünhut Alfred, Commissärsadjunct im k. k. Patent­
+amt, Wien.
+Sidler Albert, Elektro-Ingenieur, Wien.
+Etsch werke, Meran.
+Mytteis Eugen, Gesellschafter der Firma P. Iväs-
+bauer& Co., Wien.
+Die nächste Vereinsversammlung findet Mittwoch,
+den 11. d. M., 7 Uhr abends, im Vortragssaale des
+Wissenschaftlichen Club, I., Eschenbaehgasse 9, 1. Stock,
+sts/tt.
+Vortrag des Herrn Obering. P. Poschenrieder:
+„Ueber den Umbau der Grazer Tramway auf
+elektrischen Betrieb.“
+Die Vereinsleitung.
+k. k. Hofrath, Director der k. k. Hof- und Staats­
+druckerei, k. u. k. Oberst i. d. R.
+Schluss der Redaction: 3. April 1900.
+Verantwortlicher Redacteur: Dr. J. Sahulka.- Selbstverlag des Elektrotechnischen Vereines
+Commissionsverlag bei Spielhag cn& Schur ich, Wien. Alleinige Inseraten-Aufnahme bei Haasenstein&Vogler (Otto Mu»), Wien und I rag.
+Dmct von R. iHni fifl& Co«. WlCD.
+

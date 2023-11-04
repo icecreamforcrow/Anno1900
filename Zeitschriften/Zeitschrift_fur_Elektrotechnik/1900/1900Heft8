@@ -1,0 +1,1734 @@
+Zeitschrift für Elektrotechnik.
+Organ des Elektrotechnischen Vereines in Wien.
+Heft 8.
+mm, 18. Februar 1900.
+XTffl. Jahrgang.
+Bemerktmgen der Itedaction: Ein Nachdruck aus dem redactionellen 1 heile der Zeitschrift ist nur unter der Quelle g
+7, f E Wien“ und bei Oriqinalartilceln überdies nur mit Genehmigung der Redaclion gestattet.™ .,
+”' Die Einsendung von Originalarbeiten ist erwünscht und werden dieselben nach dem in der Redactwnsordnung festgesetzten a if
+hcmorirt. Die Anzahl der vom Autor event. gewünschten Separatabdrücke, welche zum Selbstkostenpreise berechnet werden, wolle stets am
+Manuscripte bekannt gegeben werden.~'
+INHALT:
+Rundschau...,
+Gefährlichkeit der Oberleitung elektrischer Bahnen.
+Neue Patente auf dem Gebiete der Telephonie
+Kleine Mittheilungen.
+Verschiedenes•
+Rundschau.
+Ueber clie Compoundirung von Wechselstrom-
+maschinen ist in dem Hefte vom 6. Jänner 1900 der
+„Electrical World and Engineer“ ein Aufsatz
+erschienen, der die von der General Electric
+Company benützte Methode bespricht, die im Wesent­
+lichen darin besteht, dass der Generatorstrom durch
+die Armatur der Erregermaschine geleitet wird, wo­
+durch in der letzteren sich die Polaritäten synchron
+mit der Drehung der Armatur verändern.
+Eine Gleichstrom-Erregermaschine gewöhnlicher
+Art speist die Feldmagnete der Wechselstrommaschine;
+dieser Erreger hat eine Armatur mit einer Gleich­
+stromwickelung und einem Commutator. Läuft diese
+Maschine mit derselben Geschwindigkeit, wie der
+Wechselstromgenerator, dann ist diese mit einer dem
+letzteren gleichen Polzahl auszustatten. Der in der
+Armatur der Erregermaschine inducirte Strom wird,
+wie erwähnt, durch einen Commutator gleichgerichtet
+und erregt die eigenen Feldmagnete, sowie die des
+Generators. Der Strom des Generators fliesst aber auch
+durch die Armatur der Erregermaschine und erzeugt
+wechselnde Felder, die auf die Magnetisirung des. Ei-
+regers zurückwirken und dessen Spannung variiren.
+Diese Rückwirkung, sowie die damit Hand in Hand
+gehende Spannungsänderung werden abhängen von der
+Stärke des Hauptstromes und dessen Phase.
+Die Armaturen der beiden Maschinen sind so
+miteinander verbunden, dass die in der Armatur der
+Erregerdynamo inducirten Polaritäten entgegengesetzt
+den im gegebenen Augenblicke zunächst liegenden
+Feldpolen sind und dem Erregerfelde vorauseilen. Das
+Resultat ist, dass mit dem Wachsen des Hauptstromes
+der durch die Armatur der Erregermaschine gehende
+Strom das Erregerfeld in einem entsprechend stärkeren
+Maasse erregt und dadurch auch das Feld des Generators.
+Ist die Belastung eine inductive, dann wird die Mag­
+netisirung infolge des durch die Armatur fliessenden
+Wechselstromes mit dem Erregerfeld mehr oder wenigei
+zusammenfallen; dieses wird sonach stärker und damit
+zugleich die Erregung des Generators. Eilt im Gegen­
+falle der Strom voraus, so wird die Magnetisirung dei
+Armatur der Erregerdynamo dem Felde mehr als nn
+Normalfalle vorauseilen und sonach dessen Intensi ä
+in geringerem Maasse erhöhen.
+In^ dem Hefte vom 20. Jänner a. c. bespricht
+Emmer die Parallelschaltung direct gekuppelter
+Wechselstrommaschinen. Wenn zwei Wechselstrom-
+Ausgeftihrte und projectirte Anlagen.
+Patentnaehri chten
+Geschäftliche und finanzielle Nachrichten
+Vereinsnachrichten
+generatoren parallel geschaltet sind, so tritt bekanntlich
+leicht eine Phasenverschiebung zwischen beiden ein;
+die Folge davon ist die, dass ein Ausgleichsstrom auf-
+tritt, der die Tendenz hat, diese Phasenverschiebung
+aufzuheben. Dies ist natürlich erst nach einigen
+Oscillationen möglich, deren Zahl die Armatur bestimmt.
+Die Quelle dieser Oscillationen ist in dem ungleieh-
+mässigen Gange der Triebmaschinen zu suchen. Wenn
+die Oscillationsperiode der letzteren mit der der beiden
+Armaturen übereinstimmt, so werden die Phasenver­
+schiebungen immer grösser und die. Wechselstrom­
+maschinen gerathen aus dem Synchronismus, Ein Be­
+weis für die Richtigkeit dieser Annahme liegt in der
+Thatsache, dass die Tendenz zum „Pumpen“ bei
+Weehselstrommaschinen, die von separaten .Dampf­
+maschinen angetrieben werden, viel stärker auftritt, als
+in dem Falle, wenn eine und dieselbe Maschine sie
+antreibt. Zur Unterdrückung dieser Oscillationen und
+für den genauen Synchronismus ist die Einschaltung
+eines Widerstandes zwischen Armatur und den Bürsten
+von Vortheil; aber dies hat einen Verlust an Energie
+zur Folge; Emmer schlägt nun zur Vermeidung des
+letzteren einen besonders construirten Regulator vor.
+Es ist .allgemein bekannt, dass, wenn eine In­
+ductanz und einCondensator in Serie geschaltet werden,
+an den Klemmen des Condensators, bezw. der In­
+ductanz höhere Spannungen auftreten können, als an
+den Klemmen der Maschine und dass bei Parallel­
+schaltung der Induetanz und des Condensators in dem
+Zweige stärkere Ströme fliessen, wie in der Hauptlime.
+Prof. M. J. Pupin hat, wie wir dem Hefte vom
+20. Jänner a. c. der „Electrical World and Engineer“
+entnehmen, diese Erscheinungen zur Uebertragung
+und Vertheilung elektrischer Energie benützt und
+zwei Patente auf die Erhöhung der Spannung und
+der Stromstärke genommen. Beispielsweise schaltet er
+an die Wechselstrommaschine einen Transformator,
+dessen Secundärspule mit der Primärwickelung eines
+zweiten Transformators und einem Condensator in Serie
+geschaltet ist; die Secundärwickelung dieses zweiten
+Transformators ist an die Linie geschaltet. P u p l n
+zieht vor, Transformatoren ohne Eisen zu verwenden;
+hiedurch ist es ihm möglich geworden, dass die an der
+Secundärspule auftretende E. M. K. fünfzigmal grösser
+ist, als die wirksame, ohne in der Secundärspule eine
+grössere Windungszahl anzuwenden, als in der Primär
+spule. Dieses System kann auch dazu benützt werden,
+um E. M. Ke. verschiedener Periode von einem und
+
+Seite 90.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 8.
+demselben Generator zu erhalten. P u p i n verbindet
+zu diesem Zwecke diesen mit zwei Transformatoren,
+deren Secundärspulen, in Serie geschaltet, mit der
+Leitung verbunden sind. Die beiden Seeundärkreise
+sind verschieden abgestimmt, der eine ist in Resonanz
+mit der Periode des Generators, der andere aber mit
+einer der harmonischen Oberperioden. K.
+Gefährlichkeit der Oberleitung elektrischer Bahnen.
+Von Seite derk. k. niederüsterreiehischen
+Statth alter ei wurde der Elektrotechnische Verein
+um Abgabe einer gutachtlichen Aeusserung über die
+Gefährlichkeit der Oberleitung elek-
+trischerBaknen, bezw. um Beantwortung der im
+Folgenden veröffentlichten acht Fragen ersucht.
+Von Seite des Elektrotechnischen Vereines wurde
+zu diesem Zwecke ein Comitd eingesetzt, welches aus
+seiner Mitte die Herren: Director Frisch, Ober-Bau­
+rath Hochenegg und Dr. S a h u 1 k a mit der end-
+giltigen Abfassung des Gutachtens betraute.
+Im Folgenden sind die Fragen und bezüglichen
+Antworten veröffentlicht.
+Frage 1: Ist die für Wien grüsstentheils mit
+oberirdischer Stromzuleitung geplante elektrische Tram­
+bahn-Anlage dadurch gefährlich, dass ein Bruch des
+Leitungsdrahtes und eine Berührung desselben mit Per­
+sonen stattfinden kann?
+Antwort: Bei Beurtheilung dieser Frage muss
+vorerst untersucht werden:
+a) ob überhaupt ein Bruch des Leitungsdrahtes bei
+oberirdischer Arbeitsleitung zu befürchten steht;
+b) ob, wenn dies eintreten sollte, eine Berührung des­
+selben mit Personen zu erwarten ist; und
+c) ob und welche Gefahr mit einer solchen Berührung
+verbunden sein kann.
+ad a). Das oberirdische Leitungsnetz elektrischer
+Bahnen wird ebenso wie andere Baubestandtheile unter
+Annahme einer vier- bis fünffachen Sicherheit be­
+rechnet.
+Die Wahrscheinlichkeit, dass ein Oberleitungs­
+draht reisst, ist demnach ausserordentlich gering und
+keineswegs grösser als die Wahrscheinlichkeit, dass
+irgend ein anderes Baugebrechen eintritt, dass ein
+Schornstein Schaden nimmt, dass Gesimstheile oder
+Fensterflügel herabstürzen u. dgl.
+Da die Abnützung oberirdischer Leitungsdrähte
+sehr gering ist und das Leitungsnetz elektrischer
+Bahnen unter fortwährender fachmännischer Ueber-
+wachung steht, indem eine solche schon aus Verkehrs­
+rücksichten nothwendig ist, kann man behaupten, dass
+die Sicherheit der Leitungsnetze elektrischer Bahnen
+gegen Bruch bei guter Ausführung und fachmännischer
+Erhaltung nicht geringer ist, als die Sicherheit von
+vielen anderen Baubestandtheilen.
+Es wurde auch durch die Erfahrung bestätigt,
+dass trotz der bestehenden Ausbreitung elektrischer
+Bahnen mit Oberleitung nur sehr selten Brüche des
+Leitungsnetzes auftreten.
+Viel häufiger ereignet es sich, dass Telephon- oder
+Telegraphendrähte reissen.
+Dieselben sollten daher womöglich nicht über Ar­
+beitsdrähten gespannt sein.
+Damit dieselben, wenn sie aber dennoch über den
+Arbeitsdrähten gespannt sind, bei etwaigem Reissen nicht
+mit diesen in leitende Berührung kommen können, pflegt
+man entweder unter den Telephondrähten, also über
+den Arbeitsleitungen, Schutznetze anzubringen oder die
+Arbeitsleitungen mit Schutzleisten aus isolirendem Holze
+zu überdecken, welche eine Berührung der Telephon­
+drähte mit den Arbeitsleitungen verhindern sollen.
+ad b). Wenn nun thatsächlich durch ein Zusammen­
+treffen ungünstiger Umstände ein Bruch eines Ober­
+leitungsdrahtes oder eines über einem solchen ge­
+spannten Telephondrahtes erfolgt, so ist noch keines­
+wegs hiedurch auch die Berührung mit Personen be­
+dingt.
+Dieoberirdischen Arbeitsdrähte elektrischer Bahnen
+sind über der Achse des Bahngeleises, also über der
+Fahrbahn der Strasse gespannt und werden, wenn sie
+reissen, meistens in dieser zu Fall kommen.
+Nur in seltenen Fällen wird es Vorkommen, dass
+hiebei Personen von einem solchen gerissenen Drahte
+getroffen werden.
+Auch wird es verhältnismässig selten Vorkommen,
+dass auf der Strasse befindliche Personen von einem
+gerissenen und im Fallen begriffenen Telephondraht be­
+rührt werden, welcher gleichzeitig mit einem elek­
+trischen Arbeitsdraht in leitende Berührung geräth.
+In den meisten Fällen, wo Fussgänger in Berüh­
+rung mit derartigen Drähten gerathen sind, haben die­
+selben, in Unkenntnis der hierdurch möglichen elek­
+trischen Schläge selbst die Berührung herbeigeführt,
+indem sie sich bemühten, den Draht zu beseitigen oder
+demselben, obwohl es leicht möglich gewesen wäre, nicht
+ausgewichen sind.
+Die an den Masten angebrachten vorgeschriebenen
+Warnungen werden noch zu wenig beachtet und es be­
+darf in dieser Hinsicht noch der Schulung der Bevöl­
+kerung und insbesondere der Aufsichtspersonen, wie
+Polizei u. dgl.
+ad c). Nachdem der oberirdische Arbeitsdraht nur
+mit dem einen Pole der Stromquelle in Verbindung
+steht und zur Schädigung einer Person das Zustande­
+kommen eines vollen Stromschlusses erforderlich ist,
+kann nur dann eine Schädigung erfolgen, wenn die von
+dem Leitungsdrahte getroffene Person sowohl mit diesem
+Drahte in innige Berührung geräth, als auch gleich­
+zeitig eine verhältnismässig gut leitende Verbindung
+mit der Erde besitzt.
+Die Wahrscheinlichkeit, dass der Draht mit einem
+für die Ueberleitung des elektrischen Stromes gut ge­
+eigneten Körpertheile in unmittelbare Berührung geräth,
+ist eine sehr geringe.
+Die gewöhnliche Bekleidung der Personen bietet
+in den meisten Fällen einen guten Schutz und es ist
+nothwendig, dass der elektrische Leitungsdraht mit einem
+unbedeckten Kürpertheil in Berührung kommt, damit
+eine nennenswerthe Stromüberleitung eintreten kann.
+Aber auch diesem Falle müssen noch gewisse’Um­
+stände vorherrschen, ohne welche der auftretende elek­
+trische Schlag unmöglich von Bedeutung werden kann.
+Bekanntlich ist die trockene Haut des Menschen
+ein ziemlich guter Isolator. Nur wenn die Haut sehr
+dünn oder feucht ist, findet der elektrische Strom seine
+Fortleitung nach dem menschlichen Körper.
+Eine solche Stromüberleitung kann aber nur dann
+eintreten, wenn auch eine Verbindung mit dem zweiten
+Pole der Stromquelle, d. i. in diesem Falle mit der Erde,
+hergestellt ist; gegen eine solche Erdableitung bietet
+jedoch gewöhnlich die Fussbekleidung der Personen
+
+Nr. 8.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 91.
+einen hinreichenden Schutz, indem dieselbe stets aus
+schlecht leitenden Stoffen hergestellt ist und nur im
+durchnässten Zustande einen erheblichen Stromdurch­
+gang ermöglicht.
+Wenn trotz alledem durch Zusammentreffen un­
+günstiger Umstände jemand einen elektrischen Schlag
+erhält, so ist bei dem in Frage kommenden Gleich­
+strom von ungefähr 500 V Spannung eine Tüdtung
+nicht zu erwarten und selbst eine andauernde Gesund­
+heitsstörung unwahrscheinlich.
+Uns ist kein Fall bekannt, wo durch den er­
+wähnten Bahnbetriebsstrom eine Beschädigung mit
+tödtlichem Ausgange verursacht worden wäre.
+Anders verhält es sich bei Pferden, welche gegen
+elektrische Ströme ausserordentlich empfindlich sind,
+und auch durch den Hufbeschlag von vorneherein eine
+gutleitende Verbindung mit der Erde besitzen.
+Bei elektrischen Bahnen mit unterirdischer Strom­
+zuführung kann natürlich eine Berührung eines Leitungs­
+drahtes durch eine Person ohne Muthwilligkeit oder
+Böswilligkeit nicht Vorkommen und es ist daher die
+Möglichkeit einer hiedurch herbeigeführten Gefahr gänz­
+lich ausgeschlossen.
+Frage 2: Ist eine elektrische Tramhahn-Anlage
+mit Oberleitung gefährlicher als eine Anlage mit unter­
+irdischer Leitung oder mit Accumulatorenbetrieb? Wenn
+ja, warum wird nicht auch in Wien durchwegs die
+unterirdische Zuleitung oder der Accumulatorenbetrieb,
+oder warum werden nicht die beiden letzteren combi-
+nirt angewendet, zumal sich diese letzteren Arten des
+Betriebes in anderen Städten bereits bewährt haben?
+Frage 3: Warum wird hinsichtlich des Systems
+zwischen einigen Strassen, wie der Ringstrasse, dem
+Franz Josefs-Quai etc. und den übrigen Strassen ein
+Unterschied gemacht in der Art, dass in der ersteren
+die Untergrundleitung, in den letzteren aber die Ober­
+leitung geplant ist?
+Sind bei der Anwendung dieser verschiedenen
+Systeme nur ästhetische oder auch andere Gründe
+massgebend und welche?
+Antwort: Bei elektrischen Bahnen mit Accu­
+mulatorenbetrieb führen die Motorwagen die Strom­
+quelle mit sich, so dass dieselben an eine Leitungs­
+anlage in den Strassen nicht gebunden sind und jede
+derartige Leitungsanlage, demnach auch die mit einer
+solchen in Verbindung stehende Gefahr entfällt.
+Die Bahnen mit Unterleitung sind in den Anlage­
+kosten, jene mit Accumulatorenbetrieb sowohl in den
+Anlagekosten als auch in den Betriebskosten ganz be­
+deutend theuerer als die Bahnen mit Oberleitung. Der
+Accumulatorenbetrieb ist zufolge des grossen Gewichtes
+der Accumulatoren bei starken Steigungen undurchführ­
+bar und in Gegenden, woselbst starke Schneefälle
+herrschen, derzeit noch nicht genügend betriebssicher.^
+Dies ist auch der Grund, weshalb in Wien von
+dem Accumülatorenbetriebe gänzlich abgesehen und
+der Betrieb mit Unterleitung nicht in allen Strassen
+Wiens eingeführt wurde.
+Die verhältnismässig geringe Anzahl der Fahr-
+gäste auf vielen Aussenlinien würde die Anlage einer
+elektrischen Bahn gänzlich ausschliessen, wenn die untei-
+irdische Stromzuführung oder der Accumulatorenbetrieb
+bei denselben verlangt würde. Hiezu kommt noch, dass
+in vielen Strassen der äusseren Bezirke Wiens bisher
+keine ausreichenden Strassencanäle vorhanden sind,
+durch welche die Entwässerung des Canales für die
+unterirdische Stromzuführung in genügendem Maasse
+möglich wäre. Die Bevölkerung Wiens müsste also für
+die äusseren Linien auf die Benützung elektrischer
+Bahnen gänzlich verzichten, wenn man für dieselben
+unterirdische Stromzuführung vorschreiben. wollte.
+In dieser Erwägung hat die Gemeinde Wien nur
+für die Linien des I. Bezirkes, sowie der Mariahilfer-
+strasse und der Praterstrasse unterirdische Strom­
+zuführung vorgeschrieben und hat hiebei in erster Hin­
+sicht ästhetische Rücksichten walten lassen, da das
+Strassenbild der Ringstrasse, sowie der von dieser ab­
+zweigenden Radialstrassen im I. Bezirke, auf welche
+Wien mit Recht stolz ist, durch die Anlage von ober­
+irdischen Leitungen geschädigt worden wäre. Bei den
+übrigen Linien, hauptsächlich in den Vorstädten, wo
+an und für sich vorwiegend Nützlichkeitsbauten vor­
+handen sind, konnte diese Erwägung nicht platzgreifen
+und es wurde hier, ebenso wie in den meisten anderen
+Städten die oberirdische Stromzuführung zugelassen.
+Die unterirdische Stromzuführung in den genannten
+Strassenzügen wurde also nicht wegen etwaiger Gefahren
+der oberirdischen Leitungen, sondern, wie schon oben
+gesagt, einzig und allein aus ästhetischen Rücksichten
+gewählt.
+Frage 4: Wenn schon in Wien grösstentheils die
+elektrische Oberleitung eingeführt werden soll, u. zw.
+mit einem Netze, wie es keine zweite Stadt in ähnlicher
+Ausdehnung besitzt, gibt es verlässliche Sicherheits­
+vorkehrungen und werden dieselben in Wien auch zur
+Anwendung kommen, um die unheilbringenden Folgen,
+welche durch den Bruch des Leitungsdrahtes entstehen
+können, zu verhüten?
+Antwort: Bei den bestehenden strengen behörd­
+lichen Vorschriften unterliegt es keinem Zweifel, dass
+die oberirdischen Arbeitsleitungen der Wiener Bahnen
+in jeder Hinsicht mit entsprechenden und verlässlichen
+Sicherheitsvorkehrungen versehen werden.
+Zum Zwecke der Vermeidung von Drahtbrüchen
+wird, wie bereits bei Frage 1 erwähnt, die gesammte
+‘ oberirdische Leitungsanlage mit fünffacher Sicherheit
+berechnet, damit die Möglichkeit eines Bruches der
+Leitung, soweit dies technisch gefordert werden kann,
+ausgeschlossen sei.
+Zum Schutze der Berührung der Arbeitsleitungen
+mit gerissenen Telephondrähten sind die üblichen Tele­
+phon-Schutzleisten in Verwendung.
+Frage 5: Kann' der Bruch der oberirdischen
+Drahtleitung nur infolge der Abnützung und infolge
+eines Materialfehlers oder auch durch Elementar-Ereig-
+nisse, wie starken Schneefall, Sturm, grosse Temperatur­
+differenzen und andere unvorhergesehene Umstände
+auch bei tadellosem Materiale erfolgen?
+Antwort: Die Abnützung der oberirdischen
+Arbeitsleitung ist im allgemeinen eine so geringe, dass
+wohl eine lange Reihe von Betriebsjahren erforderlich
+wäre, um eine bedeutende Verringerung der Sicherheit
+zu verursachen.
+Vor Eintritt einer weitgehenden Abnützung des
+Arbeitsdrahtes pflegt man diesen schon aus Betriebs­
+rücksichten auszuwechseln. Materialfehler sind bei den
+
+Seite 92.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 8.
+gewöhnlich verwendeten Oberleitungsdrähten ausser­
+ordentlich selten, da dieselben aus^hartgezogenem Kupfer­
+drahte bester Qualität bestehen. Elementar-Ereignisse,
+wie starker Schneefall, Sturm, grosse Temperatur­
+differenz u. dgl. werden naturgemäss eine grössere Be­
+anspruchung der Oberleitung verursachen, als dies ge­
+wöhnlich der Fall ist. Auf solche Elementar-Ereignisse
+wird aber bei Berechnung der Oberleitung von vorn­
+herein Rücksicht genommen.
+F rage 6: Ist überhaupt die Anbringung von ge­
+erdeten Schutznetzen, Schutzgittern oder geerdeten
+Bügeln unter der Drahtleitung, wie sie bei dem Elek-
+trotechniker-Congress in Wien 1899 empfohlen worden
+.sind (siehe Entwurf zu den Sicherheits-Vorschriften für
+Starkstrom-Anlagen, XI. Freileitungen), auch bei der
+Anwendung des Biigelsystemes möglich?
+Antwort: Die Anwendung von geerdeten Schutz­
+netzen, Schutzgittern oder Bügel ist unter der Ober­
+leitung nicht möglich, weil die Stromentnahme aus der
+Oberleitung, mag sie nun durch Bügel oder Rolle be­
+sorgt werden, dadurch gehindert würde.
+Frage 7: Bieten die an den Oberleitungen an
+jenen Stellen angebrachten Schutzleisten, über welche
+Telegraphen- oder Telephonleitungen geführt sind, einen
+genügenden Schutz dagegen, dass beim Reissen der
+letzteren nicht eine Ableitung des elektrischen Stark­
+stromes und eine Gefahr für den vom zerrissenen
+Draht berührten Passanten entstehen kann?
+Antwort: Die vielfach angebrachten Schutz­
+netze können als vollkommen verlässlich betrachtet
+werden.
+Die an den Oberleitungen angebrachten Schutz­
+leisten schützen reissende Telegraphen- und Telephon­
+leitungen wohl in den meisten Fällen gegen unmittel­
+bare Berührung der Oberleitungsdrähte, immerhin sind
+aber ausnahmsweise trotz der Schutzleisten Berührungen
+vorgekommen.
+Solche Berührungen sind nur dann vollständig aus­
+geschlossen, wenn entweder die Telegraphen- und Tele­
+phonleitungen über den Oberleitungen gänzlich beseitigt
+oder wenn unter den Schwachstromleitungen entspre­
+chende Schutznetze angebracht werden.
+Frage 8: Bilden nicht die Leitungs- und Auf­
+hängedrähte, besonders in schmalen Gassen, für die
+Feuerwehrleute bei ihren Arbeiten ein grosses Hindernis
+und auch eine grosse Gefahr? Zwar hat der Elektro-
+techniker-Congress im Jahre 1899 empfohlen, dass bei
+Freileitungen von über 300 V Wechsel- und über 600 V
+Gleichstrom Ausschaltevorrichtungen vorhanden sein
+sollen, die der Polizei und der Feuerwehr bekannt sein
+müssen, und dass bei Freileitungen unter 300, bezw.
+600 V Spannung die Leitung mit geeigneten Instru­
+menten zerschnitten werden soll.
+Ist aber nicht die Besorgnis begründet, dass ins­
+besondere Nachts, wo man die Drahtleitungen nicht be­
+merkt oder dass bei der grossen Eile, welche bei einer
+Feuersgefahr herrscht, diese Vorschriften nicht befolgt
+werden oder nicht befolgt werden können?
+Antwort: Damit die Feuerwehrleute bei Bränden
+der Berührung der stromführenden Oberleitung nicht
+ausgesetzt sein können, wird die Oberleitung in Sec-
+tionen eingetheilt, deren jede ausschaltbar gemacht
+wird.
+Die Feuerwehr besitzt Einrichtungen, um an den
+hiezu angebrachten Apparaten die stromleitende Ver­
+bindung zu lösen und ist mit der Handhabung dieser
+Apparate genau vertraut gemacht worden. Sobald die
+Oberleitung stromlos gemacht wurde, bietet sie den
+Leuten der Feuerwehr kein Hindernis.
+Bisher hat sich in wiederholten Fällen gezeigt,
+dass die Feuerwehrleute, insbesondere dort, wo wie in
+Wien, ein ständiges Personal zu Feuerwehrdiensten
+herangezogen wird, die Vorschriften bezüglich Behand­
+lung der Oberleitung richtig befolgen und es ist, so
+viel uns bekannt ist, eine Beschädigung des Feuer-
+wehrpersonals durch stromführende Oberleitungsdrähte
+bisher nicht vorgekommen.
+Neue Patente auf dem Gebiete der Telephonie.*)
+Am 5. December des vergangenen Jahres wurden
+dem bekannten amerikanischen Constructeur Charles E.
+Scribner fünf Patente ertheilt, wovon drei sich auf
+Signale für Umschalter bezogen. Eines der letztgenannten
+bezieht sich auf Glühlampen und zugehörige Fassungen
+für Signalzwecke bei Umschaltern. Solche Glühlampen
+haben vor allem die Bedingung zu erfüllen, so wenig
+Raum als möglich einzunehmen, damit auf einer Klin­
+kentafel, die ein Manipulant zu bedienen hat, möglichst
+viele Klinken und Lampen untergebracht werden können.
+In Fig. 1 ist eine Glühlampe nach Scribner dargestellt;
+sie besteht aus einem aus isolirendem Material hergestellten
+prismatischen Sockel, der von der Breite des Klinken­
+streifens ist. In einer Ausnehmung dieses Sockels ist die
+Glühlampe, die eine cylindrische Hülle hat, angeordnet;
+die Platindrähte, welche das Ende des Glühfadens bilden,
+führen zu Plättchen, welche aussen auf der Glashülle
+Fig. 1.
+einander gegenüber angebracht sind und an die sich
+die Contactfedern anlegen, die an dem hinteren Ende
+des Sockels befestigt sind. Die Glashülle hat seitlich
+Nasen, welche, wie aus der Figur ersichtlich, dazu
+dienen, der Lampe festen Halt zu geben und den Con-
+tact zwischen den vorerwähnten Federn und den seitlich
+angebrachten Plättchen zu sichern. Die Zerstreuungs­
+linse (in der Zeichnung schwarz dargestellt) ist am
+Ende einer kurzen Rühre montirt, welche in die Aus­
+nehmung des Sockels eingesetzt wird.
+Ein zweites Patent, das Scribner erhielt, hat
+ein Controllsignal zum Gegenstände, das die Aufgabe
+hat, den Manipulanten über die Vorgänge, bezw. über
+die Schaltungen in den Abonnentenstationen zu orien-
+*) ElectricaljWorl d and Engineer,
+
+Nr. 8.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 93.
+tiren, und zwar functioniren das Controllsignal. das mit
+der Linie des gerufenen Abonnenten verbunden ist,
+dann, wenn die gerufene Station erwidert. Das nächste
+Mal zeigt es die Trennung an, indem es durch das
+Aufhängen der Telephone auf den Haken ausgelöst
+wird. Zu diesem Behufe wird ein Elektromagnet mit
+zwei Wickelungen versehen, die in die beiden Abon­
+nentenleitungen geschaltet werden. Der Anker dieses
+Elektromagnetes verbindet nun das Controllsignal zuerst
+mit der Linie des gerufenen Theilnehmers und hierauf,
+wenn das Gespräch im Zuge ist. auch mit der des
+Rufenden.
+In Fig. 2 ist eine Schaltungsanordnung dargestellt,
+die den Gegenstand eines dritten Patentes bildet, das
+dem Scribner ertheilt wurde.
+Das vierte Patent S c r i b n e r’s bezieht sich auf
+telephonische Zweiglinien, wo der Transmitter in jeder
+Substation Strom von einem Accumulator erhält, der
+in dieser Station aufgestellt ist und geladen wird, wenn
+die Linie unbesetzt ist. Gegenstand der Erfindung ist
+das gleichzeitige Laden der in den verschiedenen Unter­
+stationen aufgestellten Accumulatoren.
+AFie aus Fig. 3 zu entnehmen ist, sind die Accu­
+mulatoren in die Telephonleitung in Serie und am Ende
+der Linie ein inductiver Widerstand in die Erdleitung
+geschaltet, der wohl dem Ladestrom Durchgang ge­
+währt, nicht aber dem Gesprächsstrom. Auf diese Weise
+erhalten alle Accumulatoren denselben Ladestrom.
+Wird ein Telephon in der Unterstation von seinem
+Aufhängehaken abgenommen, so ist der Stromkreis
+durch das Empfangstelephon geschlossen und der Strom
+der links gezeichneten Hauptbatterie ist stark genug,
+um das in die Linie geschaltete Signal zu bethätigen.
+Während des Gespräches durchfliesst der Telephonstrom
+die Linie und selbstverständlich auch die Accumulatoren,
+ohne hiedurch beeinträchtigt zu werden. Ebenso ver­
+hindert die Drosselspule am Ende der Leitung und die
+in der Centralstation der Batterie vorgeschaltete eine
+Ableitung und damit Schwächung des Telephonstromes.
+Das fünfte S c r i b n er’sche Patent betrifft eine
+Schmelzsicherung für Telephonlinien, welche die Appa­
+rate gegen abnorm starke Ströme, die zufällig die Linie
+passiren, schützen soll.
+Fig. 4 ist eine schematische Darstellung der
+wesentlichsten Apparattheile und der Schaltung. In eine
+kleine, mit Kupferdraht umwickelte Spule, die von dem
+Linienstrom durchflossen und erwärmt wird, ragt ein
+Stift hinein, der in der Zeichnung links gezeichnet ist.
+Dieser Stift ist mittelst Loth oder irgend eines anderen
+leicht schmelzbaren Verbindungsmittel in der Spule fest­
+gehalten. Ein Endstück ist an den Spulenkörper und
+das andere an den aus der Spule hervorragenden Stift
+und, wie aus der Zeichnung hervorgeht, durch einen
+Schmelzcontact mit der Spule selbst verbunden. Diese
+Endstücke sind federnd und haben die Tendenz, den
+Stift aus der Spule herauszureissen und dadurch den
+Strom zu unterbrechen und gleichzeitig eine Erdver­
+bindung herzustellen, wie die linke Seite der Figur
+zeigt. Fliesst nun ein Strom von beträchtlicher Stärke
+durch die Spule und erwärmt dieselbe soweit, dass das
+Bindemittel schmilzt, so erfolgt in der angegebenen
+Weise die Abschaltung und Erdung der Verbindungs­
+drähte.
+(Fortsetzung folgt.)
+KLEINE MITTHEILUNGEN.
+Verschiedenes.
+Die elektrischen Eisenbahnen von Budapest im Jahre
+1899. Diesbezüglich finden wir im „Wocheu an zeiger des
+ungarischen Ingenieur- und A r c h i t e k t e n- Ver­
+ein e s“ folgende— unsere früheren Mittheilungen zusammen-
+fassende— interessante Mittheilung: Ausser der Austragung des
+aus principiellen Bedenken entstandenen Competenz-Conflietes,
+ist zu constatiren, dass das Netz der elektrischen Eisenbahnen
+der Haupt- und Residenzstadt Budapest im Jahre 1898 that-
+sächlich eine Erweiterung erfahren hat, indem im Laufe des
+Jahres die Budapest-Budafoker elektrische Vicinalbahn ausgebaut
+und am 20. September auch eröffnet wurde. (Die Bahn führt
+von der Einmündung der Kelenfölder neuen Transversalstrasse
+über Albertfalva nach ßudafok, und gehen die Züge auf dem
+
+Seite 94.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 8.
+Geleise der Bndapester Strassenbahn— jedoch mit Benützung
+einer eigenen Oberleitung— bis zum Ofner Brückenköpfe der
+Franz Josefs-Brücke. Die Stromerzeugungsanlage liegt zwischen
+Albertfalva und Budafok.) Ebenso wurde im September die Ver­
+längerung der Zügloer Linie (Budapester Strassenbahn) bis zur
+Hajcsär (Viehtrieb) Strasse, und das zweite Geleise der
+Barossgassenlinie (Budapester elektrische Stadtbahn) dem öffent­
+lichen Verkehre übergeben. Ausser diesen dom öffentlichen Ver­
+kehre übergebenen Linien wurde noch der Bau der Lipdtmezöer
+(Leopoldifelder) elektrischen Eisenbahn (Budapester Strassenbahn)
+beendet (welche Bahn sowohl vom technischen als auch vom
+touristischen Standpunkte aus die interessanteste aller elektrischen
+Eisenbahnen Budapests genannt werden kann); ferner wurde der
+Bau der Verbindungslinie Leopoldsring (Budapester Strassen-
+bahn)-Theresienring (Budapester elektrische Stadtbahn) in Angriff
+genommen. Was die Fahrbetriebsmittel anbelangt, so sind die
+Motorwagen der Budapest Budafoker elektrischen Vicinalbahn
+— besonders die vierachsigen sehr gut und zweckmässig aus­
+geführt. Die Budapester Strassenbahn hat ihre Sommerwagen
+auch für Unterleitung eingerichtet und mehrere der langen zwei­
+achsigen Wagen erster Lieferung, welche noch nicht auf vier-
+achsige umgestaltet waren, auf solche mit grösserem Radstand
+umgebaut.
+Den Stand der Budapester elektrischen Eisenbahnen Ende
+3899 gibt folgendo Zusammenstellung:
+E i s o n b a h n
+Bahnlänge 1cm
+mit
+Unter­
+leitang
+mit
+Ober­
+leitung
+Wagenstand
+Motor­
+wagen
+Bei­
+wagen
+zu­
+sammen
+Budapester Strassen­
+bahn (elektrischer
+Betrieb)
+Bndapester elek­
+trische Stadtbahn.
+Franz Josef elek­
+trische Untergrund
+bahn
+Budapest-Ujpest-Ra-
+kospalotaer elektr.
+Strassenbahn..
+Budapest-Budafoker
+elektrische Vicinal­
+bahn
+Zusammen.
+12- 8 44-15
+13- 7 13-35
+3-60
+11-15
+7-90
+26-5 80-15
+56-95
+27-05
+3-60
+11T5
+7-90
+106-65
+297
+130
+20
+24
+10
+60
+20
+20
+10
+481: 110
+357
+150
+20
+44
+20
+591
+M.
+Unfälle auf den elektrischen Stadtbahnen in Budapest
+im II. Semester 1899. Nach den Aufzeichnungen der haupt­
+städtischen Polizei sind im II. Semester 1899 auf den elektrischen
+Stadtbahnen folgende Unfälle vorgekommen: 1. Auf der Buda­
+pester (elektrischen)_ Strassenbahn 5 mit tödtlichem Ausgang,
+18 mit starker, 14 mit leichter Verwundung. 2. Auf der Buda­
+pester elektrischen Stadtbahn: 3 mit tödtlichem Ausgang, 4 mit
+starker und 1 mit leichter Verwundung. 3. Auf der Budapest-
+Neupest-Räkospalotaer elektrischen Strassenbahn 1 mit tödtlichem
+Ausgang und 1 mit starker Verwundung.
+_ Bergbau-Betriebe. Grosses Interesse in bergmännischen
+Kreisen gewinnen nunmehr die von der Oester reichischen
+Union Elektricitäts- Gesellschaft ausgeführten
+Stossbohranlagen. Nachdem in Oesterreich-Ungarn in dem „E r z-
+h e r z o g Fried ric h’sehen Eisenerzbergbau B i n d t“
+seit mehr als drei Jahren zufriedenstellende Versuche mit den
+Stossbohrmaschinen der eingangs genannten Gesellschaft gemacht
+wurden, kamen derselben in den letzten Monaten einige Aufträge
+zur Ausführung von Stossbohranlagen zu. So wurde vor kurzem
+eine Bohranlage in den Bergwerken der Donau-Dampfschiffahrts-
+Gesellschaft in Fünfkirchen dem Betriebe übergeben. An­
+lagen im Eisenerzbergbaue Nu ci c, im Bleibergwerk B1 e i b e rg
+und in der k. k. Saline H a 11 s t a 11 sind derzeit in Ausführung.
+Die Betonbau-Unternehmung G. A. W a y s s& Co. be­
+nützt eine Stossbohranlage der Oesterreiehischen Union Elek­
+tricitäts-Gesellschaft beim Baue einer für eine Wasserleitung der
+Stadt Ivomotau bestimmten Thalsperre, speciell zum Tunnelvortrieb.
+Umbau der Telephoncentrale in Prag. Die stetige Zu­
+nahme der Abonnenten in den Telephonnetzen, wie nicht minder
+die technischen Fortschritte auf dem Gebiete des Telephonwesens
+bedingen häutigere Umgestaltungen der diesem Verkehrszweige
+dienenden Anlagen. Nachdem im verflossenen Jahre die neue
+V\ lener 1 elephonanlage in Betrieb gesetzt worden war, wurde
+der Umbau der Centrale in Prag in Angriff genommen. Die
+Arbeiten sind in vollem Gange und wird in kurzer Zeit auch
+diese Anlage mit durchaus modernen Einrichtungen ausgerüstet sein.
+In Prag, wo bisher drei kleinere Vermittlungsämter be­
+standen, wird der Betrieb in Zukunft in einer einzigen Centrale,
+welche derzeit für 3300 Anschlüsse eingerichtet, jedoch bis zu
+6000 Anschlüssen erweiterungsfähig sein wird, vereinigt werden.
+Der Vielfachumschalter wird zum Theil aus den in der auf-
+gelassenen Centrale Friedrichstrasse gewonnenen Schränken
+bestehen, deren Einrichtung sich während des zweijährigen Be­
+triebes vorzüglich bewährte.
+Die Aufstellung- und Ergänzung derselben, sowie die Ein­
+richtung der Centrale überhaupt hat die Vereinigte Telephon-
+und Telegraphenfabrik Czeija, Nissl& Co. übernommen, deren
+Chef, unser Vereinscollege Ingenieur Fr. Nissl sich bekanntlich
+schon gelegentlich der Errichtung der Wiener Centralen namhafte
+Verdienste um die so überaus gelungene Durchführung dieses
+Welkes erworben hat.
+Societe internationale des Electriciens. in der Ver­
+sammlung vom 7. Februar theilte der Vorsitzende P o 11 a r d
+mit, dass der kürzlich verstorbene Prof. II ughe s, welcher Mit­
+glied der Gesellschaft war, dieser 60.000 Frcs. testirte.
+Nach Verlesung des Protokolles bespricht Boche t
+einige Installationen, bei denen drei Bogenlampen an die Spannen"-
+von 110 V in Serie geschaltet sind und die zu keiner Klage
+Anlass gaben. Roux kann aus eigener Erfahrung bestätigen,
+dass bei Verwendung von guten Kohlen immer günstige "Re­
+sultate mit der Dreierschaltung zu erlangen sind. B r i 11 i c
+theilt mit, dass er sechs Lampen an oine Spannun°- von 220 !’
+anschaltete.
+Hierauf bespricht V e d o v o 11 i die für hohe Spannung
+construirten elektrischen Apparate und beschreibt zuerst einen
+bipolaren Ausschalter, bei dem zur Unterdrückung des Licht­
+bogens ein Glimmerschirm dazwischen geschoben wird. Er be­
+spricht noch eine andere Ausführungsform zur Verhinderung des
+Lichtbogens. Dieser Apparat besteht aus zwei gegeneinander ge­
+neigten Stäben; der Lichtbogen bildet sich unten aus, steigt auf
+und löscht infolge der hiedurch bewirkten Verlängerung aus.
+Für 10.000 V sind die Stäbe 10 cm entfernt und haben eine Länge
+von 70 cm. Nach diesem Principe kann man auch Schmelzsiche­
+rungen construiren; der Bleistreifen wird an dem unteren Theil
+der Stäbe angebracht.
+f David Eduard Hughes, der berühmte Erfinder des
+Typendruck-Telegraphen und des Kohlenmicrophones starb am
+22. Jänner I. J. im Alter von 69 Jahren. Hughes wurde in
+London am 16. Mai 1831 geboren und wanderte im Alter von
+7 Jahren mit seinen Eltern nach Amerika aus, wo er sich in
+Musik ausbildete, aber gleichzeitig physikalische und maschinen­
+technische Studien betrieb. Noch im Jünglingsalter wurde er
+Professor der Musik am Bardstown College in Kentucky und später
+im Altei von 19 Jahren, daselbst Professor der Naturwissen­
+schaften. II nglies beschäftigte sich hauptsächlich mit elek­
+trischen Apparaten und erfand im Jaliro 1855 den Typondruck-
+Telegraphon. Derselbe fand in Amerika, wo die American Tele­
+graph Co. das Monopol für das Morse-System innehatto, rasch
+Verbreitung; aus mehreren kleinen Gesellschaften, welche die
+Erfindung verwertheten, gieng durch Vereinigung die Western
+Union Telegraph Co. hervor. Hughes reiste hierauf nach
+England, konnte aber daselbst seine Erfindung nicht einführen
+dagegen wurde der Apparat in Frankreich zur versuchsweisen
+Einführung zugelassen. Die von II u g h e s gemachten Ver­
+besserungen waren solche, dass der Apparat in Frankreich und
+bald darauf auch in anderen europäischen Ländern definitiv einge-
+führt wurde. Die Regenten zeichneten 11 ughes durch Verleihung
+hoher Orden aus; im Jahre 1867 erhielt er auf der Pariser Aus" 3-
+stellung eine der 10 goldenen Medaillen, welche den bedeutendsten
+Eifindungen zuerkannt wurden. Von grösster Bedeutung war die
+von II ughes gemachte Erfindung des Kohlenmicrophones,
+welches durch seine Einfachheit und Leistungsfähigkeit geradezu
+veiblüftte und die Ausbreitung der Telephonie ermöglichte. Zahl­
+reich sind auch die Untersuchungen von Hughes auf dem Ge­
+biete des Magnetismus. Auch das Princip der Telegraphie ohne
+Draht mittelst elektrisirter Aetherwellen soll zuerst von Hu ghes
+ersonnen worden sein.
+t Uror Hemming Wesslau. Mitte Jänner d. J. ist der
+Director des am Nonnendamm in Spandau errichteten Kabel­
+werkes der Actiengesellschaft Siemens& Ilalske, Bror
+Hemming Wesslau, nach kurzer Krankheit gestorben. Der
+Dahiiigoschiodene, ein geborener Schwede, ist der erste E r-
+f i n d e r der elektrischen Locomotive gewesen. Zu
+gleicher Zeit wie Edison beschäftigte er sich mit diesem
+Problem, wurde aber mit seiner Locomotive ein Jahr früher als
+Edison fertig und ist dem Patontbureau in Washington zufolge
+
+Nr. 8.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite ÖS.
+als Erfinder der ersten elektrischen Locomotive der Welt zu be­
+trachten. Wessi au war am 15. Juni 1841 in einem kleinen
+Ort im südlichen Schweden geboren, yerliess 1862 Schweden,
+dessen Verhältnisse ihm zu klein waren, trat zuerst eine Stellung
+beim „Vulkan“ in Stettin an und erhielt 1876 einen Posten bei
+Siemens& Halske in Berlin, wo er sich grossos Vertrauen er­
+warb. Hier war es, wo er den ersten Entwurf seiner Locomotive
+ausarbeitete. Als die Firma Siemens& Halske ihr Kabel­
+werk von Berlin nach Charlottenburg verlegte, wurde W e s s 1 au
+mit Anlegung der Fabrik betraut, und er construirte alle zu
+dein Kabelwerk gehörigen Maschinen. Auch das später auf
+Spandauer Gebiet errichtete neue Kabelwerk, eines der grössten
+der Welt, wurde unter Wesslau’s Leitung angelegt.
+(„Ztg. d. Vor. d. Eisenb.-Venv.“)
+Ausgeführte und projectirte Anlagen.
+Oesterreich.
+Abbazia. (Bewilligung zur V o r n a h m e t e c h-
+nischer Vorarbeiten für eine mit elektrischer
+Kraft zu betreibende Bahn nieder e r 0 r d n u n g
+von Abbazia-Mattuglie nacliLowraua mit einem
+Flügel von I c i c i auf den Monte Maggiore.) Das
+k. k. Eisenbahnministerium hat dem Fürsten Alfred Wrede
+in Wien die Bewilligung zur Vornahme technischer Vorarbeiten
+für eine schmalspurige, mit elektrischer Kraft zu betreibende
+Bahn niederer Ordnung von der Station Abbazia-Mattuglie
+der k. lc. priv. Südbahn-Gesellschaft über V o 1 o s c a, Abbazia,
+Icici und lka nach Lowrana mit einem Flügel von Icici
+über V e p r i n a z auf den Monte M aggiore im Sinne der
+bestehenden Normen auf die Dauer eines Jahres ertheilt.
+Brüx. (Concessionirung einer mit elektri­
+scher Kraft zu betreibenden schmalspurigen
+Kleinbahn von Brüx über Oberleutensdorf nach
+Johnsdorf.) Das k. k. Eisenbahnministerium hat auf Grund
+und in Gemässheit der Bestimmungen des Gesetzes über Bahnen
+niederer Ordnung vom 31. December 1894, R.-G.-Bl. Nr. 2 ex 1895,
+im Einvernehmen mit den betheiligten k. k. Ministerien und dem
+k. u. k. Reichskriegsministerium der Gemeinde der Stadt Brüx
+die angesuchte Concession zum Baue und Betriebe einer mit
+elektrischer Kraft zu betreibenden schmalspurigen Kleinbahn von
+Brüx über lvopitz, Rosenthal, Nieder- und Oberleutensdorf,
+Bettelgrün und Hammer nach Johnsdorf ortheilt.
+Dazu erfahren wir, dass die für den Betrieb der genannten
+Bahn bestimmte Kraftstation als sogenannte. „U e b e rl a n d-
+centrale“ ausgeführt wird, welche auch elektrische Energie
+(Drehstrom 3000 V) für Licht- und Kraftzwecke im Brüxer Be­
+zirk abgeben wird. Die Anlage wird zunächst für eine Capacität
+von ca. 1000 PS ausgebaut.
+Die Ausführung der Anlage erfolgt durch die O e s t e r­
+reich isc he Union Elektricität s-G esellschaft in
+Wien und sollen die für diese Anlage bestimmten Maschinen
+und Apparate bereits in der demnächst in Betrieb kommenden
+Fabrik dieser Gesellschaft in Stadlau bei Wien hergestollt werden.
+Die Stadtgemeinde Brüx ist bei dem oben genannten Unternehmen
+bedeutend finanziell hetheiligt.
+Wir entnehmen den Concessionsbedingungen Folgendes:
+AllgemeineBestimmunge n. Die projectirte Klein­
+bahn von Brüx über Oberleutensdorf nach Johnsdorf ist ein­
+geleisig und mit einer Spurweite von PO m für den elektrischen
+Betrieb herzustellen.
+Die grösste zulässige Fahrgeschwindigkeit auf der gegen­
+ständlichen Kleinbahn wird vorläufig für Strecken innerhalb der
+geschlossen verhauten Stadt- und Ortsgebiete mit 12 km und für
+Strecken ausserhalb derselben mit 18 km per Stunde festgesetzt.
+T race. Die zu erbauende, circa 12-9 km lange Bahn
+beginnt am Bahnhofsplatze in Brüx, gegenüber dem Aufnalnns-
+gebäude der k. k. priv. Aussig-Teplitzer Eisenbahn, führt in
+südlicher Richtung zum Sparcassengebäude, wendet sich nach
+Unterfahrung der Strecke Brüx-Komotau der k. k. priv. Aussig-
+Teplitzer Eisenbahn gegen Norden und gelangt zum Lagerhause
+in Brüx. Nach erfolgter Niveaukreuzung des Lagerhaus-Schlepp­
+geleises bewegt sich die Bahn aut der Kopitz-Oberleutensdorfei
+Strasse, übersetzt das Schleppgeleise zum Juliusschachte II im
+Niveau und gelangt sodann zum Ortsplatze in Kopitz.
+Hierauf wird die Linie vorerst in einer Nebengasse, dann
+auf eigenem Unterbau bis zur Gemeindegrenze Rosenthal geführt
+und gelangt, dem Strassenzuge folgend, durch die Ortsgebiete
+von Rosenthal, Niederleutensdorf und Oberleutensdorf zu der
+östlich der Station Oberleutensdorf der k. k. Staatsbalinlinie
+Bodenbach —Komotau erfolgenden Niveaukreuzung der genannten
+Bahnstrecke und des daselbst bestehenden Schloppgeleises. Im
+AVeiteren führt die Bahn zunächst auf eigenem Unterbau, dann
+auf der Strasse durch Oberloutensdorf und Bettelgrün, kreuzt
+daselbst im iNiveau das Schleppgeleise zum Antoniaschachte und
+gelangt hierauf zu der nächst der Gemeindegrenze von Johnsdorf
+zu errichtenden gleichnamigen Endstation.
+Unterbau. Die Halbmesser der Bögen in der freien
+Bahn dürfen in der Regel nicht weniger als 30 m betragen.
+Als grösste durchschnittliche Neigung der für die Leistungs­
+fähigkeit der Bahn massgebenden Strecken wird 60°, oo fest­
+gesetzt.
+Insoweit die Bahn auf eigenem Unterbaukörper gelegen
+ist, hat derselbe sowohl hei Dämmen, als in Einschnitten eine
+Kronenbreite von mindestens 3’2 m zu erhalten.
+O b erba u. In allen von der Kleinbahn benützten Strassen-
+streeken, woselbst für den Verkehr des Strassenfuhrwerkes nicht
+eine freie Fahrbahnbreite von 5 m— von dem für die gegen­
+ständliche Bahn vorgeschriebenen Lichtraumprofile bis zum jen­
+seitigen Leistensteine (Abschlusssteine des Strassengrundbaues)
+gerechnet— übrig bleibt, ist ein Rillenschienenoberbau mit
+Flussstahlschienen von mindestens 35 kg Gewicht per laufendes
+Meter unter Anwendung von eisernen Spurstangen auszuführen.
+In den auf eigenem Unterbaukörper gelegenen Bahnstrecken
+ist der Oberbau mit Holzquerschwellen im Systeme des schwe­
+benden Stosses mit Flussstahlschienen von mindestens 23 kg Ge­
+wicht per laufendes Meter auszuführen.
+Die Inanspruchnahme der Schienen darf in keinem Falle
+1000 kg per cm2 der Querschnittsfläche übersteigen.
+ElektrotechnischeBetriebseinrichtnngon.
+Bezüglich der elektrotechnischen Einrichtung der Bahn sind fol­
+gende Vorschriften zu beachten:
+1. Die maschinelle und elektrotechnische Anlage der Kraft­
+station, welche zur Vermeidung jeder nachbarlichen Belästigung
+thunlichst in allseitig freistehenden Gebäuden untergebracht
+werden soll, ist für eine derartige Leistungsfähigkeit zu bemessen,
+dass die verfügbare Strommenge nicht allein zur Abwicklung des
+stärksten Bahnverkehres, sondern auch zur Speisung der jewei­
+ligen Beleuchtungsanlagen für Bahnzwecke genügt.
+Ausserdem muss auch für entsprechende Reservegarnituren
+vorgesorgt sein, so dass jede Betriebsunterbrechung ausgeschlossen
+bleibt. Als Reserve kann auch eine entsprechend eingeschaltete
+Accumulatorenbatterie in Verwendung kommen.
+Die Verwendung von Accumulatoren für Bahnzwecke ist
+an besondere noch zu erlassende Vorschriften gebunden.
+2. Die Zuführung des Stromes zur elektrischen Locomotive,
+bezw. zum Motorwagen erfolgt durch Contactleitungen, welche,
+wenn dieselben oberhalb des Strassenplanums angebracht werdon,
+in einem Höhenabstande von mindestens 5'5 m geführt werden
+müssen.
+Für die Speiseleitungen gelten, im Falle dieselben als
+Luftleitungen ausgeführt werden, die gleichen Normen.
+AVenn die Stromzuführung unterhalb odor im Niveau des
+Strassenplanums bewerkstelligt werden soll, wird von Fall zu
+Fall über die Zulässigkeit der projectirten Anlage und das Detail
+ihrer Ausführung entschieden werden.
+Die im Strassenkürper versenkten Leitungen sind im all­
+gemeinen mindestens 0*3 m unter das Strassenniveau zu verlegen.
+3. Die oberirdischen Fernleitungen, Speiseleitungen und
+Contactleitungen sind in derartiger Entfernung von bestehenden
+Gebäuden, sonstigen bestehenden Objecten, Bäumen oder der­
+gleichen anzulegen und mit einer derart entsprechenden Isolation
+auszurüsten, dass die neue Anlage nicht durch Unberufene er­
+reicht werden kann und durch dieselbe weder die Anrainer
+irgendwie belästigt, noch bereits bestehende elektrotechnische
+Anlagen in ihrem Betriebe gestört werden. Insbesondere sind
+auch alle an Gebäuden angebrachten Mauerhaken oder sonstigen
+Belestigungsmittel mit doppelter Isolation und mit Schalldämpfern
+zu versehen.
+Zwischen den Starkstromleitungen und bestehenden parallel
+laufenden Telegraphen- oder Telephonleitungen ist ein zur Ver­
+meidung von Induetionen genügender Abstand einzuhalten.
+Kreuzungen elektrischer Leitungen sind thunlichst recht­
+winkelig durchzuführen und genügt im allgemeinen ein Ioth-
+rechter Abstand von 1 m zwischen denselben.
+Ueberhaupt sind bestehende Telegraphen-, Telephon- und
+andere elektrische Leitungen nach den Anordnungen der com-
+petonten Behörden gegen die Einwirkung der neu projectirten
+Stromleitungen vollständig zu schützen, erforderlichen Falles
+entsprechend zu verlegen oder durch Rüekleitungen zu ergänzen.
+Gegen die gefahrbringenden Folgen des Abreissens der
+einen oder anderen Gattung Leitungen ist mittelst Anbringung
+
+Seite f)6.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 8,
+entsprechender Sicherheitsnetze oder auf andere Weise vor­
+zusorgen.
+4. Werden stellenweise für Fernleitungen oder Speise-
+leitungen in die Erde gelegte Kabel benützt, so müssen die­
+selben gut isolirt und mit Blei und Eisen armirt sein; auch muss
+zwischen derartigen Kabeln und den Grundmauern der Gebäude
+oder sonstigen Objecten ein Abstand von mindestens 1 m ver­
+bleiben, damit bei Vornahme von Reparaturen an den Gebäuden
+oder Kabeln keine Beschädigungen derselben Vorkommen.
+Alle abnormalen Anlagen (bei Canälen, Brücken etc.) unter­
+liegen einer besonderen Genehmigung.
+5. Bei Anwendung einer vom Erdboden nicht isolirten
+Rückleitung (Eisenbahnschienen, eiserne Träger, eiserne Rohre,
+Drahtseile etc.) .muss für die Continuität dieser metallischen
+Rückleitung durch entsprechende elektrische Ueberbriickung
+aller Unteibrechungen, als Schienenstösse u. s. w., gesorgl
+werden. In dieser Rückleitung ist der Querschnittswiderstand
+nicht grösser, der Gesammtwidorstand aber bedeutend geringer
+als in der Hinleitung zu bemessen, damit keine Ausströmungen
+durch die Erde statttinden, welche anderweitige Interessenten
+schädigen oder belästigen könnten.
+Weiters ist auch für die vollkommene Continuität der
+Rückleitung durch die Räder und Schienen mittelst entsprechen­
+der Reinhaltung der letzteren vorzusorgen.
+6. Die Querschnitte der Leitungen in der Kraftstation und
+innerhalb der einzelnen elektrischen Sectionen sind mit Rück­
+sichtnahme auf den stärksten Verkehr, bezw. die intensivste
+Beleuchtung der Bahn derart zu bemessen, dass weder in den
+Leitungen, noch in den eingeschalteten künstlichen Widerständen
+übermässige_ Temperaturerhöhungen hervorgerufen werden.
+Die in den Kupferleitungen von verschiedenen Quer­
+schnittflächen in Quadratmillimetern zulässigen Betriebsstrom­
+stärken in Amperes unterliegen nachstehenden Begrenzungen:
+Querschnitt in
+Quadrat­
+millimetern
+1-0
+T5
+2-5
+5-0
+10
+15
+Betriebsstrom­
+stärke in
+Amperes
+5
+6
+10
+18
+30
+40
+Querschnitt in
+Quadrat­
+millimetern
+25
+50
+100
+200
+300
+500
+Betriebsstrom­
+stärke in
+Amperes
+60
+100
+170
+290
+400
+600
+Für Zwischenwerthe ist geradlinig zu interpoliren.
+Bei Widerständen, welche zum Glühen kommen können,
+bei funkengebenden Schaltvorrichtungen u. s. w. ist der Feuers­
+gefahr vorzubeugen.
+Im allgemeinen ist gegen übermässige Stromstärken, bezw.
+1 emporaturerhöhungen mittelst Anbringung von automatischen
+Ausschaltvorrichtungen, bezw. Abschmelzsicherungen vorzusorgen.
+Bei denselben muss die Ausschalt-, bezw. Abschmelzstrom­
+stärke in leicht lesbarer Weise stets aufgeschrieben, bezw. ein­
+gestempelt sein; das letztere sowohl in den auswechselbaren, als
+auch in den nicht auswechselbaren Anschlusstheilen. Die Aus­
+schalt-, bezw. Abschmelzstromstärke darf das Zweifache der Be­
+triebsstromstärke nicht übersteigen.
+i. In allen Betriebsleitungen, -welche in den dem Publicum
+und dem nicht elektrotechnisch gebildeten Bahnbetriebspersonale
+z, u J än£ lichei j Oertlichkeiten angelegt werden, darf dio Spannungs-
+dmorenz zwischen den Hin- und Rückleitungen die Grenze von
+5U0 1 bei Gleichströmen, bezw. von 250 V bei Wechselströmen
+nicht übersteigen.
+In allen solchen Oertlichkeiten dürfen blanke Leitungen
+nur derart angebracht sein, dass sie durch Unberufene nicht
+erreicht werden können.
+Innerhalb der gedeckten Räume der Gebäude jeder Art
+und solcher Oertlichkeiten, wo sich leicht entzündbare Gase ent­
+wickeln, dürfen keine blanken Leitungen angebracht werden.
+Für Fernleitungen, sowie für alle Stromerzeugungsmaschinen,
+Schaltapparate, 'I ransformatoren, Messvorrichtungen u. s. w., sind
+höhere Spannungen zulässig, doch muss für eine entsprechende
+Isolation, sowie durch Anbringung wirksamer Schutzvorrichtungen
+dafür gesorgt worden, dass sowohl die Sicherheit des Personales,
+als auch Unberufener nicht gefährdet worden kann.
+Solche Leitungen sind mit Rückleitungen zu versehen und
+derart anzulegen, dass Indnctionswirkungen thunlichst vermieden
+werden.
+8. Die ganze Anlage, sowie die Motorwagen, bezw. die
+elektrischen Locomotiven sind mit entsprechenden Blitzschutz­
+vorrichtungen zu versehen.
+9. Die elektrische und motorische Einrichtung der Fahr­
+betriebsmittel ist thunlichst ausserhalb des Wagenkastens, jeden­
+falls aber derart anzubringen, dass die Fahrgäste mit stromfüh­
+renden Theilen nicht in Berührung kommen können.
+Die für die Leitung der Bewegungen des Wagens zu con-
+struirenden Schaltkurbeln, ferner die Nothausschalter, sowie alle
+anderen oberhalb des Fussbodenplanums befindlichen Apparate
+und Leitungen, welche zu Motorzwecken dienen, sollen derart
+eingerichtet sein, dass sowohl Fehlgriffe durch das Bedienungs­
+personal, als auch eine Bethätigung durch Unberufene soviel
+als thunlich ausgeschlossen bleiben.
+Insbesondere sollen die zu handhabenden Kurbeln, Hebel,
+Griffe u. s. w. nur dann aufgesteckt oder abgenommen werden
+können, wenn die Einrichtung stromlos gestellt ist.
+10. Die elektromotorisch ausgerüsteten Fahrbetriebsmittel
+müssen ausser mit den übrigen vorgeschriebenen Bremsvorrich­
+tungen auch auf rein elektrischem Wege mittelst eines einzigen
+Griffes rasch und sicher gebremst werden können.
+Die elektrische Bremsvorrichtung ist mit hinreichend
+vielen, entsprechend abgestuften Schaltstellen auszurüsten, damit
+dieselben sowohl als Haltebremse, wie auch insbesondere als
+Gebrauchsbremse benützt werden kann. Dieselbe muss das ganze
+Gewicht des Motorwagens als Adhäsionsgewicht ausnützen.
+Werden auch Anhängewagen verwendet, so sind dieselben
+in die elektrische Bremsung mit einzubeziehen.
+11. Die Endpunkte der Bahn sind unter einander und mit
+der Kraftstation in telephonische Verbindung zu bringen.
+Fahrbetriebsmittel. An Fahrbetriebsmitteln sind
+mindestens anzuschaffen:
+9^ zweiachsige Motorwagen mit 2 Motoren von mindestens
+je 20 PS Leistungsfähigkeit und einem Fassungsraume für min­
+destens 30 Personen;
+9 zweiachsige Anhängewagen mit einem Fassungsraume
+für mindestens 30 Personen;
+2 zweiachsige gedeckte Güterwagen;
+1 Montage wagen;
+1 Schneepflug für Pferdebetrieb;
+1 Salzstreuwagen.
+Alle Fahrbetriebsmittel haben derart kräftige Handbremsen
+zu erhalten, dass diese letzteren allein bei einer Geschwindigkeit
+von 12 km per Stunde den Stillstand der Fahrbetriobsmittel auf
+10 m Länge bewirken können.
+Ferner muss es möglich sein, mittelst nur zweier Griffe
+die Wirkungen der elektrischen Bremse und der Handbremse
+zu vereinigen, um auf diese Weise den Wagen fast augenblicklich
+bis zum Gleiten bremsen zu können. Damit dies auch bei un­
+günstigem Schienenzustande ermöglicht wird, ist eine gut func-
+tionirende Sandstreuung einzurichten und ist für entsprechende
+Sanddepots längs der Strecke vorzusorgen.
+( Die Pläne für sämmtlicho Fahrbetriebsmittel unterliegen
+der Genehmigung des k. k. Eisenbahnministeriums und sind für
+diese Vorlagen die diesbezüglich im k. k. Eisenbahnministerium
+oinzuhol enden Vorschriften zu beachten.
+Abgesondert von der Vorlage der vorbezeichneten Pläne
+sind überdies, und zwar gleichzeitig mit den Projectsplänen der
+offenen Unterbauobjecte und den Oberbau der Bahn, schematische
+Skizzen der Fahrbetriebsmittel vorzulegen, welche die erforder­
+lichen Angaben über die grösste Breite, Höhe und Länge, sowie
+über die Achsdrücke und Achsentfernungen der Fahrbotriebs-
+mittel enthalten. (Vergl. auch „Z. f. E.“ S. 132, 156 und 209
+ex 1899.)
+• Gablonz. (Elektrische St rassenb.ah n.) Am 6. d. M.
+fand nach anstandslosem Ergebnis der polizeitechnischen Prüfung
+die Eröffnung der Theilstrecke „Reichena u—G a b 1 o n z“
+der Gablonzer elektrischen Strassenb ahnen
+statt. Diese Anlage wurde von der Union Elektricitäts-
+Gesellschaft auf Rechnung der Gablonzer Strassenbahn-
+Gesellschaft ausgeführt.
+Laibacll. (Elektrische Tramway.) Das Eisenbahn­
+ministerium hat der Actiongesellschaft Siemens& Ilalske
+m Wien die Bewilligung zur Vornahme technischer Vorarbeiten
+für ein Netz von elektrisch zu betreibender Kleinbahnen in
+Laibach und U mgebung im Sinne der bestehenden Normen
+auf dio Dauer eines Jahres ertheilt. (Vergl. auch Z f E“
+S. 362 ex 1899.)'”
+
+Nr. 8.
+Seite 97.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Mühliiu bei Innsbruck. Im Laufe des vorigen Monates
+wurde die im Besitze des Kunstmüllers Rauch befindliche
+Centrale für den Ort Mühlau in Betrieb gesetzt. Hie Anlage ist
+nach dom Dreiloitersystem für eine Spannung von 2 X 150 V
+ausgeführt. Die Spannungstheilung erfolgt durch eine Accumula-
+torenbatterie, System P-ollak, deren Aufladung mit Zuhilfe­
+nahme einer Zusatzmaschine stattfindet. Ausser der Abgabe von
+Licht und Kraft an Private, dient die Anlage zum Betriebe der
+elektrisch betriebenen l- 2 km langen Schmalspurbahn, welcher
+die Frachtonbeförderung vom Anschlussgeleise der Südbahn bis
+in die Mühle obliegt. Die Ausführung der gesammten Anlage er­
+folgte durch die Firma Erwin B u b e c k in Innsbruck.
+Nixdorf. (LocalbahnprojectNixdor f—S e b n i t z.)
+Nach dem zwischen Oesterreich und Sachsen in Betreff einer
+Anzahl von Eisenbahnanschlüssen vereinbarten Staatsvertrage ist
+die auf österreichischem Gebiete gelegene Theilstrecke der
+Localbahn Nixdorf- Sebnitz an die böhmische Nordbahn zu con-
+cessioniren, wenn die Concession für die auf sächsischem Gebiete
+gelegene kurze Strecke sichergestellt sein wird. Wie das „Oesterr.-
+ungar. Eisenbahnblatt“ meldet, ist die sächsische Regierung nun­
+mehr über die Concessionsbedingnisse schlüssig geworden und
+sind dieselben der böhmischen Nordbahn zur Kenntnis gebracht
+worden. Falls, wie kaum zu bezweifeln ist, die Gesellschaft die
+Befugnis als annehmbar erachtet, werden die Verhandlungen
+wegen Concessionirung der österreichischen Strecke eingeleitet
+werden. Die Kosten der Localbahn Nixdorf—Sebnitz dürften sich
+auf 1,500.000 K belaufen.
+Rumburg. (Elektrische Kleinbahn v o n Ru m-
+barg nach Warnsdorf. Ergebnis der Tracen-
+revisio n.) Auf Grund des Ergebnisses der am 23. und 24.
+Juni 1899 durchgeführten Tracenrevision der projectirten, mit
+PO m Spurweite auszuführenden elektrischen Kleinbahn von
+Rumburg nach Warnsdor f hat das k. k. Eisenbahnmini­
+sterium die Tracenführung der Kleinbahn im allgemeinen ge
+nehmigt. (Vergl. auch „Z. f. E.“ S. 157 ex 1899.)
+Schwertberg. (Elektrische Kleinbahn von
+Schwertberg nach Josefsthal. Ergebnis der
+T r a'c e n r e v i s i o n.) Auf Grund des Ergebnisses der am
+24. August 1899 durchgeführten Tracenrevision der von Dr. Rudolf
+Mayr eder, behördl. aut. Bau-Ingenieur in Wien, projectirten
+normalspurigen, lediglich für den Frachtenverkehr bestimmten,
+elektrisch zu betreibenden Kleinbahn mit theilweiser Strassen-
+benützung von der Station Schwertberg der Localbalin
+Mauthausen—Grein nach Josefsthal hat das k. k. Eisenbalm­
+ministerium die Tracenführung der gedachten Kleinbahn im
+allgemeinen genehmigt. (Vergl. auch „Z. f. E.“ S. 450 ex 1899.)
+Triest. (Elektrisch betriebene Zahnradbahn
+Triest —Opcina.) Zur Ergänzung unserer früheren Mitthoi-
+lungen auf S. 245 und 401 ex 1899 und S. 26 ex 1900 wird uns
+berichtet: Das von der Oesterreichischen Union Elok-
+tricitäts-G esellschaft gemeinsam mit der Bahnbau-Unter­
+nehmung Stern& Ilafferl ausgearbeitete Detailproject wurde
+nunmehr dem k. k Eisenbahnministerium mit dem Ansuchen um
+Vornahme der politischen Begehungs-Commission eingereicht. Da
+die Finanzirung des Unternehmens durch ein Triester Consortiuin
+und die Oesterrei chische Union E.-G. gesichert ist, dürfte
+mit dem Baue dieser „ersten elektrisch betriebenen Zahnradbahn
+in Oesterreich“ schon im Laufe dieses Frühjahres begonnen
+werden.
+Die Bahn wird insgesammt 5’1 km lang und beträgt die
+grösste Steigung in der Zahnradstrecke 250%o- Anwendung findet
+das A b t’sche Zahnstangen System. Es dürfte dem bisherigen
+Stande der Verhandlungen nach gelingen, den Strombezug vom
+Elektricitätswerke der" Stadt Triest zu sichern und ist beab­
+sichtigt, den hochgespannten Drehstrom durch rotirende Con­
+verter in Gleichstrom umzuformen und die Bahn mit Gleichstrom
+zu betreiben. (Wir haben eine interessante und ausführliche
+Studie über eine Localbalm Triest Scorcola—Opcina im Jahr­
+gange 1897, S. 526, veröffentlicht. D. R.)
+Wels, Oberösterreich. (El e k t r i c i t ä t s w e r k.) Am
+10. Jänner d. J. fand die Commissionirung dos von der Oes t er­
+reich ischen Union Elektricitäts-Gesellschaft der
+k. k. Bezirkshauptmannschaft in Wels in Vorlage gebrachten
+Projoctes für die Errichtung eines Elektricitätswerkes an der
+Traun §tatt.
+Der Banconsens für die Wehr- und Turbinon-Anlage wurde
+bereits im Herbste vorigen Jahres ertheilt und dürften die eigent­
+lichen Wasserbau-Arbeiten schon in nächster Zeit fertiggestellt
+sein. Die Anlage ist für die Aufstellung von vier Doppel-
+Zwillingsturbinen, jede für eine Leistung von 375 PS bestimmt,
+ausgeführt und kommen in diesem Sommer bereits zwei Genera­
+toren ä 375 PS in Betrieb.
+Die Anlage wird als Drehstromanlage (3000 F) ausgeführt
+und ist anzunehmen, dass für die gesammte verfügbare Kraft
+schon im Verlaufe dieses Jahres Abnehmer gefunden sind.
+Die Oeste r reich ischeUnion Elektricitäts-Gesell­
+schaft hat mit der Stadtgeineindo Wels einen Vertrag wegen Ein­
+führung der öffentlichen und privaten Beleuchtung geschlossen mit
+einer Concessionsdauer von 60 Jahren.
+Wien. (W iener elektrische Strassenbahneu.
+Theilstrecke Hintere Zollamtsstrasse-Inva­
+lidenstrasse bis Landstrasse Hauptstrasse:
+Ergebnis der Tracenrevision und politischen
+Begehung.) Das von der k. k. Statthalterei in Wien mit-
+getheiltc Ergebnis der am 24. November 1899 durchgeführten
+Tracenrevision und Stationscommission in Verbindung mit der
+politischen Begehung rücksichtlich des vom Magistrate der
+k. k. Reichshaupt- und Residenzstadt Wien vorgelegten Projectes
+für die Theilstrecke „Hintere Zollamtstrasse—Invalidenstrasse
+bis Landstrasse Hauptstrasse“ der Wiener elektrischen Strassen-
+bahnen, sowie der auf Grund des anstandslosen Ergebnisses der
+gedachten Amtshandlung ex eommissione ertheilte Bauconsens
+wurde zur Kenntnis genommen.
+Patentnachrichten.
+Mitgetheilt von Ingenieur
+Victor Monath,
+WIEN, I. J a s o m i r g o tts t ra s s e Nr. 4.
+Auszüge aus Patentschriften.
+Elektricitäts-Actien-GeseUschaft vorm. W. Lahmeyer& Co. i n
+Frankfurt a. M.— Wickelungsweise für Gleiclistromauker.—
+Classe 21, Nr. 105.944 vom 28. Februar 1899.
+Die Wickelung von Gleichstromankern, deren Spulenzahl
+das Doppelte der Nutenzahl ist, wird derart ungeordnet, dass, im
+Winkel gemessen, die Abstände sämmtlicher Spuleninitten gleich
+den Abständen der Collector-Lamellen sind.
+Accumulatoren-Fabrik, Actien-Gesellscliaft in Berlin.— Ver­
+fahren zur Herstellung von Elektrodenplatten mit nach aussen
+abgeschlossenen Gittern.— Classe 31, Nr. 105.012 vom
+16. August 1898.
+Zur besseren Befestigung der Dock-Gitterplatten auf der
+Oberfläche von Elektroden wird vor dem Giessen der ersteren ein
+mit geeigneten Löchern versehenes dünnes Bleibloch c in dio
+Giessform a b für das Gitter so eingelegt, dass es an oinor Wand
+der Form, welche höchstens mit kleinen Vertiefungen d zur Bil­
+dung der Nietköpfe versehen, sonst aber ohne Aussparungen ist,
+eng anliegt, worauf Metall in diese Form gegossen wird. Das­
+selbe erzeugt dann beim Durchlaufen durch die Oeffnungcn e dos
+aufgelegten Bleibleches c Niete, welche das Blech auf dorn Gitter
+festhalten.
+Frank Holden in London und Alexander S. Garileld in Paris.
+— Oscillirender Wattzähler.— Classe 21, Nr. 105.846 vom
+5. November 1898.
+Der Stromkreis der Nobenschlussspule, welche innerhalb
+einer vom Hauptstrom durchflossenen Spule eine begrenzte
+Schwingung ausführen kann und in bekannter Weise von nach­
+stellbaren, den Strom zuführenden Torsionsfedern in ihre eino
+Endlage gezogen wird, wird durch ein Uhrwerk in gewissen Zeit­
+räumen für einige Secunden geschlossen. Hierbei führt dann die
+Spule ihre Bewegung mit einer den das Instrument momentan
+durchfliessenden Watts proportionalen Geschwindigkeit aus. Diese
+Bewegung wird dann unter Vermittelung eines einseitig sperrenden
+Schaltwerkes auf eine, unter Bremswirkung stehende Scheibe
+übertragen, welche ihrerseits das Zählwerk entsprechend woiter-
+dreht.
+Jean Jacques Heilmann in Paris.— Schaltvorrielitung mit
+mehreren parallel geschalteten Unterbrechungsstellen unter
+Verwendung von Selbstinduction in den Stromzweigen.—
+Classe 21, Nr. 105.602 vom 4. Mai 1898.
+Die Erfindung betrifft eino Abänderung an Schaltvorrich­
+tungen für elektrische Locoinotiven und Motorwagen mit mehreren
+parallel geschalteten Unterbrechungsstellen unter Verwendung von
+Selbstinduction in den Stromzweigon, wie sie durch die aineri-
+
+Seite 98.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 8.
+kanische Patentschrift 490.178 bekannt geworden-sind. Es sind
+liier die in die Stromzweige eingeschalteten Schaltwiderstände
+derart angeordnet, dass sie genügende Selbstinduction besitzen,
+um ein funkenloses Ausschalten zu erzielen.
+Siemens& Halske, Actien-Gesellschaft in Berlin.— Zwei-
+sclimir-Vielfaclischaltanordnung.— Classe 21, Nr. 105.972 vom
+21. Mai 1897.
+Bei der Vielfachschaltanordnung wird der Anrufstrom über
+zwei sich in der Ruhelage berührende Federn der Theilnehmer-
+klinke geführt, während beim Einführen des Stöpsels in die
+Klinke die Federn getrennt und der Sprechstrom über dieselben
+geführt wird. Um während der Dauer einer Verbindung die, das
+Fallen einer Theilnehmerklappe bewirkende Wickelung der Klappe
+kurz zu schliessen und dadurch, die Leitung von dem Wider­
+stande der Klappenwickelung zu befreien, ist an der Theil­
+nehmerklappe eine Kurzschlussvorrichtung oder ein besonderes
+Relais angebracht, die durch das feinführen des Stöpsels selbst-
+tbätig in Wirksamkeit tritt.
+Alberto Tribeliiorn in Bnenos-Ayres.— Verfahren zur Her­
+stellung von trogförmigen, gerippten Sammlerelektroden.—
+Classe 21, Nr. 105.568 vom 1. Jänner 1899.
+Die trogförmigen, gerippten Elektroden werden als ge­
+rippte ebene Platten gegossen, welche darauf durch Durch"
+drücken die gewünschte Trogform erhalten.
+Siemens& Halske, Actien-GeseUscliaft in Berlin.— Einrich­
+tung zur Kühlung von Dynamomaschinen.— Classe 21,
+Nr. 105.544 vom 5. Juni 1898.
+Durch besonders angeordnete Umschliessungon werden um
+die abzukühlenden Flächen enge Canäle gebildet, die sämmtlich
+parallel geschaltet in einen gemeinschaftlichen Sammelraum
+münden, zu dem Zwecke, mit möglichst geringem Aufwande von
+Kühlluft und Betriebsarbeit kräftige Kühlung zu erzielen und
+eine beliebige Vertheilung der Wirkung auf die einzelnen ab-
+kühlendeh Flächen zu ermöglichen.
+„Helios“ Elektricitäts-Actien-Gesellscliaft in Köln-Elircnfeld.
+— Anordnung zur Magneterreguug von Serien-Motoron und
+-Maschinen.— Classe 21, Nr. 105.463 vom 8. November 1898.
+Die vorliegende Erfindung schliesst sich an die den Gegen­
+stand des Patentes 105.545 bildende Erfindung an. Während jenes
+Patent sich auf die Erregung von Gleichspannungsmaschinen be­
+zieht, hat dieses die Erregung von Serien-Motoren und -Maschinen
+zum Gegenstände. Der Unterschied besteht darin, dass an Stelle
+der im Nebenschluss liegenden Haupterregerwickelung eine um-
+scbaltbarc Hauptstromwickelung tritt.
+Gustave Philippart in Paris.— Neuerung in der Anordnung
+von Secundär-Batterien.— Classe 21, Nr. 105.389 vom
+16. Jänner 1898.
+Die die wirksame Masse der Elektrode zusammenhaltende
+Hülle besteht aus über einander liegenden scheibenförmigen
+Ringen aus isolirendem oder leitendem Material, wodurch die
+Ausbesserung schadhafter Theile der Hülle durch Auswechselung
+der betreffenden Ringe leicht bewirkt werden kann.
+Marcy Lolland YYhiflield in Chicago und Charles Clifton Cowan
+in Memphis, Tenessee, V. S. A.— Elektrische Maschine.—
+Classe 21, Nr. 105.338 vom 21. September 1898.
+Die Feldmagnete elektrischer Maschinen werden in ihrem
+Innern mit cylindrischen Hohlräumen zur Aufnahme von Arbeits­
+kolben versehen. Die Maschine findet Verwendung als Dampf-
+Dynamomaschine, als elektrisch betriebene Pumpe u. dergl.
+Siemens& Halske, Actien-Gesellschaft in Berlin.— Vorrich­
+tung zum selbsttliätigen Fernmelden eines elektrischen Mess­
+gerät lies.- Classe 21, Nr. 105.312 vom 3. Decembcr 1898.
+P 01 Z°4t cr spielt bei der bestimmten, zu meldenden Stellung
+über einem federnden Contact. Dieser Contact kann aber erst
+dann geschlossen werden und einen secundären Meldestrom ein­
+schalten, wenn der Zeiger in dieser Stellung herabgedrückt wird.
+Letzteres kann selbstthätig durch einen mit Hilfe eines Uhr­
+werkes periodisch erregten Elektromagneten erfolgen.
+Sidney Howe Short in Clevoland, Ohio, V. S. A.— Verfahren
+zur Herstellung von Feldmagnetspulen.— Classe 21,
+Nr. 105.311 vom 10. August 1897.
+Die in flachen rechteckigen Windungen hergestellten
+Spulen werden an ihren Ecken mit Paraffin getränkt, damit bei
+der in bekannter Weise erfolgenden Pressung durch gewölbte
+Stempel die einzelnen Windungen gleiclunässig übereinander
+gleiten.
+Siemens& Halske, Actien-Gesellschaft in Berlin.— Dreh­
+barer Regelungstransformator für Mehrphasenstromanlagen.
+— Classe 21, Nr. 105.271 vom 2. April 1898.
+Die Spannung eines Mehrphasen- oder Drehstrom-Systems
+wird verändert und geregelt durch Verstellung eines aus einem
+feststehenden und einem drehbaren Theile bestehenden regel­
+baren Zusatztransformators. Beide Theile sind nach Art der asyn­
+chronen Mehrphasen- oder Drehstrom-Motoren bewickelt. Je eine
+Spule oder Spulengruppe des inducirten Thoiles ist in je eine
+der Leitungen des Mehrphasensystems eingeschaltet, während die
+inducirende Wickelung als Abzweigung an die Leitungen des
+Mehrphasen-Systems vor oder hinter den inducirten Spulen dos
+Zusatztransformators angoschlossen ist.
+Geschäftliche und finanzielle Nachrichten.
+Strassenbahn Hannover, Aetiengesellschaft. Ungeachtot
+der schwierigen Verhältnisse, mit denen die Strassenbahn Han­
+nover infolge der noch nicht abgeschlossenen Bauperiode in
+dem abgelaufenen Geschäftsjahre zu kämpfen hatte, ist die
+Verwaltung- in der Lage, auch auf das inzwischen wesentlich
+vergrösserte Actiencapital der Generalversammlung die Ver­
+theilung einer der vorjährigen gleichkommenden Dividende in
+der Höhe von 4'/2% in Vorschlag zu bringen. Die gesammten
+Betriebskosten haben gegen das Vorjahr eine Verminderung von
+ö-JO/o erfahren. Bezüglich der finanziellen Lage der Gesellschaft
+bemerkt der Bericht Folgendes: Infolge der in der General­
+versammlung vom 25. November 1898 beschlossenen Erhöhung
+des Actien-Capitals um 6,000.000 Mk. und Ausgabe von Partial­
+obligationen in der Höhe von 4 Millionen ist der Gegenwerth
+von 6 Millionen Actien und zunächst 3 Millionen Partial-Obli-
+gationen der Casse der Gesellschaft zugeflossen. Dem von der
+Generalversammlung beschlossenen Verwendungszwecke ent­
+sprechend, wurden durch die beschafften Mittel nachstehende
+Strassenbahnlinion fertiggestellt: Hannover-llildesheim, Hannover-
+Barsinghausen, Linden-Ricklingen, Hannover-Döhren, daneben in
+Angriff genommen und zum Theil durchgeführt die nothwendigen
+Ergänzungen des bestehenden Strassenbahnnetzes, die zweck­
+mässige Erweiterung der Licht- und Kraftanlagen, sowie die in
+der Stadt Hannover erforderlichen Neubauten an Geleisen etc.
+Es bleiben dann noch folgende Linien zu bauen: Vahrenwald-
+Langenhagen, Buchholz-Misburg-Anderten, Buchholz-Burgwedel,
+Verbindung des noch fehlenden kleineren Theiles zwischen
+Döhren und Ricklingen, womit alsdann das bisherige Bau­
+programm zum Abschluss gelangen wird. Die zum Bau erforder­
+liche ministerielle Genehmigung ist übrigens erst in den letzten
+Monaten dos Jahres 1899 eingegangen. Die Kosten für die Fertig­
+stellung dieser für die weitere Entwickelung der Strassonbahn
+zum Theil sehr werthvollen Linien, sowie die damit im Zusammen­
+hang stehende nothwendige Vermehrung des Wagenparks und
+die Ausdehnung der Licht- und Kraftanlagen werden den ur­
+sprünglichen Voranschlag angesichts der inzwischen eingetretenen
+Vertheuerung der Materialien, der Steigerung der Löhno und
+der bedeutenden Mehrausgaben, welche durch die städtischerseits
+vorgenommene Umpflasterung, bezw. Asphaltirung von Strassen
+entstanden sind, überschreiten. Die erforderlichen Mittel sollen
+jo nach Bedarf durch Ausgabe von Partial-Obligationen, bezw.
+durch vorübergehende Inanspruchnahme von Bankcrediten auf­
+gebracht werden. Eine weitere Erhöhung des Actiencapitals wird
+nicht beabsichtigt. Die Einnahmen aus Licht- und Kraftabgabe
+betrugen im Jahre 1898 23.586 Mk., im Jahre 1899 63.959 Mk.
+Die Mehreinnahme aus dem Personenverkehr betrug 441.733 Mk.
+und die Gosammteinnahmo aus demselben 2,605.815 Mk., wobei
+116 Motorwagen und 18 Anhängewagen durchschnittlich pro Tag
+im Betriebe waren, gegen 1(J5 Motorwagen und 11 Anhänge wagen
+im Jahre 1898. Die Unterhaltungs- und Erneuerungskosten an­
+langend, so betrugen dieselben bei den beiden wesentlichsten
+Posten, nämlich Betriebsdienst und Zugkoston bei elektrischem
+Betrieb 351.191 Mk., bezw. 916.086 Mk.; mithin 218.925 Mk.
+mehr als im Vorjahre. Die Unterhaltungs- und Er­
+neue rungskostender Tr actio ns-Accumu lato ren,
+welclie nach wie vor der Betrieb trägt, belaufen sich im ganzen
+
+Nr. 8,
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Seite 99.
+auf 51.112 Mk., das ist per Wagen und per Monat 25-81 Mk.
+gegen 43'88 Mk. im Vorjahre, per Kilometer gemischten Systems
+0'62 Pfg. gegen L06 Pfg. im Vorjahre, per Kilometer auto­
+mobilen" Systems 1-63 Pfg. gegen 2-33 Pfg. im Vorjahre. Die
+Kosten haben sich also im Verhältnis zu den durchlaufenen Kilo­
+metern bedeutend ermässigt, und zwar infolge von Fortschritten
+in der Unterhaltung und Solbstbeschaffung der Ersatztheile. Die
+Gesa mmtbotriebs kosten betragen im Verhältnis zu den
+Betriebseinnahmen 55-5°/'o gegen 60-9'J/o im vorigen Jahre. Der
+nach Abzug der Ausgaben, Abschreibungen und Zuwendungen
+an den Erneuerungs-, Amortisations- und Betriebsreservefonds,
+sowie Verwendung des Vortrages von 91.902 Mk. aus dem
+Jahre 1898 als ausserordentliche Einlage in den Erneuerungs­
+fonds verbleibende Reingewinn ermöglicht, wie schon
+Anfangs gesagt, die Vertheilung einer Dividende von 4V2% io
+Vorschlag zu bringen.
+Leipziger Aussenbalin-Actiengesellscliaft. Am 6. d. M.
+hat in Leipzig die Gründung dieser Gesellschaft mit einem
+Capital von 1 Million Mark stattgefunden. Gründer sind Becker
+und Co m p., Commanditgesellschaft-, die Gesellschaft
+für elektrische Unternehmungen in Berlin,
+die Union Elektricitätsgesellschaft in Berlin,
+Banquier Friedrich Jay und Rechtsanwalt W eniger-
+Leipzig. Die Aussenbahn bezweckt, in Anlehnung an bereits
+vorhandene Bahnstrecken die entfernter liegenden Orte der Um­
+gebung mit Leipzig zu verbinden und soll der Beförderung von
+Personen und Gütern dienen.
+Metallbci'icht. (London, 7. Februar.) Kupfer: G. M.-
+Marken notirten 73 Pfd. 17 sh. 6 d. bis 74 Pfd. 2 sh. 6 d. per
+Cassa und 72 Pfd. 5 sh. bis 72 Pfd. 10 sh. per 3 Monate Ziel;
+best selocted 78 Pfd. 10 sh. bis 79 Pfd. 5 sh.; tough 77 Pfd.
+15 sh. bis 78 Pfd. 5 sh.— Blei: Englisches IG Pfd. 13 sh. 9 d.
+bis 16 Pfd. 16 sh. 3 d.; ausländisches 16 Pfd. 10 sh. bis 16 Pfd.
+12 sh. 6 d.— Zink: ausländisches 22 Pfd. 10 sh. bis 22 Pfd.
+12 sh. 6 d.— Quecksilber notirte 9 Pfd. 12 sh. 6 d. aus
+erster Hand und 9 Pfd. 12 sh. aus zweiter Hand.
+Vereinsnachriekten.
+Chronik (les Vereines.
+17. Jänner. Vereinsversammlung. Der
+Vorsitzende, Vice-Präsident Iiofrath Volkmer, er­
+öffnet die Versammlung und ertheilt, nachdem keinerlei
+geschäftliche Mittheilungen zu machen sind, dem Herrn
+Dr. Max Breslauer das Wort zu dem angekündigten
+Vortrage über; „Herleitung des Hey 1 and’schen
+Diagrammes und seine Anwendung in der
+Praxis.“
+Der Vortragende weist zunächst darauf hin, dass
+der Techniker von allen jenen Begriffen, mit welchen
+er zu operiren hat, verlangt, dass sie gewissermassen
+greifbar, sinnlich wahrnehmbar seien. Er erinnert an
+die Einführung des Begriffes der Kraftlinien in die
+Berechnungen und an die Art und Weise, wie man
+sich dieselben vorzustellen und die Zug- und Druck­
+kraft zu erklären versucht. Er weist ferner auf das
+Bestreben der modernen Naturwissenschaft hin, welches
+dahin geht, das Gespenst der Fernwirkung gänzlich
+zu eliminiren und alle Anschauungen von Magnetismus
+und Elektricftät auf Stoss- und Druckerscheinungen
+der kleinsten Theilchen des hypothetischen Aethers
+zurückzuführen. Auch in der Elektrotechnik hat sich
+ein ähnliches Bedürfnis, eine Art elektrische Secession,
+geltend gemacht, und es war eigentlich erst den letzten
+vier bis fünf Jahren Vorbehalten, eine präcise Methode
+zu schaffen, durch welche der Elektrotechniker in die
+Lage gesetzt ist, über die sachgemässe Dimensionirung
+von Generatoren, über ihre Wirkungsweise etc. ein
+klares Bild zu gewinnen.
+Der Vortragende zeigt hierauf den Unterschied
+zwischen der üblichen Darstellungsweise der Weehsel-
+stromtheorie, welche mit einer Unzahl sc.hwei zu
+handhabender Begriffe, wie Reactanz, Induc­
+tanz, Impedanz u. s. w. zu operiren pflegt
+und dadurch den relativ einfachen Verhältnissen
+ein unnöthiges complicirtes Gepräge verleiht, und
+der modernen Darstellung, welche auf die ein­
+fachsten physikalischen Grundlagen unter möglichster
+Vermeidung überflüssiger mathematischer Abstractionen
+zurückgeht und dadurch zu weit grösserer Einfachheit
+und Durchsichtigkeit in der Darstellung gelangt, als
+dies bei der älteren Methode möglich ist.
+Der Vortragende weist darauf hin, dass that-
+sächlich mit den erwähnten Begriffen der alten Me­
+thode in der Praxis, insbesondere beim Dynamobau,
+nie und nirgends gerechnet wird und illustrirt dies an
+dem Beispiele der Berechnung einer Drosselspule.
+Bezugnehmend auf dieses typische Beispiel stellt
+der Vortragende zwei Grundsätze als Grundlagen für
+die ganze Wechselstromtechnik auf, welche für diese
+von ebenso fundamentaler Bedeutung sind, wie das
+Ohm’sche Gesetz in Bezug auf die Elektrotechnik
+überhaupt. Der erste dieser beiden Grundsätze lautet:
+Zwischen der Klemmenspannung und dem
+von ihr erzeugten Wechselfelde besteht
+Aequivalenz. Darnach muss, um auf das Beispiel
+der Drosselspule zurückzukommen, unmittelbar einge­
+sehen werden, dass die Feldstärke steigen muss, wenn
+die Windungszahl der Drosselspule vermindert wird
+und dass die Windungszahl vergrössert werden muss,
+wenn man ein kleineres Feld erhalten will. Der zweite
+Grundsatz lautet; Die elektromotorische Kraft
+steht immer senkrecht zu der dieselbe er­
+zeugenden Feldstärke und dem zugehörigen
+Magnetisirungsstrome. Der Magnetisirungsstrom
+ist um eine Viertelperiode hinter der Spannung ver­
+schoben. aber in gleicher Phase mit seinem Felde.
+Nachdem der Vortragende nunmehr an mehreren
+Figuren den Nachweis von der principiellen Identität
+des Streuungstransformators mit dem Inductionsmotor
+geführt hat. zeigt er in allgemeinen Umrissen den Weg,
+wie man mit alleiniger Hilfe jener beiden Fundamental­
+sätze zum Diagramme des Mehrphasenmotors
+gelangen kann, welches als wichtigstes Ziel den Zu­
+sammenhang der Phasenverschiebung mit der Belastung
+zu ergründen sucht. Er weist darauf hin, dass der
+II e y 1 a n d’schen Betrachtungsweise eine Vernach­
+lässigung insoferne anhaftet, als Heyland die Ab­
+nahme des Magnetisirungsstromes nicht in Rücksicht
+zieht. Diese Vernachlässigung ist zwar bei modernen
+Motoren mit geringer Streuung zulässig, nicht aber bei
+grösserer Streuung und führt bei genaueren Unter­
+suchungen, wie sie zur Verificirung der Theorie durch
+den Versuch erforderlich sind, zu Unmöglichkeiten.
+Der Vortragende sagt, dass es ihm gelungen sei,
+auch ohne diese Vernachlässigung zu einfachen und
+brauchbaren Formeln zu gelangen, deren Discussion
+ein helles Licht auf die ganzen Vorgänge im Inductions­
+motor zu werfen geeignet sei. Er behält sich die Her­
+leitung derselben für eine besondere Veröffentlichung
+vor und demonstrirt in der Hauptsache nur die ge­
+wonnenen Resultate in Form von Curven.
+Er macht dabei auf das überraschende Resultat
+aufmerksam, dass die kleinste erreichbare'
+Phasenverschiebung bei einem durch seine
+Dimensionen gegebenen Modell einzig und allein vom
+
+Seite 100.
+ZEITSCHRIFT FÜR ELEKTROTECHNIK.
+Nr. 8.
+Streufactor x
+sehr einfachen Formeln:
+abhängig
+sei; er
+1
+W norm.
+1+ T
+gelangt
+und
+den
+1+ T
+COS cp:
+Für den kleinsten Leistungsfactor ergibt sich die Formel:
+den normalen
+2+ 7t
+In diesen Formeln bedeutet
+W norm.
+Wattstrom, i 0 den Leerstrom, i m den Magnetisirungs-
+strom und cp die Phasenverschiebung.
+Nach dieser Darstellungsweise sei es höchst un-
+J e
+ein Inductionsmotor von be-
+einen wesentlich höheren Leistungs­
+wahrscheinlich, dass
+liebiger Grösse
+factor als 09 erreichen werde, während man im
+Gegensätze hiezu Wirkungsgrade bis zu 94, ja 95°/o
+ohne Schwierigkeiten erreichen könne.
+Beim Baue von Motoren muss man der Ver­
+kleinerung des Streufactors das Augenmerk zuwenden;
+bei gegebener Pol- und Tourenzahl wird man also den
+Durchmesser auf Kosten der Breite möglichst ver-
+grössern müssen.
+Auf die Anwendbarkeit der Theorie in der Praxis
+übergehend, zeigt Vortragender an zwei Beispielen eines
+2 PS- und eines 20 PS-Motors der Vereinigten Elek-
+tricitäts-Actien-Gesellschaft Wien, dass thatsächlich der
+Streu factor t bei den
+nähernd constant bleibt.
+verschiedenen Belastungen an­
+reihe:
+Beim 2 PS-Motor ergab sich folgende Versuehs-
+’w
+4- 05
+5- 46
+6- 02
+8T5
+9-35
+10-05
+lo
+3-10
+0104
+0-110
+0-120
+0-111
+0113
+0-080
+Der 20 PS-Motor lieferte folgende Resultate:
+Iw ?o
+21
+33
+45
+56
+67
+78
+vorkommenden
+0 085
+0-078
+0-072
+0-070
+0078
+0-079
+Die vorkommenden Schwankungen verratken
+keine Tendenz nach irgend einer Seite, sondern sind
+höchstwahrscheinlich in das Bereich der Beobacktungs-
+fehler zu verweisen.
+Der Bearbeitung der Versuckswertke ging eine
+Reihe mühevoller Correctionsrechnungen voraus, deren
+Gang sieh der Vortragende für eine weitere Veröffent­
+lichung vorbehielt. Die in den vorgeführten Dia­
+grammen miteingezeichneten Punkte der wirklich
+aufgenommenen Versuchsresultate geben ein Kriterium
+für die erreichte Genauigkeit und Zuverlässigkeit der
+Beobachtungen. Es zeigte sich, dass der 2 PS-Motor
+ein cos <p= 0"84, der 20 PS-Motor ein cos cp= 0-81
+erreicht hatte.
+Zum Schlüsse bespricht der Vortragende die
+Ueberlastungsfähigkeit an verschiedenen Dia­
+grammen.
+Die Ueberlastungsfähigkeit lasse sich ana­
+lytisch durch die Grösse
+1+T
+l U)]
+2 x
+den maximalen und
+definiren; dabei bedeutet
+den normalen Wattstrom. An der Hand weiterer Dia­
+gramme gibt der Vortragende auch noch Kriterien zur
+richtigen Wahl des Leerstromes bei modernen
+Motoren. Bei einem Streufactor v= 0T wird beispiels­
+weise der Leerstrom etwas über ein Drittel, bei t= 0’2
+etwa 56°/o des Gesammtstromes betragen.
+Dem Vortragenden wurde von der zahlreichen
+Versammlung für die interessanten Ausführungen leb­
+hafter Beifall gespendet.
+Ingenieur Drexler, der inzwischen den Vorsitz
+übernahm, schliesst, nachdem sich zu dem Vortrage
+niemand zum Worte meldet, unter dem Ausdrucke
+des Dankes an Herrn Dr. Max Breslauer die
+Sitzung.
+29. Jänner.— Sitzung des Vergniigungs-Comitd.
+Neue Mitglieder.
+Auf Grund statutenmässiger Aufnahme treten dem
+Vereine die nachstehend genannten Herren als ordent­
+liche Mitglieder bei:
+Milde Conrad, Edler v., Beamter der Firma Jordan
+& Treier, Wien;
+Lutter Carl, Beamter der Firma Jordan& Treier,
+Wien;
+Rumler Friedrich, Beamter der Firma Jordan& Treier,
+Wien;
+Kaiser Johann, Platzvertreter der Firma Jordan
+& Treier, Wien;
+H e i 1 b o r n, Dr. Ernst, Ingenieur der Allgemeinen
+Elektricitäts-Gesellschaft Berlin, Charlottenburg;
+Körting, Gebr., Maschinenfabrik, Körtingsdorf bei
+Hannover;
+Futter Emil, Ingenieur, Wien;
+Adler Ernst, Techniker, Wien;
+Till Carl, Ingenieur bei Siemens& Halske, Wien;
+Koppel Maximilian, Elektriker, Budapest;
+Garai J., Techniker, k. u.k. Lieutenant i. d. Res., Wien;
+Steinhauer Julius, Ingenieur der k. k. priv. Kaiser
+Ferdinands-Nordbahn, Wien;
+Postepski Edmund von, Ingenieur der Allgemeinen
+Elektricitäts-Gesellschaft, Lemberg;
+Robert Hanke’s Nachfolger,Porzellanfabrik,Ladowitz,
+Böhmen;
+Steingraber Carl, Ingenieur, Wien;
+Singer, Dr. Oskar, Elektrotechniker, Wien;
+Wei,l Siegfried, Ingenieur und Fachlehrer an der
+communalen elektrotechnischen Lehranstalt, Teplitz;
+Seefeh ln er Egon E., dipl. Ingenieur, Assistent und
+Privatdocent a. d. techn. Hochschule, Dresden.
+Die nächste Vereinsversammlung findet Mittwoch
+den 21. Februar 1. J., im grossen Saale des Ingenieur-
+und Architekten-Vereines, I., Eschenbachgasse 9, 2. Stock,
+7 Uhr abends, statt.
+Vortrag des Ingenieurs Julius S t e r n: „D i e mo­
+derne Schnelltelegraphie.“ (Mit Demonstra­
+tionen.) Die Vereinsleitung.
+Schluss der Redaction: 13. Februar 1900.
+Verantwortlicher Redacteur: Dr. J. Sahulka.— Selbstverlag des Elektrotechnischen Vereines.
+Commissionsverlag bei Spielhag en& Schur ich, Wien.— Alleinige Inseraten-Aufnahmebei Haasenstein& Vogler (Otto Maass), Wien und P r a g,
+Druck von R. Spies& Co., Wien.
+
